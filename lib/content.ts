@@ -1,7 +1,7 @@
 import type { LPart, RPart, Test, TestSummary } from "./types";
 
 const BASE = `${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/content`;
-// audio, video and images are served from Cloudflare R2 in production; locally they sit next to test.json
+// audio, video and images can be served from a CDN; by default they sit next to test.json
 const MEDIA_BASE = (process.env.NEXT_PUBLIC_MEDIA_BASE || BASE).replace(/\/$/, "");
 const cache = new Map<string, Promise<Test>>();
 
