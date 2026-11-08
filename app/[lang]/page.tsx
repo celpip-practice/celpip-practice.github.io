@@ -1,17 +1,10 @@
-import fs from "node:fs";
-import path from "node:path";
 import type { Metadata } from "next";
 import HomeView from "@/components/views/HomeView";
 import { isLang, translate, type Lang } from "@/lib/dict";
 import { absUrl, pageMetadata } from "@/lib/site";
-import type { TestSummary } from "@/lib/types";
+import { loadIndex } from "@/lib/testInfo";
 
 type Params = { params: Promise<{ lang: string }> };
-
-function loadIndex(): TestSummary[] {
-  const file = path.join(process.cwd(), "public", "content", "index.json");
-  return JSON.parse(fs.readFileSync(file, "utf8")).tests;
-}
 
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const { lang } = await params;

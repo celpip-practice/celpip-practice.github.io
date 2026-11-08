@@ -17,10 +17,10 @@ export function grade(questions: Gradable[], answers: Answers) {
  * Approximate raw-score (out of 38) to CELPIP level conversion.
  * CELPIP does not publish an official table; these bands are the commonly cited estimates.
  */
-const LISTENING_BANDS: [number, string][] = [
+export const LISTENING_BANDS: [number, string][] = [
   [35, "10-12"], [33, "9"], [30, "8"], [27, "7"], [22, "6"], [17, "5"], [11, "4"], [7, "3"], [0, "M"],
 ];
-const READING_BANDS: [number, string][] = [
+export const READING_BANDS: [number, string][] = [
   [33, "10-12"], [31, "9"], [28, "8"], [24, "7"], [19, "6"], [15, "5"], [10, "4"], [8, "3"], [0, "M"],
 ];
 

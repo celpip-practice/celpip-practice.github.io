@@ -77,11 +77,12 @@ body.exam-mode .site-header, body.exam-mode .site-footer { display: none; }
 .icon-tile.donate { background: #fde8e6; color: var(--accent); }
 .btn.donate-cta { background: #ff5e5b; border-color: #ff5e5b; color: #fff; }
 .btn.donate-cta:hover { background: #e94e4b; border-color: #e94e4b; }
-.site-footer {
-  border-top: 1px solid var(--line); background: #fff; color: #94a3b8; font-size: 13px;
-  padding: 20px 24px; display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;
-}
-.site-footer span:first-child { color: #64748b; font-weight: 600; }
+.site-footer { border-top: 1px solid var(--line); background: #fff; color: #94a3b8; font-size: 13px; padding: 22px 24px; }
+.footer-links { display: flex; justify-content: center; gap: 6px 20px; flex-wrap: wrap; margin-bottom: 12px; }
+.footer-links a { color: #475569; text-decoration: none; font-size: 14px; }
+.footer-links a:hover { color: var(--brand); }
+.footer-note { display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; }
+.footer-note span:first-child { color: #64748b; font-weight: 600; }
 
 /* ---------- Layout ---------- */
 .page { max-width: 1160px; width: 100%; margin: 0 auto; padding: 32px 24px 64px; }
@@ -172,7 +173,44 @@ body.exam-mode .site-header, body.exam-mode .site-footer { display: none; }
   display: inline-flex; align-items: center; justify-content: center;
 }
 .test-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 0; border-top: 1px solid #f1f5f9; }
-.test-name { font-weight: 600; color: var(--heading); font-size: 15px; }
+.test-name { font-weight: 600; color: var(--heading); font-size: 15px; text-decoration: none; }
+a.test-name:hover { color: var(--brand); text-decoration: underline; }
+
+/* ---------- Guides, scores, FAQ, test pages ---------- */
+.guide { max-width: 920px; }
+.guide > h2 { font-size: 22px; margin: 40px 0 14px; }
+.guide > p { line-height: 1.75; font-size: 16px; max-width: 780px; }
+.crumbs { display: flex; flex-wrap: wrap; gap: 6px; font-size: 13px; color: #94a3b8; margin-bottom: 14px; }
+.crumbs > span + span::before { content: "/"; margin-right: 6px; color: #cbd5e1; }
+.crumbs a { color: var(--muted); text-decoration: none; }
+.crumbs a:hover { color: var(--brand); }
+.facts .stat b { font-size: 18px; }
+.guide-cta { margin: 20px 0 6px; }
+.part-list { list-style: none; margin: 0; padding: 0; }
+.part-list.card { padding: 4px 22px; }
+.part-list li { display: flex; gap: 16px; align-items: flex-start; padding: 16px 0; border-top: 1px solid #f1f5f9; }
+.part-list li:first-child { border-top: none; }
+.part-list h3 { margin: 0 0 6px; font-size: 16px; }
+.part-list p { margin: 6px 0 0; line-height: 1.65; color: var(--body); }
+.part-list .btn { margin-top: 2px; }
+.part-label {
+  flex: none; min-width: 64px; text-align: center; font-size: 12px; font-weight: 700; color: var(--brand);
+  background: var(--brand-soft); border-radius: 8px; padding: 5px 8px; margin-top: 1px;
+}
+.part-list .topic { color: var(--muted); font-size: 14px; }
+.tips { margin: 0; padding-left: 22px; max-width: 780px; }
+.tips li { line-height: 1.75; padding: 4px 0; font-size: 16px; }
+table.matrix.data td, table.matrix.data th { text-align: left; white-space: nowrap; }
+table.matrix.data .wide { white-space: normal; min-width: 220px; }
+.faq { display: grid; gap: 12px; }
+.faq h2 { font-size: 17px; margin: 0 0 8px; }
+.faq p { margin: 0; line-height: 1.75; }
+.test-skills { display: grid; gap: 16px; margin-top: 24px; }
+.test-skills .card-title { gap: 10px; }
+.test-skills .icon-tile { width: 34px; height: 34px; border-radius: 10px; }
+.guide-link { margin-left: auto; font-weight: 500; text-decoration: none; }
+.prev-next { margin-top: 28px; }
+.guide-links { margin-bottom: 8px; }
 .skill-dots { display: flex; gap: 4px; margin-top: 4px; }
 .skill-dots span { color: #cbd5e1; display: inline-flex; }
 .skill-dots span.on { color: #64748b; }
@@ -398,12 +436,19 @@ details summary { cursor: pointer; color: var(--brand); margin: 8px 0; font-weig
 .center { text-align: center; }
 
 @media (max-width: 720px) {
-  .site-header-inner { gap: 12px; padding: 0 14px; }
+  .site-header-inner { height: auto; flex-wrap: wrap; gap: 6px 10px; padding: 8px 14px 6px; }
   .site-header .brand span { display: none; }
-  .site-header nav { overflow-x: auto; }
-  .site-header nav a { padding: 6px 10px; font-size: 14px; }
+  .site-header .donate-btn { margin-left: auto; }
+  .site-header nav { order: 3; flex-basis: 100%; overflow-x: auto; scrollbar-width: none; }
+  .site-header nav a { padding: 6px 10px; font-size: 14px; white-space: nowrap; }
   .hero-inner { padding: 48px 20px 56px; }
   .stats { gap: 28px; }
   .page { padding: 24px 16px 48px; }
   .level-box { text-align: left; }
+  .part-list.card { padding: 2px 16px; }
+  .part-list li { display: grid; grid-template-columns: auto 1fr; gap: 8px 12px; }
+  .part-list li > .btn { grid-column: 2; justify-self: start; }
+  .part-label { min-width: 56px; }
+  .part-meta { flex-wrap: wrap; }
+  .guide-link { margin-left: 0; flex-basis: 100%; }
 }

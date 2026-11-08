@@ -141,10 +141,13 @@ test("each language has its own URL and the switch keeps the page and query", as
 });
 
 test("root and pre-i18n URLs redirect to the remembered language", async ({ page }) => {
+  const remembered = () => page.evaluate(() => localStorage.getItem("celpip-lang"));
   await page.goto("/en/");
+  await expect.poll(remembered).toBe("en");
   await page.goto("/practice/?skill=reading");
   await expect(page).toHaveURL(/\/en\/practice\/\?skill=reading$/);
   await page.goto("/zh/");
+  await expect.poll(remembered).toBe("zh");
   await page.goto("/");
   await expect(page).toHaveURL(/\/zh\/$/);
 });
@@ -156,4 +159,25 @@ test("history keeps finished attempts", async ({ page }) => {
   await expect(page.getByTestId("score")).toBeVisible();
   await page.goto("/zh/history/");
   await expect(page.getByRole("link", { name: "查看" }).first()).toBeVisible();
+});
+
+test("guide, score and test pages are static and link into practice", async ({ page }) => {
+  await page.goto("/zh/listening/");
+  await expect(page.locator("h1")).toHaveText("CELPIP 听力：题型、时间与技巧");
+  await expect(page.locator(".part-list li")).toHaveCount(6);
+  await page.locator(".part-list li").first().getByRole("link").click();
+  await expect(page).toHaveURL(/\/zh\/practice\/run\/\?test=s13-t1&skill=listening&part=1$/);
+
+  await page.goto("/en/scores/");
+  await expect(page.locator("table").first()).toContainText("35–38 / 38");
+
+  await page.goto("/en/faq/");
+  await expect(page.locator(".faq section")).toHaveCount(10);
+
+  await page.goto("/zh/");
+  await page.getByTestId(`test-${firstId}`).locator(".test-name").click();
+  await expect(page).toHaveURL(new RegExp(`/zh/tests/${firstId}/$`));
+  await page.getByTestId("test-start-exam").click();
+  await expect(page).toHaveURL(new RegExp(`/zh/exam/\\?test=${firstId}$`));
+  await expect(page.getByTestId("start-full")).toBeVisible();
 });

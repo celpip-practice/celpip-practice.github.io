@@ -1,7 +1,8 @@
 "use client";
 import Link from "next/link";
 import { Arrow, SkillIcon, Target, Timer } from "@/components/Icons";
-import { skillName, testTitle, useHref, useT } from "@/lib/i18n";
+import GuideLinks from "@/components/GuideLinks";
+import { skillName, testTitle, useHref, useLang, useT } from "@/lib/i18n";
 import { SKILLS, type TestSummary } from "@/lib/types";
 
 const QUESTIONS_PER_SKILL = 38;
@@ -15,6 +16,7 @@ function groupBySet(tests: TestSummary[]) {
 export default function HomeView({ tests }: { tests: TestSummary[] }) {
   const t = useT();
   const href = useHref();
+  const { lang } = useLang();
   const questions = tests.reduce(
     (n, x) => n + (x.skills.includes("listening") ? QUESTIONS_PER_SKILL : 0) + (x.skills.includes("reading") ? QUESTIONS_PER_SKILL : 0), 0);
   return (
@@ -70,7 +72,7 @@ export default function HomeView({ tests }: { tests: TestSummary[] }) {
               {xs.map((x) => (
                 <div className="test-row" key={x.id} data-testid={`test-${x.id}`}>
                   <div>
-                    <div className="test-name">{testTitle(t, x)}</div>
+                    <Link className="test-name" href={href(`/tests/${x.id}/`)}>{testTitle(t, x)}</Link>
                     <div className="skill-dots">
                       {SKILLS.map((s) => (
                         <span key={s} className={x.skills.includes(s) ? "on" : ""} title={skillName(t, s)}>
@@ -88,6 +90,12 @@ export default function HomeView({ tests }: { tests: TestSummary[] }) {
             </div>
           ))}
         </div>
+
+        <div className="section-head">
+          <h2>{t("guide.homeTitle")}</h2>
+          <p className="muted">{t("guide.homeLead")}</p>
+        </div>
+        <GuideLinks lang={lang} />
       </div>
     </main>
   );

@@ -14,9 +14,12 @@ const HREFLANG: Record<Lang, string> = { zh: "zh-CN", en: "en-CA" };
 
 /** Title, description, canonical + hreflang alternates and social cards for one page in one language. */
 export function pageMetadata(lang: Lang, path: string, titleKey: Key, descKey?: Key, opts: { index?: boolean } = {}): Metadata {
+  return pageMeta(lang, path, translate(lang, titleKey), translate(lang, descKey ?? "meta.home.description"), opts);
+}
+
+/** Same as pageMetadata, for pages whose title and description aren't dictionary entries. */
+export function pageMeta(lang: Lang, path: string, title: string, description: string, opts: { index?: boolean } = {}): Metadata {
   const t = (k: Key) => translate(lang, k);
-  const title = t(titleKey);
-  const description = t(descKey ?? "meta.home.description");
   const url = absUrl(`/${lang}${path}`);
   const languages: Record<string, string> = Object.fromEntries(LANGS.map((l) => [HREFLANG[l], absUrl(`/${l}${path}`)]));
   languages["x-default"] = absUrl(`/en${path}`);

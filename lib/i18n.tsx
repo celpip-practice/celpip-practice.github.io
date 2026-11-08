@@ -1,9 +1,9 @@
 "use client";
 /** The site language comes from the URL (/zh/..., /en/...); this context hands it to client components. */
 import { createContext, useCallback, useContext, useEffect, type ReactNode } from "react";
-import { LANG_STORAGE_KEY, translate, type Key, type Lang, type T } from "./dict";
+import { LANG_STORAGE_KEY, localePath, translate, type Key, type Lang, type T } from "./dict";
 
-export { partName, skillName, testTitle } from "./dict";
+export { localePath, partName, skillName, testTitle } from "./dict";
 export type { Lang, T } from "./dict";
 
 const Ctx = createContext<Lang>("zh");
@@ -28,10 +28,6 @@ export function useT(): T {
 export function useHref() {
   const lang = useContext(Ctx);
   return useCallback((path: string) => localePath(lang, path), [lang]);
-}
-
-export function localePath(lang: Lang, path: string) {
-  return `/${lang}${path.startsWith("/") ? path : `/${path}`}`;
 }
 
 /** The current path with its language prefix removed ("/zh/practice/" -> "/practice/"). */
