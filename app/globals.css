@@ -141,7 +141,7 @@ h1, h2, h3, h4 { color: var(--heading); letter-spacing: -.01em; }
 .stats div { display: flex; flex-direction: column; }
 .stats b { color: #fff; font-size: 32px; font-weight: 700; }
 .stats span { font-size: 14px; color: #94a3b8; }
-.modes { margin-top: -36px; position: relative; }
+.modes { margin-top: 8px; }
 .mode-card { display: flex; gap: 16px; align-items: flex-start; text-decoration: none; color: inherit; transition: box-shadow .2s, transform .2s, border-color .2s; }
 .mode-card:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); border-color: #c7d2fe; }
 .mode-card:hover .go { transform: translateX(3px); color: var(--brand); }
