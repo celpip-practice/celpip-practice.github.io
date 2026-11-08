@@ -39,7 +39,7 @@ const zh = {
   "common.notes": "{n} 条提示",
 
   "home.badge": "CELPIP-General 官方真题",
-  "home.title": "像真实考试一样练习 CELPIP",
+  "home.title": "像真实考试一样练习思培",
   "home.lead": "还原官方考试界面的在线模考，加上听、说、读、写分项练习。打开浏览器就能用，记录只保存在你自己的设备上。",
   "home.startExam": "开始模拟考试",
   "home.startPractice": "分项练习",
