@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+.venv/
+work/
+bin/
+next-env.d.ts
+*.tsbuildinfo
+test-results/
+playwright-report/
+.DS_Store
+# Generated media is large; host it on Cloudflare R2 instead of git.
+public/content/tests/*/media/
+__pycache__/
+*.pyc

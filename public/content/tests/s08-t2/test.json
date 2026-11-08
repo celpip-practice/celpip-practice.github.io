@@ -1,0 +1,1718 @@
+{
+ "id": "s08-t2",
+ "set": 8,
+ "test": 2,
+ "title": "Practice Test 8-2",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 55.1
+      },
+      "transcript": "Hey there, are you having some trouble with your car? Yeah, it won't start. Maybe I could take a quick look at it for you. Well, I don't want to bother you. Really, it's no bother. I'm just meeting with two friends from work a bit later. Let's see, your oil seems fine and you have enough gas. How long have you been parked here? Did you leave anything on? For the last several hours, actually from 8 this morning. Other than my front lights, I turned everything off. It's strange. I've never had problems with this car since I bought it five years ago. Alright, I think I know what your problem is. Since you left your front lights on, the car battery is now dead. The good news is that this is an easy problem to fix. Really? That's great because I don't want to be late for a very important meeting. as with my son's teacher.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "reviewing a car"
+         },
+         {
+          "text": "choosing a car"
+         },
+         {
+          "text": "maintaining a car"
+         },
+         {
+          "text": "repairing a car"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "what is this conversation about?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "several years"
+         },
+         {
+          "text": "a few days"
+         },
+         {
+          "text": "a decade"
+         },
+         {
+          "text": "several hours"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "how long has the man owned his car?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "fix the headlights"
+         },
+         {
+          "text": "replace the battery"
+         },
+         {
+          "text": "change the oil"
+         },
+         {
+          "text": "turn everything off"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "what did the man forget to do?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 57.6
+      },
+      "transcript": "I have some special cables called jumper cables that will join our car batteries together. When I start my car, electricity from my battery will travel to your battery. Really? And that should be enough to get my car going again? Hopefully. First, I'll drive my car over here so our cars are facing each other. That way, the cars will be close enough for me to connect the cables. Cool. I'm interested to see how this works. Alright. I've connected the cables. Now start your car. Okay, let's hope this works. Wow, it started. How did you know what to do? Working on cars is my job. I'm a mechanic. Now, just leave your car running for at least 15 minutes, so your car's battery has enough time to recharge. You can either wait at the gas station parking lot over there, or start driving. Okay, great. It's great.",
+      "questions": [
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "to bring some special cables"
+         },
+         {
+          "text": "to move it closer to the man's"
+         },
+         {
+          "text": "to check if she can start it"
+         },
+         {
+          "text": "to recharge the battery in it"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "Why does the woman have to drive her car?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "turn off the car"
+         },
+         {
+          "text": "fill up with gas"
+         },
+         {
+          "text": "wait for a while"
+         },
+         {
+          "text": "buy a new battery"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "What will the man most likely do next?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 44.8
+      },
+      "transcript": "You know, my son wants to be a mechanic. He'll be excited to hear that a real mechanic helped me. He's a smart little guy. That's nice to hear. Tell him it's a fun job. I will now I need to get myself some jumper cables and in case something else breaks down Are there some things you suggest I keep in my car maybe a repair manual a gas can some wiper fluid? Those are all good things to have in your car But most importantly you should make sure you have a spare tire and some basic tools to change it You can also go online and make your own list Sounds good. Oh, look at the time. I need to be at school soon. Thank you so much for your help. You're welcome.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "image": "media/listening_p2_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_2.jpg"
+         },
+         {
+          "image": "media/listening_p2_3.jpg"
+         },
+         {
+          "image": "media/listening_p2_4.jpg"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "Which item does the woman think is most important?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "He values car mechanics' advice."
+         },
+         {
+          "text": "He knows a lot about automobiles."
+         },
+         {
+          "text": "He has had many car problems."
+         },
+         {
+          "text": "He wants to be a car mechanic."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "What is likely true about the man?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "teaching children about cars"
+         },
+         {
+          "text": "learning about how engines work"
+         },
+         {
+          "text": "avoiding online information"
+         },
+         {
+          "text": "being prepared for emergencies"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "What does the woman recommend?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 106.1
+      },
+      "transcript": "Hey Amber, I haven't seen you for a while. How are you? Actually, I was just thinking about that very thing, and I'm good. I have a good job, I have a good apartment, I've managed to figure out all the day-to-day things. But, you know, I've been here six months now, and I haven't really seen anything. I mean, I haven't taken the time to see the city. I wish I were more organized with my time, and I was wondering if you'd like to help me. Help you see the city? Yes, of course. I'd love to do that. What would you like to see? Well, I'm not sure. I mean, I don't really know what my options are. Okay, are you interested in arts and culture? We could go to art galleries and museums, or we could go to a dance performance or see something at the theater? Well, I do like to dance. So you want to do something rather than just see something? Okay, Okay, there are dance clubs, dance classes, or we could go hiking in the mountains or cycling on the islands. There's so much we could do. I don't know how to choose. I suspect some things cost more than others, and certainly we should wait for good weather for the outdoor things. As for the arts and culture options, I guess it depends on what plays are being performed at the theaters. Okay, I have an idea. There are a couple of excellent newspapers that list virtually everything there is to do and see in any given week. Why don't we get this week's issues and take a look? Oh, that sounds like a perfect solution. And if you're willing, maybe we can do something different each week. Because I don't think I'm going to be able to choose just one thing.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "what the woman has been doing for fun"
+         },
+         {
+          "text": "how to find the time for fun activities"
+         },
+         {
+          "text": "when to attend a play at the theatre"
+         },
+         {
+          "text": "what activities they should do together"
+         }
+        ],
+        "answer": 3,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "What are the man and the woman discussing?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "She has been working overtime a lot."
+         },
+         {
+          "text": "She hasn't been able to afford it."
+         },
+         {
+          "text": "She has been busy with daily life."
+         },
+         {
+          "text": "She has been waiting for a companion."
+         }
+        ],
+        "answer": 2,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "Why hasn't the woman seen much of the city?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "He is enthusiastic."
+         },
+         {
+          "text": "He is surprised."
+         },
+         {
+          "text": "He is grateful."
+         },
+         {
+          "text": "He is uninterested."
+         }
+        ],
+        "answer": 0,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "What is the man's response to her invitation?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "She prefers outdoor activities."
+         },
+         {
+          "text": "She is interested in many things."
+         },
+         {
+          "text": "She wants to do something every day."
+         },
+         {
+          "text": "She is willing to spend lots of money."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "What is true of the woman?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "with a plan of action"
+         },
+         {
+          "text": "with a surprise problem"
+         },
+         {
+          "text": "with a new purchase"
+         },
+         {
+          "text": "with a final decision"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "How does the conversation end?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 137.3
+      },
+      "transcript": "Ali, can you help me understand this job performance form? I've never done one of these before. Sure, Faze. What would you like to know? Well, the first question asks for a brief outline of significant accomplishments throughout the year, indicating why each accomplishment deserves a special recognition. What is a significant accomplishment? Can you give me an example? It's something special you've done. It's something over and above what you do on a day-to-day basis, something outside your job description. description. For example, at the bank, we pretty much guarantee excellent customer service. But perhaps you do more than that. I bet you know many of your customers' names, right? And call each one by name? Of course, don't you? I try, but I find it hard. So this is a significant accomplishment, being able to greet each person by name before they give you their bank card. Okay, I understand that one. Now, next question. There are sections about interaction with colleagues, responsibility, accountability, and so on. And we have to rate ourselves in each section by choosing one of four options, exceptionally well, very well, well enough, or not very well. How do we do this? If I choose too high, the manager will think I'm arrogant and overconfident. If I choose too low, she'll think I don't have enough ability or skill. Yeah, this is a hard one. I usually rate myself very well for most of them, and perhaps one or two exceptionally well, if I have good reasons. So you don't choose the two lower rankings for anything? That's right. I would hope that the manager would talk to me before performance evaluation evaluation time to discuss any poor performances she saw in my work. That kind of thing should be discussed when it happens. That's a good point. I'll take your advice and choose the very well descriptor for everything. I haven't been here long enough to be exceptional. I passed my probation period a few months ago, so I should be safe with these choices. That's a good way to describe it. As safe. The manager's great at discussing your self ratings, so don't worry too much about it. Okay, thanks for your help.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "a bank"
+         },
+         {
+          "text": "a call centre"
+         },
+         {
+          "text": "an HR office"
+         },
+         {
+          "text": "an accounting firm"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "Where do the man and woman work?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "advice on giving better customer service"
+         },
+         {
+          "text": "help in understanding the questions"
+         },
+         {
+          "text": "suggestions on how to please the manager"
+         },
+         {
+          "text": "tips for remembering people's names"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "What does the woman want from the man?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "He created the form."
+         },
+         {
+          "text": "He has worked there longer."
+         },
+         {
+          "text": "He is the manager."
+         },
+         {
+          "text": "He passed his probation."
+         }
+        ],
+        "answer": 1,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "Why can the man answer the woman's questions?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "evaluating herself"
+         },
+         {
+          "text": "giving useful advice"
+         },
+         {
+          "text": "providing quick service"
+         },
+         {
+          "text": "remembering names"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "What does the man think the woman excels at?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "Choosing high ratings is risky."
+         },
+         {
+          "text": "Exceptional work needs immediate recognition."
+         },
+         {
+          "text": "Lower rankings suggest limited skill."
+         },
+         {
+          "text": "Problems need to be discussed beforehand"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "On what basis does the man make his choices?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "She asked everyone for suggestions."
+         },
+         {
+          "text": "She trusts the manager's feedback."
+         },
+         {
+          "text": "She passed her probation recently."
+         },
+         {
+          "text": "She can redo her review afterwards."
+         }
+        ],
+        "answer": 2,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "Choices Question 6. Why does the"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 83.1
+      },
+      "transcript": "Area resident Beverly Camaro has built a house of straw. Camaro moved into the area last year and had been living in a trailer on a small plot of land in the countryside on which she intended to build a small house. Concerned about growing heating costs and increasingly increasingly colder winter temperatures, she spent a month researching, heating, and housing construction. She then came across an article about straw houses in a magazine. A few weeks later, she discovered a company that specializes in such construction. Six months later, she moved in to her new house, made of straw. Camaro explains that the house is just insulated with straw, and many people have misconceptions conceptions about straw houses. For example, they are not more susceptible to fire than other homes. Although loose straw can be burned, the straw bales used in house construction are so compressed that there isn't enough oxygen in them to burn. What's more, straw bale houses are waterproof, according to Camaro, because the sturdy walls are plastered inside and out. Hers, she explained, are a lovely amber color. The most important due to the superior insulation value of straw, Camaro anticipates lower heating costs.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Camaro found out about straw houses from",
+        "options": [
+         {
+          "text": "a magazine."
+         },
+         {
+          "text": "a local company."
+         },
+         {
+          "text": "area residents."
+         },
+         {
+          "text": "a news broadcast."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Camaro's house was built",
+        "options": [
+         {
+          "text": "by local friends."
+         },
+         {
+          "text": "in less than a year."
+         },
+         {
+          "text": "with great difficulty."
+         },
+         {
+          "text": "in the town centre."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The story is about",
+        "options": [
+         {
+          "text": "an unlikely problem."
+         },
+         {
+          "text": "puzzling research."
+         },
+         {
+          "text": "surprising consequences."
+         },
+         {
+          "text": "an unusual solution."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Straw bale houses are",
+        "options": [
+         {
+          "text": "more energy efficient than other houses."
+         },
+         {
+          "text": "not as sturdy as other houses."
+         },
+         {
+          "text": "cheaper to construct than other houses."
+         },
+         {
+          "text": "not as attractive as other houses."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Camaro's decision was motivated by",
+        "options": [
+         {
+          "text": "living in a small trailer."
+         },
+         {
+          "text": "increased heating costs."
+         },
+         {
+          "text": "the size of her property."
+         },
+         {
+          "text": "the company's ads."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "You will watch a 2-minute video, then 8 questions will appear.",
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 135.7
+      },
+      "transcript": "You will watch a discussion among three people, two men and one woman. They are business associates. They are meeting at their office. This is Ian. This is Benjamin. This is Jennifer. So, we have to figure out who to send to the training seminar in August. Any ideas? Well, Cheryl is the one who will be using the new accounting software the most. I think we should send her. But there'll be others who'll need to use it as well, and Beth is a better teacher. If we send her, she'll be able to hold in-house training sessions, and we'll all be able to use it. It's not enough just to bring back the materials. What do you think? Actually, I was going to suggest we send Diane. She's worked almost every weekend this month, and that's a lot of overtime. I think she's entitled to a weekend in Vancouver. But training seminars shouldn't be considered holidays. If we want to reward Diane for her overtime, we should do it another way. I agree about the training seminars. Also, yes, Diane did work a lot over time, but she also got paid for it. Isn't that reward enough? I suppose so. Okay, so it's between Cheryl and Beth. Ian, what makes you say that Beth is a better teacher? Well, whenever I have problems with any of the programs I'm using it, I go to Beth for help and she helps. She's very good at explaining things. This might be true, but you've never gone to Cheryl. How do you know she's not just as good at explaining things? People talk complain Ian, you know better than that. I believe Cheryl has a degree in education. She would be a good choice It is true that Cheryl's never held any of our in-house seminars and Beth has Why don't we explain to Cheryl that we'll base the decision off teaching skills And if she can prove to us that she can pass the information along Well We'll send her to Vancouver. Yeah, it sounds fair We'll set up a training session for Cheryl to conduct if she does a good job she'll get my vote. As you say, she will be the one using the accounting software the most. But what will we ask Cheryl to teach us? Oh. Oh, I know. Head office just sent a new policies and procedures manual. She could choose something. Yeah. I'll let her know tomorrow and I bet you can figure something out in the next two weeks.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What is the purpose of the meeting?",
+        "options": [
+         {
+          "text": "to make a training decision"
+         },
+         {
+          "text": "to discuss staff performance"
+         },
+         {
+          "text": "to re-evaluate staff roles"
+         },
+         {
+          "text": "to compare training formats"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What will the training seminar cover?",
+        "options": [
+         {
+          "text": "how to effectively teach your colleagues"
+         },
+         {
+          "text": "how to use new accounting software"
+         },
+         {
+          "text": "how to write good business policies"
+         },
+         {
+          "text": "how to describe complicated procedures"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Why does Benjamin suggest Diane?",
+        "options": [
+         {
+          "text": "She is available on weekends."
+         },
+         {
+          "text": "She has been there the longest."
+         },
+         {
+          "text": "She deserves a trip to Vancouver."
+         },
+         {
+          "text": "She needs to learn about accounting."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What does lan think about Diane?",
+        "options": [
+         {
+          "text": "She is being dishonest about her overtime."
+         },
+         {
+          "text": "She does not require more compensation now."
+         },
+         {
+          "text": "She is lacking in teaching and accounting skills"
+         },
+         {
+          "text": "She will not want to work on another weekend"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Why does Ian think Beth is a good teacher?",
+        "options": [
+         {
+          "text": "She has given in-house seminars."
+         },
+         {
+          "text": "People have told him she is a good teacher."
+         },
+         {
+          "text": "She has a degree in education."
+         },
+         {
+          "text": "Ian has always found Beth's instructions helpful."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "What does Jennifer likely believe?",
+        "options": [
+         {
+          "text": "People can change their work habits easily."
+         },
+         {
+          "text": "People shouldn't complain as much as they do."
+         },
+         {
+          "text": "People can learn to explain things more clearly."
+         },
+         {
+          "text": "People shouldn't believe everything they hear."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What do they agree to do?",
+        "options": [
+         {
+          "text": "delay making a final decision"
+         },
+         {
+          "text": "speak to all three candidates"
+         },
+         {
+          "text": "review the candidates' education"
+         },
+         {
+          "text": "consult the procedures manual"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What is true of the training seminar in Vancouver?",
+        "options": [
+         {
+          "text": "It will be held at Head Office."
+         },
+         {
+          "text": "They need to register for it tomorrow."
+         },
+         {
+          "text": "It is at least 2 weeks away."
+         },
+         {
+          "text": "They need to read materials beforehand."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "It is about 3 minutes long.",
+     "Then, six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 174.2
+      },
+      "transcript": "Today on Chat Radio, should online social networking sites, such as Facebook or Twitter, be used in schools. Social networking sites where users share messages, pictures or videos with others are an increasingly popular form of communication for both adults and children. In an effort to keep education relevant, many are asking whether such sites should, perhaps, be incorporated into school curricula. For Sheena Bradley, CEO of LabTech Industries, this question is easily answered. She argues that education is meant to prepare students for their future, which will likely involve working with others via online platforms. For example, LabTech uses an in-house social networking site called Think Tank to encourage employee collaboration and the development of new ideas, something that has led to a substantial increase in productivity and innovation among employees. For Bradley, we are at the dawn of a new work culture where the innovative group is valued. Accordingly, she sees online social networking as a popular medium for acquiring the skills that today's employers want technological knowledge and the ability to work with others. James Spadoni, a teacher at Crestview Secondary, agrees. However, while Spadoni is clear that online social networking should be incorporated into the curriculum, how to achieve this is less clear for him. Spadoni, being someone nearing 60, did not grow up using computers. He thus struggles to learn how new technologies can be used to attain a pedagogical goal. Despite this challenge, Spadoni has found online social networking to be quite successful in the classroom. As part of last year's final class project, Spadoni's class used Twitter to share ideas and organize workflow. This proved particularly effective for Shire students who tended to feel more comfortable sharing ideas in an online environment. Mandy Rayner, however, is not convinced. She wants her children to be learning at school, not playing around on the internet. She sees no need to include online social networking as part of the school curriculum, insisting that students already get enough exposure outside of school. For Rayner, who already struggles to get her kids off Facebook, children need less socializing, not more. Children need to learn to concentrate, to focus on a task, ask, and to read without distraction. It's Rayner's opinion that social media and teamwork certainly won't help students write their own research essays. To prepare for university and many professional careers, they must be able to work independently and rely on themselves. Many parent groups agree with Rayner and would like to see social media and cell phones banned in the classroom. What do our listeners think? us and share your opinion.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The radio program talks about whether schools should",
+        "options": [
+         {
+          "text": "monitor students' use of social media."
+         },
+         {
+          "text": "develop lessons based on social media."
+         },
+         {
+          "text": "offer classes on how to use social media."
+         },
+         {
+          "text": "train more teachers to use social media."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "LAB-Tech Industries",
+        "options": [
+         {
+          "text": "develops social networking platforms for schools."
+         },
+         {
+          "text": "boosts employee productivity by offering incentives."
+         },
+         {
+          "text": "prefers individuals who are able to work independently."
+         },
+         {
+          "text": "considers social networking a technological skill."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Teacher James Spadoni finds it challenging to",
+        "options": [
+         {
+          "text": "incorporate new technology into his classes."
+         },
+         {
+          "text": "get students to participate during group work."
+         },
+         {
+          "text": "keep students from surfing the internet in class."
+         },
+         {
+          "text": "organize interesting computer class projects."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Parent Mandy Rainer believes",
+        "options": [
+         {
+          "text": "computers should be removed from schools."
+         },
+         {
+          "text": "over-connectedness negatively impacts learning."
+         },
+         {
+          "text": "schools ignore the value of communication skills."
+         },
+         {
+          "text": "schools should prepare students for the workforce."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Spadoni and LAB-Tech would agree that",
+        "options": [
+         {
+          "text": "online socializing results in reduced productivity."
+         },
+         {
+          "text": "children learn new things easier than adults."
+         },
+         {
+          "text": "schools must keep pace with changes in society."
+         },
+         {
+          "text": "group work can be challenging for shy individuals."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "LAB-Tech would likely prefer an employee who",
+        "options": [
+         {
+          "text": "likes working alone."
+         },
+         {
+          "text": "works best independently."
+         },
+         {
+          "text": "enjoys group projects."
+         },
+         {
+          "text": "is extremely competitive."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "Dear Gemma,",
+       "It was a pleasure meeting you at Parents' Night last week at the school. It's great that you and your children, Jack and Beth, will join us for our Fun Day at Wet World Amusement Park. In terms of the number of attractions available to enjoy, Wet World is the largest park of its kind in our province. As of today, we have a dozen parents and an equal number of children planning to attend. That includes you three!",
+       "We will meet at 8:00 a.m. at Red Oaks School. The bus will pick us up and take us all to Wet World Amusement Park-just under an hour from the school to the park gate. All the children should wear yellow T-shirts and red baseball caps. This way they will be easier to see, especially if the older ones want to go off and explore on their own! I've bought all the admission tickets to the park. The tickets don't include food but do give the children admission to the rides and water park.",
+       "Park safety rules state that children under 12 years old cannot ride the large roller coaster and some of the other rides. Certain optional special events are available for children under 12 at a reduced cost. They can enjoy activities designed just for their age group: watching cartoons in a theatre, or attending a 1-hour magic show in the afternoon. The older children and teens can visit the science centre to see robots and a fossil display. Or they can just take it easy by the wave pool before heading back to the roller coaster!",
+       "We'll meet at the Parkside Restaurant in the food area for lunch at half past noon. You can join us there if you'd like. The park also allows bringing in packed lunches from home. Wet World has several different kinds of restaurants, but you may have to wait for a place to sit. Like most amusement parks, their food prices are probably a bit high.",
+       "Finally, I've heard we will see a record high temperature on Saturday, so please pack accordingly!",
+       "I look forward to seeing you and your kids on Saturday, Gemma!",
+       "Best wishes,",
+       "Moira"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Why is Moira writing to Gemma?",
+        "options": [
+         "to invite her children to an event",
+         "to share details about a school trip",
+         "to ask her to be a volunteer",
+         "to get her opinion about an idea"
+        ],
+        "answer": 1,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What must all the children do?",
+        "options": [
+         "stay with their parents",
+         "bring money for lunch",
+         "wear red and yellow",
+         "pay at the park gate"
+        ],
+        "answer": 2,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What has Moira done already?",
+        "options": [
+         "bought magic show tickets",
+         "paid the park entrance fee",
+         "purchased yellow T-shirts",
+         "ordered lunch for the kids"
+        ],
+        "answer": 1,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What can the younger children do at the park?",
+        "options": [
+         "view the magic show",
+         "ride the roller coaster",
+         "look at the robot display",
+         "go to the science centre"
+        ],
+        "answer": 0,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "For older children, there is",
+        "options": [
+         "a cheaper price.",
+         "a special theatre.",
+         "a magic display.",
+         "an exciting ride."
+        ],
+        "answer": 3,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "What does Moira suggest about the restaurants?",
+        "options": [
+         "They are not open before noon.",
+         "They are expensive and busy.",
+         "They are not meant for kids.",
+         "They are included in the ticket."
+        ],
+        "answer": 1,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks.",
+      "paragraphs": [
+       "Select the best choice for each blank from the drop-down menu ().",
+       "Dear Moira,",
+       "Thanks for the information about the Fun Day this Saturday. It sounds like it's going to be a super time, and it's good to hear that there will be {{7}}.",
+       "We're excited because we've never been to an amusement park like Wet World. What is great about Wet World is that it has {{8}}",
+       "Thanks for the details about the transportation arrangements. It's good to know the bus will {{9}} 7.",
+       "On another note, we'll be making our own arrangements for lunch, so I'm sorry we won't be meeting up with you at {{10}}",
+       "Rest assured, we'll come prepared for the weather. I, too, have heard that it will be a {{11}} day!",
+       "See you soon,",
+       "Gemma"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "twelve parents attending",
+         "twenty-four children in all",
+         "the same number as last year",
+         "more adults than children"
+        ],
+        "answer": 0,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "a big empty space for eating",
+         "underwater roller coasters",
+         "a swimming pool for adults",
+         "attractions for different ages"
+        ],
+        "answer": 3,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "be driven by a responsible parent",
+         "take less than an hour to get there",
+         "be equipped with safety belts",
+         "take the fastest possible route"
+        ],
+        "answer": 1,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "11:30",
+         "12:00",
+         "12:30",
+         "1:00"
+        ],
+        "answer": 2,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "hot",
+         "cloudy",
+         "cool",
+         "wet"
+        ],
+        "answer": 0,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_2.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "Opened in 2003, West Coast Bungee is an exhilarating and adrenaline-filled experience. We have been voted as the region's best activity for thrill-seekers five years in a row and have maintained a perfect safety record.",
+       "Enjoy an unforgettable experience by jumping more than 50 metres (160 ft) from the Capilano Bridge over the Othello River. Surrounded by steep cliffs and old growth forest, combined with a breathtaking view of the Canadian Cascade Mountains, West Coast Bungee is recognized as one of the most visually stunning bungee jumping sites in the world. We are open all year round with Pricing Information reduced hours during the autumn and winter seasons. • Individual jump - $130 per All customers are required to fill out person a liability wavier, and those under • Tandem jump - $120 per the age of 19 must have a parent or person guardian sign the waiver. All jumps must be booked in advance • Group jumps - $105 per and are dependent on weather person when you organize a conditions. group of 10 or more Photos available upon request. • 50% off second jump Free T-shirt with every jump!",
+       "Contact us at 604-555-0932 or booking@westcoastbunqee.com for more information and to book your jump!"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu ().",
+      "paragraphs": [
+       "Subject: Bungee Jumping Booking Inquiry",
+       "To: West Coast Bungee <booking@westcoastbungee.com>",
+       "From: John Anderson <Janderson@dundreph.com>",
+       "To whom it may concern,",
+       "I'm interested in making a reservation for a group of 10 as part of a surprise for my son's 16th birthday. He and his friends read that you were chosen as the area's most {{1}} activity, and they have wanted to try it ever since. I've shopped around and am impressed by your company's impeccable safety record. It would also be great to bungee jump in a location known worldwide for its {{2}} I'd like to book a weekend in late September. I don't know if that would be considered off-season, so I am wondering about your {{3}} Also, I believe that because of our numbers, we qualify for {{4}}. Finally, eight members of the group are minors, so I believe they require {{5}}. Is that correct?",
+       "I look forward to hearing from you,",
+       "John Anderson"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "adventurous",
+         "cost-effective",
+         "memorable",
+         "amusing"
+        ],
+        "answer": 0,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "beautiful scenery",
+         "historic bridge",
+         "incredible jump height",
+         "icy winter jumps"
+        ],
+        "answer": 0,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "closure",
+         "discounts",
+         "hours",
+         "promotions"
+        ],
+        "answer": 2,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "free T-shirts",
+         "reduced jump fees",
+         "discounted second jumps",
+         "complimentary photos"
+        ],
+        "answer": 1,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "an extra deposit",
+         "a guardian present",
+         "parental consent",
+         "additional gear"
+        ],
+        "answer": 2,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (), choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "The purpose of the email is to",
+        "options": [
+         "confirm a party reservation.",
+         "clarify some questions.",
+         "get details on the location.",
+         "request some liability forms."
+        ],
+        "answer": 1,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "John has",
+        "options": [
+         "researched similar companies.",
+         "contacted the company before.",
+         "gotten the required forms signed.",
+         "previously tried the activity."
+        ],
+        "answer": 0,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "John's son is",
+        "options": [
+         "scared of extreme sports.",
+         "graduating high school.",
+         "a fan of skydiving.",
+         "unaware of the plan."
+        ],
+        "answer": 3,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. Have you ever run a marathon? According to recent statistics, marathons are becoming increasingly popular. In fact, the number of people in North America who have run the traditional marathon distance of 42.2 km (or 26.6 miles) has increased twentyfold over the last 40 years. In recent years, almost half the runners have been women. A staggering 746 different marathons were scheduled across North America in 2014. One of the most popular, the Boston Marathon, had more than 35,000 official runners in 2014, of which more than 31,000 finished the race. However, running a marathon is not a simple feat.",
+       "B. Training for a marathon demands a great deal of time and dedication. On average, trainees need to dedicate 5 days a week to running, with one of these days devoted to a long run. The long run can range anywhere from 16 km at the start of a training program to 32 km in later weeks. It is typical for a person to run up to 80 km in a single week while training. During training, runners need to pay strict attention to their diet and include high-quality foods such as whole grains, lean meats, vegetables, and fruits.",
+       "C. Even though training for a marathon is rigorous and requires firm commitment, many people are enjoying the experience. One reason for this is that, increasingly, running is viewed as a way to become physically fit and maintain a healthy lifestyle. Runners who regularly train for marathons can experience health benefits such as an increased metabolism and strengthened heart and lungs. Another reason is that running is inexpensive and can be done just about anywhere; all you need to do is put on a pair of sneakers and step outside. Some people also report experiencing a runner's high which has been defined as a feeling of extreme euphoria or happiness.",
+       "D. Some experts believe that running a marathon is too extreme to be healthy. The reason why a marathon is 42.2 km is because a man in ancient Greece ran the distance from Marathon to Athens to share the news of a victory. Apparently, he died immediately after making his announcement. Even now, several people die each year after running a marathon. Serious health risks can include dehydration or water intoxication. Scientists believe, however, that the reasons are not always related to running. Some deaths, for example, are attributable to pre-existing heart conditions. Marathon runners need to be fully involved in designing their own healthy training program.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Following a rigorous routine is essential to running a successful marathon.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Numerous factors make running an attractive pastime.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "A historical event determined the length of a marathon.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Marathon running may increase the risk of heart disease.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Despite the challenges it presents, marathon running is attracting more interest.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Running a marathon can trigger intense emotion.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "The number of men running in marathons has decreased.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "There is a good gender balance among marathon participants.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "The physical demands of running a marathon can result in unfortunate consequences.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "Producing graduates who are prepared for science, technology, engineering, and mathematics (STEM) careers has been a major concern for international corporations and government agencies. However, the belief that this focus could harm the creativity required to train STEM grads who can think outside the box is becoming increasingly common.",
+       "Business analyst Eduardo Gomez contends that without a liberal arts education, an essential component for advancement would be lost. According to Gomez, many of today's students are under intense pressure from parents opposed to the liberal arts. These \"helicopter parents\" go so far as to determine their children's choice of school, program, and future STEM career. Some young people respond to this authoritative behaviour through pre-professionalism-learning elements of their future profession as early as secondary school. \"I believe that a STEM degree on its own is an insufficient tool to access one's capacity for innovation,\" says Gomez. \"It should be mandatory for STEM grads to complete a predetermined number of hours in the liberal arts stream.\"",
+       "Financial advisor Naomi Yukawa is skeptical of Gomez's approach. \"Extra credit hours are costly and can result in students missing the economic boat as they enter the workforce with insurmountable debt. She cites cautionary statistics from the Canada Student Loans Program of graduates with an average of over $25,000 in debt last year, and pleads for students to treat their current undergraduate years as a future economic investment by minimizing debt accumulation.",
+       "Fears of falling off the economic ladder often perpetuated by well-meaning family members mean that students often dismiss career exploration through double majors as an unaffordable luxury. Victor Klein, an advisor at an innovative university focused on the cultivation of broad knowledge, wants to quell this financial anxiety. \"Advance University is Canada's first independent university and offers only one type of degree: a Bachelor of Arts and Sciences.\" Klein insists employers are searching for candidates with the ability to think critically and analyze logicallythe exact qualities that a liberal arts education is meant to develop."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "What is the author's purpose in writing this article?",
+        "options": [
+         "to suggest a solution to revive liberal arts education",
+         "to advocate for a holistic education pathway",
+         "to dismiss the importance of STEM careers",
+         "to advise students in their post-secondary endeavours"
+        ],
+        "answer": 1,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "How would Gomez describe \"helicopter parents\"?",
+        "options": [
+         "They support students' career choices.",
+         "They encourage students' innovations.",
+         "They constrain students' individuality.",
+         "They decide students' learning habits."
+        ],
+        "answer": 2,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What does Gomez suggest as an outcome of including liberal arts classes in education?",
+        "options": [
+         "increased leading-edge discoveries",
+         "a decline in STEM careers",
+         "decreased parental involvement",
+         "a boost in pre-professionalism"
+        ],
+        "answer": 0,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What is Yukawa's advice for students?",
+        "options": [
+         "start working after graduation",
+         "reduce spending on education",
+         "invest in university courses",
+         "pay off student debt quickly"
+        ],
+        "answer": 1,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "How would Klein describe Advance University students?",
+        "options": [
+         "They refuse to seek other career paths.",
+         "They can afford comprehensive courses.",
+         "They prefer a focused university degree.",
+         "They are likely to excel in any career."
+        ],
+        "answer": 3,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "As a college professor, I have encountered endless undergraduates in my humanities classes who were decided STEM majors. Many of them, as Gomez suggests, selected majors {{6}} I appreciate Gomez highlighting the need for students to {{7}}. As the article indicates, the skills refined within a liberal arts program are {{8}}. Yukawa's remarks also resonate with me when she insists that {{9}} should be at the forefront of students' reasoning when making choices regarding their education. I also agree with Advance University's mandate that educational programs should be {{10}}. It is pertinent for parents to remember that the world is a dynamic place that requires creative arts scholars."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "based on accumulating personal wealth",
+         "that do not reflect their personal desires",
+         "after some time in the liberal arts stream",
+         "without properly considering career options"
+        ],
+        "answer": 1,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "broaden their academic horizons",
+         "focus on their future prospects",
+         "complete their degrees quickly",
+         "disregard their families' advice"
+        ],
+        "answer": 0,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "beyond compare",
+         "sufficient",
+         "evidence-based",
+         "in demand"
+        ],
+        "answer": 3,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "parental advice",
+         "career choices",
+         "long-term impacts",
+         "alarming statistics"
+        ],
+        "answer": 2,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "subsidized",
+         "comprehensive",
+         "concentrated",
+         "individualized"
+        ],
+        "answer": 1,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "You work for a clothing company. Your company has a new style of coat."
+    ],
+    "instruction": "Write an email to a magazine in about 150-200 words. Tell the magazine about the new style of coat. Your email should do the following things:",
+    "bullets": [
+     "Provide information about your company.",
+     "Provide information about the new style of coat.",
+     "Suggest who might buy this coat and why.",
+     "Invite the staff at the magazine to write about the coat."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "Your boss thinks paper is unnecessary because everyone has a computer and access to the internet. Your boss wants to take away all the printers so that people use much less paper. Other people think that this will be very inconvenient. Your boss asked you to respond to an opinion survey about whether to keep the printers."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I think we should keep the printers in the office.",
+     "Option B: I think we should have a paperless office with no printers."
+    ],
+    "surveyTitle": "Printer Survey",
+    "samples": [],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your friend does not like to study in her room because she says it is not comfortable. She wants to rearrange the room so that she can study better. Give her some advice on how to create a good study space."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when something made you laugh. Maybe you could talk about a funny story that someone told you, a picture or a movie that you saw, or something that happened to you or a friend. What made you laugh, why did you laugh, and why is it memorable?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "The people in your apartment building are upset with the traffic noise from the street, and as a member of your apartment's council, you need to solve the problem. You found two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade your colleague that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "Your colleague is suggesting another option. Persuade her that the option you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "Your two best friends, Joe and Susan, got married recently and are discussing a job offered to Joe that would require them to move to another province. Joe wants to take the job and move to the other province because the job pays well. Susan doesn't want to move because they would have to leave her parents and their friends."
+    ],
+    "choices": [
+     "Talk to Joe. Explain why you think he should NOT take the job.",
+     "Talk to Susan. Explain why you think Joe should take the job."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think that companies should limit the amount of bonuses that their CEOs and senior managers make? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You are at a circus with your friend, John, but the two of you got separated. You look around for a place where John can meet you and you find an interesting tree. Call John and describe in detail what the tree looks like, and ask John to meet you here."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

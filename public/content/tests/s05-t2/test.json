@@ -1,0 +1,1724 @@
+{
+ "id": "s05-t2",
+ "set": 5,
+ "test": 2,
+ "title": "Practice Test 5-2",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 39.1
+      },
+      "transcript": "Hi. I was hoping you could help me. me. I've never been to this walk-in clinic before. I moved here a few months ago and I still don't have a family doctor, but I really need to see one right away. Sorry, but you'll have to take a number and wait to be called. There are a couple people ahead of you. It shouldn't be too long though. Oh, sorry. I didn't realize I had to take a number. I assumed that since no one was at the counter when I came in, I could just walk up. Where are the number tickets? Yeah, it happens all the time. The numbers are just to the left of the door in the red dispenser. Like I said, it won't be long. In the meantime, you can take a seat.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "Her family doctor's office is closed."
+         },
+         {
+          "text": "She is returning for a follow-up visit."
+         },
+         {
+          "text": "It was recommended by a friend."
+         },
+         {
+          "text": "She doesn't have a family doctor."
+         }
+        ],
+        "answer": 3,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "Why is the woman at this clinic?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "image": "media/listening_p1_1.jpg"
+         },
+         {
+          "image": "media/listening_p1_2.jpg"
+         },
+         {
+          "image": "media/listening_p1_3.jpg"
+         },
+         {
+          "image": "media/listening_p2_1.jpg"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "What does the woman need?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 44.3
+      },
+      "transcript": "Number 47, please. Hi. I'm back. I'd like to see a doctor, please. Please, I've been having sharp pains in my stomach for over a week now. Okay, I'll just need to see your provincial health card, please. And since we don't have your information on file, I'm going to need you to fill out this patient information form. Sure. Oh darn, I don't have a pen. Do you have one I could borrow? Yes, here you are. Please bring the form and pen back when you're done. Thank you. Oh wow, there are certainly a lot of questions here. You only need to fill it out for your first appointment, and then we keep it on file. You can go and sit down and complete the form. It'll only take a few minutes. Will it ever?",
+      "questions": [
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "a pen"
+         },
+         {
+          "text": "her appointment card"
+         },
+         {
+          "text": "a health card"
+         },
+         {
+          "text": "her doctor's name"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "What does the man ask the woman for?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "lend him a pen"
+         },
+         {
+          "text": "fill out some paperwork"
+         },
+         {
+          "text": "apply for a health card"
+         },
+         {
+          "text": "ask questions if needed"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "What does the man ask the woman to do?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "surprised"
+         },
+         {
+          "text": "upset"
+         },
+         {
+          "text": "worried"
+         },
+         {
+          "text": "confused"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "How does the woman feel about the form?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 48.0
+      },
+      "transcript": "Okay, I filled out all the information I could. I don't really know my family's history of illnesses, businesses, so I just left that section blank. That's all right. Oh, I see you missed this section on the back of the page. The one about your allergies and medications? Oops, I didn't realize it was two-sided. Here you go. Do you know how long the weight will be? Well, it's hard to say exactly, but at this point, it's looking like at least one hour. One hour? Seriously? This waiting room is practically empty. Well, it is flu season. and sometimes people step out for a bit while they're waiting. There are quite a few names ahead of yours, and only two doctors on duty. Well, I guess I don't really have a choice. Let's hope some of the people who have stepped out just decided to leave.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "annoyed"
+         },
+         {
+          "text": "worried"
+         },
+         {
+          "text": "happy"
+         },
+         {
+          "text": "satisfied"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "How does the woman feel about the wait time?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "The waiting room is quite crowded."
+         },
+         {
+          "text": "The doctor is a popular specialist."
+         },
+         {
+          "text": "There is only one doctor at the clinic."
+         },
+         {
+          "text": "There are many sick people at this time of year."
+         }
+        ],
+        "answer": 3,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "Why is the wait to see a doctor so long?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "go to another clinic"
+         },
+         {
+          "text": "wait to see the doctor"
+         },
+         {
+          "text": "come back another day"
+         },
+         {
+          "text": "step out for some food"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "What does the woman decide to do at the end?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 89.1
+      },
+      "transcript": "Hi Andy, how are you? I was wondering, do you have any plans for tomorrow? Not in the morning, no, but in the afternoon I was going to visit my grandmother at the nursing home. We spend some time together every Saturday. Oh, I hope she's not ill. You're such a thoughtful grandson. son. I suppose, but I don't do it to be kind or anything. I genuinely enjoy spending time with her. She's an amazing person. Then I'd like to meet her sometime. Well, since you don't have plans for the morning, would you like to come with me to pick strawberries? There are two pick your own farms nearby, but I go to the one on Carter Road because it has the best strawberries. What exactly is a pick your own farm? It's exactly what it says. You go to the farm and you buy an empty basket unless you have your own. Then they take you out into the field, show you which row is ready to be picked next, and you just make your way along the row filling your basket. When you've got as much as you want, you go back, they weigh what you have, and you pay. What an excellent idea. I imagine the fruit is cheaper when you pick your own? Usually, but not always. The same goes for the health factor. I incorrectly assume that none of the pick your own farms use pesticides. Now I know I only go to the farm on Carter I bet people who make their own strawberry jam get their strawberries that pick your own farms, if only because they'd be fresh. That's certainly true. Often they take their kids and make a day of it. Some farms even have a play area for the kids. Okay, let's do it. We can take some fresh strawberries to my grandmother in the afternoon. I'll introduce you.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "The woman extends an invitation to the man."
+         },
+         {
+          "text": "The man questions the woman about gardening."
+         },
+         {
+          "text": "The woman wants to meet the man's grandmother."
+         },
+         {
+          "text": "The man asks the woman about making jam."
+         }
+        ],
+        "answer": 0,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "What is the main purpose of the conversation?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "nursing homes"
+         },
+         {
+          "text": "pick-your-own farms"
+         },
+         {
+          "text": "directions to Carter Road"
+         },
+         {
+          "text": "strawberry jam recipe"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "What does the woman describe to the man?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "It is closer than the other one."
+         },
+         {
+          "text": "It has a playground"
+         },
+         {
+          "text": "The baskets are free."
+         },
+         {
+          "text": "The strawberries are better."
+         }
+        ],
+        "answer": 3,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "Why does the woman prefer the farm on Carter Road?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "They are always far from the city centre."
+         },
+         {
+          "text": "They usually have special areas for children"
+         },
+         {
+          "text": "Their fruit is not necessarily free of chemicals."
+         },
+         {
+          "text": "Their fruit is cheaper than grocery store fruit."
+         }
+        ],
+        "answer": 2,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "What is true of pick your own farms?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "meeting Andy's grandmother"
+         },
+         {
+          "text": "picking strawberries"
+         },
+         {
+          "text": "playing with children"
+         },
+         {
+          "text": "making strawberry jam"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "What will the woman likely be doing Saturday afternoon?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 128.4
+      },
+      "transcript": "Welcome to the renter's legal clinic. What brings you here? Well, when I signed the lease to rent my apartment, my landlord made me pay extra, and I want that money back. What fees did the landlord charge you apart from the first month's rent? Well, the rent is $1,000 a month. In addition to that, he collected an equal amount for a damage deposit, deposit, which he said he'd repay at the end of the lease if the apartment was left in good condition. But what if he finds some excuse not to pay it back? Exactly. It's illegal for landlords to collect damage deposits that are more than half a month's rent in this province. The landlord should know that. It says so right in the lease agreement. Did you read that part of the contract before you signed it? No. He rushed through and turned that page really fast, so I didn't even see where it said that. that. But can I just not pay the rent for the final month of the lease? The rent is one thousand a month, so not paying for the last month would be the same as him or funding my deposit, right? I wouldn't recommend withholding rent money because then your landlord might come after you for non-payment. What you should do is write a letter to your landlord requesting that half of the deposit be returned to you. Ah, so it's better to be on the offensive? Right. I'll dictate a letter for you to type and sign. The letter warns the landlord that the money was collected illegally and demands that if he doesn't repay it to you in ten days, you'll appeal to the rental board to recover the money. In that case, there'll be a hearing in court and the government will collect the money for you. Do I have to pay a lawyer? Not me. I volunteer my time. You pay the rental board. It costs $70 to file a claim if that becomes necessary. necessary. But you'll get that money back. The landlord will have to pay your deposit plus the $70 and 6% interest. Sounds fair. Just be sure you send the letter by registered mail. That way you can track the delivery online and know whether or not he actually received it. Okay, let's get started.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "to get legal advice for renters"
+         },
+         {
+          "text": "to inquire about an apartment"
+         },
+         {
+          "text": "to get in touch with her landlord"
+         },
+         {
+          "text": "to review her lease agreement"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "Why did the woman go see the man?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "It was included in the rental contract."
+         },
+         {
+          "text": "It was sent to the wrong rental board."
+         },
+         {
+          "text": "She did not receive a receipt for it."
+         },
+         {
+          "text": "The landlord collected too much money."
+         }
+        ],
+        "answer": 3,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "What was the problem with the woman's damage to- It's done."
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "ask for a receipt"
+         },
+         {
+          "text": "cancel the last month"
+         },
+         {
+          "text": "continue to pay it"
+         },
+         {
+          "text": "pay by cheque"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "."
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "cancel her damage deposit cheque"
+         },
+         {
+          "text": "contact the provincial rental board"
+         },
+         {
+          "text": "take her landlord to court"
+         },
+         {
+          "text": "write a formal letter to her landlord"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "What step will the woman take next?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "6% of the claim"
+         },
+         {
+          "text": "$70"
+         },
+         {
+          "text": "$1000"
+         },
+         {
+          "text": "nothing"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "What does the man charge for his services?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "by email"
+         },
+         {
+          "text": "by mail"
+         },
+         {
+          "text": "by telephone"
+         },
+         {
+          "text": "in person"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "How should the woman make her request?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "It is about one and a half minutes long.",
+     "Then five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 240.0
+      },
+      "transcript": "17-year-old Shawna Bergman made over $1,000 this weekend because of her love of thrift store shopping. Birgman was browsing second-hand jewelry at her local thrift store on Friday when she found five silver rings with what looked like different shapes of pretty glass set on the top. Shauna bought the set for ten dollars thinking she'd give them as gifts. When she returned home however her mother suggested the stones might not actually be glass but amber. Amber is fossilized resin from trees that are millions of years old. Shauna did some research on how to recognize genuine amber from fake amber. If a real amber is rubbed vigorously on fabric, it becomes electrostatically charged and will visibly attract dust particles. Shauna discovered she bought six real amber rings. Because the amber had been melted and pressed, it looked like man-made glass. However, a local jeweler confirmed her conclusion, a praise them to be amber, and offered her a handsome price. Shauna decided to use the proceeds to finance a trip to Peru. You You You You You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Shauna",
+        "options": [
+         {
+          "text": "enjoys shopping in bargain stores."
+         },
+         {
+          "text": "enjoys shopping in jewelry stores."
+         },
+         {
+          "text": "works in a jewelry store."
+         },
+         {
+          "text": "works in a bargain store."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "She learned of the rings' possible value from",
+        "options": [
+         {
+          "text": "a jewel expert."
+         },
+         {
+          "text": "an online magazine."
+         },
+         {
+          "text": "her mother."
+         },
+         {
+          "text": "the bargain store."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Shauna tested for genuine amber by",
+        "options": [
+         {
+          "text": "comparing the rings to real amber."
+         },
+         {
+          "text": "looking for fossil marks in the amber."
+         },
+         {
+          "text": "polishing the rings to reveal the amber."
+         },
+         {
+          "text": "rubbing the amber to attract dust."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Others did NOT know the rings' value because",
+        "options": [
+         {
+          "text": "the amber looked like plain glass."
+         },
+         {
+          "text": "the amber was an unusual colour."
+         },
+         {
+          "text": "the price for the rings was very low."
+         },
+         {
+          "text": "the thrift store did not have a jeweler."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Shauna decided to",
+        "options": [
+         {
+          "text": "ask a jeweler to help her sell the rings."
+         },
+         {
+          "text": "give two of the rings to her mother."
+         },
+         {
+          "text": "keep the rings for the future."
+         },
+         {
+          "text": "sell the rings and travel abroad."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "You will watch a two-minute video, then eight questions will appear.",
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 170.6
+      },
+      "transcript": "You will watch a conversation among three employees, two men and one woman in a coffee shop. They are discussing something they've noticed in their workplace. This is Nick. This is Ron. This is Claudia. Hey guys, thanks for coming for coffee this morning. No problem. It's been a while since we got together. We should do this more often. Yeah, it's really nice to get out of the office once in a while. We work too hard and ignore our breaks. True enough. Actually, the reason I got us all together was there's something I wanted to run by the two of you. Something that's been bothering me. It has to do with how devoted we are to our jobs. Hmm. You got me curious. Are you going to suggest that we get raises because of our dedication? Good luck with that. Hey, some people got raises last year, just not everyone. Didn't you hear about that? Yeah, this is actually all connected to what I wanted to talk to you guys about. I've been noticing a lot of favoritism lately. I agree. Just last week, the boss handpicked two of her favorites to go to the programming conference in Montreal. The same two went last year. I mean, what about the rest of us? I'm more qualified. I even asked if I could pay my own conference fees and just get paid for two days' work. She's still refused. Well, we call it favoritism, but according to company policy, it's perfectly legal. managers can select anyone they want for any project even if there's extra pay or benefits as long as the length is not more than six months and managers can pick the same person every time but this policy fosters favoritism I mean the managers have no accountability for the decisions they make and the decisions rarely reflect the quality of work I had to reduce some revisions for one of the favorites just last week even though I was completely busy with my own work I I didn't get any extra pay. Her work was terrible. Maybe we should start a workers union. Well, I don't think a union is the solution. I mean, it may reduce favoritism, but it can produce a whole other set of problems. I think our communication with management is pretty good overall. Yeah, I took a risk and talked to the HR manager. He said everything is legal and that managers would make the best choice. So I guess we just have to deal with favoritism then. I mean, we might as well just focus our passion enthusiasm outside the workplace. We can collect our salary and put our heart and souls into something else. Actually that's what I do. I tutor kids that have difficulty reading at my son's school. It's really rewarding. Maybe we could freelance too. Add a little money to that satisfaction. So I guess it's decided then. To cope with all this favoritism we are going to focus our energy outside the workplace. I mean it's a sad solution but I guess it's going to be the safest one. you",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Primarily, what did the co-workers meet to discuss?",
+        "options": [
+         {
+          "text": "what to do about an unfair salary scale"
+         },
+         {
+          "text": "what suggestions to bring to HR management"
+         },
+         {
+          "text": "how to respond to an unpopular policy"
+         },
+         {
+          "text": "how to balance work with outside interests"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "According to the workers, how did the managers show favouritism?",
+        "options": [
+         {
+          "text": "hiring whatever personality they liked the best"
+         },
+         {
+          "text": "providing more paid vacation days to some employees"
+         },
+         {
+          "text": "granting longer breaks for some employees"
+         },
+         {
+          "text": "choosing which workers would get a raise in salary"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What was HR's opinion on the matter being discussed?",
+        "options": [
+         {
+          "text": "Managers are skilled at choosing the best person."
+         },
+         {
+          "text": "The workers should consult the legal department."
+         },
+         {
+          "text": "Most employees are busy with their own work."
+         },
+         {
+          "text": "The quality of the result is good on most projects."
+         }
+        ],
+        "answer": 0,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Why was the woman, Claudia, unable to attend the conference?",
+        "options": [
+         {
+          "text": "The manager had funding for only two delegates."
+         },
+         {
+          "text": "The manager said she was not qualified."
+         },
+         {
+          "text": "She doesn't have free time from work."
+         },
+         {
+          "text": "She isn't one of the manager's favourites."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What do these three employees want from their jobs?",
+        "options": [
+         {
+          "text": "consultation on corporate policy revisions"
+         },
+         {
+          "text": "promotion to positions paying higher wages"
+         },
+         {
+          "text": "recognition for producing quality results"
+         },
+         {
+          "text": "selection for free skills training programs"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "How does the discussion end?",
+        "options": [
+         {
+          "text": "They decide to work harder at their jobs."
+         },
+         {
+          "text": "They plan to complain to HR together."
+         },
+         {
+          "text": "They realize they can't change the policy."
+         },
+         {
+          "text": "They will inform others about favouritism."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Why does Claudia help out at her son's school?",
+        "options": [
+         {
+          "text": "Her son has learning difficulties."
+         },
+         {
+          "text": "She feels good about helping out."
+         },
+         {
+          "text": "She has lots of free time."
+         },
+         {
+          "text": "The school asked her to volunteer."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What will these employees probably do after this meeting?",
+        "options": [
+         {
+          "text": "ask for a reasonable promotion and wage increase"
+         },
+         {
+          "text": "distract themselves with activities elsewhere"
+         },
+         {
+          "text": "research current laws regarding organized labour"
+         },
+         {
+          "text": "seek more rewarding work with a better company"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "It is about three minutes long.",
+     "Then six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 198.8
+      },
+      "transcript": "The humanities are a group of academic disciplines that focus on human culture, including subjects like literature, history, and philosophy. A recent Statistics Canada report indicates that 30% of university graduates with a humanities degree are overqualified for the jobs they hold. Many don't even have jobs. Does this mean that students shouldn't study the humanities and universities shouldn't bother offering humanities degrees? If the purpose of universities is to provide career training, Then, at a glance, the future looks grim for the humanities. After all, university is expensive. Many students, along with their tuition fee paying parents, expect to eventually receive a reasonable return on their investment. Such students should probably study accounting and engineering instead of literature and philosophy. But this raises the question, what is the purpose of university? Many would argue that universities exist in order to provide a broad education not job training. That education, they'd argue, should include the humanities. Traditionally, the humanities help produce a citizenry that can distinguish between fact and propaganda, a citizenry not susceptible to the manipulative rhetoric of potential demagogues. However, not everyone considers this outcome desirable, because such a populace is cognitively well-equipped to question the distribution of power and hence potentially disrupt the status quo. Even if it is the purpose of the university to make students job ready, it appears that employers still want their workers to have good critical thinking skills. These skills are learned in the humanities. Most philosophy departments, for example, offer a course in critical thinking skills. They also teach ethics, a branch of philosophy that enables people to make reasoned decisions about right and wrong. And yet, how often do we see an entry-level job ad mentioning a philosophy course as a requirement? Still, when surveyed, today's employers say they want new hires to have critical thinking skills. However, entry-level workers say that their employers want them to think critically only about certain things. Critical thinking about cost-cutting? Probably. Critical thinking about policies and procedures? Probably not. and as for ethics, workers report that their employers want compliance with the company's code of ethics. Employers seem to want to both ways, workers who are job-ready and who think critically, workers who think critically about some things but not all things. It seems employers want to have their cake and eat it too, which is, to many critical thinkers, a logical impossibility. Perhaps in the and it is the employers who need the humanities courses. You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The presentation is mainly about the",
+        "options": [
+         {
+          "text": "cost of getting an education."
+         },
+         {
+          "text": "value of the humanities."
+         },
+         {
+          "text": "nature of career training."
+         },
+         {
+          "text": "popularity of a university education."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The presentation implies that accounting and engineering students",
+        "options": [
+         {
+          "text": "are likely to find employment in their fields."
+         },
+         {
+          "text": "have harder courses than humanities students."
+         },
+         {
+          "text": "are surprisingly overqualified for their first jobs."
+         },
+         {
+          "text": "pay higher tuition fees than humanities students."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "It is implied that humanities graduates",
+        "options": [
+         {
+          "text": "are actually more job-ready than career-program grads."
+         },
+         {
+          "text": "help their employers to become more profitable."
+         },
+         {
+          "text": "are more reliable than career-program graduates."
+         },
+         {
+          "text": "help to uphold modern democratic societies."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The author seems to agree that employers are looking for",
+        "options": [
+         {
+          "text": "a broader range of critical-thinking skills."
+         },
+         {
+          "text": "employees who respect hierarchy."
+         },
+         {
+          "text": "a new code of ethics for the workplace."
+         },
+         {
+          "text": "workers who passively accept policies."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "According to the presentation, humanities courses",
+        "options": [
+         {
+          "text": "are increasingly relevant in the modern workplace."
+         },
+         {
+          "text": "lead to having some of the skills employers want."
+         },
+         {
+          "text": "are required in many university career programs."
+         },
+         {
+          "text": "lead to jobs that pay only the minimum wage."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The author would likely support",
+        "options": [
+         {
+          "text": "attending trade school rather than university."
+         },
+         {
+          "text": "eliminating some university humanities courses."
+         },
+         {
+          "text": "including critical-thinking skills across all subjects."
+         },
+         {
+          "text": "giving student loans only to career-program students."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "From: <s.sychov@email.com>",
+       "To: <pam.wilkes@dfsb.ca>",
+       "Subject: Requesting Extra Help for French",
+       "Dear Ms. Wilkes,",
+       "My name is Sergiy Sychov, and I am Nadia's father. Although I have driven from work to the school to get Nadia a few times, we have not yet had a chance to formally meet.",
+       "Nadia has spoken very highly of you since the first day of school. Every evening at dinner, she tells us \"a Ms. Wilkes story.\" The stories are usually about something funny you told the class or an interesting way you teach, such as having the students sing a song in order to learn one of your math lessons. I think she is your biggest fan!",
+       "The reason I am writing to you is that I am worried about Nadia keeping up in French class. Our family immigrated to Canada from the Ukraine just last year. Nadia has done very well with learning English since we arrived, but we are concerned about her French. You know what they say-kids are like sponges when it comes to learning languages! But, as French is her third language, I wonder if she is struggling more than the other kids. When we ask her about French class, she usually lowers her head and says she doesn't want to talk about it.",
+       "I have called the school's main office and spoken with someone, but, since I don't know the French teacher's name, I'm hoping you can tell me how to get in touch with her. Also, since you are clearly a passionate educator, I would be very grateful if you had any suggestions for us to make sure Nadia doesn't fall behind. I know that the school year is just getting started, but I don't want to wait until it is too late for her to catch up. I have heard that some families hire private tutors or sign their kids up for after-school lessons. Would you be able to recommend either a class or a tutor? She could use some help in science as well.",
+       "Thank you for any help you can give us. If you think it would be a good idea, I would be happy to meet with you or the French teacher sometime this week to talk about Nadia.",
+       "Sincerely,",
+       "Sergiy Sychov"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (> ), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Sergiy and Ms. Wilkes",
+        "options": [
+         "both speak highly of each other.",
+         "do not personally know each other.",
+         "have an appointment to meet soon.",
+         "know the girl's other teachers."
+        ],
+        "answer": 1,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "We know for sure that Ms. Wilkes teaches",
+        "options": [
+         "math.",
+         "English.",
+         "French.",
+         "science."
+        ],
+        "answer": 0,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The email indicates that Nadia",
+        "options": [
+         "is good at learning mathematics.",
+         "pays attention in Ms. Wilkes' class.",
+         "can sing funny songs in French.",
+         "wants Ms. Wilkes as a private tutor."
+        ],
+        "answer": 1,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Sergiy is likely writing this email",
+        "options": [
+         "during the summer holidays.",
+         "at the end of the school year.",
+         "near the December holiday.",
+         "near the start of the school year."
+        ],
+        "answer": 3,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Nadia seems to",
+        "options": [
+         "look forward to French class.",
+         "be uncomfortable about French class.",
+         "participate often in French class.",
+         "talk often about French class."
+        ],
+        "answer": 1,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Sergiy's main purpose for writing the email is to",
+        "options": [
+         "ask what work Nadia has missed.",
+         "compliment an effective teacher.",
+         "find out why Nadia dislikes French.",
+         "obtain information and advice."
+        ],
+        "answer": 3,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the best choice for each blank from the drop-down menu (* ).",
+      "paragraphs": [
+       "From:<pam.wilkes@dfsb.ca>",
+       "To:<s.sychov@email.com>",
+       "Subject: Re: Requesting Extra Help for French",
+       "Hello Mr. Sychov,",
+       "I did not realize that Nadia is such {{7}} newcomer! As you say, her English is {{8}}. With regard to Nadia's French, I appreciate that you are willing to {{9}} to get her some extra help, but that may not be necessary. Let's explore other options first. I'm surprised our main office has {{10}} Our French teacher's name is Sylvie Gagnon, and she can be reached at sylvie.gagnon@dfsb.ca. If I can be of any assistance, let me know.",
+       "In the meantime, I thank you for {{11}}",
+       "Yours truly,",
+       "Ms. Pam Wilkes"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "a recent",
+         "a reluctant",
+         "an unhappy",
+         "an anxious"
+        ],
+        "answer": 0,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "challenging",
+         "fluent",
+         "intermediate",
+         "native"
+        ],
+        "answer": 1,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "change schools",
+         "spend money",
+         "drive some distance",
+         "take time off work"
+        ],
+        "answer": 1,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "not been very helpful",
+         "been closed when you called",
+         "given you the wrong information",
+         "discouraged a meeting"
+        ],
+        "answer": 0,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "bringing to my attention Nadia's love for music theory",
+         "your kind words about my efforts to engage the class",
+         "sharing Nadia's recent language test results with me",
+         "your suggestions about teaching through storytelling"
+        ],
+        "answer": 1,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "What are Canadians Drinking in 2016? We asked 10,000 Canadians to tell us what they are drinking in 2016. Then, our in-house analysts compared their answers with data from the last 10 years. By doing this, we found some interesting trends! Read on to find out more!",
+       "Hydration Nation 56% of Canadians say they turn to water as their beverage of choice. This choice was selected by 53% of participants last year.! • Health and financial benefits were named as top reasons by respondents.",
+       "Caffeinated Canucks Coffee consumption is still on the rise with 26% of us choosing it over others for our daily drink. Availability and cost are thought to be key growth factors for this trend. This represents a 5% increase from 2015, and a 20% rise over the past decade.",
+       "Still Not Tea Time Tea drinkers are down 5% again this year. 15% of total respondents named it as their first choice. Herbal varieties such as fruit and green teas continue to be less popular than traditional black teas."
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks.",
+      "paragraphs": [
+       "Select the best choice for each blank from the drop-down menu(\" ).",
+       "From: <tie@smail.ca>",
+       "To: <kev88@nckcollege.ca>",
+       "Subject: Infographic",
+       "Hey Kevin,",
+       "How's your weekend going?",
+       "I came across this infographic on a magazine's website today and thought you might want to take a look. The research revealed {{1}} I think the fact that {{2}} really says something about our country's trend towards healthier choices in general. Another point I found interesting was that three of the beverage choices mention {{3}} in their explanations. However, I guess that information is more relevant in Professor Talebi's class!",
+       "Although the information may be written a little {{4}} I was wondering if you thought this infographic could be useful for our group presentation next week in Nutrition 101. Do you think it is OK to use something that is based on {{5}}",
+       "Can you let me know before this Thursday's class?",
+       "Thanks,",
+       "Tie"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "changes in junk food consumption",
+         "patterns in beverage choices",
+         "options for people worried about their health",
+         "reasons for growth in beverage sales"
+        ],
+        "answer": 1,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "coffee is in third place",
+         "sales of black tea are low",
+         "sweet drinks are the least popular",
+         "water consumption is declining"
+        ],
+        "answer": 2,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "health",
+         "money",
+         "caffeine",
+         "sugar"
+        ],
+        "answer": 1,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "informally",
+         "seriously",
+         "sentimentally",
+         "gloomily"
+        ],
+        "answer": 0,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "a survey of individual Canadians",
+         "an interview with a business expert",
+         "an approach that ignores historical data",
+         "a set of assumptions about Canadian habits"
+        ],
+        "answer": 0,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (), choose the b est option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Tie most likely wrote this email on a",
+        "options": [
+         "Saturday.",
+         "Wednesday.",
+         "Thursday.",
+         "Friday."
+        ],
+        "answer": 0,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Tie would like Kevin's",
+        "options": [
+         "acceptance.",
+         "permission.",
+         "assistance.",
+         "opinion."
+        ],
+        "answer": 3,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "How does Tie feel about using the infographic in the presentation?",
+        "options": [
+         "excited",
+         "disappointed",
+         "confident",
+         "unsure"
+        ],
+        "answer": 3,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. The Royal Ontario Museum (ROM), established in 1912 in Toronto, is the largest museum in Canada. Each year, over a million people visit its galleries and participate in its many programs, which include lectures, films, demonstrations, concerts, and dramatic performances. The museum is also Canada's largest field-research institution, conducting worldwide research and conservation activities. Initially administered by the nearby University of Toronto, the museum is now an independent corporation of the Government of Ontario.",
+       "B. The museum came to exist largely due to the efforts of Charles Currelly, a minister-turned-archaeologist, and Edmund Walker, a banker with philanthropic interests. The former wanted to establish an archaeological museum in Ontario; the latter wanted to establish an institution in Canada similar to the impressive galleries and museums in New York. Although Walker was initially interested in the natural world he collected fossils and arranged funding for dinosaur digs in Alberta he eventually became interested in the cultural world as well. Thus, on his death, he donated a collection of Japanese woodblock prints to the museum. To this day, the museum explores both worlds and is, for that reason, one of a kind among the world's museums.",
+       "C. The museum's Natural History department holdings include amphibians, reptiles, mammals, birds, and one of the best bat collections on the continent. It also includes world-class collections of minerals, gems, rocks, and meteorites, and a world-renowned collection of dinosaur skeletons. The World Cultures department contains ethnological collections featuring artifacts from the Canadian Northwest Coast, Plains, Inuit, and Woodlands cultures. It also features artifacts from Near Eastern and Asian collections, which include tomb figurines from the Tang dynasty; Canada's largest textile and costume collection; Greek, Roman, and Byzantine collections; and several European and early Canadian decorative arts collections.",
+       "D. Another unique feature of the museum is the Michael Lee-Chin Crystal, which consists of five interlocking prismatic structures at the entrance of the museum. The Crystal's angled walls do not actually touch the museum's original building and provide a stark contrast with its Neo-Romanesque architecture. Both harshly criticized and enthusiastically celebrated, the Crystal was but one aspect of the highly successful \"Renaissance\" project, started in 2002 to boost the museum's ticket sales and capacity. The project also resulted in new and renovated gallery spaces allowing twice as many artifacts and specimens to be displayed, a digital gallery enabling an interactive multimedia experience, and additional restaurant and retail space.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "The museum's specific collections are very diverse.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The museum's collection of assembled dinosaur bones is internationally famous.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The \"Renaissance\" project was meant to increase museum attendance.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Musical performances are sometimes presented at the museum.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The Royal Ontario Museum was at first envisioned as one that would emulate certain American museums.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The ROM uniquely brings together the cultural and scientific realms.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Nowadays, university scholars from Ontario, Alberta, and China collaborate on some ROM research projects.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "A controversial architectural configuration was erected near the ROM's front door.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "Before becoming a scientist, Currelly served the church.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "On social media and blogs, many people throw caution to the wind when it comes to privacynot just their own but that of their family members as well. Social media sites do have community standards, but, except in extreme cases, there's little consensus on what's socially appropriate to post and what isn't. For this reason, many believe that parents should exercise some restraint in order to protect their children from future shame or ridicule stemming from online postings of their toddler pictures.",
+       "During the last decade, a growing number of proud parents have shared details about their babies and young children on blogs. Amy Smith, a Toronto stay-at-home mother of two-year-old twins, says she blogs because it's \"a way of sharing my worries and getting advice. It's lonely and scary being a new mom.\" She values the virtual connection with moms all over the world in similar situations. Edmontonian Jenn Oakley, a software developer on maternity leave, admits that blogging serves as a familiar activity that offsets the intense challenges of parenthood. \"I feel competent doing anything on the computer,\" she says, \"but I feel like a struggling newbie being a mother.\"",
+       "Blogging may be a refreshing relief from changing diapers and laundering bibs, but Vancouver psychologist Janice Kimmel warns that parents need to stop and think before publicly sharing the details of their children's lives. \"A blog is forever,\" she says. \"Once they're adolescents, kids tend to be mortified if they find their baby pictures or toddler misadventure tales online.\" Halifax event planner Doris Jones was shocked to learn from her ten-year-old that his friends were mocking him about a picture they'd found on her blog. \"It was an innocent picture of my son and his sister in the bathtub when they were toddlers. There are millions of photos like this on the net, but still my son's been the butt of jokes all year at school.\" Janice Kimmel isn't surprised. \"We must respect our children's privacy,\" she cautions. \"Before you post, think about your child's future.\""
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Which statement would Smith and Oakley agree with?",
+        "options": [
+         "Blogging about a baby is harder than raising a baby.",
+         "Blogging helps reduces the stress of sudden lifestyle changes.",
+         "Parents should accept some isolation as unavoidable.",
+         "Parents should keep their parenting stories private."
+        ],
+        "answer": 1,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What can we most reasonably conclude from the article?",
+        "options": [
+         "Bloggers should use a name that hides their true identity.",
+         "Childcare skills do not come naturally to all women.",
+         "Kids are safer if strangers don't know about their lives.",
+         "Parents should think before sharing some details online."
+        ],
+        "answer": 3,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Which title best captures the MAIN idea?",
+        "options": [
+         "Blogs Comfort Moms but Risk Kids' Privacy",
+         "Newbie Parents Dispel Fears by Blogging",
+         "Parental Blogging is a Fast Growing Trend",
+         "Software Developer Turns Mommy Blogger"
+        ],
+        "answer": 0,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Who would be most interested in reading this article?",
+        "options": [
+         "high school students with younger siblings",
+         "first-time stay-at-home mothers",
+         "psychologists specializing in child abuse",
+         "social media application developers"
+        ],
+        "answer": 1,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "We can conclude that parenting blogs are a",
+        "options": [
+         "benefit to families.",
+         "contentious issue.",
+         "no-win situation.",
+         "threat to toddlers."
+        ],
+        "answer": 1,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "I wish parent blogs had been around when my kids were little. I totally agree that they {{6}} caring for a baby. For the stay-at-home new moms you profile, {{7}} at least one parent-related activity is clearly very important.",
+       "Like the author, I think that moms need to understand that blogs are {{8}} Like Doris Jones' ten-year-old, I would certainly feel {{9}} if I found an online photo of myself as a fat little toddler splashing au naturel in the water. That would be my mother's favourite picture, but she'd keep it in her wallet, for her eyes only. If bloggers remembered how and where their own moms displayed their baby pictures, maybe there'd be more {{10}}"
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "instruct moms in the proper way of",
+         "provide easy entertainment when",
+         "reduce the workload involved in",
+         "relieve some of the stress of"
+        ],
+        "answer": 3,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "feeling capable in",
+         "keeping busy with",
+         "offering advice on",
+         "posting photos of"
+        ],
+        "answer": 0,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "boring to readers",
+         "public and everlasting",
+         "far too time consuming",
+         "too harmful to children"
+        ],
+        "answer": 1,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "amused",
+         "embarrassed",
+         "offended",
+         "unsafe"
+        ],
+        "answer": 1,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "eagerness",
+         "discretion",
+         "modesty",
+         "safety"
+        ],
+        "answer": 1,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "You enjoy going to your local coffee shop to work, read, and meet friends. However, every time you go, the seats and tables are dirty and you have to clean them up."
+    ],
+    "instruction": "Write an email to the coffee shop manager in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Describe why you enjoy going to the coffee shop.",
+     "Explain the problems with the coffee shop.",
+     "Suggest how the problems could be solved."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "The mayor's office asked you to respond to an opinion survey about bookstores. Your neighborhood has 3 old bookstores, but there is a plan to build a new and very large bookstore, which will put the little stores out of business. The mayor is conducting a survey before the construction starts."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I think we should keep the old bookstores.",
+     "Option B: I think the big new store is a great idea."
+    ],
+    "surveyTitle": "Bookstore Survey",
+    "samples": [],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "A friend is buying her first house. Give her advice on how she should choose a good house to live in. You could advise about the size, number of rooms, location, or anything else you think is important."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you got a new job. Maybe you can talk about a job in an office, at a shop, or on a farm. You can also talk about volunteer work, or you can talk about work you did for family or friends. What was the job, how did you feel when you started, and what did you have to do?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "Your co-worker Eddie wants to learn how to play a musical instrument, and has asked for your opinion on which instrument he should learn. You found two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade Eddie that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "Eddie is suggesting another instrument. Persuade Eddie that the instrument you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "You work in a retail store. You have a co-worker who always takes a very long lunch break so she can eat with her friend. This means that you always have to take a short lunch break, because the boss has strict rules about what time you must come back."
+    ],
+    "choices": [
+     "Talk to your co-worker. Explain the problem and how you would like to resolve it.",
+     "Talk to your boss. Explain what the problem is and what you think your boss should do."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think the government should limit the amount of sugar in drinks and food sold at restaurants and supermarkets to protect people's health? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You are shopping in a furniture store and see an interesting bed. You have a friend, Jerry, who likes unusual furniture. Call Jerry, describe in detail what the bed is like, and ask him if he would like to consider buying it for his home."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

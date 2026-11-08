@@ -1,0 +1,1780 @@
+{
+ "id": "s13-t2",
+ "set": 13,
+ "test": 2,
+ "title": "Practice Test 13-2",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation between a man and a woman on a neighbourhood street.",
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 47.4
+      },
+      "transcript": "MAN: Can I help? Oh, you got a parking ticket!\nWOMAN: Yes, and I don't understand it. I live here. On this street! Well, as of a week ago.\nMAN: Yeah... I've seen you around, at the post office and the corner store. Welcome to the neighborhood! But … do you have a parking permit?\nWOMAN: I need a parking permit? Even though I live here? That doesn't sound right. Are you sure?\nMAN: Yes. You have to purchase a parking permit in order to park on the street. We used to be able to buy them online, but now you have to go to City Hall in person. They're about fifty dollars.\nWOMAN: Oh really? I didn't know that... Thanks...",
+      "questions": [
+       {
+        "id": "L1-1",
+        "num": 1,
+        "options": [
+         {
+          "text": "She received a parking ticket."
+         },
+         {
+          "text": "She lost her parking permit."
+         },
+         {
+          "text": "She forgot where she parked."
+         },
+         {
+          "text": "She has to go to City Hall."
+         }
+        ],
+        "answer": 0,
+        "stem": "Why is the woman upset?",
+        "audio": "media/l1_q1.mp3"
+       },
+       {
+        "id": "L1-2",
+        "num": 2,
+        "options": [
+         {
+          "text": "fearful"
+         },
+         {
+          "text": "confused"
+         },
+         {
+          "text": "excited"
+         },
+         {
+          "text": "angry"
+         }
+        ],
+        "answer": 1,
+        "stem": "How does the woman feel about the man's information?",
+        "audio": "media/l1_q2.mp3"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 48.9
+      },
+      "transcript": "MAN: Oh, hello again! What? What? You got another parking ticket?\nWOMAN: Yes! And I have a parking permit. I bought one right away, after you told me.\nMAN: May I take a look? Ah. You were parked on the wrong side of the street.\nWOMAN: What? I have to have a permit to park on the street where I live AND I have to park on a certain side of the street?? That's ridiculous!\nMAN: Actually, I'm afraid it's even worse than that. Some days, sometimes, you have to be on this side, and some days, sometimes, you have to be on the other side. You have to look at the signs. It's so the snow removal equipment can get at all the snow.\nWOMAN: I see. That makes sense. I didn't realize that.",
+      "questions": [
+       {
+        "id": "L1-3",
+        "num": 3,
+        "options": [
+         {
+          "text": "followed the man's advice"
+         },
+         {
+          "text": "called a snow removal company"
+         },
+         {
+          "text": "ignored the parking ticket"
+         },
+         {
+          "text": "read the parking rules"
+         }
+        ],
+        "answer": 0,
+        "stem": "What's the woman done since their first conversation?",
+        "audio": "media/l1_q3.mp3"
+       },
+       {
+        "id": "L1-4",
+        "num": 4,
+        "options": [
+         {
+          "text": "frustrated"
+         },
+         {
+          "text": "pleased"
+         },
+         {
+          "text": "depressed"
+         },
+         {
+          "text": "bored"
+         }
+        ],
+        "answer": 0,
+        "stem": "How does the woman feel about the man's answer at first?",
+        "audio": "media/l1_q4.mp3"
+       },
+       {
+        "id": "L1-5",
+        "num": 5,
+        "options": [
+         {
+          "image": "media/listening_1.jpeg"
+         },
+         {
+          "image": "media/listening_2.jpeg"
+         },
+         {
+          "image": "media/listening_3.jpeg"
+         },
+         {
+          "image": "media/listening_4.jpeg"
+         }
+        ],
+        "answer": 1,
+        "stem": "What do the parking rules allow?",
+        "audio": "media/l1_q5.mp3"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 65.3
+      },
+      "transcript": "MAN: Any parking tickets lately?\nWOMAN: No, but I'm finding that having a car is more trouble than it's worth! I usually take the bus to work. I bought my car just for emergencies, occasional trips out of the city on the weekend, and maybe some shopping. But the insurance, the permit, and having to move my car all the time...\nMAN: I know exactly what you mean. I'm the same way. Except I take the subway to work every day.\nWOMAN: Hey, why don't we share a car? I could sell my car, and we could go fifty-fifty on yours. Or vice versa.\nMAN: Actually, that's an interesting idea. If you sell your car, I could add you to my insurance policy. Then we could split the maintenance costs, the license plate fee, the parking permit …\nWOMAN: Yes! We probably won't want the car at the same time. And we could split the costs according to how many kilometers we drive it.\nMAN: I like the idea! You're planning to stay in this neighbourhood?\nWOMAN: I am!\nMAN: Well, let's think about it and meet again in a few days.\nWOMAN: Excellent!",
+      "questions": [
+       {
+        "id": "L1-6",
+        "num": 6,
+        "options": [
+         {
+          "text": "a comparison"
+         },
+         {
+          "text": "a possible solution"
+         },
+         {
+          "text": "future problems"
+         },
+         {
+          "text": "possible consequences"
+         }
+        ],
+        "answer": 1,
+        "stem": "What are the man and woman discussing?",
+        "audio": "media/l1_q6.mp3"
+       },
+       {
+        "id": "L1-7",
+        "num": 7,
+        "options": [
+         {
+          "text": "every day"
+         },
+         {
+          "text": "on weekends"
+         },
+         {
+          "text": "once a month"
+         },
+         {
+          "text": "never"
+         }
+        ],
+        "answer": 1,
+        "stem": "When does the man usually use his car?",
+        "audio": "media/l1_q7.mp3"
+       },
+       {
+        "id": "L1-8",
+        "num": 8,
+        "options": [
+         {
+          "text": "using the same car"
+         },
+         {
+          "text": "selling their cars"
+         },
+         {
+          "text": "driving around the area"
+         },
+         {
+          "text": "taking the subway to work"
+         }
+        ],
+        "answer": 0,
+        "stem": "What are they thinking of doing?",
+        "audio": "media/l1_q8.mp3"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation between two colleagues. The conversation takes place at the office.",
+     "You will hear a conversation followed by five questions.",
+     "You will hear the conversation only once.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_passage.mp3",
+       "duration": 127.2
+      },
+      "transcript": "MAN: Hi Jillian. What's the name of the floral company you always hire to ship flowers to your mom? I want to send flowers to my aunt, but I'm baffled about which service to choose.\nWOMAN: In June, my mom got sick, and I used ShipLove to send her a get-well bouquet. It lasted over 2 weeks but was a bit pricey. So, for Thanksgiving I picked Flovely. I saved about 30 percent on the order, but the flowers died in 4 days. As I always say, buy nice or buy twice.\nMAN: Thanks! I'll check both, especially their service areas. My aunt lives close to here, but in a very remote wooded area, away from the city centre. I'm wondering if they'll deliver to her home.\nWOMAN: I'm sure they will-all flower businesses hire large shipping companies to deliver for them. Just make sure you place your order a few days in advance.\nMAN: That's good to hear. Did you order a dozen roses, their most popular item? Next Friday is my aunt's 70th birthday, and I'd like to give her something more than just roses. Maybe a nice bouquet with a gift, but all the gifts I've researched were stuffed toys.\nWOMAN: I ordered large mixed bouquets both times, but I know Flovely offers lots of gift options, like mugs, chocolates, and even paintings from local artists. They also have houseplants, dried bouquets, and tropical arrangements.\nMAN: Did you say houseplants? I'd love to get my aunt a potted plant. She has such a green thumb and enjoys growing things in her garden. A potted plant would remind her of me year-round, unlike toys or a box of chocolates.\nWOMAN: Another option is buying a flower delivery subscription as a gift for your aunt. That way she'd be getting fresh bouquets every week or month for a year. You'd get a hefty discount and free delivery. My neighbour ordered that from ShipLove for his wife and she was ecstatic!\nMAN: That sounds great! So many options to look at. I'll make sure I place my order by Monday.\nWOMAN: Let me know what you settle on!",
+      "questions": [
+       {
+        "id": "L2-1",
+        "num": 1,
+        "options": [
+         {
+          "text": "a major celebration"
+         },
+         {
+          "text": "a gift delivery"
+         },
+         {
+          "text": "a shipping company"
+         },
+         {
+          "text": "a flower subscription"
+         }
+        ],
+        "answer": 1,
+        "stem": "What is the conversation mainly about?",
+        "audio": "media/l2_q1.mp3"
+       },
+       {
+        "id": "L2-2",
+        "num": 2,
+        "options": [
+         {
+          "text": "Its bouquets last longer."
+         },
+         {
+          "text": "It delivers to more areas."
+         },
+         {
+          "text": "It is less expensive."
+         },
+         {
+          "text": "It offers fewer gift options."
+         }
+        ],
+        "answer": 2,
+        "stem": "What is most likely true about Flovely?",
+        "audio": "media/l2_q2.mp3"
+       },
+       {
+        "id": "L2-3",
+        "num": 3,
+        "options": [
+         {
+          "text": "She dislikes potted plants."
+         },
+         {
+          "text": "It's a Thanksgiving tradition."
+         },
+         {
+          "text": "She lives far from the city."
+         },
+         {
+          "text": "It's for a special occasion."
+         }
+        ],
+        "answer": 3,
+        "stem": "Why is the man sending flowers to his aunt?",
+        "audio": "media/l2_q3.mp3"
+       },
+       {
+        "id": "L2-4",
+        "num": 4,
+        "options": [
+         {
+          "text": "a dried bouquet"
+         },
+         {
+          "text": "a tropical arrangement"
+         },
+         {
+          "text": "a dozen roses"
+         },
+         {
+          "text": "a mixed bouquet"
+         }
+        ],
+        "answer": 3,
+        "stem": "What did the woman purchase for her mother?",
+        "audio": "media/l2_q4.mp3"
+       },
+       {
+        "id": "L2-5",
+        "num": 5,
+        "options": [
+         {
+          "text": "gardening"
+         },
+         {
+          "text": "chocolates"
+         },
+         {
+          "text": "painting"
+         },
+         {
+          "text": "plush toys"
+         }
+        ],
+        "answer": 0,
+        "stem": "What does the man say his aunt likes?",
+        "audio": "media/l2_q5.mp3"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation between two neighbours. The man asks the woman for some help.",
+     "You will hear a conversation followed by six questions.",
+     "You will hear the conversation only once.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_passage.mp3",
+       "duration": 129.5
+      },
+      "transcript": "M: Hey, Jude, I'm wondering if you can help me solve a mystery.\nW: Sure, what's up?\nM: You know how the garbage pickup comes every Wednesday morning? Well, lately, every week when I go to bring my trash cans back in at around noon, I see that a lot of my garbage has been thrown all over the place.\nW: Oh, that's not good! And then you have to pick it all up. That must take a while!\nM: Yes! This has been going on for some time now. I haven't noticed any suspicious behaviour in the neighbourhood, which leaves the garbage collectors as potential suspects. Although, I doubt they would toss around my garbage.\nW: No, I agree, that's unlikely.\nM: And I can't imagine any kids doing it. They'd have to make a point of coming over in the middle of the night or getting up early in the morning before the pickup. I suppose it's possible, but...\nW: I'm thinking no. I know all the kids in this neighbourhood. How long did you say this has been going on?\nM: A few weeks. Not at all during the winter...maybe just since the beginning of spring?\nW: Oh! Raccoons! I'll bet raccoons are coming and going through your garbage, finding whatever they can to eat--and leaving a mess!\nM: Raccoons?\nW: Yes, they're about cat-sized, very fluffy, look like they're wearing a mask, and have rings around their tails. Really cute, actually, and they love garbage! And every spring, there seems to be more of them! That's why we all put our garbage out in the morning, and NOT the night before!\nM: Oh! I didn't realize that! I've been putting it out in the evening, just before I go to work. I arrive back home around two in the morning, so getting up at six or seven to put it out would be like getting up in the middle of the night for me!\nW: I see. Well, you could try putting heavy bricks on the lids. That works. Or, I've seen some trash cans that have a latch. Raccoons can be quite clever, so something simple might not work. You could go to the hardware store and see what they've got.\nM: I'll do that! Thanks, you've solved the mystery!",
+      "questions": [
+       {
+        "id": "L3-1",
+        "num": 1,
+        "options": [
+         {
+          "text": "Why is the man's garbage not getting picked up?"
+         },
+         {
+          "text": "Where is the man's garbage being taken?"
+         },
+         {
+          "text": "Who is throwing the man's garbage around?"
+         },
+         {
+          "text": "When is the man's garbage being thrown around?"
+         }
+        ],
+        "answer": 2,
+        "stem": "What is the main mystery?",
+        "audio": "media/l3_q1.mp3"
+       },
+       {
+        "id": "L3-2",
+        "num": 2,
+        "options": [
+         {
+          "text": "It's a good neighbourhood."
+         },
+         {
+          "text": "It's not a safe neighbourhood."
+         },
+         {
+          "text": "The neighbourhood kids are mean."
+         },
+         {
+          "text": "She wishes there were more kids."
+         }
+        ],
+        "answer": 0,
+        "stem": "What does the woman think about the neighbourhood?",
+        "audio": "media/l3_q2.mp3"
+       },
+       {
+        "id": "L3-3",
+        "num": 3,
+        "options": [
+         {
+          "text": "He does not like children."
+         },
+         {
+          "text": "He is unfamiliar with specific wildlife."
+         },
+         {
+          "text": "He knows the garbage collectors."
+         },
+         {
+          "text": "He moved in a few weeks ago."
+         }
+        ],
+        "answer": 1,
+        "stem": "What does the conversation suggest about the man?",
+        "audio": "media/l3_q3.mp3"
+       },
+       {
+        "id": "L3-4",
+        "num": 4,
+        "options": [
+         {
+          "text": "He finds it suits his schedule best."
+         },
+         {
+          "text": "He often forgets in the mornings."
+         },
+         {
+          "text": "He thought he was supposed to."
+         },
+         {
+          "text": "He is too busy in the mornings."
+         }
+        ],
+        "answer": 0,
+        "stem": "Why does the man put his garbage out the night before the pickup?",
+        "audio": "media/l3_q4.mp3"
+       },
+       {
+        "id": "L3-5",
+        "num": 5,
+        "options": [
+         {
+          "text": "They are friendly."
+         },
+         {
+          "text": "They are smart."
+         },
+         {
+          "text": "They are ugly."
+         },
+         {
+          "text": "They are rare."
+         }
+        ],
+        "answer": 1,
+        "stem": "What does the woman say about raccoons?",
+        "audio": "media/l3_q5.mp3"
+       },
+       {
+        "id": "L3-6",
+        "num": 6,
+        "options": [
+         {
+          "text": "They can lift heavy bricks."
+         },
+         {
+          "text": "They are active at around noon."
+         },
+         {
+          "text": "They are usually smaller than cats."
+         },
+         {
+          "text": "They have a unique appearance."
+         }
+        ],
+        "answer": 3,
+        "stem": "What does the conversation say about raccoons?",
+        "audio": "media/l3_q6.mp3"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item about an area resident.",
+     "You will hear a news item once.",
+     "Then five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 84.4
+      },
+      "transcript": "Daisy, a dog owned and cherished by Deb Fitherstone, went missing Thursday night. Fitherstone had arranged for Daisy to be looked after by a neighbour. However, instead of just letting the dog out occasionally throughout the day as instructed, the neighbour took Daisy to her home nearby for some extended company.\nUnfortunately, the dog wandered away. The dog is elderly, and confusion and fatigue likely played a role in its inability to find its way either back to the neighbour's house or back home. A frantic search by both the neighbour and, upon her return, Deb, was unsuccessful.\nThe next day, seeing the 'MISSING DOG' posters on telephone poles, Genevieve Genereau put her own dog's excellent nose to the test. While on their daily walk, Genevieve said enthusiastically to Snookums, \"Go find Daisy! Where's Daisy? Where is she?\"\nSnookums, who did not know Daisy, did understand the enthusiasm of \"Go find…!\"and \"Where is…?\"Half an hour later, after finding several half-finished fast food meals, Snookums led Genevieve off the road into the bush to Daisy, curled up in a hole, uninjured, but unable to climb back out. Daisy and Deb were successfully reunited and Daisy is doing well.",
+      "questions": [
+       {
+        "id": "L4-1",
+        "num": 1,
+        "options": [
+         {
+          "text": "Daisy tried to follow her home."
+         },
+         {
+          "text": "Daisy enjoyed being at her house."
+         },
+         {
+          "text": "she felt sorry for the dog being alone all day."
+         },
+         {
+          "text": "she was tired of coming to the house all day."
+         }
+        ],
+        "answer": 2,
+        "prompt": "The neighbour decided to take Daisy home with her because"
+       },
+       {
+        "id": "L4-2",
+        "num": 2,
+        "options": [
+         {
+          "text": "eats a lot of garbage."
+         },
+         {
+          "text": "goes for several walks a day."
+         },
+         {
+          "text": "is friends with Daisy."
+         },
+         {
+          "text": "is good at tracking by scent."
+         }
+        ],
+        "answer": 3,
+        "prompt": "The report indicates that Snookums"
+       },
+       {
+        "id": "L4-3",
+        "num": 3,
+        "options": [
+         {
+          "text": "knew her way home."
+         },
+         {
+          "text": "was missing overnight."
+         },
+         {
+          "text": "was found by her owner."
+         },
+         {
+          "text": "found her friend Snookums."
+         }
+        ],
+        "answer": 1,
+        "prompt": "The report suggests that Daisy"
+       },
+       {
+        "id": "L4-4",
+        "num": 4,
+        "options": [
+         {
+          "text": "a resolution."
+         },
+         {
+          "text": "a regret."
+         },
+         {
+          "text": "a call for help."
+         },
+         {
+          "text": "a recommendation."
+         }
+        ],
+        "answer": 0,
+        "prompt": "The news report ends with"
+       },
+       {
+        "id": "L4-5",
+        "num": 5,
+        "options": [
+         {
+          "text": "an unfortunate dog."
+         },
+         {
+          "text": "an irresponsible dog owner."
+         },
+         {
+          "text": "a new dog-sitting service."
+         },
+         {
+          "text": "a professional dog walker."
+         }
+        ],
+        "answer": 0,
+        "prompt": "The news item is about"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "You will watch a discussion among three library employees - two women and one man. The discussion is part of their weekly staff meeting which takes place in a room in the library.",
+     "You will watch a two-minute video, then eight questions will appear.",
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 146.9
+      },
+      "transcript": "Ellen: Let's move on to the next item on our agenda. Jane, you suggested we start a Children's Book Club. Could you tell us what you had in mind for that?\nJane: Sure. Well, we already have our Storytime for very young children. One of us reads a story and... [Seth and Ellen nod slightly] well, you both know what goes on during Storytime. The goal is to awaken a love of books. I'm thinking that a Children's Book Club could continue where that leaves off.\nSeth: So you imagine something similar to a Regular Book Club? The group decides on a book, everyone reads it, and they would discuss at the next book club meeting.\nJane: Precisely. I'd even thought about having refreshments - maybe juice and cookies, or something -- but I've changed my mind on that point. I think that the books should be the joy, happiness, enough!\nEllen: Well, we don't allow food and drink in the library, so that would send a mixed signal. My concern is that there's such a wide range of reading skills and preferences among children. Do you think we should have several groups, according to age?\nJane: Yes, maybe one for the eight- to ten-year-olds, another for eleven- to twelve-year-olds?\nSeth: And then we could have a Teen Club, and split that as well: one group for the thirteen- to fourteen-year-olds, and another for the fifteen- to seventeen-year-olds. That way, everyone's covered.\nEllen: Wouldn't having four different clubs add significantly to the work load? We can't afford to pay overtime.\nJane: Not significantly, no. Wouldn't half an hour be long enough for a book club meeting?\nSeth: Yes, but who's going to be at the desk when you're leading the book club? We can't exactly run it as a self-service.\nJane: True enough. Well, maybe one of our student helpers would love to lead the clubs. Or maybe we could assign each club to a different student helper.\nEllen: Okay, so it sounds like we're agreed to try it, and we don't need to go to the Board for this, so...I'll approach our student helpers. Jane, could you prepare a flyer that we can put up on the bulletin board? And perhaps you and Seth could put together a list of book suggestions.\nSeth: We have more girls than boys, and we want to appeal to both. Curious George comes to mind, but that might not be at the right level… Harriet the Spy would be a good choice for the older group…",
+      "questions": [
+       {
+        "id": "L5-1",
+        "num": 1,
+        "options": [
+         {
+          "text": "a staffing problem"
+         },
+         {
+          "text": "a new idea"
+         },
+         {
+          "text": "a purchasing decision"
+         },
+         {
+          "text": "a new book"
+         }
+        ],
+        "answer": 1,
+        "prompt": "What are the people discussing?"
+       },
+       {
+        "id": "L5-2",
+        "num": 2,
+        "options": [
+         {
+          "text": "The others already know."
+         },
+         {
+          "text": "They haven't decided yet."
+         },
+         {
+          "text": "She doesn't know for sure."
+         },
+         {
+          "text": "It would take too long otherwise."
+         }
+        ],
+        "answer": 0,
+        "prompt": "Why does Jane only briefly describe what happens at Storytime?"
+       },
+       {
+        "id": "L5-3",
+        "num": 3,
+        "options": [
+         {
+          "text": "set a minimum reading level for the book club"
+         },
+         {
+          "text": "no children under 10 years of age in the book club"
+         },
+         {
+          "text": "divide the book club children into three groups"
+         },
+         {
+          "text": "no refreshments at book club meetings"
+         }
+        ],
+        "answer": 3,
+        "prompt": "What do Ellen and Jane agree about?"
+       },
+       {
+        "id": "L5-4",
+        "num": 4,
+        "options": [
+         {
+          "text": "to involve more student helpers as leaders"
+         },
+         {
+          "text": "to accommodate all of their members"
+         },
+         {
+          "text": "to encourage certain reading preferences"
+         },
+         {
+          "text": "to accommodate different reading levels"
+         }
+        ],
+        "answer": 3,
+        "prompt": "Why does Ellen suggest several groups?"
+       },
+       {
+        "id": "L5-5",
+        "num": 5,
+        "options": [
+         {
+          "text": "sixteen"
+         },
+         {
+          "text": "eighteen"
+         },
+         {
+          "text": "twenty"
+         },
+         {
+          "text": "twenty-one"
+         }
+        ],
+        "answer": 1,
+        "prompt": "At what age is someone eligible to join the regular book club?"
+       },
+       {
+        "id": "L5-6",
+        "num": 6,
+        "options": [
+         {
+          "text": "She is concerned about burn-out."
+         },
+         {
+          "text": "She would like to hire another librarian."
+         },
+         {
+          "text": "She is concerned about their budget."
+         },
+         {
+          "text": "She would like to hire a student helper."
+         }
+        ],
+        "answer": 2,
+        "prompt": "Why does Ellen mention workload?"
+       },
+       {
+        "id": "L5-7",
+        "num": 7,
+        "options": [
+         {
+          "text": "He thinks it would look good on the flyer."
+         },
+         {
+          "text": "He thinks it is more suited to girls than boys."
+         },
+         {
+          "text": "He thinks it will appeal to both boys and girls."
+         },
+         {
+          "text": "He thinks it is at the right reading level."
+         }
+        ],
+        "answer": 2,
+        "prompt": "Why does Seth mention the book \"Curious George\"?"
+       },
+       {
+        "id": "L5-8",
+        "num": 8,
+        "options": [
+         {
+          "text": "They divide the labour."
+         },
+         {
+          "text": "They will think about it further."
+         },
+         {
+          "text": "They decide not to proceed."
+         },
+         {
+          "text": "They will take it to the Board."
+         }
+        ],
+        "answer": 0,
+        "prompt": "How does the meeting end?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a presentation about television rating systems.",
+     "You will hear a report once.",
+     "Then six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 154.3
+      },
+      "transcript": "Increasing concern about violence in our society often leads to a consideration of violence on television. This is not surprising since the average Canadian adult watches 30 hours of television per week; that's 4-5 hours per day. The statistics are even worse for children, who watch up to 8 hours a day.\nTelevision broadcasters in Canada must provide a rating for most of the programs they broadcast, including American and other foreign programs, that includes consideration of the violent content in the program. The rating system, which has been in effect since 1997, indicates the intended audience age group of the program.\nSome people think that simply informing people is not enough. They think that programs with gratuitous violence or, worse, violence intended to entertain, should be prohibited from broadcast. Advocates of such a change in policy refer to studies showing that viewers of such violence, especially children, may become less sensitive to the pain and suffering of others, may become more fearful of the world, and may themselves be more likely to behave in a violent way. Furthermore, refuting the catharsis argument, which claims that watching violence defuses a tendency to behave violently, such advocates point to sports events: violence increases, rather than decreases, when major sports events, which often include violence, are broadcast.\nOn the other hand, advocates of the status quo claim that prohibiting the broadcast of programs with excessive violence amounts to censorship. They argue that as long as people are able to make an informed choice -- and the rating system enables such a choice -- such censorship is not justified.\nTelevision ratings systems consider not only violence, however. Sweden has recently adopted a new rating system for its televised broadcasts to highlight gender bias: to get an A rating, a movie must pass the Bechdel test (named after a cartoonist), which means it must (1) have at least two named female characters, (2) who talk to each other, (3) about something other than a man. Since its introduction, many people have been surprised to discover just how many programs fail the test.\nAlthough Sweden's new rating system will certainly enable informed choice, it remains to be seen whether it will result in a decrease in gender bias in society at large, which is, presumably, its ultimate goal. Many people would argue that the rating system in Canada with respect to violence has not achieved its ultimate goal.",
+      "questions": [
+       {
+        "id": "L6-1",
+        "num": 1,
+        "options": [
+         {
+          "text": "the amount of violence in our society."
+         },
+         {
+          "text": "how much television Canadians watch."
+         },
+         {
+          "text": "Sweden's new rating system for television."
+         },
+         {
+          "text": "the rationale for television rating systems."
+         }
+        ],
+        "answer": 3,
+        "prompt": "The passage is mainly about"
+       },
+       {
+        "id": "L6-2",
+        "num": 2,
+        "options": [
+         {
+          "text": "are inherently violent."
+         },
+         {
+          "text": "watch too much television."
+         },
+         {
+          "text": "are unaffected by television."
+         },
+         {
+          "text": "enjoy sports more than television."
+         }
+        ],
+        "answer": 1,
+        "prompt": "The speaker believes that people"
+       },
+       {
+        "id": "L6-3",
+        "num": 3,
+        "options": [
+         {
+          "text": "how much violence the program contains."
+         },
+         {
+          "text": "what age group the program would suit."
+         },
+         {
+          "text": "which gender any violence is directed at."
+         },
+         {
+          "text": "whether the program has been censored."
+         }
+        ],
+        "answer": 1,
+        "prompt": "Canadian television broadcasters must indicate"
+       },
+       {
+        "id": "L6-4",
+        "num": 4,
+        "options": [
+         {
+          "text": "the effects on impressionable viewers."
+         },
+         {
+          "text": "discrepancies in the rating system."
+         },
+         {
+          "text": "American television programming."
+         },
+         {
+          "text": "the number of daily TV viewing hours."
+         }
+        ],
+        "answer": 0,
+        "prompt": "Advocates for change are mostly concerned with"
+       },
+       {
+        "id": "L6-5",
+        "num": 5,
+        "options": [
+         {
+          "text": "based on popular cartoon series."
+         },
+         {
+          "text": "censored the same way as in Canada."
+         },
+         {
+          "text": "free of pointless violence."
+         },
+         {
+          "text": "generally unflattering to women."
+         }
+        ],
+        "answer": 3,
+        "prompt": "Many televised programs in Sweden are"
+       },
+       {
+        "id": "L6-6",
+        "num": 6,
+        "options": [
+         {
+          "text": "is ineffectual in reducing violence in Canada."
+         },
+         {
+          "text": "has been in place longer than necessary."
+         },
+         {
+          "text": "should be modelled after the American system."
+         },
+         {
+          "text": "seems to target gender bias more than violence."
+         }
+        ],
+        "answer": 0,
+        "prompt": "Many Canadians believe that the television rating system"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Dear Alex,",
+       "You weren't at yesterday's game! In all our years playing together, I haven't seen you miss a single match! I hope all is well. A few other players were home with the flu yesterday. Hopefully you didn't catch it too!",
+       "Anyways, I was wondering if you could answer a few questions for me about the entrepreneurship training program your organization offers. I heard you talking about it and it sounds like it might be just what I need. I checked out the program's website, but I still have some questions before applying.",
+       "I'll be retiring soon, and I want to start my own business. My dad used to have a floral business when I was growing up, and I've always wanted to open my own flower shop, too. However, I currently lack an understanding of how to handle budgeting. Also, does the training offer any advice on which kinds of businesses are profitable and how to create a financially sound business plan? I don't want to waste my money, so I'd like to know if my business has a chance of being successful before going ahead with it. Also, does the training include advice on how to get financial assistance? I have some savings, but not enough to cover everything I would need. I'd like to know what my options are.",
+       "According to the website, the next training session, Mondays from 1:00 p.m. to 5:00 p.m., starts soon. However, as you know, I'm a teacher, so I'll still be working full-time then. The end of the year is busy with exams, report card preparation, and parent-teacher meetings, so I have even less free time than usual. By any chance, is the program ever offered in the evenings or on weekends, or, even better, online?",
+       "My last question is about the cost. The website says fees for the training can be waived for those who qualify, but it didn't mention any further details. How would I find out if I qualify to attend for free? Are there any documents I need to send in with my application?",
+       "Thanks for any help you can give, and I hope to see you in good health next week! We play the Titans, so the coach says we'll be needing our hardest hitter!",
+       "Hope to see you soon,",
+       "Halma Sean"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Why did Halma write this letter?",
+        "options": [
+         "to apply for a new training program",
+         "to request advice about retirement",
+         "to invite Alex to join a sports team",
+         "to get information about a program"
+        ],
+        "answer": 3,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What does Halma say is her weak area?",
+        "options": [
+         "training staff",
+         "managing money",
+         "saving for retirement",
+         "studying for exams"
+        ],
+        "answer": 1,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "In her retirement, Halma hopes to",
+        "options": [
+         "begin a new type of career.",
+         "take over her dad's business.",
+         "have more time for sports.",
+         "study at the local university."
+        ],
+        "answer": 0,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Halma probably",
+        "options": [
+         "visits her dad's flower shop often.",
+         "joined a new sports team recently.",
+         "prefers taking courses in person.",
+         "works primarily during the day."
+        ],
+        "answer": 3,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What is true about the training discussed?",
+        "options": [
+         "It is designed for retired individuals.",
+         "Some members of the team missed it.",
+         "Some people can attend without paying.",
+         "The program is only offered once a year."
+        ],
+        "answer": 2,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "What will Halma probably do next?",
+        "options": [
+         "check the program website",
+         "send Alex her documents",
+         "wait for Alex's response",
+         "register for the program"
+        ],
+        "answer": 2,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the best choice for each blank from the drop-down menu.",
+      "paragraphs": [
+       "Hi Halma, Good to hear from you. My daughter graduated yesterday, so I spent the evening at her ceremony. I'm sorry to hear {{7}}. Anyways, I am glad you contacted me about the training {{8}}. I think it will be very useful for you. To answer your first question, the training does cover {{9}}. The teacher is very knowledgeable and would be a great resource for you in this area.",
+       "Unfortunately, the {{10}} format you asked about is not currently available. It may be offered in the future. Finally, regarding your request about attending the training without {{11}}, you'd have to talk to Samantha Robbins, our program director. Her number is 555-261-3379.",
+       "See you next week!",
+       "Alex"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "others missed the game too",
+         "the game had been cancelled",
+         "we ended up losing the game",
+         "some players went home early"
+        ],
+        "answer": 0,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "my company offers",
+         "you signed up for",
+         "I previously attended",
+         "we have next week"
+        ],
+        "answer": 0,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "unique start-up ideas",
+         "retirement planning options",
+         "business finance topics",
+         "profitable saving strategies"
+        ],
+        "answer": 2,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "full-time",
+         "internet",
+         "in-class",
+         "Morning"
+        ],
+        "answer": 1,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "paying in advance",
+         "providing documentation",
+         "being charged",
+         "having the qualifications"
+        ],
+        "answer": 2,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_1.png"
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu.",
+      "paragraphs": [
+       "To: <slapshotyouthhockeycamp@jaw.ca>",
+       "From: <David.Steeles@email.nw>",
+       "Good afternoon,",
+       "My twins are signed up for 3 weeks of hockey camp and just completed their first week. The new {{1}} was a big incentive for us to choose your camp again. We were relieved that their age group is now {{2}}, as last year scheduling was difficult. The expense was difficult; however, the savings for registering {{3}} more than made up for this. But, we do have a problem now. I wanted my girls to sign up for {{4}}, for the whole time, since it is run by a former professional. However, they've now decided they'd like to try a different skill. Also, your brochure had mentioned that all staff {{5}}. Unfortunately, this was not the case with their coach. Given these two factors, I am hoping my daughters can switch their skill choice for the second and third weeks. Thanks in advance.",
+       "Sincerely,",
+       "David Steeles"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "coach",
+         "focus",
+         "schedule",
+         "location"
+        ],
+        "answer": 3,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "Novice",
+         "Tykes",
+         "Peewee",
+         "Bantam"
+        ],
+        "answer": 0,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "for more than one camp",
+         "for a camp in July",
+         "more than one child",
+         "a month in advance"
+        ],
+        "answer": 0,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "Great Goalies",
+         "Speedy Skaters",
+         "Super Slappers",
+         "Bold Blueliners"
+        ],
+        "answer": 3,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "have received emergency medical training",
+         "can sharpen the kids' skates for them",
+         "are experienced teaching young children",
+         "have at least semi-professional experience"
+        ],
+        "answer": 0,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given in the diagram and email.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "What is true of all the camps?",
+        "options": [
+         "They offer practice in a variety of sports.",
+         "They address various elements of a sport.",
+         "They take place in different sports arenas.",
+         "They are taught by young sports coaches."
+        ],
+        "answer": 1,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What is for sale at the camps?",
+        "options": [
+         "hockey guides",
+         "sports equipment",
+         "start a new job.",
+         "food and drinks"
+        ],
+        "answer": 3,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What does David Steeles most likely believe?",
+        "options": [
+         "A coach's career background is a worthwhile consideration.",
+         "Price is an unimportant factor in kids' sports participation.",
+         "It is important for children to finish the course they enroll in.",
+         "A coach's positive attitude is more important than training."
+        ],
+        "answer": 0,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. Riding Mountain National Park in southern Manitoba has a government designation recognizing the 1000 square miles of parkland that is home to three different ecosystems: grasslands, boreal forests, and deciduous forests. Clear Lake, the largest lake in the park, is a common boating site. The townsite of Wasagaming, the only town located in the park, is a popular summer tourist destination with quaint shops, a log cabin museum, a theatre, and a Parks Canada interpretation centre. Further enticing nature lovers to the region are a number of private cottages near the town and in the surrounding areas.",
+       "B. Riding Mountain was originally the site of a trading post established by the Hudson's Bay Company in 1741. It was there that some of the first Canadian explorers residing in the area began trading with the First Nations people. Henry Houle Hind, a surveyor for the Canadian government, documented the area's rich natural resources. Soon afterwards, the preservation of the forest became a key priority, and the logging work that had been going on was halted. Subsequently, Riding Mountain officially became a national park on May 30, 1933. The infrastructure and roads were completed in 1934 by labourers employed through Canada's depression relief programs.",
+       "C. A prominent individual associated with early conservation efforts in Riding Mountain was Archibald Belaney. He was better known as Grey Owl, the First Nations name and identity he adopted. He lived in a secluded cabin with two beavers, Jelly Roll and Rawhide. Grey Owl worked to ensure the protection of the existing beaver colonies in the parkland. Despite his efforts, circumstances for the beavers became precarious due to the drought-like conditions in the park. After 6 months of working towards saving the decimated beaver population, he was forced to find more suitable living conditions in Saskatchewan. To this day, Grey Owl's cabin is maintained as a tourist attraction.",
+       "D. Currently, Riding Mountain continues to draw from its long history. The interpretation centre strives to connect nature enthusiasts with the landscape by providing information about the area's diverse ecosystems, in addition to the ongoing work by environmentalists to preserve them. Although many tourists flock to the park for its numerous outdoor activities, like boating, golf, tennis, and camping, many are unaware of the efforts being made by local Indigenous groups, scientists, and government workers to ensure the long-term sustainability of the park for future generations.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "The park is home to a variety of vegetation due to its distinct environments.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The educational facility in Riding Mountain highlights official conservation work.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "A historic home associated with Riding Mountain's past brings in visitors.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The park and neighbouring areas have cabins for overnight stays.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Some of Riding Mountain's development occurred as part of a financial recovery initiative.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Historically, Riding Mountain has experienced severe weather conditions.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Commerce between settlers and Indigenous peoples once took place at Riding Mountain.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Clear Lake is a freshwater lake that affords fishing enthusiasts several fishing options.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "Riding Mountain is one of the world's top tourist attractions.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Investor Education",
+       "Canadian high school curriculum should instill more life skills in students. A number of high schools teach practical skills such as carpentry and work-related skills such as keyboarding. Some already include personal money management courses, but why not add financial investing? Teenagers who can tell a hammer from a screwdriver should also be able to tell a Guaranteed Income Certificate from a Canada Savings Bond.",
+       "The rationale is that today's young adults need strong financial skills to help them understand the concept of saving and building return on their savings. Too many parents of this generation have, unfortunately, been remiss in preparing for their retirement which means there will be little for their children to inherit. To improve their prospects, high school teenagers need to learn financial investing.",
+       "I suggested this to a school superintendent, and he said it would smack of capitalist elitism: \"Our job is to graduate socially-responsible, law-abiding citizens, not to help society's top one percent increase their surplus wealth.\"",
+       "But shouldn't every socially responsible citizen invest in order to stave off dependence on welfare programs in old age? What's elitist about saving money?",
+       "My wife and I took up the subject with our kid's Finance teacher. Why not, my wife suggested, teach kids how to invest in an asset that grows rather than diminishes in value?",
+       "The teacher said that the curriculum, created before the era of do-it-yourself online investing, still treated investing as a specialized profession for the few rather than a personal life skill for all. \"It would never fly with the parents' committee, but I'd love to assign an investment simulation. I'd have students set up a practice account at an online brokerage, research and buy a handful of stocks or funds, and see who earns the most.\"",
+       "\"Wouldn't that be playing into a capitalist agenda?\" I asked, playing devil's advocate.",
+       "\"No, I think we'd be protecting them from capitalism--well, from greedy financial advisors anyway. You could present your idea to the Department of Education, you know. They are the curriculum experts.\""
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given in the article.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "The main issue discussed is whether or not",
+        "options": [
+         "children should be protected from capitalism.",
+         "investment is an appropriate course of study.",
+         "parents will allow their kids to invest.",
+         "schools encourage an elitist curriculum."
+        ],
+        "answer": 1,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "With which prediction would the author agree?",
+        "options": [
+         "Do-it-yourself investors will need advisors.",
+         "Elderly people will outlive their savings.",
+         "Parents will have more investment income.",
+         "Workers will have better pension plans."
+        ],
+        "answer": 1,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The parents' committee would likely agree with the",
+        "options": [
+         "author.",
+         "author's wife.",
+         "superintendent.",
+         "Finance teacher."
+        ],
+        "answer": 2,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The superintendent would agree that",
+        "options": [
+         "capitalism is important for success.",
+         "investment concerns only the wealthy.",
+         "schools should cater to the elite.",
+         "up-to-date curriculum is essential."
+        ],
+        "answer": 1,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The writer and the superintendent would agree that",
+        "options": [
+         "retirement investments should be diversified.",
+         "elitism should be taught in high schools.",
+         "governments should redistribute wealth.",
+         "public accountability should be valued."
+        ],
+        "answer": 3,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "This is yet another tired debate about whether schools should {{6}}. Too many people seem {{7}} and reluctant to step on the toes of stakeholders, be they parents, teachers or administrators. Maybe that's why for a decade the Young Success organization has been pairing up high school teachers with volunteer mentors from the financial community. The mentors guide students through a competitive classroom-based simulation of buying and selling equities on the Toronto Stock Exchange. Clearly the author has {{8}}. Young Success programs are popular with high school business departments and students, but some stakeholders resent the private sector's {{9}} public education. Take for example the superintendent whose radical view attributes {{10}} only to the already wealthy. This simply isn't true."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "allow external experts to teach courses",
+         "listen to parents or ignore their suggestions",
+         "mediate conflicts or remain neutral",
+         "take educational risks or the safe route"
+        ],
+        "answer": 3,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "afraid of change",
+         "worried about self-image",
+         "forgetful of duties",
+         "unsure of their finances"
+        ],
+        "answer": 0,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "surveyed a large population",
+         "done insufficient research",
+         "talked with investment experts",
+         "stated incorrect facts"
+        ],
+        "answer": 1,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "capitalizing on",
+         "disinterest in",
+         "influence on",
+         "control of"
+        ],
+        "answer": 2,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "capitalist elitism",
+         "investment knowledge",
+         "social responsibility",
+         "welfare dependence"
+        ],
+        "answer": 1,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "surveyTitle": "Recommending a Book",
+    "scenario": [
+     "Your co-worker is looking for a good book to read. He has asked you to recommend a book to him because you are known as someone who likes to read."
+    ],
+    "instruction": "Write an email to your co-worker in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Briefly describe the book you are recommending",
+     "Explain why you recommend this book",
+     "Invite your co-worker to ask questions about the book"
+    ],
+    "options": [],
+    "samples": [
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "I hope this email finds you well. I'm writing to recommend a book that I believe you'll find both engaging and thought-provoking. The book I'm suggesting is 'Sapiens: A Brief History of Humankind' by Yuval Noah Harari.",
+       "This fascinating work explores the history of our species, from the earliest humans to modern society. Harari masterfully weaves together anthropology, biology, and history to explain how humans became the dominant species on Earth. What makes this book particularly compelling is its ability to connect historical events to our current social and political landscape.",
+       "I recommend this book because it offers a fresh perspective on human history and challenges many of our assumptions about society, culture, and progress. The author's writing style is accessible yet profound, making complex ideas easy to understand. I found it particularly valuable for understanding current global issues in a historical context.",
+       "If you have any questions about the book or would like to discuss it after you've read it, please don't hesitate to ask. I'm always eager to share thoughts and insights about great reads.",
+       "Best regards,",
+       "[Your Name]"
+      ]
+     },
+     {
+      "level": "9",
+      "paragraphs": [
+       "I hope this email finds you well. I'm writing to recommend a book that I believe you'll find both engaging and thought-provoking.",
+       "The book I'm suggesting is 'Sapiens: A Brief History of Humankind' by Yuval Noah Harari. This fascinating work explores the history of our species from the earliest humans to modern society, covering topics like the development of agriculture, the rise of empires, and the impact of technology. What makes this book particularly compelling is Harari's ability to present complex historical concepts in an accessible and engaging manner.",
+       "I recommend this book because it offers valuable insights into human behavior and societal development that are relevant to our work environment. The author's perspective on cooperation, communication, and innovation can provide fresh ideas for our professional challenges. Additionally, the book's global perspective helps broaden one's understanding of different cultures and historical contexts.",
+       "If you have any questions about the book or would like to discuss it further, please don't hesitate to reach out. I'd be happy to share more details or exchange thoughts after you've had a chance to read it.",
+       "Best regards,",
+       "[Your Name]"
+      ]
+     },
+     {
+      "level": "8",
+      "paragraphs": [
+       "I hope this email finds you well. I'm writing to recommend a book that I think you'll really enjoy, especially since you're looking for something engaging to read. The book I'm suggesting is 'The Alchemist' by Paulo Coelho. It's a fascinating novel that follows the journey of a young shepherd named Santiago as he travels across the desert in search of a hidden treasure. Along the way, he learns valuable life lessons about following his dreams and listening to his heart.",
+       "I recommend this book because it's not only a captivating story but also deeply inspiring. The themes of perseverance, self-discovery, and the pursuit of one's personal legend resonate with readers from all walks of life. It's a book that encourages you to reflect on your own goals and aspirations, making it both thought-provoking and motivational.",
+       "If you have any questions about the book or would like to discuss it further, feel free to ask. I'd be happy to share more insights or hear your thoughts once you've read it. I'm confident you'll find it as meaningful as I did.",
+       "Best regards,",
+       "[Your Name]"
+      ]
+     },
+     {
+      "level": "7",
+      "paragraphs": [
+       "I hope this email finds you well. I understand you're looking for a good book to read, and I'm happy to recommend one that I think you'll enjoy.",
+       "The book I'm suggesting is 'The Alchemist' by Paulo Coelho. It's a fascinating story about a young shepherd named Santiago who embarks on a journey to find a treasure. Along the way, he learns valuable life lessons and discovers the true meaning of happiness. The book is beautifully written and full of wisdom that can be applied to our daily lives.",
+       "I recommend this book because it's both entertaining and thought-provoking. It's not too long, so it's perfect for someone who wants a meaningful read without committing to a lengthy novel. The story is easy to follow, yet it leaves you with plenty to think about long after you've finished reading.",
+       "If you have any questions about the book or would like to discuss it after you've read it, please don't hesitate to ask. I'm always happy to talk about books and share insights.",
+       "Best regards,",
+       "[Your Name]"
+      ]
+     }
+    ],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "surveyTitle": "New Apartments Survey",
+    "scenario": [
+     "Your local government is planning to build new apartment buildings near the city centre and is considering two options. One option is several apartment buildings with four floors each. The other option is one apartment building with 25 floors. The government office is conducting a survey among residents to learn their opinion."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I prefer several apartment buildings with four floors each.",
+     "Option B: I prefer one apartment building with 25 floors."
+    ],
+    "samples": [
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "After careful consideration, I strongly support the construction of several four-floor apartment buildings rather than a single 25-floor structure. This approach offers significant advantages for our community's development and residents' quality of life.",
+       "Firstly, multiple low-rise buildings would better integrate with our city's existing architectural landscape. The current neighborhood predominantly features mid-rise structures, and a single high-rise would create an eyesore that disrupts the area's visual harmony. Moreover, spreading the apartments across several buildings would distribute the population more evenly, preventing overcrowding in public spaces and reducing strain on local infrastructure.",
+       "Secondly, this option provides greater flexibility for future urban planning. If demand for housing increases, we can construct additional four-floor buildings without significantly altering the neighborhood's character. This modular approach also allows for phased development, minimizing disruption to current residents during construction.",
+       "In conclusion, while both options address our housing needs, the multiple four-floor buildings present a more sustainable and community-friendly solution that aligns with our city's long-term development goals."
+      ]
+     },
+     {
+      "level": "9",
+      "paragraphs": [
+       "I strongly support the construction of several four-floor apartment buildings rather than a single 25-floor structure. This approach offers significant advantages in terms of community integration and environmental sustainability.",
+       "Firstly, multiple low-rise buildings would better blend with our existing urban landscape. The city center currently features predominantly mid-rise structures, and a single towering building would create an eyesore that disrupts the area's aesthetic harmony. Furthermore, distributed buildings would allow for more green spaces between them, enhancing the neighborhood's livability and providing residents with accessible outdoor areas.",
+       "Secondly, this option presents superior environmental benefits. Multiple smaller buildings would require less energy for vertical transportation and would be easier to cool and heat efficiently. The construction process would also be less disruptive, as work could be phased across different sites rather than concentrated in one location for an extended period.",
+       "In conclusion, while both options aim to address housing needs, the four-floor buildings offer a more sustainable and community-friendly solution that aligns with our city's character and environmental goals."
+      ]
+     },
+     {
+      "level": "8",
+      "paragraphs": [
+       "After careful consideration of the two proposed apartment building options, I strongly support the construction of several four-floor buildings rather than a single 25-floor structure. This preference is based on two primary factors: community integration and environmental impact.",
+       "Firstly, multiple smaller buildings would better integrate with our existing neighborhood character. Our city center is known for its low-rise, human-scale architecture that fosters a sense of community. A single towering structure would disrupt this aesthetic and create an imposing presence that might alienate residents. Furthermore, distributed buildings would allow for more green spaces between them, creating pleasant communal areas for residents to interact and children to play.",
+       "Secondly, from an environmental perspective, several smaller buildings would have a lower ecological footprint. They would require less energy for vertical transportation and could incorporate more natural ventilation and lighting. Additionally, their construction would cause less disruption to the surrounding area compared to the extensive site preparation needed for a high-rise.",
+       "In conclusion, while both options aim to address our housing needs, the multiple four-floor buildings would better preserve our community's character and be more environmentally sustainable. I urge the government to choose this option for the long-term benefit of our city and its residents."
+      ]
+     },
+     {
+      "level": "7",
+      "paragraphs": [
+       "I prefer several apartment buildings with four floors each for two main reasons. First, lower buildings are more accessible for everyone. They are easier for elderly people, families with young children, and people with disabilities to use. Second, having multiple buildings spreads out the population. This can help reduce traffic and noise in one area.",
+       "Four-floor buildings are better for the community. They create a more friendly and open environment. People can get to know their neighbors more easily. Also, if there is a problem like a fire or power outage, it is easier to manage in smaller buildings.",
+       "In conclusion, several four-floor apartment buildings would be better for our city. They are more accessible, create a better community feeling, and are easier to manage in emergencies. I hope the government will choose this option for our neighborhood."
+      ]
+     }
+    ],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your cousin has started working in an office. The job's long hours in front of a computer give him a headache and make him feel tired. Advise your cousin on how he can avoid headaches and drowsiness when working long hours at a computer."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you met someone for the first time. Maybe you could talk about meeting your spouse, a friend, or a co-worker. Who did you meet, how did you meet him or her, and what did you think about him or her when you first met?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_1.png"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_1.png"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "You and a co-worker have decided to take guitar lessons in the evenings after work, so you are searching for a suitable music school. You found two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade your co-worker that your choice is the better choice. If you do not choose, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1.png",
+     "media/speaking_t5_2.png"
+    ],
+    "prompt": [
+     "Your co-worker is suggesting another music school. Persuade your co-worker that the music school you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_3.png",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "Your birthday is next week and you are hosting a dinner. You have invited your friend, who is excited to come to your birthday party. However, your aunt insists that the party should be for family only, to make it more private and comfortable."
+    ],
+    "choices": [
+     "Talk to your aunt. Explain why your friend is still invited to the party.",
+     "Talk to your friend. Explain why he is no longer invited to the party."
+    ]
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think that everyone should pay taxes towards improving a city's public transportation system? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You are at a park and you see an interesting sight. Call your friend Liz and describe what you see. Ask her if she would like to meet you at the park."
+    ],
+    "images": [
+     "media/speaking_5.png"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

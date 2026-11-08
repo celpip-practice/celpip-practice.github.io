@@ -1,0 +1,666 @@
+{
+ "id": "s14-t1",
+ "set": 14,
+ "test": 1,
+ "title": "Practice Test 1",
+ "label": "2021年3月前 · Test 1",
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "Dear Jenny,",
+       "Thank you for your lovely note! At first, I was surprised that you and Nicolas didn't get the place close to town. Still, I'm happy to hear that you two found the ranch of your dreams. I must confess, when you and Nicolas moved to Saskatchewan, I thought you were both crazy. After all, the weather is so very different from the coast. Still, after seeing the pictures you attached, I can see I was wrong. The 1og cabin looks gorgeous, and the land is beautiful. Forty acres is a lot of space, and I'm sure you' 1l make great use of it. I can't wait to come visit you for the holidays.",
+       "I've also moved recently. I had to move as my landlord was putting the house on the market. It was actually a relief because I wasn't too happy in that basement suite as there simply wasn't enough light. The new apartment I'm in is great. It's small, but it's on the top floor and has a skylight and large windows. It's also very close to the transit line, which was a major deciding factor since I don't own a car. The rent is a bit more than I paid before, but not by much.",
+       "Things also changed in my work situation. As you know the art market has really taken a dive, and sales were not going as expected. I finally had enough when 10 other artists and I were invited to auction our paintings to raise money for high school art programs. We were to get 60% of each sale. At first I was happy because I ended up selling all five of my paintings. The buyers took my paintings home, and the fundraiser committee wrote down which paintings I had sold, or so I thought! After not getting my cheque in the mail for 2 weeks, I called the organizing committee. It turns out that they had lost their record book and didn't have any verification of my sales! The lady on the phone said they couldn't pay me since they couldn't confirm how much 1 had made. Luckily, I was able to speak to the buyers and they contacted the committee stating how much they had paid for my paintings, and in the end, they paid me, but only after many phone conversations with the head manager. I decided it was time for a more conventional job, so 1 got a position at the Vancouver Art Gallery, taking visitors through the exhibitions. I miss painting but I'm enjoying the stability and being surrounded by so many different artistic styles and personalities.",
+       "Other than that, life is good. I've just adopted a kitten and am enjoying my work and my new location.",
+       "All the best,",
+       "Sarah"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( '), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Jenny and Nicolas",
+        "options": [
+         "purchased a large property.",
+         "rented a log cabin for the holidays.",
+         "bought an apartment in the city.",
+         "are moving back to the coast."
+        ],
+        "answer": 0,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Sarah needed to move because",
+        "options": [
+         "the rent was too high for the space.",
+         "she didn't get along with the landlord.",
+         "the building was being sold.",
+         "her basement apartment was too dark."
+        ],
+        "answer": 2,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Sarah appreciates her new home because",
+        "options": [
+         "she can get around town easily.",
+         "she has a great view of the city.",
+         "the apartment is small and easy to clean.",
+         "it's more affordable than her previous place."
+        ],
+        "answer": 0,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Sarah recently",
+        "options": [
+         "organized an art event for charity.",
+         "taught art in a high school program.",
+         "helped some artists sell their work.",
+         "sold paintings in a fundraising event."
+        ],
+        "answer": 3,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Sarah encountered difficulties when",
+        "options": [
+         "some paintings were taken without her knowledge.",
+         "she lost the record of her sales.",
+         "a list of art pieces that were sold went missing.",
+         "buyers only paid part of what they owed her."
+        ],
+        "answer": 2,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "After the fundraising episode, Sarah",
+        "options": [
+         "moved to a new apartment.",
+         "moved to another city.",
+         "got a new job.",
+         "enrolled in a high school art program."
+        ],
+        "answer": 2,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks.",
+      "paragraphs": [
+       "Select the best choice for each blank from the drop-down menu (\" )",
+       "Hi Sarah,",
+       "I'm glad you've moved. I also felt that your old place was {{7}} As {{8}} you need a suitable space for being creative. Our new home is wonderful. The weather is actually better than our old place {{9}} We certainly do not miss the relentless rain. I'm sorry to hear about the {{10}} I know how much time and effort you've dedicated to your art so I'm saddened to hear you felt you had no option but to {{11}}",
+       "I hope this is not a permanent decision. I think you have so much talent!! Remember we have lots of room for guests in our new house. Visit us soon! Love,",
+       "Jenny"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "too small.",
+         "quite dark.",
+         "too expensive.",
+         "quite strange."
+        ],
+        "answer": 1,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "an art teacher,",
+         "an art student,",
+         "an art fundraiser,",
+         "an artist,"
+        ],
+        "answer": 3,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "on the coast.",
+         "in a basement.",
+         "in Saskatchewan.",
+         "in an apartment."
+        ],
+        "answer": 0,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "difficult customers at the art show.",
+         "misunderstanding after the art show.",
+         "loss of your paintings after the art show.",
+         "cutting of the school art program."
+        ],
+        "answer": 1,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "stop looking for employment.",
+         "stop attending fundraising events.",
+         "stop painting full-time.",
+         "move to another place."
+        ],
+        "answer": 2,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_p6_1.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "2013/2014 Snow Passes Winter Pass Unlimited skiing and snowboarding during the 2013/14 season! You can also have free access to other activities including snowshoeing, sleigh rides, ice skating, and much more. Bonus! 20% off ski equipment from our store and up to 50% off tickets at other participating ski resorts.",
+       "Night Pass Skiing and snowboarding any evening after 4 pm Includes evening access to mountaintop activities including snowshoeing, sleigh rides, ice skating and much more.",
+       "One Night per Week Pass Ski and snowboard one night a week after 4 pm you can come a different night each week as the pass resets every Saturday night. Bonus! With a 1-Night/Week Pass, receive a bonus night, good any time this winter season.",
+       "Limited Time Offer! 2 free ski lessons with Winter Pass!",
+       "Winter Night One Night/Week Pass Pass Pass Adult (19-64 years) $825 $515 $350 Youth (13-18 years) $675 $390 $275 Child (5-12 years) $375 $235 $160 Tot (4 years and younger) $40 Senior (65+ years) $675 $390 $235 Family (2 adults/2 $2090 $765 $525 children)"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu ( \" ).",
+      "paragraphs": [
+       "Subject: Ski Passes",
+       "To: Jerry S (j. smithers@frimpton. bc. ca>",
+       "From: Leslie (lrockton@sterlings.ca>",
+       "Hi Jerry,",
+       "I meant to talk to you before I left the office, but my meeting with management went longer than expected. You were saying that you want to get ski passes for yourself and Billy. Billy {{1}} so he' 1l be at the youth rate this year. That's more expensive than last year, {{2}} get the family winter pass for just the two of you. The key question is how much you' 11 be skiing. If you can only get up there after work, then you might as well {{3}} This saves you money. Note, however, with my full winter pass, I {{4}} and, of course, I can ski in the day. If you're planning to ski on the weekends, and if {{5}} \"then you might want to consider the full pass. It's definitely more expensive, but you will have a lot more freedom to ski whenever you want.",
+       "Best",
+       "Leslie."
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "is over thirteen years old now,",
+         "is learning to night ski this year,",
+         "needs both a night and winter pass,",
+         "will be skating and skiing this year,"
+        ],
+        "answer": 0,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "so the two of you should",
+         "but you' 11 probably want to",
+         "but it still doesn't pay to",
+         "so you will both have to"
+        ],
+        "answer": 2,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "get the 20% discount.",
+         "get the night pass.",
+         "learn to snowboard or skate.",
+         "get the adult rate."
+        ],
+        "answer": 1,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "can snowboard",
+         "get free access to other reso rt",
+         "can bring a friend for free",
+         "get 20% off ice skating"
+        ],
+        "answer": 0,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "Billy wants free ski lessons",
+         "you want to night ski",
+         "you won't be skiing in the day",
+         "you want to bring a friend"
+        ],
+        "answer": 0,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( 7 ), choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Leslie is Jerry's",
+        "options": [
+         "co-worker.",
+         "longtime friend.",
+         "manager.",
+         "sister."
+        ],
+        "answer": 0,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Leslie",
+        "options": [
+         "has never skied before.",
+         "went skiing last weekend.",
+         "is an experienced skier.",
+         "is a skiing instructor."
+        ],
+        "answer": 2,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Leslie suggests that Jerry",
+        "options": [
+         "gets skiing lessons.",
+         "goes for the family pass.",
+         "avoids weekend skiing.",
+         "saves money for a full pass."
+        ],
+        "answer": 3,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. National parks have existed in Canada for well over a century. The Canadian National Park system is aimed at preserving and representing natural areas of all the 13 provinces and territories in the country. This system comprises over 40 national parks that protect ecological integrity, and allow the public to explore, learn about, and enjoy Canada's natural spaces. Among Canadian national parks, Kluane National Park and Reserve stands out, being declared a United Nations Educational, Scientific and Cultural Organization (UNESCO) World Heritage Site in 1979 for its magnificent glacier and icefield landscapes and wildlife, which include grizzly bears, caribou, moose, wolves, and Dall sheep.",
+       "B. Kluane National Park and Reserve is situated in the southwestern Yukon territory, and is over 22, 000 Km'. It includes the St. Elias Mountains where the highest peak in Canada, Mount Logan, is located. The park is also the site of one of Canada's oldest climate research bases. Founded in 1961, The Arctic Institute's Kluane Lake Research Station has been a major hub for researchers from scientific organizations of diverse disciplines from all over the country and the world. On any day, research groups may be conducting studies in number of fields including geology, biology, botany, and anthropology.",
+       "C. Archaeological evidence suggests humans may have lived in the area following the last Ice Age, over 10, 000 years ago. Evidence also suggests that the Tutchone aboriginal people have lived in the area for hundreds of years. The Tutchone settled in the area after long migration periods through the Kluane Lake area, where they would hunt, fish, and gather food. In the early 1890s, explorers, prospectors, climbers, and hunters also settled around Kluane. In the 1940s, the completion of the Alaska Highway made the area accessible. Soon after, in 1942, the area was declared a wildlife reserve, cutting off natural resources to the people who depended on it.",
+       "D. In 1972 the Canadian Government designated the area as a national park and reserve, which meant aboriginal peoples regained access to natural resources. Federal and provincial governments joined forces to reach a series of agreements with the Champagne and Aishihik First Nations, and Kluane First Nation. Nowadays, status aboriginals from these nations are entitled to harvest resources within Kluane National Park. Government branches and aboriginal peoples have also found ways to boost economic activity in the area, investing in sustainable forestry to promote economic stability for on-reserve aboriginals.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Park visitation is dependent upon approval from the aboriginal nations.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Regulated commercial activities are carried out within the park's boundaries.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Designation of the area as a natural reserve negatively impacted aboriginal peoples.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Experts use park facilities to generate data on environmental factors.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Cuts in governmental funding led to the park being closed for visitation.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The park has received important recognition from an international institution.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Aboriginal people predate the arrival of modern infrastructure in the park region.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "The government has mended their relationship with local aboriginal nations.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "The park is site to a Canadian geographical landmark.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "Nadine Barrow, director of Entrepreneurship, a successful international business coaching company, has satisfied many clients by helping their businesses expand. For the past decade, the driving philosophy behind Barrow's consultancy has been to strive for expanding markets, growing sales, and greater productivity.",
+       "Recently, however, Barrow has started to realize that increasing revenues and profit are not central ambitions for everyone. Her clientele has been shifting towards a different goal of \"lifestyle augmentation\". These clients have a different agenda, one that doesn't involve inexorable expansion, but instead seeks to maintain equilibrium. \"People want to be committed entrepreneurs, but they have different expectations,\" Barrow says. \"Maximizing profits isn't their primary goal. They want to be able to pay the bills, but also have the time to pursue other passions.\"",
+       "Jeff Larkin, a consultant working with Barrow at Entrepreneurship, is skeptical of Barrow's new strategy. \"Firms generally flourish through gaining access to broader markets and greater market share, so I would be hesitant to advise against taking a more expansionist approach, \" Larkin asserts. \"In the volatile economy we're in, businesses need to stay on top of profits in case of economic setbacks. When fluctuations happen, small businesses are often the first to go under.",
+       "Barrow agrees that this is true, but is nevertheless planning to support clients whose focus is stability. \"I respect Jeff's point of view. At the same time, growth comes with a lot of obligations and added responsibilities, \" Barrow explains. \"For example, taking on more full-time employees means you're forced to expand to cover benefits or more equipment. Usually it also means renting more office space, which is another financial stress. Some people just don't want the additional hassle. Larkin is right that it's a competitive world, but that doesn't mean that businesses have to engage in inexorable expansion just to stay afloat. In fact, I think it might be the contrary. People need more flexibility in their lives; they want to be able to prosper but also be able to shift interests and directions when necessary. Being an entrepreneur needn't consume your entire life."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( 7 ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "The established focus of Entrepreneurship had been to",
+        "options": [
+         "attract more customers to clients' companies.",
+         "reduce clients' operational costs by outsourcing.",
+         "focus on the lifestyle of business leaders.",
+         "develop new products for clients' companies."
+        ],
+        "answer": 0,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What did Nadine Barrow observe about her clientele over the last decade?",
+        "options": [
+         "They more often rely on international market expansion.",
+         "They are less committed to daily business operations.",
+         "They favour hiring workers passionate about their jobs.",
+         "They avoid having their personal life consumed by work."
+        ],
+        "answer": 3,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Barrow adjusted her service so she could help clients",
+        "options": [
+         "downsize their companies and reduce costs.",
+         "develop balanced, profitable and stable companies.",
+         "expand export markets and boost profits.",
+         "access the expertise of consultants such as Jeff Larkin."
+        ],
+        "answer": 1,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Jeff Larkin is hesitant to endorse Barrow's new philosophy because",
+        "options": [
+         "companies need internal stability for success.",
+         "companies often over-extend themselves and perish.",
+         "companies that don't expand may go bust in a downturn.",
+         "entrepreneurs can become too stressed to cope with the challenges."
+        ],
+        "answer": 2,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Barrow disagrees with Larkin that",
+        "options": [
+         "small businesses are prone to bankruptcy in recessions.",
+         "access to more markets leads to stronger growth.",
+         "the growth leads to more pressure and responsibilities.",
+         "businesses must continually expand to survive."
+        ],
+        "answer": 3,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "Clearly Barrow doesn't understand the issues faced by today's business people. She will likely {{6}} as soon as the country hits a recession, as I have no doubt that all her clients will go bankrupt. It is simply absurd to assume that a company can just tread water without attempting {{7}} Yes, of course, some business people desire {{8}} but they can't have it both ways. As entrepreneurs, however, they have to {{9}} Being a small businessman I've learned that I have to {{10}} After all, complacency almost invariably means being crushed by the competition."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "inspire all her clients",
+         "lose all her clients",
+         "benefit greatly",
+         "prevail with her strategy"
+        ],
+        "answer": 1,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "any form of growth whatsoever.",
+         "to control the company's costs.",
+         "a more conservative business strategy.",
+         "to expand into overseas markets."
+        ],
+        "answer": 0,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "a low-risk path to rapid expansion,",
+         "a low-stress lifestyle,",
+         "as much profit as possible,",
+         "a more challenging business environment,"
+        ],
+        "answer": 1,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "consider their employees.",
+         "make business the priority.",
+         "avoid unnecessary risks.",
+         "advance personal goals."
+        ],
+        "answer": 1,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "keep business manageable.",
+         "consider my lifestyle.",
+         "strive for growth.",
+         "cut my costs."
+        ],
+        "answer": 2,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "You have a large extended family, and every year you all get together to go on a big family trip for a week. Your brother is in charge of the plans this year, and you would like to suggest a place you've visited before."
+    ],
+    "instruction": "Write an email to your brother in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Name the destination you have in mind.",
+     "Briefly describe your previous experience in this place.",
+     "Talk about some of this place's features."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "Your company blames a number of work-related accidents on employees' low level of physical fitness. The Human Resources Department of your company is surveying your opinion on how to promote a healthier lifestyle amongst its employees. The major question is whether the company should build a large gym facility in the company's premises, or pay for employees to sign up for physical activities wherever they choose."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: Company Gym: Large gym located in the company building. Employees will have 24-hour access to a large variety of fitness equipment and personal trainers.",
+     "Option B: Neighbourhood Gym or Activity: Monthly cash allowance for any physical activity of their choice."
+    ],
+    "surveyTitle": "Physical Activity Survey",
+    "samples": [],
+    "minutes": 26
+   }
+  ]
+ },
+ "warnings": [
+  "listening: source missing",
+  "speaking: source missing"
+ ]
+}

@@ -1,0 +1,1727 @@
+{
+ "id": "s04-t2",
+ "set": 4,
+ "test": 2,
+ "title": "Practice Test 4-2",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 57.7
+      },
+      "transcript": "Good morning. Can I help you? I'm having a problem with my eyes. They are red, and really itchy, and driving me crazy. I'm wondering if you can recommend something. I can see your eyes look really sore. Have you gone to your doctor? No, not yet. I thought I'd get some drops to make the problem go away as quick as possible. Well, we have over-the-counter eye drops that might help. What does over-the-counter mean? It means that the product doesn't require a prescription, usually an over-the-counter product is much less expensive, but it can be just as good as the prescription. That's what I want. Which eye drops should I get? Well, this brand is usually effective, but it depends on what's wrong with your eyes. If you have an infection, for example, you really should see your doctor. Okay, I'll get these, but if they don't help in a few days, I'll see the doctor.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "She makes more money from them."
+         },
+         {
+          "text": "She prefers them to prescriptions."
+         },
+         {
+          "text": "The man is unfamiliar with them."
+         },
+         {
+          "text": "The man wants cheap eye drops."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "Why does the woman explain about over-the-counter products?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "He should consider visiting his doctor."
+         },
+         {
+          "text": "He should try her brand of eye drops."
+         },
+         {
+          "text": "He should wait for a few more days."
+         },
+         {
+          "text": "He should get an eyeglass prescription."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "What advice does the woman give the man?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "It is difficult to find an eye doctor."
+         },
+         {
+          "text": "He wants something immediately."
+         },
+         {
+          "text": "His prescription is too expensive."
+         },
+         {
+          "text": "They're better than prescription drops."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "Why does the man buy over-the-counter eye drops?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 55.1
+      },
+      "transcript": "Hi, I was here a few days ago and got some eyedrops. Yes, I remember. Did the drops help? Not as much as I hoped. So, I took your advice and went to the doctor. He gave me this prescription. Do you have a health plan that covers your prescriptions? No, I don't. So, how much will these drops cost? $30. These are really good eye drops. They should take care of your problem quite quickly. Yeah, but $30 is a lot. The other eye drops were only $10 and they made my eyes feel a little better. Why is this prescription so much more expensive? Well, I think it's just the way pharmaceutical companies set their prices. However, your doctor knows the best medicine to solve your problem, so you can trust that these are excellent eye drops. I'll have them ready for you in 10 minutes.",
+      "questions": [
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "He has a new prescription."
+         },
+         {
+          "text": "His eye drops are all gone."
+         },
+         {
+          "text": "He wants to get advice."
+         },
+         {
+          "text": "His eye dropper dıdn't work."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "Why does the man return to the pharmacy?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "It's more expensive than at other pharmacies."
+         },
+         {
+          "text": "He heard that the price was less."
+         },
+         {
+          "text": "His health plan doesn't cover eye drops."
+         },
+         {
+          "text": "It's more costly than his previous purchase."
+         }
+        ],
+        "answer": 3,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "Why is the man upset about the price?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 43.9
+      },
+      "transcript": "Your eye drops are ready. Use the drops every day for the next seven days. Put two drops in each eye three times a day. Try to space the time out evenly over the course of the day. I can do that, no problem. The easiest way to get the drops into your eye is to pull out the bottom eyelid and squeeze in the two drops. drops. Then close the eye and rub very gently to move the drops around. Then do the other eye. That sounds really hard, but I'll give it a try. I don't like anything getting near my eyes. You should see a lot of improvement in two or three days. These are really good drops. Great. Thanks for your help.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "image": "media/listening_p2_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_2.jpg"
+         },
+         {
+          "image": "media/listening_p2_3.jpg"
+         },
+         {
+          "image": "media/listening_p2_4.jpg"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "Which picture best fits the woman's instructions?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "He must apply the drops frequently."
+         },
+         {
+          "text": "He worries about touching his eyes."
+         },
+         {
+          "text": "The other drops had no instructions."
+         },
+         {
+          "text": "The woman needed to be clearer."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "Why does the man think the instructions are difficult?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "She works at an eye doctor's office."
+         },
+         {
+          "text": "She knows people benefit from instruction."
+         },
+         {
+          "text": "He has been using it in a wrong way."
+         },
+         {
+          "text": "The prescription is difficult to read."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "Why does the woman tell the man how to use the eyedrops?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 126.1
+      },
+      "transcript": "Wow, that was quite the lineup for customer service. I'd like to return this purchase and get my money back. Sorry you had to wait so long. We're short staffed today and the manager is off sick. Is there anything wrong with the printer? No, it's a great machine and a really good deal too. And all in one printer, scanner, copier, and fax for about $90, what's not to like? The thing is, I won't really use it because my son just bought me one exactly like it. So it's not needed anymore. Okay, our return policy is that we refund the purchase price of returned electronic devices if they're brought back in new condition within 30 days. Do you have your receipt with you? Right here. Sorry, it got a bit crumpled in my wallet. I bought the printer on August 9th, just 10 days ago. So it's covered under your return policy, right? Let's take a look inside and see. All the original packaging is here. The serial number on the printer matches the one on the box. You've brought the instruction manual, USB cable, telephone line cord. Where are the ink cartridges? They're inside the printer. I installed them already. They work just great, and there's still lots of ink in them. No worries. We'll take this printer back for you. If you give me your Visa card, I can reimburse you. I see on the receipt that I was also persuaded to buy a one-year warranty for $10. And there was also some sort of $9 charge called an eco fee? What's that? It's a fee the government collects at all stores province-wide to help pay for recycling and safe disposal of electronic items. We'll refund your eco fee as well as the warranty. The $14 in sales tax will also be credited back to your account. Wow, $90 for the printer, plus $33 in warranties, eco fees and taxes. That's a lot of hidden fees. Now that I think about it, that purchase wasn't such a bargain after all.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "a retail sales clerk"
+         },
+         {
+          "text": "a store manager"
+         },
+         {
+          "text": "a repair technician"
+         },
+         {
+          "text": "a customer service clerk"
+         }
+        ],
+        "answer": 3,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "Who is the woman talking to?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "A favour was returned."
+         },
+         {
+          "text": "A request was granted."
+         },
+         {
+          "text": "An offer was considered."
+         },
+         {
+          "text": "A complaint was registered."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "What happened in this conversation?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "to take out the sales receipt"
+         },
+         {
+          "text": "to see what the problem is"
+         },
+         {
+          "text": "to replace the ink cartridges"
+         },
+         {
+          "text": "to ensure nothing's missing"
+         }
+        ],
+        "answer": 3,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "Why does the man open the box?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "a merchandise exchange"
+         },
+         {
+          "text": "a full reimbursement"
+         },
+         {
+          "text": "an added discount"
+         },
+         {
+          "text": "a partial credit"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "What does the woman get?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "checked the bill for mistakes"
+         },
+         {
+          "text": "taken additional costs into account"
+         },
+         {
+          "text": "requested more of a discount"
+         },
+         {
+          "text": "asked for a warranty"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "What should the woman have done differently?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 123.1
+      },
+      "transcript": "Hi, welcome to King's landscaping. What can I do for you? Hi there. I'm having a problem with a tree in my backyard. I thought maybe I should ask an expert. You've come to the right place. Our landscapers have over 20 years of experience. What seems to be the problem? I have a very large maple tree and I think it's rotting. It has fungus growth all over the trunk and it has recently started to bend a little like it's falling over. It blocks a lot of light to my living room windows anyway so I thought maybe now is the time to remove it. Large fungus growth sounds like heart rot disease. That's common in maple trees. It will decay maples from the inside out, often causing a hollow inside. I would recommend getting one of our tree removal experts to come look at it and give you a price estimate. That's what I think too. I have a neighbor who offered to remove it for free but the tree is very close to a power line so I don't want any accidents. Also there might be some difficulty with removing the tree. I live on a steep hillside overlooking a lake and my backyard is quite small. I agree with you. Removing trees around power lines can be dangerous and should only be handled by professionals. The space of the property shouldn't be a problem, though. We have several ways that we can remove a tree if there is limited space. We can saw it into many pieces, or if your property is close to the water, we can bring in a boat to haul the tree. Oh, great. Now what about the remaining stump of the tree? The tree is pretty big. I would say the stump is at least three feet in diameter. We grind it down to the ground, and then you can just let the lawn grow over it. Are you or any of your neighbors' gardeners? We usually leave the wood chips from the stump to place around flower beds. I'm not, but some of my neighbors are, and I'm sure they would love that. Wonderful. Let's book a time this week for someone to come out and take a look.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "He has an unhealthy tree in his yard."
+         },
+         {
+          "text": "He saw a tree fall down."
+         },
+         {
+          "text": "He wants some tree branches removed."
+         },
+         {
+          "text": "He wants several trees cut down."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "Why did the man call the woman?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "The tree is in a difficult place."
+         },
+         {
+          "text": "The tree is too tall and wide."
+         },
+         {
+          "text": "The neighbour has an injury."
+         },
+         {
+          "text": "He dislikes his neighbour."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "Why won't the man allow his neighbor to help?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "that her company is used to small backyards"
+         },
+         {
+          "text": "that the power lines can be moved easily"
+         },
+         {
+          "text": "that the tree stump will be cut to grass level"
+         },
+         {
+          "text": "that the tree removal won't be too expensive"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "Which of the woman's suggestions is the man most pleased with?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "because wood chips from the tree are good for gardens"
+         },
+         {
+          "text": "because her company might get some garden work"
+         },
+         {
+          "text": "because the tree might destroy the surrounding gardens"
+         },
+         {
+          "text": "because they can plant flowers where the tree was"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "Why does the woman ask if the man and his neighbors are gardeners?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "It makes his living room dark."
+         },
+         {
+          "text": "It shades his whole house."
+         },
+         {
+          "text": "It makes his backyard feel too small."
+         },
+         {
+          "text": "It drops too many leaves on his grass."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "Why is the man happy that the tree will be cut down?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "An expert will visit the man's garden."
+         },
+         {
+          "text": "An expert will cut down the tree this week."
+         },
+         {
+          "text": "The man will book an appointment this week"
+         },
+         {
+          "text": "The woman will discuss the tree with her experts."
+         }
+        ],
+        "answer": 2,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "What decision do they make at the end of the conversation?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "It is about one and a half minutes long.",
+     "Then, five questions will appear.",
+     "Here, choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 105.5
+      },
+      "transcript": "Recently at a neighborhood yard sale, Book Enthusiast Dale McKenzie discovered a literary treasure. At the yard sale, McKenzie bought several books for just five dollars. When he returned home, he noticed that one of the books, an old copy of Emma by the famous famous English novelist Jane Austen, was a rare first edition of the novel. Curious about the value of the book, Mackenzie looked up an antique book dealer on the internet. I thought the book might be worth about $50, said Mackenzie. But much to his surprise, he found out that a first edition of Emma, like the one he bought at the yard sale, was valued at approximately $10,000. Mackenzie plans to sell the novel through an internet auction site. He wants to donate half of the profits to the public library, which is in need of a new reading room. I love books,\" said Mackenzie, and would really like to improve our public library so that other book lovers can have a quiet place to go and read. With the remaining money, Mackenzie plans to take a vacation to Germany to visit one of the world's largest annual book fairs. You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Mackenzie found a book that",
+        "options": [
+         {
+          "text": "was a rare German edition of a novel."
+         },
+         {
+          "text": "was autographed by the author."
+         },
+         {
+          "text": "he donated to the library."
+         },
+         {
+          "text": "was very well known but rare."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Mackenzie found the book",
+        "options": [
+         {
+          "text": "during a trip abroad"
+         },
+         {
+          "text": "at a yard sale."
+         },
+         {
+          "text": "on an internet site."
+         },
+         {
+          "text": "at an antique book shop."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Mackenzie was surprised",
+        "options": [
+         {
+          "text": "by the value of the book"
+         },
+         {
+          "text": "by what he found in the book."
+         },
+         {
+          "text": "that the book was available online."
+         },
+         {
+          "text": "that the library did not have this book."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Mackenzie decided to",
+        "options": [
+         {
+          "text": "give the book to the library."
+         },
+         {
+          "text": "keep the book himself."
+         },
+         {
+          "text": "sell the book online."
+         },
+         {
+          "text": "buy the book from the antique dealer."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Mackenzie also plans to",
+        "options": [
+         {
+          "text": "build a new library for his town."
+         },
+         {
+          "text": "visit a book sale in Germany."
+         },
+         {
+          "text": "read the book one more time."
+         },
+         {
+          "text": "build a reading room in his house."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "You will watch a two-minute video, then eight questions will appear.",
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 149.4
+      },
+      "transcript": "You will watch a conversation among three employees, two men and one woman in a company's break room. They are discussing an issue at work. This is Jake. This is Gene. This is Jill. Hey guys, have you seen Next Month's schedule? It was posted last night. Yeah, and I noticed that I'm scheduled for three weekends in a row. Same thing happened to me last month. I didn't say anything about it because I didn't want to rock the boat, but I really need a weekend off next month. Well, that doesn't seem very fair. I wonder what's going on with scheduling. Well, maybe it's because most of us and the other supervisors have children and you're single-gene. I mean, it can be really hard to work weekends when you have family responsibilities. My wife works most weekends. I have to be home. But Jake, that's not really fair. I mean, he probably has other responsibilities, too. Just because he doesn't have kids doesn't mean he should work almost every weekend. Listen, I wouldn't be happy either. Have you talked to the boss about it, Gene? Yes, but he says he can't do much about it because it's already been posted. It's up to me to find someone to change with. He also said that because I have the most seniority, he likes to have me there on busy weekends. I think there's a lot of sports equipment, rentals and special orders and stuff, but you guys could totally handle that. Yeah, I think any of us could cover the weekends. I actually think he would be good for us to get used to the busy weekend rush. It can't be any busier than the mornings that we get stock. I mean, it took us hours to put away the hockey equipment and the snowboards last Wednesday. I wanted to get away for a ski weekend with some friends next month. Yeah, I wanted to test out the downhill skis I bought here last week. week. Would someone be able to switch shifts with me? I would very happily do two evening shifts in exchange for a weekend shift. I'm sorry Gene. I would if I could but I have family coming in, visiting next weekend and my wife's working and my son as a hockey tournament the weekend after that. I actually reserved these weekends off months ago. I could switch shifts with you next weekend. Would you be willing to take two day shifts for me at the end of the month though. My son has a field trip and my daughter has a school play and I'd really like to go. Oh thanks a million Jill. I'll go talk to Mr. Smith right now.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What problem are the colleagues discussing?",
+        "options": [
+         {
+          "text": "a new boss"
+         },
+         {
+          "text": "work hours"
+         },
+         {
+          "text": "a family issue"
+         },
+         {
+          "text": "overtime shifts"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What type of store do they work in?",
+        "options": [
+         {
+          "text": "a sports arena"
+         },
+         {
+          "text": "a department store"
+         },
+         {
+          "text": "a sporting goods retailer"
+         },
+         {
+          "text": "a ski and snowboard resort"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Why does Gene, the older man, want a weekend off?",
+        "options": [
+         {
+          "text": "to take a short trip"
+         },
+         {
+          "text": "to spend time with family"
+         },
+         {
+          "text": "to relax at home"
+         },
+         {
+          "text": "to go buy new skis"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Why does the boss give Gene more weekend shifts?",
+        "options": [
+         {
+          "text": "Only Gene is qualified to do the work."
+         },
+         {
+          "text": "His colleagues can't do special orders."
+         },
+         {
+          "text": "Gene has to order the ski equipment."
+         },
+         {
+          "text": "Gene is the most experienced supervisor."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "How does Jake, the younger man, feel about Gene working weekends?",
+        "options": [
+         {
+          "text": "He thinks Gene needs time with his family."
+         },
+         {
+          "text": "Gene's lifestyle makes it easier for him."
+         },
+         {
+          "text": "He thinks Gene gets the quietest shifts."
+         },
+         {
+          "text": "He would prefer to work weekends himself."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Why does the woman switch shifts with Gene?",
+        "options": [
+         {
+          "text": "She enjoys working weekends."
+         },
+         {
+          "text": "She owes Gene a favour."
+         },
+         {
+          "text": "It's less busy on weekends."
+         },
+         {
+          "text": "It helps both of them out."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "How will their boss likely feel about the switch?",
+        "options": [
+         {
+          "text": "accepting"
+         },
+         {
+          "text": "discontent"
+         },
+         {
+          "text": "surprised"
+         },
+         {
+          "text": "irritated"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "How do the colleagues treat each other?",
+        "options": [
+         {
+          "text": "They're considerate."
+         },
+         {
+          "text": "They're argumentative."
+         },
+         {
+          "text": "They're indifferent."
+         },
+         {
+          "text": "They're unaccommodating."
+         }
+        ],
+        "answer": 0,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "It is about three minutes long.",
+     "Then six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 137.1
+      },
+      "transcript": "Welcome to chat radio. On today's agenda is the topic of green bins. Are they a success or a failure? Started two years ago, the green bin program is a waste management strategy implemented to reduce the amount of garbage sent to municipal landfills. As part of the program, individuals are asked to separate their compostable waste such as food and yard waste into green bins provided by the city. The bins are collected on a weekly basis and rather than take it to a landfill, are brought to a facility that turns the waste into compost. Although generally well received, the program has had its share of criticism. For example, for Judith Knightley, a busy mother of three, the green bins are a nightmare. Knightley complains that not only is it time consuming to sort the copious amounts of garbage produced by a large family, but the bins are also unsanitary, attracting both animals and bugs. Although the green bin is not obligatory, since the program began, regular garbage pickup has been reduced to bi-monthly, leaving many, including nightly, feeling forced into its use. In contrast, Kirk Beauregard, an avid gardener, is thrilled with the city's initiative. Beauregard, who, for many years, has composted his own garbage using a backyard composter, is glad to see the city catching up. He insists that composting is an easy way to turn waste into a valuable product, a product used by many farmers and gardeners in place of chemical fertilizers. While Bull regarded acknowledges that backyard composting might not be enjoyable for everyone, he sees the Green Bin program as a way to make the composting of one's own garbage accessible to everyone. Counselor Trudy Volkov, on the other hand, argues regardless of like or dislike like that the program was necessary. With the city's rapid population growth, finding an economical way to manage the incredible amount of garbage being produced was essential. According to Volkov, city council was faced with two choices, either build a new landfill, or decrease the amount of waste brought to the current landfill. For Volkov, the green bin is a win-win solution. Not only is waste diverted from the landfill, but it is converted into a useful product whose sale can help to fray some of the costs of running the program.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The radio show is discussing green bins because",
+        "options": [
+         {
+          "text": "the city's composting program is controversial."
+         },
+         {
+          "text": "household garbage reduction is impossible."
+         },
+         {
+          "text": "people are refusing to separate their garbage."
+         },
+         {
+          "text": "they have been popular for many years."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Knightley uses the green bin because",
+        "options": [
+         {
+          "text": "compost is a great material for her garden soil."
+         },
+         {
+          "text": "she has garbage pickup every two weeks."
+         },
+         {
+          "text": "she believes the program is a good initiative."
+         },
+         {
+          "text": "her children enjoy learning about composting."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Beauregarde, the gardener, thinks",
+        "options": [
+         {
+          "text": "backyard composters are better than green bins."
+         },
+         {
+          "text": "composting with green bins is easier for people."
+         },
+         {
+          "text": "learning to compost can be challenging for some."
+         },
+         {
+          "text": "backyard composting is more costly than green bins."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Volkov, the councillor, believes the green bin program is",
+        "options": [
+         {
+          "text": "a costly waste of taxpayer's money."
+         },
+         {
+          "text": "an educational undertaking for residents."
+         },
+         {
+          "text": "an efficient fix to the city's problem."
+         },
+         {
+          "text": "an adequate way to tackle food waste."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Volkov and Beauregarde would agree that",
+        "options": [
+         {
+          "text": "the green bin program creates something useful"
+         },
+         {
+          "text": "chemical fertilizers are harmful to the environment."
+         },
+         {
+          "text": "the city's waste problem was getting out of control."
+         },
+         {
+          "text": "there are many problems with the green bin program."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Without the green bin program, it's likely that",
+        "options": [
+         {
+          "text": "regular garbage collection would still be bi-weekly."
+         },
+         {
+          "text": "the mother would purchase a backyard composter."
+         },
+         {
+          "text": "a second garbage dump would need to be built."
+         },
+         {
+          "text": "the gardener would have difficulty finding compost."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "Dear Peter,",
+       "I feel bad about not being there for my little brother's big day today-you're finally sixteen! At last you can learn to drive! You'll soon be receiving a package in the mail that will hopefully make up for my absence. I won't ruin the surprise, but it's something to do with music. I found it during my travels in South America.",
+       "Speaking of music, Mom and Dad said you're getting really good at guitar! I guess those lessons paid off. I always wanted to learn as well, but I was never as passionate about music as you. You'll have to teach me some chords when I get back home next month.",
+       "As for me, traveling has been incredible. I've just spent the past week exploring the Ecuadorian Amazon with local guides. The rainforest grows on you. At first, I found it a bit intimidating with the deadly insects and intense weather changes. But soon I started seeing the beauty of it all; I could peer under a leaf and come across rainbow-coloured insects, and, when looking overhead, I could see a flock of beautiful, colourful parrots passing by. Everything has been great so far, except when I was bitten by a black ant the size of my thumb. Apparently it's called a Bullet Ant because being bitten feels like getting shot! It certainly was the worst pain I've ever experienced. Still, I took a picture of it anyway and also one of my swollen arm. I'm fine now and ready for more adventures.",
+       "I'm currently in Quito, the capital city of Ecuador and also my final stop. It was only a 20-minute plane ride from the rainforest. The weather is pleasantly different: dry and cool. The people are amazing! Everyone is very welcoming and helpful. When I first got here, I didn't have a map, so I walked into a store and asked the shop owner where my hostel was. She couldn't really speak English, so she locked up her shop and took me all the way there, which was 2 kilometres away! Amazing! If only people were like that back home!",
+       "I can't wait to see you. I promise we'll celebrate your birthday properly when I return!",
+       "Susie"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (• ), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Susie",
+        "options": [
+         "will be back for Peter's birthday.",
+         "sent Peter a birthday gift.",
+         "will travel to South America.",
+         "forgot Peter's birthday."
+        ],
+        "answer": 1,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Peter",
+        "options": [
+         "has had some guitar lessons.",
+         "is teaching guitar lessons.",
+         "hopes to play the guitar.",
+         "got a guitar from his parents."
+        ],
+        "answer": 0,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Susie",
+        "options": [
+         "visited the jungle with Ecuadorian guides.",
+         "is traveling with friends to the local jungle.",
+         "enjoyed the warm jungle weather.",
+         "was shot during her trip to the rainforest."
+        ],
+        "answer": 0,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Susie",
+        "options": [
+         "fell instantly in love with the rainforest.",
+         "enjoyed the rainforest's weather.",
+         "delighted in the sounds of the rainforest.",
+         "began to enjoy the rainforest."
+        ],
+        "answer": 3,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Susie is now",
+        "options": [
+         "packing to return home.",
+         "enjoying the last part of her trip.",
+         "flying to the capital city.",
+         "exploring the Ecuadorian jungle."
+        ],
+        "answer": 1,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "In Quito, Susie was surprised by the",
+        "options": [
+         "people's goodwill.",
+         "distance to the hostel.",
+         "cooler weather.",
+         "availability of maps."
+        ],
+        "answer": 0,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the best choice for each blank from the drop-down menu(\" ).",
+      "paragraphs": [
+       "Hey Susie,",
+       "You're right that I {{7}} now. The trouble is that it's really expensive. Since you'll be home soon, I figured out a great solution. You can teach me in exchange for the {{8}} you want.",
+       "I'm sorry to hear about your nasty experience in the jungle. I just googled the ant! It looks huge, and I read that its bite can be {{9}} You may want to see a doctor when you get home.",
+       "By the way, I wonder if that Ecuadorian shopkeeper was just {{10}} because you were a foreigner. Do you think she would shut up her business and {{11}} if you lived in Quito?",
+       "Finally, Mom says to email her and tell her when your flight gets in.",
+       "Love,",
+       "Peter"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "want to visit Ecuador",
+         "am learning guitar",
+         "can learn to drive",
+         "am celebrating my birthday"
+        ],
+        "answer": 2,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "driving lessons",
+         "package",
+         "guitar lessons",
+         "foreign adventures"
+        ],
+        "answer": 2,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "harmful",
+         "harmless",
+         "itchy",
+         "insignificant"
+        ],
+        "answer": 0,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "being friendly",
+         "selling a map",
+         "asking for help",
+         "being uncooperative"
+        ],
+        "answer": 0,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "show the way",
+         "give directions",
+         "take a rest",
+         "find a map"
+        ],
+        "answer": 0,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "6919 182 Street, Oakridge, British Columbia"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_2.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "789-555-1234 majenson@email.com",
+       "OBJECTIVES To obtain a full-time position as a cashier, which will allow me to gain experience, expand my skill set, and pursue leadership opportunities.",
+       "SKILLS PROFILE More than 5 years of experience in customer service Proven record of accurately completing cash transactions Experienced in operating point of sale systems Excellent verbal and written communication skills EDUCATION Upper Heights High School, Maggieville, Alberta June 2005 Dogwood High School Diploma, GPA 3.2 Extracurricular Activities: Intramural Volleyball, Theatrical Club, Yearbook Committee RECENT EXPERIENCE Cashier |City Foods, Oakridge, BC May 2009 - Present Completed grocery transactions efficiently while maintaining a clean work area to meet FoodSafe standards. Received an award for surpassing weekly sales targets for the \"Deal of the Week.\" Cashier |Willow Video, Oakridge, BC February 2005 - April 2009 Performed cash, debit, and credit transactions while greeting guests and providing excellent customer service. Promoted the company's customer loyalty program as well as offers and sales. ACTIVITIES Volunteering at the Oakridge Red Cross. Learning new languages, including French and German. Regular participant of the Oakridge library book club. Member of the regional synchronized swimming team.",
+       "REFERENCES AVAILABLE UPON REQUEST"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu(\" ).",
+      "paragraphs": [
+       "Subject: Job Application",
+       "To: Michael Jenson",
+       "From: Alfonso Copelli",
+       "Dear Michael,",
+       "It was a pleasure to meet you yesterday. Thank you for dropping off your {{1}} for the position of cashier at Alfonso's Groceries. Based on your prior {{2}} experience, I'd like to invite you for an interview.",
+       "My company will soon be opening two more locations, and I need to increase my team. I'm seeking an employee who is already familiar with {{3}}, is a quick learner, and has good interpersonal skills. I am also looking for people who are good at {{4}} which may come in handy when greeting customers.",
+       "Could you please provide the name and contact information for your current supervisor at {{5}} for a reference? I will be holding interviews next Tuesday afternoon between 1:00 p.m. - 6:00 p.m. Please let me know what time is most convenient for you. The interview will likely last 30 to 45 minutes.",
+       "Kind regards,",
+       "Alfonso Copelli"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "contact",
+         "invitation",
+         "application",
+         "advertisement"
+        ],
+        "answer": 2,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "customer service",
+         "employee training",
+         "sales marketing",
+         "active volunteering"
+        ],
+        "answer": 0,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "cash registers",
+         "commercial policies",
+         "grocery stock",
+         "imported products"
+        ],
+        "answer": 0,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "additional languages",
+         "managing others",
+         "marketing reports",
+         "using computers"
+        ],
+        "answer": 0,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "City Foods",
+         "Drumwood High",
+         "FoodSafe",
+         "Willow Video"
+        ],
+        "answer": 0,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Michael applied for the job",
+        "options": [
+         "in person.",
+         "online.",
+         "through a friend.",
+         "through a recruiter."
+        ],
+        "answer": 0,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Alfonso's Groceries is",
+        "options": [
+         "reorganizing.",
+         "expanding.",
+         "relocating.",
+         "downsizing."
+        ],
+        "answer": 1,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "The purpose of the email is to",
+        "options": [
+         "arrange an interview.",
+         "discuss a new reference.",
+         "inquire about a service.",
+         "offer someone a job."
+        ],
+        "answer": 0,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. There are many National Historic Sites in Canada, but few are as popular as the Fortress of Louisbourg in Cape Breton, Nova Scotia. It's the third most popular Parks Canada site in the Atlantic Provinces, and the tenth Canada wide. Louisbourg attracts almost 200,000 visitors annually, partly because of its location near the world-famous Cape Breton Highlands National Park, but also because of its history. In the 17th and 18th centuries, the French and British competed for control of Atlantic Canada and its thriving cod fisheries based in Louisbourg. At this time, Louisbourg was a centre of commerce that traded cod for manufactured goods from France, New England, and the West Indies, making this maritime resource the region's primary driver for economic growth.",
+       "B. Construction of the fortified seaport of Louisbourg began in 1713. It became an important military base with a permanent garrison and a settled French population of about 8,000 by 1744. However, it kept changing hands between France and Britain, depending on which country won the most recent war. In 1745 the British won, and the French population returned to France. Three years later, Louisbourg reverted to France, and the French population returned to Louisbourg. In 1758 the British attacked yet again, re-capturing the fortress in only seven weeks. This time British domination was permanent. The fortifications were destroyed and the town abandoned. This, plus the capture of Quebec in 1759 and Montreal in 1760, ended France's power in North America.",
+       "C. In the early 1960s, the Government of Canada began a $25 million project to reconstruct about one-quarter of the original Louisbourg town and fortifications. The buildings, yards, gardens, and streets were recreated as they were in 1744. At first there was extensive archaeological excavation, uncovering millions of artifacts as well as the ruins of fortifications and buildings. Enough information was uncovered on site and discovered in archives in France, Britain, the United States, and Canada to recreate the fortress with accuracy. Louisbourg is North America's largest historic reconstruction.",
+       "D. Nowadays tourists can enjoy the lavishly reconstructed fortress. In the summer, 150 costumed actors are onsite. Men, women, and children in their period-style clothes act out activities representing society from poor labourers to the very rich. There are engineers, musicians, soldiers, merchants, street vendors, bakers, servants, and fishermen. Visitors can listen to music and stories, watch dances, and observe activities such as lace-making, cooking, gardening, and animal care. They can watch soldiers load and shoot a musket or fire a cannon. Visiting Louisbourg is stepping back 250 years in history.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Today's Louisbourg accurately reconstructs what life was like there in 1744.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "In the 18th century, both France and Britain wanted to control Louisbourg",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Louisbourg is the most popular historical site in Canada.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Today's visitors are entertained by numerous re-enactments.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Fish was the most important commodity of 18th century Louisbourg.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The British finally destroyed Louisbourg to remove the French from the area.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Visitors to the site can participate in the 250-year old activities.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Louisbourg was the largest French settlement in North America in the 1700s.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "Less than half of the original Louisbourg fortress has been restored..",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "It's a tradition. Thousands of Canadian children don skates and train in minor hockey leagues, some from the time they learn to walk. Good sportsmanship and teamwork are supposed to be the main lessons learned, but they've recently been overshadowed by the drive to win at any cost. Nowadays, belligerent parents, sometimes captured on YouTube, yell at their offspring to \"hit harder\" on the ice while they fight amongst themselves in the stands. Parents exchange insults, shoves, punches, slaps, and threats. Homicides have even occurred.",
+       "Only a small fraction of parents are guilty of this hockey madness, but their actions carry broad repercussions, including costly litigation, wasted resources, and damage to the reputation of a time-honoured sport. Now minor hockey organizations in most provinces try to safeguard players' enthusiasm by making parents pass a \"respect in sports\" course before their kids hit the ice.",
+       "At a recent community awareness event hosted by Sports4Kids, most parents interviewed bemoaned the current state of minor hockey, insisting that problems caused by a few were ruining things for everyone. Fredericton parent Janis Fanshaw said both her sons started playing at age 5, burned out after multiple injuries, and now, to her disappointment, shun all team sports. She blames her sons' injuries on \"hockey parents who bullied their kids to bully mine.\" Former hockey parent Meg Nakamura felt her daughter had a milder experience with bullies, but a fair bit of peer pressure. \"She eventually turned to soccer instead,\" Nakamura recalled.",
+       "Addressing the 100 attendees, Sports4Kids director Luigi Pubnico offered this advice to parents: \"Let kids choose their own sports. They'll not only get off the couch and get moving, they'll excel at doing what they love. Just don't let them develop big egos-they're a lifelong hindrance.\" In the subsequent open-mic discussion, one parent, Jose Aldana, insisted that even reluctantly playing any competitive sport will give kids the self-discipline they need to succeed in life. However, self-described \"recovering hockey dad\" Steve Kosinski said, \"Organized sports destroy a kid's spirit and bring out the worst in parents. Just forget organized sports entirely until your kid's at least eighteen.\""
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu(\" ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "According to the article, minor hockey improves players'",
+        "options": [
+         "activity level.",
+         "self-esteem.",
+         "peer relationships.",
+         "self-discipline."
+        ],
+        "answer": 2,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What is one result of hockey madness?",
+        "options": [
+         "fraudulent lawsuits",
+         "injured hockey coaches",
+         "parental training",
+         "more soccer teams"
+        ],
+        "answer": 2,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "According to the writer, what is the primary source of peer pressure?",
+        "options": [
+         "aggressive guardians",
+         "egotistical coaches",
+         "competitive siblings",
+         "organized sports"
+        ],
+        "answer": 0,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Who would most want hockey parents to take the course?",
+        "options": [
+         "Janice Fanshaw",
+         "Steve Kosinski",
+         "Meg Nakamura",
+         "Luigi Pubnico"
+        ],
+        "answer": 0,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Hockey madness can harm a child's",
+        "options": [
+         "personal reputation.",
+         "competitive spirit.",
+         "motivation to exercise.",
+         "passion for sports."
+        ],
+        "answer": 3,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "I was one of the parents at the meeting, and, as one can glean from the article, the majority of parents who spoke {{6}} minor hockey's present state. This being said, it's hard to buy into Kosinski's {{7}}. Minor hockey was a disaster for my kids. However, consistent with what the Sports4Kids representative says, I think that's because they {{8}} sport. In contrast, I completely disagree with one of his points and would argue that it's entirely possible for kids to {{9}}. My overall takeaway from the article is that parents should strive to be {{10}}."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "argued in support of",
+         "felt frustrated with",
+         "regretted their role in",
+         "were unsure how to fix"
+        ],
+        "answer": 1,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "spiteful predictions",
+         "angry accusations",
+         "pessimistic outlook",
+         "vengeful perspective"
+        ],
+        "answer": 2,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "had difficulty choosing a",
+         "were modest about their",
+         "wanted to play a different",
+         "needed a less competitive"
+        ],
+        "answer": 2,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "choose hockey but still be bullied",
+         "develop egos but still succeed",
+         "make choices on their own",
+         "play well but still want to quit"
+        ],
+        "answer": 1,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "aggressive fans",
+         "sideline coaches",
+         "supportive spectators",
+         "leaders in the community"
+        ],
+        "answer": 2,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "You and your co-worker often have lunch in a nearby park. However, there have been too many birds in the park lately, especially the pigeons who want your food. The situation is spoiling your lunch break."
+    ],
+    "instruction": "Write an email to the local newspaper in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Describe the importance of the park to you and your colleagues.",
+     "Explain how the birds have affected you.",
+     "Suggest what the newspaper's readers, or city officials and park managers, can do to improve the situation."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "You live in an apartment building. The apartment management wants to improve the security of the building. One option is to install a new lock in each apartment, the other option is to install more security cameras in the building. The management is surveying your opinion on these security improvement plans."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I choose to have a new lock for my apartment.",
+     "Option B: I choose to have more cameras in the building."
+    ],
+    "surveyTitle": "Apartment Security Survey",
+    "samples": [],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Recently, your office was moved to a location outside of town, meaning that your co-worker Sally-a part-time employee and student-needs to buy a car. However, she cannot afford a car right now. Give her advice on how to handle the situation."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you worked on a project in or around your home. Maybe you can talk about when you built something, fixed something, or cleaned something. What type of work was it, how did it turn out, and what made it memorable?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "Your boss wants to congratulate everyone on the company's anniversary by giving gift cards to all employees. You find two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade a co-worker that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "A co-worker is suggesting another gift. Persuade this co-worker that the option you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "Your co-worker Denny asked you to help him meet the deadline for an important project this weekend, but you have already promised to help your friend Samantha move. However, Denny might be fired if he does not finish the project on time. On the other hand, Samantha cannot move into her apartment without your help."
+    ],
+    "choices": [
+     "Talk to Denny. Explain why you cannot help him.",
+     "Talk to Samantha. Explain why you cannot help her."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think that if a family has young children, both parents should go out to work? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Some teenagers in your neighbour's backyard are doing something a little strange. You decide to call your friend and tell her about what you are seeing. Explain in detail what you think the teenagers are doing and why it's strange."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

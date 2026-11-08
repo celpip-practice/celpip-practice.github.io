@@ -1,0 +1,1762 @@
+{
+ "id": "s12-t1",
+ "set": 12,
+ "test": 1,
+ "title": "Practice Test 12-1",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation between a man and a woman in a children's toy store. The man is a customer, and the woman is a salesperson at the store.",
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 44.5
+      },
+      "transcript": "Hello, I'm wondering if I can return this and get something else. I bought it as a birthday present for my niece and her mother. That is, my sister, says it's too girly. It is one of our best-selling dolls, but I understand what the girl's mother is saying. I think the pink frilly dress is a bit much too. Many parents these days prefer to buy toys that are not made specifically for girls or for boys. So what do you suggest? A stuffed animal? Or bicycle? No. Wow, that's too expensive. How about this talking computer? It's designed to make computers fun. It is brightly colored, but not blue or pink. And certainly both boys and girls should play with computers. I'll take it.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "to make a purchase"
+         },
+         {
+          "text": "to request a refund"
+         },
+         {
+          "text": "to request an exchange"
+         },
+         {
+          "text": "to make a complaint"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "Why has the man come to the store?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "image": "media/listening_p1_1.png"
+         },
+         {
+          "image": "media/listening_p1_2.png"
+         },
+         {
+          "image": "media/listening_p1_3.png"
+         },
+         {
+          "image": "media/listening_p1_4.png"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "What toy did the man's sister dislike?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "blue"
+         },
+         {
+          "text": "pink"
+         },
+         {
+          "text": "brown"
+         },
+         {
+          "text": "yellow"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "What color could the talking computer be?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 39.2
+      },
+      "transcript": "Hello again. The talking computer wasn't acceptable either. I'm afraid not. It uses batteries, which are toxic waste. My sister is really worried about pollution. Well, the toy will work with rechargeable batteries, but let's see if we can find something else. How about this? A puzzle book. It's a very big puzzle book. Yes, there are a hundred puzzles in it. Some are word puzzles, like arranging letters to make a word, and some are picture puzzles, like finding an object hidden in a picture. And my sister can just recycle the book later. It's paper. Not only that, the book itself is made from recycled paper.",
+      "questions": [
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "It's the biggest book they sell."
+         },
+         {
+          "text": "It's environmentally friendly."
+         },
+         {
+          "text": "It has puzzles girls will like."
+         },
+         {
+          "text": "It has both word and picture puzzles."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "Why will the man's sister probably like the book?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "suspicious"
+         },
+         {
+          "text": "appreciative"
+         },
+         {
+          "text": "unhelpful"
+         },
+         {
+          "text": "accommodating"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "Which word best describes the salesperson?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 44.0
+      },
+      "transcript": "Hello. I just came to tell you that the puzzle book was a hit. My niece loved it. Her mother liked it as well? She did indeed. From now on, that's going to be the gift I always buy for children. Too bad there aren't different additions for different ages. That's a wonderful idea. You should write to the publisher. I'll bet the author is already thought of that. You could be right. Maybe the publisher just needs to hear there's a demand for similar books for older kids. The book is really quite wonderful. I took a good look at it. I agree. I gave it to my daughter when she was younger. I'm sure it improved her memory, her ability to focus, and to solve problems. And of course she had fun. I'm not surprised. Wait a minute while I get the publisher's address for you.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "He is pleased that he decided to purchase it."
+         },
+         {
+          "text": "He is surprised that his niece liked it."
+         },
+         {
+          "text": "He thinks it is too difficult for young children."
+         },
+         {
+          "text": "He prefers the edition for older children."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "How does the man feel about the book?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "Her daughter outgrew the book at a young age."
+         },
+         {
+          "text": "It made her daughter want to become a writer."
+         },
+         {
+          "text": "It helped her daughter develop many skills."
+         },
+         {
+          "text": "Her daughter memorized parts of the book."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "What does the woman say about the book?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "to complain about the price"
+         },
+         {
+          "text": "to suggest books for older children"
+         },
+         {
+          "text": "to request a shorter version of the book"
+         },
+         {
+          "text": "to ask about books for younger kids"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "Why does the man want the publisher's address?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation that takes place at work. They are discussing what the man did on the weekend.",
+     "You will hear a conversation followed by five questions.",
+     "You will hear the conversation only once.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 108.6
+      },
+      "transcript": "Hey Rick how was your weekend? It was awesome. We ended up going to the Greek festival in the park. Have you ever been? No but I've always wanted to check it out. How was it? It was amazing. I went with my wife and kids and there was really something for everyone. Food, music, dancing, art, cooking classes. It was pretty cool. We were there for hours. I'm crazy about Greek food and I'd love to learn some recipes. The cooking class sounds right up my alley. What kind of dishes were they making? Mostly appetizers and finger foods. The chefs were a group of local sisters. I think they have a catering business and work at their family's restaurant. Oh, I know exactly who you mean. They're called the four sisters. They've actually been on food TV and even have a new cookbook out. I would have loved to see them. Did you get to try the stuff they cooked? No, there were too many people in front of me to get a sample. But there was a huge tent where they served up a ton of traditional Greek food and desserts. Pedas, salads, fish, kebabs, baklava. I wasn't very hungry, so I just tried some lemon cake. My wife and kids had souvelockeys. They looked pretty delicious. And what about the traditional music and dancing? Did you join in? No, not me. You know I have no talent for that. Just two left feet. They actually even had lessons for the kids. My daughter's thought it was pretty fun. Nice! There was lots of other arts as well. They had a man teaching people how to sculpt. My wife loves art, so was really happy to learn sculpting. I think the festival is still on this upcoming weekend. I highly recommend it. Okay, you've sold me on the idea. Well, let's get down to business. We've got to get this report done before the meeting this afternoon.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "a sporting event"
+         },
+         {
+          "text": "a theatre performance"
+         },
+         {
+          "text": "a cultural celebration"
+         },
+         {
+          "text": "a local cooking school"
+         }
+        ],
+        "answer": 2,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "What are the man and woman discussing?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "learning to make sculptures"
+         },
+         {
+          "text": "watching traditional dances"
+         },
+         {
+          "text": "listening to cultural music"
+         },
+         {
+          "text": "learning traditional recipes"
+         }
+        ],
+        "answer": 3,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "What was the woman most interested in?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "He's not a good dancer."
+         },
+         {
+          "text": "It was only for children."
+         },
+         {
+          "text": "He was busy elsewhere."
+         },
+         {
+          "text": "He had a foot injury."
+         }
+        ],
+        "answer": 0,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "Why did the man not dance?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "a salad"
+         },
+         {
+          "text": "a kebab"
+         },
+         {
+          "text": "a pita"
+         },
+         {
+          "text": "a cake"
+         }
+        ],
+        "answer": 3,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "What did the man eat?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "invite a friend to go with her"
+         },
+         {
+          "text": "follow the man's recommendation"
+         },
+         {
+          "text": "find a good Greek restaurant"
+         },
+         {
+          "text": "check out the event next year"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "What did the woman decide to do at the end?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation between a man and a woman.",
+     "You will hear a conversation followed by six questions.",
+     "You will hear the conversation only once.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 133.2
+      },
+      "transcript": "Hello. I wonder if you can help me. I'm interested in taking the cooking classes your grocery store offers. Sure. We offer one class each week on Wednesdays, usually with a special theme for the month. For example, this is June and the theme is barbecuing. My wife said she wants me to do some of the summer cooking. I can barbecue so your classes might be very helpful. But wait, now that I think of it, I actually wanted to ask about the Indian curry class advertised in your flyer? We love curry. When is it scheduled? Oh, that is an hour. You know, I saw the ad for that class too. I think it was a four-week mini course at the community college starting in October. You need to call them. Okay. I'll start with your barbecuing class. What's on your menu? The main meat item is beer can chicken. It involves seasoning a small chicken, Then, standing it over an open can of heated beer, the beer steams through the chicken, adding wonderful flavor and keeping it deliciously tender. That sounds...how should I say this? Different? We don't drink alcohol though. In that case, it would be a good idea to skip this one and register for next week. That menu contains no alcohol, I guarantee. Apple marinated scallops, cedar plank salmon, roasted asparagus, and chocolate mousse. Just fill out this form and pay the $15 and you're registered, 6 p.m. next Wednesday. I didn't realize there was a fee, I thought the grocery store offered these for free. Well, first you'll be watching the chef make the food and describing the process as he does it, then he plates the food and you eat what he prepared. paired. So you'll eat dinner in the class. The fee covers the food costs. Oh, and you get copies of the recipes. Oh, so we aren't doing hands-on cooking ourselves? That's right. I'm sure you'll learn a lot though. So are you interested in the class for next week? You've convinced me. Sign me up. I'll also check out that curry class for October. Will my wife ever be surprised this summer?",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "details about cooking classes"
+         },
+         {
+          "text": "tips on how to barbecue"
+         },
+         {
+          "text": "how to cook curry dishes"
+         },
+         {
+          "text": "copies of chicken dish recipes"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "What information does the man want from the woman?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "He wants ideas for barbecuing."
+         },
+         {
+          "text": "His wife wants him to learn."
+         },
+         {
+          "text": "The flyer offered a great discount."
+         },
+         {
+          "text": "He has collected many recipes."
+         }
+        ],
+        "answer": 1,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "Why is the man interested in cooking?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "She will open a class in September."
+         },
+         {
+          "text": "She also saw the advertisement."
+         },
+         {
+          "text": "She enjoys cooking curry dishes."
+         },
+         {
+          "text": "She is taking the class herself."
+         }
+        ],
+        "answer": 1,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "Why does the woman have information about the curry class?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "He knows how to barbecue chicken."
+         },
+         {
+          "text": "He's already busy Wednesday night."
+         },
+         {
+          "text": "He is not keen on this week's recipe."
+         },
+         {
+          "text": "He's interested in barbecuing salmon."
+         }
+        ],
+        "answer": 2,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "Why will the man wait a week to start?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "He won't practice cooking in class."
+         },
+         {
+          "text": "He'll be doing the cooking himself."
+         },
+         {
+          "text": "He won't get to sample the food."
+         },
+         {
+          "text": "He cannot get a store discount."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "What disappoints the man?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "find more curry dish recipes"
+         },
+         {
+          "text": "register for the store's class"
+         },
+         {
+          "text": "surprise his wife with a salmon dish"
+         },
+         {
+          "text": "check discounts of other stores"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "What will the man probably do next?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item about a popular event.",
+     "You will hear a news item once.",
+     "Then five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 71.4
+      },
+      "transcript": "Local figure skater, 15-year-old Kim Chung has made the national figure skating team. Although Chung only placed sixth at the national skating championships, one of the top five place finishers was injured last week, and Chung was named as her replacement. Happy about the opportunity, Chung told reporters it's not how she wanted to make the team, but she does think she deserves it and will do her best. Chung competed in the Nationals last year as well, but a serious injury hampered her performance and she finished a disappointing tenth. Speaking about the increase in injuries among elite figure skaters, retired coach Elsa Dunlop said that the program requirements have gone crazy. Skaters have to cram their program with so many difficult and high-risk moves. Dunlop claims that over-training is inevitable, and so are injuries, especially among the younger skaters. Dunlop also lamented that the requirements left no room for artistry anymore. As a member of the team, Chung will represent Canada at international competitions. A list of these competitions along with dates and locations is available on the Skate Canada website.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The news item is mainly about",
+        "options": [
+         {
+          "text": "an upcoming local figure skating performance."
+         },
+         {
+          "text": "a local figure skater making the national team."
+         },
+         {
+          "text": "the national team being plagued with injuries."
+         },
+         {
+          "text": "an interview of a retired figure skating coach."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Kim Chung responded to the news with",
+        "options": [
+         {
+          "text": "delight."
+         },
+         {
+          "text": "surprise."
+         },
+         {
+          "text": "disinterest."
+         },
+         {
+          "text": "confusion."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Chung did not make the team last year because",
+        "options": [
+         {
+          "text": "she did not perform very well."
+         },
+         {
+          "text": "she didn't compete for a place."
+         },
+         {
+          "text": "she was too young to qualify."
+         },
+         {
+          "text": "she avoided difficult moves."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The interviewed coach, Elisa Dunlop, thinks that",
+        "options": [
+         {
+          "text": "figure skaters don't train hard enough anymore."
+         },
+         {
+          "text": "all figure skating coaches should have first-aid training."
+         },
+         {
+          "text": "simplicity is highly valued in figure skating competitions."
+         },
+         {
+          "text": "previous skating program requirements are preferable."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The bit of the news item that mentions international competitions is",
+        "options": [
+         {
+          "text": "entertaining."
+         },
+         {
+          "text": "informative."
+         },
+         {
+          "text": "opinionated."
+         },
+         {
+          "text": "repetitive."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "You will watch a discussion among three people. They are in the staff lunchroom at the elementary school where they work.",
+     "You will watch a two-minute video, then eight questions will appear.",
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 175.3
+      },
+      "transcript": "You will watch a discussion among three people. They are in the staff lunchroom at the elementary school where they work. This is Matthew. This is Betty. This is Gavin. Well, the votes are in. The kids picked Creature Town for their grade six graduation trip. Really? Creature Town? Not pirate landing? or any of the less furry or crawly amusement park options? Are they trying to punish me? They know that I don't like bugs or fish or any sort of four-legged creature. I was surprised that they didn't pick pirate landing either. I guess Matthew's science classes are having an impression. As much as I'd like to take the credit, it was all them. They're just really into science. Well, maybe I did sell Creature Town a little bit. So I have you to blame. Well, now that we know where we're going to go on our trip, we have to figure out funding. I'm so tired of the kids losing out when there are budget cuts, and I've heard that there might be some more before the end of the year. Definitely. They understand that they can only go if they raise the funds, but I don't want to disappoint them. Well, there's the old standard, selling chocolate door-to-door. That's what I did as a kid, although I usually ended up eating more than I sold. No surprise with that sweet tooth of yours. I'm not sure though if it's the best idea for our school. I don't think parents want their kids going up to strange houses. I know we used to do it, but parents are a lot more cautious nowadays. Unfortunately that's true. I don't see any parents okaying that option. What about a baseball tournament? I know Kirkfield Elementary did that last year. You have all the players paying entry fee, and then the winning team kicks 25% of the money raised. Not baseball? That has got to be the most boring sport on Earth. And it'll only work if we manage to get enough players. Which, with this weather, I can't imagine the interest being there. It has been unseasonably cold. Wait, what about a dance? My cousins in a band, they've been getting a lot of local radio play lately. They were even hired to play at the tunnel, that new nightclub in town. Maybe we could hold it at the gym, charge a small entrance fee and fight the whole community. That's great. We'll raise money and the kids would love it. Maybe we can even decorate with a theme, like lost in the jungle. We can get everyone to wear costumes and things. Oh, it's going to be awesome. I don't know about making it a theme party, but I like the dance idea. If your cousin's band is actually good, it could raise lots of money. Can we hear their music somehow before deciding? Sure. They have some videos online. We could go check them out.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What are the teachers trying to decide about the graduation trip?",
+        "options": [
+         {
+          "text": "where they should go"
+         },
+         {
+          "text": "what to do instead of a trip"
+         },
+         {
+          "text": "whether to let the kids go"
+         },
+         {
+          "text": "how to finance their trip"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What does Betty dislike?",
+        "options": [
+         {
+          "text": "animals"
+         },
+         {
+          "text": "trips"
+         },
+         {
+          "text": "sweets"
+         },
+         {
+          "text": "science"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What did Mathew try to persuade the kids to do?",
+        "options": [
+         {
+          "text": "choose Creature-Town for the trip location"
+         },
+         {
+          "text": "convince their parents to sell chocolate"
+         },
+         {
+          "text": "vote again on the location for the trip"
+         },
+         {
+          "text": "fundraise with a baseball tournament"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What does Betty believe about parenting?",
+        "options": [
+         {
+          "text": "It is more challenging these days."
+         },
+         {
+          "text": "Parents are more relaxed these days."
+         },
+         {
+          "text": "It has changed since she was a kid."
+         },
+         {
+          "text": "Parents are stricter now about eating sweets."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What did Kirkfield Elementary do last year to raise money?",
+        "options": [
+         {
+          "text": "The kids sold chocolates door to door."
+         },
+         {
+          "text": "The school hosted a sports event."
+         },
+         {
+          "text": "The parents donated $25 each."
+         },
+         {
+          "text": "The local community held a dance."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "What is most likely true about Mathew?",
+        "options": [
+         {
+          "text": "He does not enjoy watching bands at night clubs."
+         },
+         {
+          "text": "He likes dressing up for costume parties."
+         },
+         {
+          "text": "He does not go to watch baseball games."
+         },
+         {
+          "text": "He tries to eat healthy by avoiding sugary foods."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Why does Betty mention The Tunnel nightclub?",
+        "options": [
+         {
+          "text": "to suggest a good place to hold their event"
+         },
+         {
+          "text": "to indicate where they can hear a particular band"
+         },
+         {
+          "text": "to propose a location to continue their discussion"
+         },
+         {
+          "text": "to emphasize the skill level of a particular band"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "How does the conversation end?",
+        "options": [
+         {
+          "text": "They will look further into one of the suggestions."
+         },
+         {
+          "text": "They will continue trying to come up with ideas."
+         },
+         {
+          "text": "They will start planning with the option they chose."
+         },
+         {
+          "text": "They will take a break and decide later that day."
+         }
+        ],
+        "answer": 0,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a presentation about children and TV.",
+     "You will hear a report once.",
+     "Then six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 170.0
+      },
+      "transcript": "Many of us will remember as children, waking up early Saturday morning, trekking down stairs while our parents slept, and flipping on our favorite Saturday morning cartoons, a weekend ritual that entertained children and allowed weary parents a few extra hours of sleep. Saturday morning cartoons seemed like a win-win situation. Indeed, despite their primary purpose being a means to advertise products to a young and captive audience for several hours a week, most parents likely appreciated the brief reprieve that they provided. However, Natalie Kingsley, spokesperson for the parent advocacy group Turn It Off, contends that children today watch far more than just a few hours of TV in a week. With most Canadian homes now owning multiple televisions, in addition to other electronic product devices such as computers, tablets, or cell phones, children now have access to round-the-clock TV programming and games. Kingsley believes the excessive time spent in these sedentary behaviors can be blamed for the increasing prevalence of disorders such as obesity and attention deficit disorder seen in children today. She also aptly points out the disturbing trend towards infant and toddler-specific television programming, such as Lala TV, which despite warnings from the majority of pediatricians that children under two should never watch TV, are becoming increasingly popular. Yet, for Maya Pang, a working mother of three, Lala TV has been a lifesaver. While Pang understands the importance of not letting her 10-month-old watch TV all day, she is grateful for the hour of quiet provided when her child watches his favorite TV show, a rare moment of calm that allows her to get supper prepared. Being a parent herself, Kingsley understands Pang sentiment. However, she asserts that although this one hour may seem harmless, before the age of three, children learn better from the real world. They may be fascinated and entertained by the images they see on a screen, but they are unable to make sense of them. Time spent watching TV takes away from time that should be spent exploring the real world, A fact which can have adverse effects on learning, in particular language development. While Pang is aware of these concerns, she believes parents can drive themselves nuts trying to be perfect. Letting her son watch Lala TV each day gives her the time to prepare a healthy, home-cooked dinner for her family. Before Lala TV, a fussy infant, combined with Pang's busy schedule, meant dinners often consisted of takeout or frozen meals. for paying, although not a perfect solution, it is one that works for her family.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The main topic discussed is",
+        "options": [
+         {
+          "text": "the influence of television advertising on children."
+         },
+         {
+          "text": "the effects of sedentary activities on childhood disorders."
+         },
+         {
+          "text": "the impacts of television on children and families."
+         },
+         {
+          "text": "the results of educational TV programs on children."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Natalie Kingsley would most likely",
+        "options": [
+         {
+          "text": "allow her infant to occasionally watch LaLa TV."
+         },
+         {
+          "text": "limit the number of take-out meals fed to her child."
+         },
+         {
+          "text": "teach her child how to use a computer or tablet."
+         },
+         {
+          "text": "encourage her toddler to be physically active."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "With regards to LaLa TV, Maya Pang expresses",
+        "options": [
+         {
+          "text": "concern."
+         },
+         {
+          "text": "appreciation."
+         },
+         {
+          "text": "doubtfulness."
+         },
+         {
+          "text": "excitement."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Previously, Maya Pang found it difficult to",
+        "options": [
+         {
+          "text": "help her son learn a language."
+         },
+         {
+          "text": "wake up on Saturday mornings."
+         },
+         {
+          "text": "prepare homemade meals."
+         },
+         {
+          "text": "spend time with her family."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Natalie Kingsley would likely agree that",
+        "options": [
+         {
+          "text": "TV networks respect the needs of children."
+         },
+         {
+          "text": "educational TV programs help children learn."
+         },
+         {
+          "text": "child-specific TV can be harmful for children."
+         },
+         {
+          "text": "TV is better than other types of electronic devices."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The speaker's goal is to",
+        "options": [
+         {
+          "text": "present information in a neutral manner."
+         },
+         {
+          "text": "gather support for an important cause."
+         },
+         {
+          "text": "persuade people to change their habits."
+         },
+         {
+          "text": "criticize a TV network for harmful actions."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Dear Ms. Alvarez,",
+       "I am interested in enrolling in Spanish language classes at your school and would like a bit more information. Having reviewed the course information on your website, I'm excited about the variety of special activities offered in your classes and would like to enroll for the next semester. However, I'd like your advice as to which course and level would be most suitable for me.",
+       "I have been studying Spanish at another local language school for the past three months, but I find that the teaching style is ineffective for my learning preferences. We are required to do a lot of self-study and are expected to teach ourselves the content before attending class. This is a real challenge because I have a full-time job and don't have time to complete the four hours of homework assigned each week. As a result, I often feel lost in the class because I haven't properly understood the content and the teacher doesn't explain it well. The manner in which the courses are taught at my current school is not working for me. The main reason I chose to take Spanish classes was for fun, but so far my experience has been stressful. However, I think that the curriculum at your school looks really fun and interesting, especially the practical exercises such as cooking, dancing, and watching Spanish movies.",
+       "I would appreciate your advice on course options. I'm looking for a class that focuses specifically on listening and speaking skills so that I am comfortable using the language when traveling. I have already studied the basics such as introductions and greetings, describing daily routines, and giving directions. After looking at your curriculum, I can't decide whether your Beginner Level 2 or 3 class would be most appropriate. I would really appreciate your advice. Oh, perhaps we could arrange an interview by telephone so that you could suggest an appropriate level for me. You can reach me by email at this address or by phone at 902-244-4444 in the evenings after 6 p.m.",
+       "I look forward to hearing from you!",
+       "Regards,",
+       "Erin LeBlanc"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Erin is looking for",
+        "options": [
+         "an enjoyable conversation course.",
+         "a more challenging course.",
+         "a way to study more by herself.",
+         "a way to learn Spanish cooking."
+        ],
+        "answer": 0,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Erin is asking about",
+        "options": [
+         "which class she should take.",
+         "the style of teaching at the school.",
+         "how difficult Spanish is to learn.",
+         "ways to make the classes more fun."
+        ],
+        "answer": 0,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Most likely, Ms. Alvarez will",
+        "options": [
+         "be upset by the complaint.",
+         "be happy to advise on a school.",
+         "be sorry to see Erin leave.",
+         "be glad to suggest a course."
+        ],
+        "answer": 3,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Erin feels anxious in class because",
+        "options": [
+         "the course is boring.",
+         "she cannot keep up.",
+         "she needs more practice.",
+         "the teacher is strict."
+        ],
+        "answer": 1,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Erin would do better in her class if she",
+        "options": [
+         "liked the teacher more.",
+         "was not working full time.",
+         "spent more time in class.",
+         "received more homework."
+        ],
+        "answer": 1,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Erin believes that Ms. Alvarez's school",
+        "options": [
+         "offers lively and active classes.",
+         "helps students to learn very quickly.",
+         "specializes in basic Spanish courses.",
+         "gives the students homework."
+        ],
+        "answer": 0,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the best choice for each blank.",
+      "paragraphs": [
+       "Dear Ms. LeBlanc,",
+       "I hope your experiences have {{7}} Spanish, which is really quite an easy language. There are certainly many different approaches to learning. Your {{8}} certainly makes learning Spanish difficult. I think you will do much better in an environment where you learn to converse by {{9}}",
+       "It's very difficult to answer your question directly. We would need to {{10}} before we give you an answer. Perhaps you could drop by our school one evening so that we can answer your questions. Hopefully, we can find a learning environment which you find more {{11}} Best,",
+       "Elisa Alvarez Director,",
+       "Halifax Spanish Institute"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "not lessened your interest in",
+         "encouraged you to study",
+         "dissuaded you from studying",
+         "helped to improve your"
+        ],
+        "answer": 0,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "busy lifestyle",
+         "lack of experience",
+         "need for fun",
+         "lack of ability"
+        ],
+        "answer": 0,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "using Spanish in enjoyable activities",
+         "speaking Spanish on a daily basis",
+         "learning practical, workplace Spanish",
+         "focusing on vocabulary and grammar"
+        ],
+        "answer": 0,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "assess your current abilities",
+         "teach you some basic Spanish",
+         "learn more about your work",
+         "sign you up for a Level 1 class"
+        ],
+        "answer": 0,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "enjoyable",
+         "challenging",
+         "academic",
+         "demanding"
+        ],
+        "answer": 0,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_p4_1.png"
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank.",
+      "paragraphs": [
+       "Subject: Course Schedule",
+       "To: Peter Aikens; <paikens@oakregional.com >",
+       "From: Kayla Valen; <kvalen@oakregional.com>",
+       "Dear Mr. Aikens,",
+       "I see that I need {{1}} my course schedule. In the meantime, here are some of my questions and concerns. I realize that you tried to {{2}} but I've been given three different {{3}}",
+       "I intend to major in languages, so I'd prefer to take Spanish. I don't see a need for Computing Science as I've been working on computers since I was a little kid. For the same reason, I question the need for all {{4}} If instead I could use my laptop in class, I could save a lot of trees.",
+       "Lastly, regarding non-academic topics, are the activities and clubs {{5}} Is participation in these required? I take music lessons and swimming at the same times.",
+       "Thanks! Kayla"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "to meet with you about",
+         "to select classes for",
+         "your suggestions for",
+         "my parents' input on"
+        ],
+        "answer": 0,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "give me the classes that I want",
+         "enrol me in the easiest classes",
+         "focus my courses in one subject",
+         "assign only course requirements"
+        ],
+        "answer": 0,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "history courses",
+         "language courses",
+         "literature courses",
+         "science courses"
+        ],
+        "answer": 3,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "those required materials",
+         "those suggested materials",
+         "that recommended software",
+         "those optional textbooks"
+        ],
+        "answer": 0,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "every week day",
+         "every lunch break",
+         "in the mornings",
+         "also on weekends"
+        ],
+        "answer": 0,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "What are the roles of Mr. Aikens and Kayla?",
+        "options": [
+         "counsellor and student",
+         "counsellor and teacher",
+         "teacher and student",
+         "two students"
+        ],
+        "answer": 0,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Why is Kayla concerned about the schedule?",
+        "options": [
+         "She prefers classes other than science.",
+         "She wants courses related to her major.",
+         "She's worried about being bored.",
+         "There are too many difficult courses."
+        ],
+        "answer": 1,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Why is Kayla asking about the additional activities and sports?",
+        "options": [
+         "She needs that time to complete her homework.",
+         "She prefers to go straight home after school.",
+         "She wants to spend the time on languages.",
+         "She is too busy to participate in them."
+        ],
+        "answer": 3,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": null,
+      "paragraphs": [
+       "A. Matches made of wood splinters and dipped in sulphur, a chemical element, date back to tenth-century China. However, some Chinese scholars speculate that women may have invented matches as early as 577 CE, at a time when they were unable to freely search for tinder due to threat of attack from invaders. This \"fire inch-stick\" technology seems to have evolved separately in nineteenth-century Europe when, in Paris in 1805, chemist Jean Chancel created matches that burst into flame when dipped in sulphuric acid.",
+       "B. The next generation of matches relied on friction to produce a flame. These \"strike anywhere\" matches ignited when the tip, containing the necessary chemicals to produce combustion, was struck against a rough surface. Although developed in 1827 in England by a chemist named John Walker, they were commercialized by Samuel Jones. Due to Jones's efforts, these \"Lucifers\" became popular in various European countries and led to increased tobacco use.",
+       "C. In France, in 1831, Charles Sauria developed a new type of match made with white phosphorus, another chemical element. Effective even on rainy days and free of the pungency that assailed the nose when Chancel's and Walker's matches were lit, these matches gained mass production and worldwide use. Unfortunately, this next generation of matches was unsafe for the labourers who manufactured them: workplace exposure to phosphorus vapour caused deterioration of the jaw bone. Despite a workers' strike, a vigorous information campaign, and voluntary discontinuation in a few European countries, the majority of countries persisted in manufacturing white phosphorus matches until 1906, when the process was finally banned under the law.",
+       "D. Gradually, factory owners replaced white phosphorus with red phosphorus, a considerably less poisonous chemical that is still used in matches today. In fact, a single state-of-the-art match factory in Sweden produces millions of boxes of tiny matches daily using red phosphorus and wood splinters from aspen trees. The red phosphorus is mixed with powdered glass or some other substance to create a rough striking surface, which is then safely positioned on the outside of the matchbox containing the aspen splinters. Only when the match is struck against the surface will it ignite. These \"safety matches\" were developed in Sweden, in 1844, by Gustaf Pasch, although it was Joshua Pusey who invented the matchbook in 1889 as an alternative to the matchbox. Pusey's patent was challenged by the Diamond Match Company, which had invented a similar matchbook; the difference was that their striking substance was on the outside, whereas Pusey's was on the inside.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "An odorless alternative to sulphur matches was invented using a different chemical.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Legislation was necessary to end the fabrication of one type of match.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The global demand for matches has steadily increased for 200 years.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The first Europeans to invent matches were apparently unaware of earlier versions developed elsewhere.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "One entrepreneur turned a chemist's innovative new match type into a business venture.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "A modern and up-to-date European match factory is highly productive.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "One inventor developed a matchstick box whose friction-producing surface was on the inside.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Samuel Jones was a friend of John Walker.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "In France during the early 1800s, match tips were immersed in a chemical to produce combustion.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Following the advice of experts, more and more health-conscious consumers are consuming fish at least twice a week for the heart-healthy benefit of essential omega-3 fatty acids. Nutritionist Andy Veinot not only urges consumers to ensure their fish choices contain sufficient levels of omega-3 fatty acids, but also to verify that the fish is free of contaminants. Veinot adds that the latter is usually not applicable to Canada due to federal regulations.",
+       "Aquaculture, or fish farming, produces about one third of the world's seafood. Most of the shrimp, salmon, and tilapia found in grocery stores is farmed. \"If we didn't have aquaculture, we wouldn't have so much fish available,\" says Maria Cordova, who prepares fish for her family three times a week. \"Farmed fish is more reasonably priced than wild fish and is on hand at the market every day.\" Catching farmed fish doesn't depend on the weather or on government-set quotas, both of which affect fishing in the wild. Department of Aquaculture representative Marcus DeSilva argues that aquaculture helps preserve the ecology of the wild species; thus, overfishing and the endangerment of fish species are less prevalent. \"Wild fish may have greater flavour, better appearance, and better nutrition, but farmed fish is more accessible and more ecology-minded,\" he says.",
+       "Critics of aquaculture are primarily concerned about contaminants. Fishermen control the diets of farmed fish and insert additives in the food. Veinot points out that this is where problems can arise. \"The components of the food may not be healthy,\" he says. Angela Crispino, president of the Council for Aquaculture Reform, carries the argument further. \"The fish farm environment of tightly massed-together fish in the pens causes greater susceptibility to disease and, consequently, the administration of high doses of antibiotics. This is harmful to consumers.\" Crispino adds that the water is usually contaminated, either from the fish themselves or from other environmental factors. Nonetheless, medical professionals and nutritionists maintain that many foods contain additives nowadays, but the benefits of eating fish far outweigh any perceived disadvantages."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Fishing in the wild is controlled by",
+        "options": [
+         "ecologists' advice.",
+         "market demand.",
+         "imposed limits.",
+         "number of fishers."
+        ],
+        "answer": 2,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Based on the article, health experts want people to",
+        "options": [
+         "be cognizant of food content.",
+         "limit their use of antibiotics.",
+         "avoid consuming farmed fish.",
+         "advocate strict food regulations."
+        ],
+        "answer": 0,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Some people favour aquaculture because it",
+        "options": [
+         "provides an added boost to the economy.",
+         "creates a greater variety of fish choices.",
+         "is superior in appearance and flavour.",
+         "is more convenient and cost-effective."
+        ],
+        "answer": 3,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Cordova would most likely agree that farmed fish is",
+        "options": [
+         "an unnecessary evil.",
+         "scarcely available.",
+         "a win-win situation.",
+         "generally pricey."
+        ],
+        "answer": 2,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Crispino would most likely agree that",
+        "options": [
+         "oceans are becoming too contaminated.",
+         "farmed fish provides added nutrition.",
+         "aquaculture practices need re-examining.",
+         "the incidence of fish disease is rising."
+        ],
+        "answer": 2,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "This controversy about farmed fish is new to me. I didn't know that the salmon I buy is farmed and, therefore, {{6}} I always check that my fish choice is high in omega-3 fatty acids because my husband needs this for his heart, but I had no idea about {{7}} We recently read about how {{8}} no longer work as they should, and maybe dosing farmed fish with them is part of that problem. However, worrying about fish {{9}} in restricted areas is ridiculous. I'm not convinced that fish appreciate the expanse of the lakes and oceans of their natural habitat. Even so, I agree with DeSilva that we should {{10}} wild fish."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "pollution-causing",
+         "substandard",
+         "more wholesome",
+         "uneconomical"
+        ],
+        "answer": 1,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "undesirable supplements",
+         "environmental ramifications",
+         "hormonal side-effects",
+         "contraband antibiotics"
+        ],
+        "answer": 0,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "farm pens",
+         "antibiotics",
+         "fish diets",
+         "omega-3s"
+        ],
+        "answer": 1,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "swimming freely",
+         "living naturally",
+         "being crammed",
+         "having diseases"
+        ],
+        "answer": 2,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "choose to purchase",
+         "consume much more",
+         "increase the quotas of",
+         "safeguard the stocks of"
+        ],
+        "answer": 3,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "You needed some help with your garden a few weeks ago. It had too many weeds and insects, and your flowers were dying. You went to a local Garden Centre for help. The salesperson was very helpful, and now your garden looks much better."
+    ],
+    "instruction": "Write an email to the Manager of the Garden Centre in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Describe the salesperson who helped you.",
+     "Explain what the salesperson did for you.",
+     "Describe the positive results from the salesperson's advice."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Dear manager at Home Gardens,",
+       "A few weeks ago I came to your downtown branch in need of assistance regarding my private garden. I had a considerable problem with pests and weeds and was having a hard time maintaining the health of my plants. Although I enjoy gardening very much, I confess I was a bit lost on how to approach the situation.",
+       "Upon arriving at the store, I was greeted by Daniel, who was delightfully supportive and helpful. He inquired about my specific needs and pointed me to the products that he believed would help me most efficiently. I could tell that there were more expensive options available, but also that he was more concerned about making sure I would be satisfied with the results rather than earning a big commission.",
+       "After following Daniel's recommendations, I am happy to see that my petunias are looking much healthier. In fact, because he went the extra mile and gave me such insightful pointers, I have expanded my gardening skills and have even ventured so far as planting a few cacti! It would be remissive of me not to lend him my strongest endorsement to his superiors.",
+       "Regards,",
+       "Mary Smith"
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "John Bean, the Manager of the Garden Center,",
+       "Few weeks ago I have realized that something was going wrong with my garden. Most of the flowers were rapidly dying, weeds were growing all around the place and were also attracting many insects that I have never seen before. I am still new to gardening so I decided to visit your Garden Center in order to ask for advice.",
+       "The salesperson, a young woman named Rose, politely suggested her assistance when she saw me helplessly struggling to find the right products on the shelves. She patiently listened to my explanation without interrupting and then asked few additional questions to find out how I was taking care of my plants so far. After that she passed me two bottles of liquids, encouraged to follow the instructions and assured that my garden will look much better after 3 or 4 days. Guess what! She was totally right! I got rid off the weeds and the flowers are growing again.",
+       "I am extremely thankful for her help and glad that you train your staff properly. Keep up the good work!",
+       "Faithfully yours,",
+       "Lucas"
+      ]
+     },
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "Dear Manager,",
+       "My name is Tom. Before three weeks, I went into your store for help. When I came into the store, your employee, John, helped me with my problem. He showed me everything I asked about flowers. We walked in the Garden Centre, and for any of my questions, he had good answers. John sold me the best flowers in the store and told me how to take care of them.",
+       "Now, three weeks later, my backyard looks fantastic. Finally, I got what I wanted. My neighbours can't believe how my garden looks!",
+       "I want to tell you, John is a very good man. You are lucky because you have a great person in your company.",
+       "Thank you for your time. John deserves a raise!",
+       "Tom!"
+      ]
+     }
+    ],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "There are plans to improve your city. Two different ideas are being discussed. One is to build a bigger library with more computers and more books. The other is to build a new playground. The playground in your neighbourhood now is very small and old. The city planners want to ask the public for their opinion."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I think the city should build a bigger library.",
+     "Option B: I think the city should build a new playground."
+    ],
+    "surveyTitle": "Library or Playground",
+    "samples": [
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "It is unfortunate that budgetary constraints allow for the improvement of only one of either the library or playground. Both are worthy of investment. Since, however, one has to be prioritized over the other, I feel that it is the playground which needs the most urgent attention.",
+       "Our town's growth in recent years - especially amongst young families - has resulted in the chronic overcrowding of this facility. Children regularly have to wait significant lengths of time to take their turn on playground equipment, which has caused frustration and lead to a number of arguments with those perceived to be 'pushing in'.",
+       "In addition, the increased wear and tear on already old equipment has caused a number of pieces of equipment to break. This is potentially dangerous to the young children who use the playground.",
+       "Spending money to increase the book stock of our local library doesn't especially add value to a community which has, as its fastest growing demographic, a population which is not yet reading! It should be noted that libraries have always been able to acquire unstocked books from other facilities on request. This community can therefore afford to wait for the planned library expansion."
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "I am very glad to have a chance to express my opinion about new city plan.",
+       "I think both of two ideas are very important for the city. I truly believe the new playground will be better investment for a few reasons.",
+       "First of all, current playground is very old and even dangers for the kids to play there. It was build 50 years ago and has never been renovated. The city has to rebuild or remove dangers part of the contraction to make it safe.",
+       "The second reason is the playground is too small for the amount of the kids playing there every day. Population of our city is growing very fast and we need to be ready to provide them nice, big and save place to play and grow.",
+       "I think the investing in to the new playground will be more important compare to bigger library investment. New generation deserves better playground.",
+       "Kate Smith"
+      ]
+     },
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "Nowadays, there many changes of quality of our life. Improving the city more, we can get a lot of new things from it.",
+       "In my opinion, I strongly prefer that city should build a new playground.",
+       "Firstly, playground make us very healthy. Recently the number of lucking exercise is increased.",
+       "If city build a new playground, we can play tennis, baseball and so on. The chance of exercising is going to be increased. What is more, exercise is good for brain. It helps our concentration with work or children's study ability as well because of blood stream.",
+       "Secondly, playground make our relationship better. We can talk each other. Also we can meet new people inside the playground. Communicate with each other and exchange something new information.",
+       "Lastly, inside of the playground, there are many natures. Natures makes us more relax. Also good for eyes. In the busy world, relax and take a break is the key to be health.",
+       "Hence, playground will be great effective for us."
+      ]
+     }
+    ],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your friend wants to help some of her classmates improve their reading skills. Give her advice on what she should do to help them."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you felt very energetic. Maybe you were starting something new, going somewhere exciting, or meeting with people who were very energetic. What happened, why did you feel energetic, and why was it memorable?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.png"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p1_1.png"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "Your niece is turning 9 years old and your family has asked you to plan her birthday party. You find two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade a family member that your choice is the better choice. If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1.png",
+     "media/speaking_t5_2.png"
+    ],
+    "prompt": [
+     "A family member is suggesting another option. Persuade them that the option you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_3.png",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "You know that one of your co-workers, who is going to retire in a few months, has been stealing from the company. You have seen him putting office supplies and computer parts in his bag on several occasions, and you have told some other co-workers about it. Your co-worker Sam thinks that you should not bother reporting the theft, since the man is about to retire. Another co-worker, Erin, thinks that you need to report the theft to your boss as soon as possible."
+    ],
+    "choices": [
+     "Talk to Sam. Explain why you want to report the theft.",
+     "Talk to Erin. Explain why you do not want to report the theft."
+    ]
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think that the government should cancel taxes on certain kinds of products, such as books, children's clothes, groceries, and school supplies? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Your friend, Kathy, is moving to Canada with her family and has asked you to help her find a place to live. You see an interesting house that she and her family might like to live in. Call Kathy and describe in detail what the house looks like, and ask her if she'd like to live in the house."
+    ],
+    "images": [
+     "media/speaking_p4_1.png"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

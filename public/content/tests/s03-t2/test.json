@@ -1,0 +1,1716 @@
+{
+ "id": "s03-t2",
+ "set": 3,
+ "test": 2,
+ "title": "Practice Test 3-2",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 42.9
+      },
+      "transcript": "Good morning. Can I help you? Hi. My husband is convinced. I need a pair of glasses for reading. I've never had glasses, so I'm not sure what to do. Well, you've come to the right place. Have you had your eyes checked recently? No, not recently. I get regular checkups from my family doctor, but I don't remember him checking my eyes. Okay, so the first step is to see an eye doctor and get your eyes tested. If your vision needs correcting, the doctor will give you a prescription. Do you do this testing here? Actually, there's an eye clinic right next door. it's on the left. You can go there and make an appointment. If they give you a prescription, bring it here and we can help you. Thanks. I'll do that right now.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "Her husband needs new reading glasses."
+         },
+         {
+          "text": "Her husband thinks she needs glasses."
+         },
+         {
+          "text": "She has a prescription for new glasses."
+         },
+         {
+          "text": "She wants a second pair of glasses."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "Why is the woman visiting the store?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "to see if her prescription has changed"
+         },
+         {
+          "text": "to figure out if she needs glasses"
+         },
+         {
+          "text": "to find out why her left eye hurts"
+         },
+         {
+          "text": "to get her yearly check-up"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "Why does the man suggest going to an eye doctor?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 56.5
+      },
+      "transcript": "Hi, I was here last week. I did as you suggested and got my eyes tested. I have my prescription. Oh, yes. Can I see your prescription? Well, Mrs. Mackie, this shows you certainly do need glasses. Yes, so the doctor said he was surprised I'd managed to wait so long. Okay, so first you need to decide which frames you like. I don't want anything too pricey. Just regular inexpensive glasses to help me see better. Here's what I have in the lower price range. These are plastic frames and they usually last a long time. I think these would look nice on you. Why don't you try these on and see what you think? Oh my, they make me look like a different person. The blue frames look great with my blue eyes. What do you think? I agree and they are a good price. I'll take some measurements so we can prepare the glasses for you. It'll take a couple of weeks for them to be ready.",
+      "questions": [
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "She normally gets regular check-ups."
+         },
+         {
+          "text": "She needed a strong prescription."
+         },
+         {
+          "text": "Her problem was an easy one to fix."
+         },
+         {
+          "text": "Her glasses were in such bad shape."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "Why was the doctor surprised she had waited so long?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "colour"
+         },
+         {
+          "text": "COST"
+         },
+         {
+          "text": "size"
+         },
+         {
+          "text": "style"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "What is most important for the woman in choosing glasses?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "They are perfect."
+         },
+         {
+          "text": "They are long lasting."
+         },
+         {
+          "text": "They are too big."
+         },
+         {
+          "text": "They are too colourful."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "What does the woman think of the frames he suggests?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 41.7
+      },
+      "transcript": "I'm here to pick up my new glasses. Mrs. Mackie, please have a seat and I'll get them for you. Here we are. Try them on. Oh my goodness, these are awesome. I can see. And the text on my cell phone is so much clearer. I won't text the wrong person now. This is wonderful. Here's a special cloth and cleaning solution. If you always use this, the lenses won't get scratched. Just wet the glasses, spray on some solution, then dry them with the cloth. I do that every morning. This is wonderful. My husband will be delighted that I can see now. And that this whole experience didn't cost as much as he feared. Thank you so much.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "image": "media/listening_p2_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_2.jpg"
+         },
+         {
+          "image": "media/listening_p2_3.jpg"
+         },
+         {
+          "image": "media/listening_p2_4.jpg"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "What did the woman come back to the store for?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "He wants her to purchase his expensive cleaner."
+         },
+         {
+          "text": "He wants her glasses to remain in good shape."
+         },
+         {
+          "text": "He thinks people don't clean their glasses enough."
+         },
+         {
+          "text": "He thinks she won't wear her glasses if they are dirty."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "Why does the man talk about cleaning her glasses?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "buy another pair of glasses"
+         },
+         {
+          "text": "show her husband the bill"
+         },
+         {
+          "text": "go to another eyeglass store"
+         },
+         {
+          "text": "use the cleaning solution"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "What will the woman probably do next?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 111.6
+      },
+      "transcript": "Andrew, do you have a minute? We need to discuss who should get the top employee award. Sure, Irene. I guess you and I are this year's selection committee. I don't know anything about this award. What is it for? Well, the selection guidelines are very broad and there's really no definition for top. It used to be called office choice award, but that was a popularity contest. Some people even paid friends to vote for them if you can believe it. Wow, the award is that important. There are around 70 employees here, but only one person can get the award, right? Unless they make 70 mini awards or just give up on the award entirely. These ideas were discussed to do, but the award is given during the summer office picnic and it's part of the fun. The top employee award has been given for three years now. We can only choose five recipients you know. Really? This is getting interesting. So who got it last year? I think Jeanette got it because she decorated her office space so well and because she made the best cheesecake for the picnic. George also wanted because of the spectacular entertainment he lined up for our open house last Christmas. Oh, so the criteria are that relaxed. It sounds like we could just draw names out of a hat and then justify our choices afterwards. Well, to tell you the truth, that is how Jeanette and George and the others were chosen last year. We put everyone's name into a box and drew five. Then we came up with reasons for why they are top employees. employees. Oh, and we don't choose the same people each year, and you and I are not eligible. It's very democratic. I'll say. And everyone's okay with this system? Oh, yeah. The award is a highlight of the picnic. Let's get started. This won't take long.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "to choose award winners"
+         },
+         {
+          "text": "to plan the award ceremony"
+         },
+         {
+          "text": "to review award applications"
+         },
+         {
+          "text": "to change the award process"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "Why are the woman and the man meeting together?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "It provides entertainment."
+         },
+         {
+          "text": "It has no purpose."
+         },
+         {
+          "text": "It should be given to everyone."
+         },
+         {
+          "text": "It is an important achievement."
+         }
+        ],
+        "answer": 0,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "What is the man's opinion of the award?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "by choosing the most deserving"
+         },
+         {
+          "text": "by reviewing all applications"
+         },
+         {
+          "text": "by counting staff votes"
+         },
+         {
+          "text": "by drawing names from a box"
+         }
+        ],
+        "answer": 3,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "How are the award winners chosen?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "at the summer picnic"
+         },
+         {
+          "text": "at the Christmas party"
+         },
+         {
+          "text": "at a staff meeting"
+         },
+         {
+          "text": "at an awards ceremony"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "When is the award given?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "She is a manager."
+         },
+         {
+          "text": "She is an award candidate."
+         },
+         {
+          "text": "She is a new employee."
+         },
+         {
+          "text": "She will organize the picnic."
+         }
+        ],
+        "answer": 2,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "Which statement is probably true about the woman?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 136.0
+      },
+      "transcript": "Hello. I'm getting married this July and I'm looking for a wedding photographer. My friend John referred you to me. He got married last September and said you were excellent. I saw your photos and they were beautiful. He also showed me your online portfolio, and I have to say, I was really impressed with your sense of design. Oh, thanks. That's nice to hear. Yes, I remember John's wedding. I love garden ceremonies. Well, I'd be very interested in photographing your wedding. Could you first tell me the date and location So I can check my calendar and see if I'm available. Sure. It's July 2nd, and it will be at my parents' property in Halifax It won't be as fancy as John's wedding, but they have a beautiful backyard overlooking the ocean My fiance Sarah and I wanted something outdoors Hmm It looks like I am unavailable on that day. I'm flying away to shoot another wedding Now when you checked my online portfolio, you must have seen my colleague Cindy Shins work work. Would you be interested in having her shoot your wedding? Oh, that's such a pity. I guess I should have called earlier. Yes, I've seen her work and I liked it as well. Her work bears a lot of similarities to yours. It certainly does, and that's because she was my mentor. I'm looking at her schedule and she happens to be available that day. That is really lucky. Would prices be comparable? We charge the same rates, and we offer three different packages. The basic package starts at $3,000. It includes an engagement portrait session and complete wedding day coverage, which covers everything from getting ready to cutting of the cake, dancing and guest portraits. In addition, we charge travel costs, food and lodging when the ceremony is out of town. Basic is fine with me. That's already slightly over my budget, it, so I'd rather not be tempted by the other packages. Do I choose which photos I want printed? Is printing included? Of course. You'll receive a link to an online photo gallery of the best 200 photos within three weeks. You can pick out the 50 you like. That sounds great. I'll talk it over with my fiance and get back to you in a few days. Thank you very much.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "He met her at a wedding party last year."
+         },
+         {
+          "text": "He saw her pictures at a wedding fair."
+         },
+         {
+          "text": "His friend was a former client."
+         },
+         {
+          "text": "He found her on a photography website."
+         }
+        ],
+        "answer": 2,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "How did the man find out about the photographer?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "a luxurious garden ceremony"
+         },
+         {
+          "text": "a family ceremony in his backyard"
+         },
+         {
+          "text": "an outdoor ceremony in a park"
+         },
+         {
+          "text": "a simple ceremony at his parents' place"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "What will the man's wedding be like?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "because the wedding is in a different city"
+         },
+         {
+          "text": "because she is already booked for that day"
+         },
+         {
+          "text": "because of the man's modest budget"
+         },
+         {
+          "text": "because she prefers indoor ceremonies"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "Why does the woman suggest another photographer?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "because no other photographer is available"
+         },
+         {
+          "text": "because Cindy Shin offers a discounted rate"
+         },
+         {
+          "text": "because other photographers are less affordable"
+         },
+         {
+          "text": "because he appreciates Cindy Shin's work"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "4. Why does the man consider the woman's partner?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "the basic package price without guest portraits"
+         },
+         {
+          "text": "the basic package price and extra for portrait photos"
+         },
+         {
+          "text": "the basic package price and nothing else"
+         },
+         {
+          "text": "the basic package price plus printing of the photographs"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "What is the man prepared to pay for?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "as a combination of digital and print copies"
+         },
+         {
+          "text": "as a specially printed photo album"
+         },
+         {
+          "text": "as a collection of 200 prints"
+         },
+         {
+          "text": "as an online display of the best photos"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "How will a photographer present the photos?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "It is about one and a half minutes long.",
+     "long.",
+     "Then, five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 127.3
+      },
+      "transcript": "A group of protesters gathered at the local racetrack yesterday asking people to sign a petition they intended to take to City Hall. The petition requested that a newly erected billboard advertising the racetrack, be removed. Protesters claim that the sign, with its blinking lights and animation of a racing horse, is highly distracting. Gillian Smith, spokesperson for the group, pointed out that the human eye is naturally attracted to bright lights and movement. She said that when you're driving on the highway, that's a very bad thing. Smith went on to say that using a cell phone while driving is now illegal because of the distraction factor. Therefore, she said, roadside billboard advertising should also be illegal, especially when it is designed to take our attention off the road. The owner of the racetrack initially refused to comment, but when pressed, he insisted there was nothing wrong with his sign. He pointed out there is no law against it, so he sees no obligation to take it down. Police could neither confirm nor disconfirm that roadside boardside billboards are a contributing factor in highway accidents. You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The protesters were",
+        "options": [
+         {
+          "text": "collecting signatures."
+         },
+         {
+          "text": "disturbing spectators."
+         },
+         {
+          "text": "waiting at city hall."
+         },
+         {
+          "text": "watching racehorses."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The protesters believed the sign",
+        "options": [
+         {
+          "text": "was a safety concern."
+         },
+         {
+          "text": "displayed scary images."
+         },
+         {
+          "text": "had inaccurate content."
+         },
+         {
+          "text": "was too large for the road."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Spokesperson Jillian Smith mentioned a cellphone to",
+        "options": [
+         {
+          "text": "quote a legal case."
+         },
+         {
+          "text": "make a comparison."
+         },
+         {
+          "text": "request information."
+         },
+         {
+          "text": "suggest a solution."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The racetrack owner is",
+        "options": [
+         {
+          "text": "unconvinced."
+         },
+         {
+          "text": "misinformed."
+         },
+         {
+          "text": "confused."
+         },
+         {
+          "text": "uninterested."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The police were consulted about",
+        "options": [
+         {
+          "text": "the protesters' rights."
+         },
+         {
+          "text": "the sign's effectiveness."
+         },
+         {
+          "text": "problems caused by signs."
+         },
+         {
+          "text": "accident rates in the area."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "You will watch a two-minute video, then eight questions will appear.",
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 130.9
+      },
+      "transcript": "Okay, I've been getting emails that you two are refusing to help students with their writing assignments. No, it's my understanding and I thought that you two understood this as well, that that is exactly what your job is. You are the writing skills choosers. Yes, but it's the end of the year and students are coming to us for help with the end of your assignments worth half their grade. We both think it's cheating and... Cheating? How so? Well, by the time we're through with their essay, we've turned a DSA into a BSA. We've done that with our comments, our suggestions, our corrections, our questions, getting that level of help with a major year-end essay. It isn't fair to the students that have done the work on their own. There's some way you can, I don't know, need the students to make the improvements themselves, show them what to do without doing it for them? Normally, yes, but it's March. and the students that are coming to our door now for the first time, they're not interested in doing the work themselves. They come in, throw their rough notes on the desk, and expect us to do the rest of the work. We make suggestions and demonstrate how to use them, but the students just pretend to listen. They didn't come here to learn. They came here for free editing. So, how do you help? What did we hire you for? Well, the way I see it is that we're here to help the students with their homework, the day-to-day assignments, and those students that have gotten help with the practice work are then prepared to do the graded assignments on their own. The others, I assume they don't even do their homework. Like Clara said, they're just here to get their corrections done for free. What if you helped them with the final assignments only with the teacher's authorization? That way the instructor would know which essays had had the benefit of your help and which ones the students have done on their own, and they can take that into account when they're doing the grading. I don't know. I guess we could try. As long as the teachers know that what their grading is partly our work, I guess that would be fair. But I'm telling you, as soon as work gets out that we're willing to help with final essays, you're gonna have to hire another half dozen writing skills tutors. At least.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What has the man recently received?",
+        "options": [
+         {
+          "text": "complaints"
+         },
+         {
+          "text": "evaluations"
+         },
+         {
+          "text": "permission"
+         },
+         {
+          "text": "requests"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What describes the emails that the man received?",
+        "options": [
+         {
+          "text": "They were poorly written."
+         },
+         {
+          "text": "They are quite misleading."
+         },
+         {
+          "text": "They were from instructors."
+         },
+         {
+          "text": "They were sent by mistake."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What is the supervisor's main concern?",
+        "options": [
+         {
+          "text": "The essay grades seem too high."
+         },
+         {
+          "text": "The instructors are asking questions."
+         },
+         {
+          "text": "The students are not learning enough."
+         },
+         {
+          "text": "The tutors are not doing their jobs."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "According to the women, what is cheating?",
+        "options": [
+         {
+          "text": "coming for tutoring late in the year"
+         },
+         {
+          "text": "failing to tell teachers they got help"
+         },
+         {
+          "text": "having routine homework edited"
+         },
+         {
+          "text": "receiving help with final essays"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "How would the women probably describe cheaters?",
+        "options": [
+         {
+          "text": "They are disadvantaged."
+         },
+         {
+          "text": "They are opportunists."
+         },
+         {
+          "text": "They are too privileged"
+         },
+         {
+          "text": "They are like robbers."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "How does the woman in the middle respond to the man's last suggestion?",
+        "options": [
+         {
+          "text": "She is confused."
+         },
+         {
+          "text": "She is doubtful."
+         },
+         {
+          "text": "She is insincere."
+         },
+         {
+          "text": "She is resistant."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What will the speakers do to resolve the problem?",
+        "options": [
+         {
+          "text": "have the women grade the essays"
+         },
+         {
+          "text": "hire more writing skills tutors"
+         },
+         {
+          "text": "provide less help with assignments"
+         },
+         {
+          "text": "require permission from instructors"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What does this workplace seem to value?",
+        "options": [
+         {
+          "text": "collaborating on making policy decisions"
+         },
+         {
+          "text": "designing staff development systems"
+         },
+         {
+          "text": "minimizing hiring and payroll costs"
+         },
+         {
+          "text": "sustaining consistent client service"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "It is about three minutes long.",
+     "Then six questions will appear.",
+     "Here, choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 196.2
+      },
+      "transcript": "Harold is a sales executive at an export company. Every day he spends two hours on the road getting to and from work. At work, Harold spends his day talking and texting with his clients in China and India. Every week Harold uses $100 of gas and spends 10 hours stuck in traffic in order to talk to people who are in another country. Surely he could do his work from home. The question is, why are we still commuting? Why not allow people like Harold to commute digitally rather than through our often clogged transportation systems? systems. If we did allow people to work from home, other economic benefits would follow. We would spend less on gas and more on leisure, education, and other consumer goods. Community restaurants and coffee shops would thrive. More importantly, there would be benefits to the environment with decrease in gas consumption, especially in urban centers. Perhaps we are are still commuting because corporations still associate productivity with physical presence and hours spent in the office. Clearly though, corporations could also benefit from employees working at home. With staff working from home, corporate offices could be smaller and hence cheaper to run. Productivity per employee might also increase. Employees would be more able to work at times that might otherwise have been spent commuting. They could also tailor their work schedule to fit their family lives which would improve their mental health and well-being. It seems that digital commuting would have a positive impact on families, corporations, and our society as a whole. We might well wonder then why we still encounter traffic gridlock in almost every major city. Experts say there are four key difficulties with working from home. First, corporations fear offsite employees will be more easily distracted and work less. Second, many managers are concerned that they will not be able to manage staff when their staff are not present in the corporate workplace. A third issue is that the office is not simply a physical It is also a psychological space in which a team can develop a sharp, shared focus on the tasks at hand. People who work in the same space can think together and share ideas. Finally, the collective workspace helps staff to feel they belong to a community or culture. They will care more about their company's product or service. So, will we always work in offices? Younger people increasingly ask to work from home. The younger generation has been raised in a socially networked world in which connections, culture, and creativity are no longer anchored in a geographical or physical space. Perhaps, as some in this generation are already saying, the corporate office will become outdated.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Benefits of connecting to work online include",
+        "options": [
+         {
+          "text": "limiting the number of downtown residences."
+         },
+         {
+          "text": "shortening the time spent in meetings."
+         },
+         {
+          "text": "boosting expenditure on recreation."
+         },
+         {
+          "text": "reducing the costs of childcare."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Corporate productivity",
+        "options": [
+         {
+          "text": "may not be influenced by online commuting."
+         },
+         {
+          "text": "will be harmed by employees' lack of social skills."
+         },
+         {
+          "text": "may be improved by staff working from home."
+         },
+         {
+          "text": "is not associated with employees' commute times."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Corporations believe that attending a collective workplace",
+        "options": [
+         {
+          "text": "is also important for part-time employees."
+         },
+         {
+          "text": "has no bearing on corporate profitability."
+         },
+         {
+          "text": "helps to maintain higher productivity."
+         },
+         {
+          "text": "increases the workload of the managerial staff"
+         }
+        ],
+        "answer": 2,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Some managers worry that",
+        "options": [
+         {
+          "text": "employees would bill for incomplete work."
+         },
+         {
+          "text": "their own commute would remain unchanged."
+         },
+         {
+          "text": "they could not manage complex tasks online."
+         },
+         {
+          "text": "they would struggle to supervise their staff."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "One advantage of the corporate workplace is that it",
+        "options": [
+         {
+          "text": "helps young people make connections."
+         },
+         {
+          "text": "does not involve online social media distractions."
+         },
+         {
+          "text": "engenders a shared culture and work ethos."
+         },
+         {
+          "text": "provides important opportunities for promotion."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Proponents of online workspaces claim that",
+        "options": [
+         {
+          "text": "younger people cannot focus when working in offices."
+         },
+         {
+          "text": "social networking is not prevalent at work."
+         },
+         {
+          "text": "the young generation is moving away from city centers."
+         },
+         {
+          "text": "offices are likely to become obsolete in the future."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "Dear Jack,",
+       "I have the most incredible news! Of course, it would be so much better if I could tell you in person, but since I'm near bursting with the excitement of it all, waiting until you get back from Chicago is simply out of the question. If you can believe it, I've been offered a promotion! To be honest I think I might still be in shock. I really didn't think this day would ever come. Thankfully, I listened to you and all your wisdom, honey, when it came to sticking things out. I was convinced I'd be stuck in that cubicle writing boring memos for the rest of my life, but you assured me, if I just had patience, something great would come out of it all. Now, after five long years, something great has finally arrived; I've been promoted to Manager of International Accounts!",
+       "Of course, I know what you're probably thinking: the title doesn't sound too glamorous, and it's a long way off from my dream job as a travel writer. However, although I won't be doing any writing in this position, I will be getting paid to travel all over the world-so at least the travel bug inside of me will be content. Also, there would be a significant salary increase with this position, meaning we would be able to afford that beautiful two-bedroom condo we've had our eye on. Imagine, soon we might actually be able to say we own a little piece of Toronto!",
+       "I am, of course, getting ahead of myself and before I officially accept the position, there are some important things to consider. For one, as excited as I am about all the travel involved, it would mean delaying having children for another few years; something I'm not sure we want to do. Also, the workload will be pretty intense. In fact, I could see it being the case that although I'll get to travel to beautiful places like Thailand, I won't actually have the time to see any of them.",
+       "Anyways, I'm anxious to hear what you think. If you have time after the conference today, write me back!",
+       "Katy"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (* ), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Jack is",
+        "options": [
+         "staying with friends in Toronto.",
+         "working temporarily in Chicago.",
+         "attending a conference in Toronto.",
+         "visiting his children in Chicago."
+        ],
+        "answer": 1,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Katy has worked",
+        "options": [
+         "at the same place for five years.",
+         "in international journalism.",
+         "in many different countries.",
+         "for several different employers."
+        ],
+        "answer": 0,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Katy has written Jack to tell him",
+        "options": [
+         "about an exciting job offer.",
+         "how well her interview went.",
+         "about a real estate opportunity.",
+         "how her new job is going."
+        ],
+        "answer": 0,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Katy",
+        "options": [
+         "likes travelling to other countries.",
+         "doesn't want to have children.",
+         "owns a condo in Toronto.",
+         "finds her current job interesting."
+        ],
+        "answer": 0,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Manager of International Accounts is a job that Katy",
+        "options": [
+         "will apply for.",
+         "currently holds.",
+         "only dreams of.",
+         "might accept."
+        ],
+        "answer": 3,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Katy believes that Jack",
+        "options": [
+         "doesn't want to travel with children.",
+         "has given her good advice in the past.",
+         "cannot afford to buy a condo.",
+         "should ask his boss for a raise."
+        ],
+        "answer": 1,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the best choice for each blank from the drop-down menu(\" ).",
+      "paragraphs": [
+       "Dear Katy,",
+       "That is amazing! I knew that with a bit of time they'd see how lucky they are to have you as {{7}} It sounds like an incredible opportunity and with all the travelling to tropical places, you might even {{8}} That would be one step closer to your goal! However, I agree there are some things {{9}} first. While the extra {{10}} would certainly be nice, I'm a bit worried about the workload. I don't want it to be that I never get to see my {{11}}",
+       "Anyways, we can talk more about it when I get back but know that whatever you decide, you'll always have my full support.",
+       "Jack"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "a mother.",
+         "an intern.",
+         "a manager.",
+         "a friend"
+        ],
+        "answer": 2,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "be inspired to write about it.",
+         "overcome your fear of bugs.",
+         "have the chance to visit Thailand.",
+         "get used to flying in planes."
+        ],
+        "answer": 0,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "you'll want to experience",
+         "that should be bought",
+         "I'll have to organize",
+         "we'll want to think about"
+        ],
+        "answer": 3,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "money",
+         "training",
+         "shifts",
+         "holidays"
+        ],
+        "answer": 0,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "wife.",
+         "daughter.",
+         "mother.",
+         "friend."
+        ],
+        "answer": 0,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Canine Intelligence Centre",
+       "Canine Training Program"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "Basic Obedience All dogs must start their training with this course on the basic commands such as \"sit\" and \"stay.\" Training Time: 10 hours. Schedule: 10AM to 12PM Saturday or 10AM to 12PM Sunday. Start Dates: January 3rd, April 1st, July 4th, October 3rd. Location: Canine Intelligence Centre",
+       "Show Dogs Do you want your dog to participate in dog shows? If you do, this course will teach your dog the skills for a dog show and teach you how to get the very best Advanced Obedience out of your dog at show time. This course focuses on obedience skills Training Time: 21 hours. Schedule: such as sitting for extended periods and 1PM to 4PM Saturday. Start Dates: walking to heel. February 15th, May 14th, August 16th, November 10th. Location: Spruce Training Time: 10 hours. Schedule: Mountain Gateway 1PM to 3PM Saturday. Start Dates: February 15th, May 14th, August 16th, November 10th. Location: Canine Protection Intelligence Centre Train your dog to protect both your home and your person. Search and Rescue Training Time: 21 hours. Schedule: Dogs leam to search for and find 1PM to 3PM Saturday or 10AM to 12PM missing people in wilderess areas. Sunday. Start Dates: January 3rd, April 1st, July 4th, October 3rd. Training Time: 21 hours. Schedule: Location: Anderson Provincial Park 1PM to 4PM Saturday. Start Dates: January 3rd, April ist, July 4th, October 3rd. Location: Anderson Provincial Park"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu (\" ).",
+      "paragraphs": [
+       "Subject: Obedience Classes Inquiry",
+       "To: George Masters <georgem@cicschool.com>",
+       "From: Michelle O'Brien <mobrien@mailcanada.ca>",
+       "Hello George,",
+       "I am the owner of a one-year-old golden retriever, and I see you have many classes that {{1}} I want to give Nellie lots of training. However, she's too gentle for {{2}} Also, Nellie's already had obedience training elsewhere. Still, she'd actually learn from your Basic class since she is still mastering {{3}} Ideally, I had hoped that Saturdays in January, Nellie could take obedience in the morning, followed immediately by Show Dogs in the afternoon, but I see that {{4}} see, though, that in April I could sequence back-to-back classes in Basic Obedience and Search and Rescue (which would be good exercise for both of us). Is it possible to {{5}}",
+       "Cheers",
+       "Michelle O'Brien"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "provide intensive training.",
+         "encourage child participation.",
+         "are offered all year round",
+         "focus on dog competitions."
+        ],
+        "answer": 0,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "walking to heel.",
+         "your extended courses.",
+         "guard dog training.",
+         "wilderness training."
+        ],
+        "answer": 2,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "basic rescue techniques.",
+         "simple show skills.",
+         "long sitting times.",
+         "simple instructions."
+        ],
+        "answer": 3,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "this is possible only in April.",
+         "the two class times conflict.",
+         "the start dates are different.",
+         "Basic is not offered at that time."
+        ],
+        "answer": 2,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "get to the afternoon class in time",
+         "take the Sunday afternoon class",
+         "get to your centre by 1PM",
+         "switch to the morning Search and Rescue"
+        ],
+        "answer": 0,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (), choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Michelle wants Nellie to",
+        "options": [
+         "keep her safe.",
+         "be very well trained",
+         "participate in shows.",
+         "be very friendly."
+        ],
+        "answer": 1,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "In this message, Michelle is trying to",
+        "options": [
+         "figure out a schedule.",
+         "get course information.",
+         "learn more training techniques.",
+         "ask for a location change."
+        ],
+        "answer": 0,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "It appears that the Canine Intelligence Centre",
+        "options": [
+         "organizes dog shows.",
+         "has one trainer.",
+         "is a part-time operation.",
+         "is fully licensed."
+        ],
+        "answer": 2,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. As well as a complex road system for car owners, an important aspect of urban infrastructure is a cost-effective public transit system which is fast and easily available for use by the general public. In Canada, all cities and most major towns utilize a public transportation system. In most areas, networks of buses provide the main mode of public transportation. Although bus services are not as fast as private cars, they are able to carry many passengers and can operate on conventional roads with numerous stops that easily connect to other forms of transit, such as trains and ferries. These services are operated at either a provincial or municipal level; for example, public transit in Metro Vancouver is provided by Translink, whereas other areas of British Columbia are serviced by the provincial agency, BC Transit.",
+       "B. In densely populated urban areas, the ability to move large numbers of people rapidly becomes even more important. Accordingly, most large cities provide rapid transit lines which facilitate the transport of people across greater distances and in less time than alternative transit systems. These systems, commonly referred to as metros or subways, use rail tracks and are separate from regular traffic. Citywide systems can be found in places such as Montreal (\"Metro\"), Calgary (\"C-Train\"). and Edmonton (\"LRT\"). In addition, some rapid transit systems, such as Vancouver's Skytrain, span across the sprawling city limits and link to neighbouring municipalities.",
+       "C. In addition to buses and rapid transit lines, some metropolises also offer other ecologically friendly and economical forms of public transit. These additions to the public transit system supplement the regular bus services and faster train services. For example, the public transit system in Toronto includes a unique system of streetcars or \"trolleys\" which run along tracks on public streets. These rail vehicles are lighter and shorter than conventional trains, and are classified as \"light rail.\" In Vancouver, the public transit network includes a \"Seabus\" (or passenger-only ferry) which provides public transportation across the Burrard Inlet.",
+       "D. Well-developed public transportation systems have many benefits including efficient transportation for large populations, eco-friendly alternatives to private vehicles, and significant savings for transit users. A much-neglected truth is that the average Canadian driver spends approximately $9,500 per year, while the amount paid for monthly public transit passes in Canada comes to only $740 to $1550 annually. With this cost difference, Canadians who are willing to trade in their cars for public transportation stand to save thousands of dollars a year.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Some city transportation systems connect to nearby urban areas.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Some cities incorporate alternative types of transport into their transit infrastructure.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "New eco-friendly cars cost almost the same as taking public transit.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "A public transit system is a fundamental facility of Canadian cities.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Bus systems in major cities are upgraded every decade to meet commuters' needs.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Metropolises tend to have the most efficient transit systems.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Some cities have seen a boost in tourism due to their light railway systems.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Public transit remains one of the most cost-effective forms of transportation.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "The level of government responsible for public transit systems varies.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "Global warming has drastically reduced the extent of sea ice in the Canadian high Arctic, whose islands are now navigable in summer without ice-breaking equipment. Recently a Danish coal carrier vessel, the Aurora Borealis, navigated this route from Vancouver, Canada to Pori, Finland \"We've proven the Northwest Passage is open to the world as a viable transoceanic shipping route. It shaved four days, 2,000 kilometres, and $200,000 off the Panama Canal route, and its deeper waters let us carry 25% more cargo,\" said company spokesman Marcus Lindstrom.",
+       "Like its Scandinavian and Russian counterparts, the Canadian government considers its arctic passage a national territorial waterway. Deemed \"historic internal waters,\" the route falls unquestionably under Canadian jurisdiction, explains Northern Development Minister Bruce Anderson. Anderson applauds a new atlas produced by cartographer Adriana Chevrier and Inuit elders, showing Inuit land and sea ice routes dating back centuries and shoring up Canada's claim to the Arctic archipelago by virtue of the legal principle of long-time use and occupancy. Modern commercial traffic helps, too. As international law professor Zachary Michaels said in a public lecture, \"Valuable legal precedents are established every time a foreign vessel makes the crossing while complying with its legal obligation to register with and be monitored by the Canadian Coast Guard.\" Beyond that, annual prime ministerial visits and Canadian Forces exercises in the region bolster Canada's claim.",
+       "However, Canadian arctic sovereignty is recognized by neither the EU nor the US, the latter due to Republican-backed non-ratification of UNCLOS (the UN Convention on the Law of the Sea). The US considers the Northwest Passage an international waterway, balking at its northern neighbour's registration and monitoring requirements and once allegedly steering a nuclear-powered submarine through the route without permission. \"Recognition of Canadian arctic sovereignty would be detrimental to our economic interests,\" said Republican senator Morris Homeniuk, who points out that Canada still owns no reliable modern patrol vessels, often depending on the US Talisman to escort its ageing Canadian icebreaker to safety. \"This is not what sovereignty looks like,\" says Homeniuk."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu(\" ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "The Aurora Borealis serves as evidence of the",
+        "options": [
+         "advantage of the Panama Canal over the Northwest Passage.",
+         "beneficial effect of global warming on one industry sector.",
+         "defiance of Canadian shipping laws by a foreign vessel.",
+         "need for military reinforcements in the Canadian Arctic."
+        ],
+        "answer": 1,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The best title for Michaels' lecture would be \"Arctic Sovereignty:",
+        "options": [
+         "A Historical Passage.\"",
+         "Maybe This Time: The Impacts of Climate Change.\"",
+         "The American Dream.\"",
+         "Use It or Lose It.\""
+        ],
+        "answer": 3,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Homeniuk's opinion rests on his country's",
+        "options": [
+         "economic strength.",
+         "historical precedents.",
+         "nuclear capability.",
+         "cartographic superiority."
+        ],
+        "answer": 0,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The controversy will probably be resolved if",
+        "options": [
+         "ageing Canadian icebreakers are retired.",
+         "American senators ratify the convention.",
+         "evidence of use and occupancy is uncovered.",
+         "present polar icecap melting rates continue."
+        ],
+        "answer": 1,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Homeniuk doubts the effectiveness of the",
+        "options": [
+         "Coast Guard.",
+         "Aurora Borealis.",
+         "Northwest Passage.",
+         "US Talisman."
+        ],
+        "answer": 0,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "Well, the Cold-War era feds tried to strengthen their \"use and occupancy\"-based sovereignty claim by relocating Inuit families from northern Quebec to remote, barely inhabitable islands in the highest Arctic-in effect, using people as {{6}} The sovereignty issue persists, except now the threat isn't Stalin; it's {{7}} With the {{8}} and the military operations, Ottawa's grip on the Northwest Passage has been strengthened. But what about community stakeholders? For us, Arctic sovereignty is not the international {{9}} problem that it is for the federal government. We are instead worried that heavy commercial traffic through the archipelago will court ecological calamity. Therefore, we believe that every discussion about Arctic sovereignty should also be a discussion about responsible {{10}}"
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "bait.",
+         "flags.",
+         "shields.",
+         "weapons."
+        ],
+        "answer": 1,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "the US.",
+         "Denmark.",
+         "the EU.",
+         "Panama."
+        ],
+        "answer": 0,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "historical mapping",
+         "escorted icebreakers",
+         "nuclear submarines",
+         "year-round access"
+        ],
+        "answer": 0,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "health and safety",
+         "legal and military",
+         "moral and ethical",
+         "culture and preservation"
+        ],
+        "answer": 1,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "operation of ice-breaking equipment",
+         "fuel alternatives for northern communities",
+         "negotiation with the US government",
+         "conservation of endangered waterways"
+        ],
+        "answer": 3,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "You have borrowed money from your bank. You agreed to repay a fixed amount every month. However, it will be difficult to pay any money"
+    ],
+    "instruction": "Write an email to the bank in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "State the amount of money you borrowed and the repayment schedule.",
+     "Explain why you borrowed the money.",
+     "Explain the reason you cannot pay any money this month and why you will be able to pay next month."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "Your company has extra money to spend on office upgrades. Your boss wants to build 5 additional parking spaces for the employees. One of your co-workers, though, suggests building 30 bike stands to promote a healthy lifestyle instead. The company asked you to respond to an opinion survey."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I would prefer to have more parking spaces.",
+     "Option B: I would prefer to have more bike stands."
+    ],
+    "surveyTitle": "Office Upgrade Survey",
+    "samples": [],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "A friend is going to an office party at her new job. Advise her about ways to start conversations with people she doesn't know."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you did something and then had to do it again. Maybe you can talk about something involving work, a relationship, or a personal hobby. What happened the first time, why did you have to do it again, and what happened differently the second time?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "Your friend recently got a new job and wants to look more professionalhe has asked you to help him choose a new pair of glasses. You found two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade your friend that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "Your friend is suggesting another pair of glasses. Persuade him that the glasses you chose are more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "You have known your close friend Lissa since childhood. She is getting married and has invited you to her wedding. Unfortunately, her wedding is right before two of your most difficult final exams."
+    ],
+    "choices": [
+     "Explain to your friend why you cannot be at her wedding.",
+     "Explain to your professors why you would like to reschedule your exams."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think the government should remove public artworks if some people think they are offensive? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You ordered a couch from an online furniture store, but when it was delivered, you found problems with it. You decide to call the furniture store. Describe in detail what the problems are, and how you would like to resolve the situation."
+    ],
+    "images": [
+     "media/speaking_p4_2.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

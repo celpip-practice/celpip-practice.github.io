@@ -1,0 +1,1731 @@
+{
+ "id": "s06-t2",
+ "set": 6,
+ "test": 2,
+ "title": "Practice Test 6-2",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 42.9
+      },
+      "transcript": "Hello. I bought one of your bicycles last week. I guess I didn't look at it carefully enough, because yesterday when I had to ride home in the rain, I realized it doesn't have one of those things that cover the wheels. You know, fenders. My clothes got all wet and dirty. I'm sorry to hear that. None of the bikes we sell include fenders. They have to be purchased on their own. Really? I just assume they'd be part of the bike, like the handlebars. I'm afraid not. We do have packages that include front and back fenders, and all the hardware you need to install them yourself. All right, I guess I need to buy that package.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "image": "media/listening_p1_1.jpg"
+         },
+         {
+          "image": "media/listening_p1_2.jpg"
+         },
+         {
+          "image": "media/listening_p1_3.jpg"
+         },
+         {
+          "image": "media/listening_p1_4.jpg"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "What does the man want?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "Certain bicycle parts are sold separately."
+         },
+         {
+          "text": "The store doesn't sell what he needs."
+         },
+         {
+          "text": "Some parts have fallen off his bike."
+         },
+         {
+          "text": "His new bicycle is broken already."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "What surprises the man?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 62.0
+      },
+      "transcript": "No, they're fine, but I had to ride home last night in the dark. and then I realize that the bike doesn't have a light. Yes, they're extra as well. We have battery operated lights that go on the front of the bike, they're white, and we have reflector lights that go on the back. They're red. This is ridiculous. Soon you'll be selling bikes and saying the wheels and seats are extra. Speaking of which, the seat on the bike is narrow and hard. It's uncomfortable. I can special order a seat for you that's wider and has more cushioning. How much is it? Well, it's expensive, $70, but this padded seat cover is only $17. Hmm, I have a long ride. Can I return the seat cover if it doesn't do the job? Well, we're supposed to allow returns only on equipment that's still brand new, but if you try it only for a few minutes and keep the original packaging, I suppose it'll be okay.",
+      "questions": [
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "one"
+         },
+         {
+          "text": "two"
+         },
+         {
+          "text": "three"
+         },
+         {
+          "text": "tour"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "How many kinds of lights does the woman describe?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "a replacement battery"
+         },
+         {
+          "text": "a narrow reflector strip"
+         },
+         {
+          "text": "a softer type of seat"
+         },
+         {
+          "text": "a helmet with a light"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "What does the man want?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "special orders"
+         },
+         {
+          "text": "opened items"
+         },
+         {
+          "text": "used merchandise"
+         },
+         {
+          "text": "bicycle accessories"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "What does the store refuse to take back?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 40.3
+      },
+      "transcript": "It's me again. I'd like to get that seat you mentioned. If I ordered today, when will it be here? Friday. Would you like it in black or gray? Black please. Now while I'm here, is there any other important thing that didn't come with the bike? The only other thing I can think of is that some people like to have a small horn or bell to warn pedestrians of their approach. Well, that's a good idea. I don't want to run into anyone by accident. I'll buy whichever is loudest. That would be the horn. Will there be anything else? No, I'm not thrilled about how much all this is costing, but I'm happy to finally have everything I need.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "to order an item"
+         },
+         {
+          "text": "to pick up a special order"
+         },
+         {
+          "text": "to get advice about his bike"
+         },
+         {
+          "text": "to exchange an item"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "Why does the man return to the shop this time?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "The woman says it's necessary."
+         },
+         {
+          "text": "He likes the sound of it."
+         },
+         {
+          "text": "It matches his bike."
+         },
+         {
+          "text": "It is a precaution."
+         }
+        ],
+        "answer": 3,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "What drives the man's decision to buy a horn?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "He is quite excited."
+         },
+         {
+          "text": "He is very unhappy."
+         },
+         {
+          "text": "He has mixed feelings."
+         },
+         {
+          "text": "He has hidden feelings."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "What best describes the man in the end?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 113.9
+      },
+      "transcript": "Hi Janice. It looks like summer's over, doesn't it? Yes, it does. Pretty soon, it'll be time for nice warm fires in the fireplace, right? Yeah. Hey, you know that old tree in my backyard? The one that keeps its needles all year long? I forget what it's called, but it looks like a Christmas tree. Your Evergreen is a fur tree. I love looking at it through my kitchen window while I'm doing the dishes. The birds enjoy the tree, too, especially the sparrows. Well, I know nothing about trees or birds, but this tree looks kind of old. Maybe it should be cut down before a strong wind or storm takes it down. What do you think? Well, it's easy enough to cut down because it's a softwood tree. But do you really want to cut down your beautiful fir tree? Well, you know, we just had a wood stove installed, and I thought it would be good for firewood. However, John across the street said this kind of wood isn't good for wood stoves. What do you think? I agree with John because Softwood has a lot of resin or sticky sap. When it burns, it messes up the inside of your chimney. This causes a problem that has to be cleaned out by a chimney cleaning specialist, or you'll have a chimney fire. Wow, I'm glad I asked you. You sure know a lot about firewood. Doesn't the chimney have to be cleaned out every year though for safety and insurance reasons? Definitely, but your chimney will stay cleaner if you burn only hardwood. All that firewood we have stacked beside our garage's hardwood. Take some of that, if you like, because we have more than enough. That's very generous of you, but Mary wants us to have our own woodpile. I thought cutting down that tree would be a good start. Well, although it's your tree, I really love it. Perhaps you could take a big stack of our firewood in exchange for leaving the tree as it is. Then, we'll all be happy.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "to ask about cleaning a chimney"
+         },
+         {
+          "text": "to ask about a woodstove"
+         },
+         {
+          "text": "to discuss one of his trees"
+         },
+         {
+          "text": "to learn about buying wood"
+         }
+        ],
+        "answer": 2,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "What is the man's purpose in talking to the woman?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "He wants to give the woman the wood."
+         },
+         {
+          "text": "He's worried the tree might fall down."
+         },
+         {
+          "text": "He'll use the tree for a Christmas tree."
+         },
+         {
+          "text": "His wife expects him to burn the tree."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "Why does the man want to cut down his tree?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "His woodstove is dirty."
+         },
+         {
+          "text": "He burns softwood."
+         },
+         {
+          "text": "His wife likes a clean house."
+         },
+         {
+          "text": "He needs house insurance."
+         }
+        ],
+        "answer": 3,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "Why does the man need his chimney cleaned?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "how to store firewood"
+         },
+         {
+          "text": "how to avoid a chimney fire"
+         },
+         {
+          "text": "how to save on fire insurance"
+         },
+         {
+          "text": "how to cut down a tree"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "What information has the man learned?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "take some of her wood"
+         },
+         {
+          "text": "remove the tree now"
+         },
+         {
+          "text": "build his own woodpile"
+         },
+         {
+          "text": "burn the softwood quickly"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "What solution does a woman suggest?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 119.0
+      },
+      "transcript": "Thank you for meeting with me. I wanted to ask you for your advice about how to teach my kids some financial responsibility. They keep coming to me for money because they keep exceeding their maximum internet allotment. Every time they ask me, I give them my credit card to make the purchase. I would advise not giving a credit card to a child. The concept of buying on credit would be beyond their comprehension. I have two children. One's fifteen, the other's ten. Both have problems understanding money. But yes, only the teenager uses the credit card. I see. What have you done to this point to teach them financial responsibility? Well, I remind them that money doesn't grow on trees, that I can't keep giving them money. And then you do just that? Keep giving them money? Well, yes, they don't have jobs. They should. They should have chores, jobs at home that they need to do in order to get their allowance. You give them an allowance, right? Well, actually, I thought that would be the wrong thing to do, to just give them money every week. only part of it should be given no matter what the rest of it should be earned it should be payment for doing the assigned chores if they have never had to work for the money they get you can see why they don't value it right yes you're right I did try giving them chores to do it one time but they just didn't do them we got into awful fights if they don't do their chores then they shouldn't get paid you should withhold that portion of their allowance if they had to work for their money. And if you insisted they put some of it aside for savings, some for charity, and the rest for fun, then they would develop some self-discipline. They would learn that money doesn't grow on trees. Exactly. And if they know there's only so much they can earn, they would choose more carefully how to spend it.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "His children use their credit cards too much."
+         },
+         {
+          "text": "His children refuse to do their chores."
+         },
+         {
+          "text": "His children want to get casual jobs."
+         },
+         {
+          "text": "His children need to handle money better."
+         }
+        ],
+        "answer": 3,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "What problem does the man have?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "His children put too many purchases on his credit card"
+         },
+         {
+          "text": "He is delighted that his children do their chores."
+         },
+         {
+          "text": "He is surprised by the products his children choose."
+         },
+         {
+          "text": "His children waste money on things they never use"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "What does a man likely mean when he says, oh my!"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "A child could lose the credit cards."
+         },
+         {
+          "text": "A child cannot understand the concepts involved"
+         },
+         {
+          "text": "A child is too young for the responsibility."
+         },
+         {
+          "text": "A child cannot control their spending habits."
+         }
+        ],
+        "answer": 1,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "Why does the woman discourage giving credit cards to a child?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "one that corresponds to age"
+         },
+         {
+          "text": "one that supplements a part-time job"
+         },
+         {
+          "text": "part guaranteed income and part reward"
+         },
+         {
+          "text": "part weekly payment and part annual bonus"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "what kind of allowance does the woman suggest?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "They proved too young to do chores properly."
+         },
+         {
+          "text": "They acquired time-consuming part-time jobs."
+         },
+         {
+          "text": "They argued with him about doing the chores."
+         },
+         {
+          "text": "They needed to spend more time on schoolwork"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "Why did the man stop assigning chores to his kids?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "to illustrate wise and unwise uses of an allowance"
+         },
+         {
+          "text": "to explain how an allowance should be allocated"
+         },
+         {
+          "text": "to suggest that working is not very enjoyable"
+         },
+         {
+          "text": "to provide ideas for increasing an allowance"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "Why does the woman mention savings and fun?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "It is about one and a half minutes long.",
+     "Then, five questions will appear.",
+     "Here, choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 230.4
+      },
+      "transcript": "When Pine Lake resident, Kim Chu noticed what she thought was a dog stranded on a chunk of floating ice, she paddled out in her kayak to provide help. As she approached, she realized it was a fox. Fox, I wasn't keen on having a wild animal in the kayak with me, Chu said. It didn't look sick, but you never know. She thought maybe it would just step onto the prow for a ride back to shore, but the animal backed away at Chu's approach, then paced back and forth, clearly distressed. She returned to shore, tied a styrofoam surfboard to her kayak, put some food on it, then paddled back out. I pulled up beside the ice, then just waited, Chu said. eventually the fox stepped onto the board and started nibbling. Chew carefully paddled away back toward shore. The little fox just surfed its way back behind me, she said. Chew speculates that the fox chased after some geese only to discover that the ice had shifted away from shore and I don't blame it for not wanting to swim back, she said. You You You You You will watch a two-minute video, then eight questions will appear. Choose the best way to answer each question.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The story is about",
+        "options": [
+         {
+          "text": "a puzzling sport."
+         },
+         {
+          "text": "an innovative rescue."
+         },
+         {
+          "text": "a common occurrence."
+         },
+         {
+          "text": "an unlikely accident."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Chu was concerned about",
+        "options": [
+         {
+          "text": "being injured or infected"
+         },
+         {
+          "text": "hitting the ice."
+         },
+         {
+          "text": "tipping the kayak."
+         },
+         {
+          "text": "getting too cold or too wet."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The food was provided to",
+        "options": [
+         {
+          "text": "reward."
+         },
+         {
+          "text": "confuse."
+         },
+         {
+          "text": "distract."
+         },
+         {
+          "text": "attract."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The fox got to shore on a",
+        "options": [
+         {
+          "text": "kayak."
+         },
+         {
+          "text": "piece of wood."
+         },
+         {
+          "text": "surfboard."
+         },
+         {
+          "text": "chunk of ice."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Chu mentions geese",
+        "options": [
+         {
+          "text": "as part of a possible explanation."
+         },
+         {
+          "text": "to tell a different story."
+         },
+         {
+          "text": "to raise an interesting question."
+         },
+         {
+          "text": "as response to a question."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 149.9
+      },
+      "transcript": "You will watch a discussion between three people, two men and one woman. They are the owners of a family-run convenience store. The conversation is taking place in the break room. This is Ron. This is Jeremy. This is Tina. So, it's official. This April, a super shop is opening up just to block from us. That's great. There goes half our customers. Who's going to shop here when grocery heaven is up the street? We won't stand a chance. Actually, I think we'll be okay. I mean, sure, Super Shop offers a lot more variety than we do, and customers probably like to be able to buy clothes for their kids in the same place as their milk, but we offer a different form of convenience. Like what? We offer far fewer products. Well, yeah, we might not have the space to offer as much selection as Super Shop, but But what if what we do offer is exactly what the customer wants. It saves them time. It is way quicker to shop in our store than in one with endless aisles and every kind of dished detergent under the sun. True, but we still need a plan. I don't want to sit here in this chair and watch our customers pass by on the way to Super Shop. Well, we're already open all day every day, so extending store hours isn't possible. But I agree with Tina. know. So we want to make sure we stock exactly what the customer wants. Well we'll probably have to make some changes then. Seeing as what we offer is the same as what you'd find in a super shop. But I was thinking, we're located in a culturally diverse community. We have people from all over the map who shop here. What if we were to specialize in international foods? It's true. This is a really diverse area. Actually just the other day there was a man who'd moved to Canada recently from Ethiopia. He was telling me he drives across town every week to pick up fresh injera. It's an Ethiopian bread that he misses. What if we were to go to his supplier and stock injera bread in our store? He could buy it here from us way more convenient. This could actually work. I don't imagine you'll be able to find injera bread at the super shop anytime soon. Maybe we could even start a survey. We'll ask our customers what products they like to purchase but can't find at a regular grocery store. That's a great idea. See, we don't have to worry at all. It's the super shop that should worry about us. Yeah.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What are the three owners discussing?",
+        "options": [
+         {
+          "text": "creating space to sell more products"
+         },
+         {
+          "text": "extending store hours to include nights"
+         },
+         {
+          "text": "preventing a large store from opening"
+         },
+         {
+          "text": "losing customers to a future competitor"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What type of products does their store mainly sell?",
+        "options": [
+         {
+          "text": "international foods"
+         },
+         {
+          "text": "typical grocery items"
+         },
+         {
+          "text": "specialty food products"
+         },
+         {
+          "text": "freshly baked goods"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Why does the man in red speak about sitting in his chair?",
+        "options": [
+         {
+          "text": "to remind others that it is broken and must be fixed"
+         },
+         {
+          "text": "to show that he is tired of discussing the situation"
+         },
+         {
+          "text": "to suggest a way to improve customer satisfaction"
+         },
+         {
+          "text": "to indicate he wants to act before there is a problem"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Where do many of their customers come from originally?",
+        "options": [
+         {
+          "text": "across town"
+         },
+         {
+          "text": "Ethiopia"
+         },
+         {
+          "text": "other countries"
+         },
+         {
+          "text": "Canada"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What is the woman's attitude throughout the discussion?",
+        "options": [
+         {
+          "text": "excited"
+         },
+         {
+          "text": "cautious"
+         },
+         {
+          "text": "positive"
+         },
+         {
+          "text": "negative"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Which statement would the woman likely agree with?",
+        "options": [
+         {
+          "text": "Smaller can sometimes be better."
+         },
+         {
+          "text": "It's impossible to please everyone."
+         },
+         {
+          "text": "Variety is usually more convenient."
+         },
+         {
+          "text": "Copying large stores makes sense."
+         }
+        ],
+        "answer": 0,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "How does the discussion end?",
+        "options": [
+         {
+          "text": "with a decision"
+         },
+         {
+          "text": "in confusion"
+         },
+         {
+          "text": "with a new question"
+         },
+         {
+          "text": "in a hurry"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What will the owners likely do next?",
+        "options": [
+         {
+          "text": "advertise to attract new customers"
+         },
+         {
+          "text": "add clothing items to their store"
+         },
+         {
+          "text": "get opinions from their regular customers"
+         },
+         {
+          "text": "move their store to a different location"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "It is about three minutes long.",
+     "Then, six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 171.9
+      },
+      "transcript": "Canadian labor law stipulates the lowest hourly rate employers can pay their employees. ease. Any increase in this minimum wage invariably draws attention, which invariably sparks suggestions that Canada implement a maximum wage. Philosopher Judith Meyer argues that such a proposal is consistent with principles of justice. There is a limit to how hard people can work, so there should be a limit to how much they are paid. If it is impossible for someone to work twenty times harder than everyone else, then that person shouldn't be paid 20 times more than everyone else. Meyer points out that many high-income earners in Canada are paid 200 times the average Canadian. She also points out that limiting the pay of CEOs or chief executive officers to 100 times the minimum wage would still enable them to make about 1.5 million per year. Sociologist Michael Mission counters that effort shouldn't be the measuring stick. Using athletes' exorbitant high incomes as an example, he suggests that it doesn't matter if someone works harder than everyone else to run 100 meters in under 10 seconds. If that doesn't contribute to society in any way, why should we pay the person anything at all, let alone more than everyone else? Measuring contribution to society, however, requires consensus about values, and mission admits such a consensus is unlikely. The economist Ethel Ellis presents yet another view. If we reduce the income of our high-income earners, we reduce the amount of money they can put back into circulation by spending, she says. However, this assumption that money trickles down from high-income earners to the rest of us is challenged by several studies. Furthermore, Ellis says, if we reduce the income of our high-income earners, we reduce the amount of taxes they pay. That is a consequence we should think very carefully about. Cynics respond, however, that high-income earners are already paying reduced taxes because they know very well how to take advantage of loopholes in the tax laws. Yet another argument against a wage ceiling is that it would reduce the drive to do more and to do better. A worst-case scenario is that the high-income earners would leave and move to a country without a wage ceiling. Calling Myers Point, though, surely 1.5 million per year provides motivation enough. And if not, perhaps people should re-evaluate their priorities. As they say, money can't buy happiness. And I can certainly attest to that. You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What is the presentation mainly about?",
+        "options": [
+         {
+          "text": "whether there should be a maximum wage"
+         },
+         {
+          "text": "how high a maximum wage should be"
+         },
+         {
+          "text": "whether the minimum wage should be raised"
+         },
+         {
+          "text": "why the minimum wage should be eliminated"
+         }
+        ],
+        "answer": 0,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "According to the speaker, what happens whenever the minimum wage is increased?",
+        "options": [
+         {
+          "text": "People complain that it is still too low."
+         },
+         {
+          "text": "People start to work harder at their jobs."
+         },
+         {
+          "text": "People begin talking about a maximum wage."
+         },
+         {
+          "text": "People question the government's motives"
+         }
+        ],
+        "answer": 2,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What does philosopher Judith Meyer think about wage ceilings?",
+        "options": [
+         {
+          "text": "They should take into account the type of job."
+         },
+         {
+          "text": "They are a fair concept to implement in Canada."
+         },
+         {
+          "text": "They should be applied only to high-level CEOs."
+         },
+         {
+          "text": "They are interesting to consider only in theory."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What does sociologist Michael Mishin most likely believe?",
+        "options": [
+         {
+          "text": "There is a consensus about what is a fair wage."
+         },
+         {
+          "text": "A person's effort should determine their wage."
+         },
+         {
+          "text": "Few people work as hard as professional athletes do."
+         },
+         {
+          "text": "It is difficult to agree on what benefits society."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "According to the speaker, what have several studies shown?",
+        "options": [
+         {
+          "text": "Wealth does not flow from the rich to the poor."
+         },
+         {
+          "text": "High-income earners seldom cheat on their taxes."
+         },
+         {
+          "text": "High-income earners invest more than they spend."
+         },
+         {
+          "text": "Reduced tax revenue will have little consequence."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "What does the speaker suggest about herself?",
+        "options": [
+         {
+          "text": "She opposes the idea of a maximum wage."
+         },
+         {
+          "text": "She has had money but not happiness."
+         },
+         {
+          "text": "She thinks most people are not motivated by money."
+         },
+         {
+          "text": "She is mainly driven by potential financial gains."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "Dear Ms. Green,",
+       "I am sorry to bother you, as I know you are very busy, but I would like to change my vacation time request. I asked to take the first 2 weeks of July off, but now, if it is okay, I would like the first 2 weeks of August instead.",
+       "The rule is that no changes may be made once requests have been submitted in writing, but I think that requiring requests to be made in January is a little unreasonable. It is difficult for some people to know, 6 months in advance, what their summer plans will be. I understand that time is needed to hire temporary replacements to take care of things while people are away. I am also aware that everyone needs to coordinate their vacation plans in a way that ensures no single department is understaffed. However, I believe 2 or 3 months' notice should be sufficient. According to my friends, that's the amount of notice required by other places of employment here in Canada.",
+       "The reason I am changing my request is that I had originally planned to take a trip to Japan during the first 2 weeks of July. However, I have now decided to go to Africa instead, and that tour is scheduled for the first 2 weeks of August. My husband and his retired parents have already made a non-refundable deposit for the trip to Africa for the four of us, and they are really looking forward to it. In fact, my husband, who will be taking a solo business trip to Mexico afterwards, bought six suitcases yesterday and has already started planning everything. I do not want to disappoint my family with news that I cannot get the time off. As I am still giving 5 months' notice, I hope it will be sufficient.",
+       "Please let me know at your earliest convenience whether I can change my vacation time to the first 2 weeks of August, as I will need to either finalize the booking with Global Travel Agency or try to get our non-refundable deposit back!",
+       "Thank you,",
+       "Else Birch"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "It was unnecessary for the writer to mention the",
+        "options": [
+         "date of her initial request.",
+         "expected period of absence.",
+         "name of the travel agency.",
+         "type of deposit she made."
+        ],
+        "answer": 2,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Mrs. Birch accepts that",
+        "options": [
+         "advance notice of vacation is required.",
+         "most departments are understaffed",
+         "replacement workers are unavailable.",
+         "6 months' notice is the minimum."
+        ],
+        "answer": 0,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Mrs. Birch disagrees with the",
+        "options": [
+         "\"changes not allowed\" rule.",
+         "\"no other employment\" rule",
+         "\"requests must be in writing\" rule.",
+         "\"6 months' notice\" rule."
+        ],
+        "answer": 0,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The trip to Africa",
+        "options": [
+         "is offered only in the summer.",
+         "occurs when July is over.",
+         "takes 4 weeks in total.",
+         "will depart from Japan."
+        ],
+        "answer": 1,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Mrs. Birch's travel plans include",
+        "options": [
+         "family members.",
+         "her closest friends.",
+         "only her husband.",
+         "her co-workers."
+        ],
+        "answer": 0,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "In general, Mrs. Birch seems",
+        "options": [
+         "confused",
+         "happy.",
+         "pressured.",
+         "sorry."
+        ],
+        "answer": 2,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks.",
+      "paragraphs": [
+       "Select the best choice for each blank from the drop-down menu ( ).",
+       "Dear Else,",
+       "Thank you for your recent email asking me to {{7}}. I would like to assure you that I very much appreciate your comments about our policy. You are certainly not the first employee here at The Fabulous Furniture Company to {{8}} the requirements. I am aware, as your email suggests, that other companies are {{9}} policies.",
+       "Given the information you have provided, I'm pleased to say that I have decided to make an exception and {{10}}.",
+       "I do hope you enjoy your adventure -- I myself have wanted to visit {{11}}",
+       "for some time now!",
+       "Regards,",
+       "Ms. Green"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "change the dates you'll be away",
+         "confirm your travel insurance",
+         "give you extra time off work",
+         "revise our vacation policy"
+        ],
+        "answer": 0,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "have difficulty meeting",
+         "insist on changes to",
+         "need an explanation of",
+         "refuse to follow"
+        ],
+        "answer": 0,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "different in terms of their",
+         "ignoring such vacation",
+         "now changing such strict",
+         "popular because of their"
+        ],
+        "answer": 0,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "approve 2 months' vacation",
+         "forward your message upwards",
+         "grant your revised request",
+         "hire your temporary replacement"
+        ],
+        "answer": 2,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "Africa",
+         "Canada",
+         "Japan",
+         "Mexico"
+        ],
+        "answer": 0,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_2.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "Lemongrass Gardening Centre Grow your own organic garden with our selection of fruit and vegetable seeds! Gardening workshops held every Tuesday from 6:00-7:00 p.m. Or, simply drop by our store and speak to any of our knowledgable staff. We are here to make your garden a success!",
+       "Carrots Difficulty: Moderate Season: Spring Difficulty: Easy Season: Spring"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_3.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "Difficulty: Easy Season: Winter or Spring Difficulty: Difficult Season: Summer prefer full sun but can grow in partial shade • require lots of direct sun plant seeds 1 inch deep • keep soil well-watered avoid over-watering the seeds require lots of room to grow grow very tall plant seeds in equal parts compost and soil plant near a fence or trellis"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu ().",
+      "paragraphs": [
+       "From: <amalane@redmail.com>",
+       "To: <llance@greenmail.com>",
+       "Subject: Gardening",
+       "Hey Lucy,",
+       "Any interest in planting a vegetable garden? It'd be a great way to get cheap, nutritious food. I know you're not a fan of dirt, but it could be fun! Check out the brochure!",
+       "Since we're first time gardeners, I'd suggest starting with something simple. Obviously, we'd want to avoid growing {{1}}. Also, our yard is very sunny, so it could be difficult to grow {{2}} Of course, we'd definitely need to plant pumpkin, since, as you know, I love pumpkin pies. We could work something out even though they require {{3}} For fresh pies, I accept the challenge!",
+       "Let's check out the gardening centre after dinner. It sounds like the {{4}} place in town. Also, I'll stop by the library for a gardening guide since the brochure doesn't provide complete information for each plant. The brochure mentions harvest time for only {{5}} That's something we'd definitely need to know!",
+       "Best,",
+       "Alan"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "watermelon",
+         "peas",
+         "tomatoes",
+         "carrots"
+        ],
+        "answer": 0,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "spinach",
+         "peas",
+         "watermelon",
+         "carrots"
+        ],
+        "answer": 0,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "plenty of space",
+         "warm and dry soil",
+         "lots of shade",
+         "specialized seed compost"
+        ],
+        "answer": 0,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "most helpful",
+         "busiest",
+         "largest",
+         "most popular"
+        ],
+        "answer": 0,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "carrots and spinach",
+         "watermelon and peas",
+         "spinach and tomatoes",
+         "pumpkin and carrots"
+        ],
+        "answer": 0,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (), choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "What does Alan want Lucy to do?",
+        "options": [
+         "call the garden centre for information",
+         "research the harvest time of each plant",
+         "make a pumpkin pie for dinner",
+         "plant a vegetable garden with him"
+        ],
+        "answer": 3,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Why does Alan think a garden is a good idea?",
+        "options": [
+         "He knows Lucy would enjoy it.",
+         "It is an affordable way to eat healthy food",
+         "It will fill empty space in their yard.",
+         "He feels they don't eat enough healthy food."
+        ],
+        "answer": 1,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Why did Alan attach the brochure to his email?",
+        "options": [
+         "to show her the new gardening centre in town",
+         "to provide examples of things they can grow",
+         "to encourage Lucy to plant a garden again",
+         "to explain what he'll be doing this summer"
+        ],
+        "answer": 1,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. With most Canadians living in the southern part of the country, much of Canada's 9.9 million square kilometres is uninhabited. Consequently, outdoor wilderness activities such as hunting, fishing, camping, hiking, and canoeing are suitable pastimes. Of these, camping has the widest appeal. More than one third of Canadian households contain camping equipment, and about one quarter of the population camps each and every year. More than 37 national parks plus innumerable provincial parks and private campgrounds regularly attract camping enthusiasts and issue thousands of permits each year.",
+       "B. The most common camping choices in Canada range from posh, fully-equipped motorhomes to rustic wilderness camping with whatever the hiker can carry in a backpack. The most lavish option, the 6- to 13-metre-long motorhome, consumes tremendous amounts of fuel and requires large parking spaces in campgrounds. These campers should reserve their campsites well in advance. Retired couples sometimes take a year or more to travel around North America this way, perhaps in a cavalcade of up to a hundred vehicles. Another option is the RV trailer, which is shorter but requires a towing vehicle. RV trailers are far cheaper than motorhomes but still provide the conveniences of home.",
+       "C. In Canada, motorhomes and RVs are costly to buy or rent and to use. For those requiring a cheaper alternative and willing to forgo homey conveniences, the lightweight tent trailer is a possibility. Typically costing less than $10,000, it's easy to pull and manoeuvre. Essentially, it's a collapsible tent-like structure mounted on a rectangular four-sided box attached to two wheels. The interior varies with the model, the more expensive ones including a rustic kitchen, beds, running water, and an electrical hookup. More stable than a tent, which sits on the ground, its construction may still lead to camper discomfort during extreme weather.",
+       "D. Less restrictive and more economical than other mobile accommodations, tents can be used along designated hiking trails or in established campgrounds; though, regulations prevent tenters from pitching a tent anywhere they choose. Driving or biking from campsite to campsite stretch of the Trans-Canada highway, for example, has campgrounds that cater to motorhomes, tent trailers, and tenters. Some campgrounds have running water and showers, whereas others have only outhouses and outdoor cold-water taps. Reservations are accepted for any type of camping. Websites and books are available with detailed information about campsites in each province, facilitating vacation planning for adventurous campers.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Camping's popularity in Canada is evidenced by the percentage of frequent campers.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Certain types of camping cannot be done spontaneously.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Some people who prefer one style of camping enjoy travelling in groups.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Camping is a growing trend among wilderness enthusiasts.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Campers should check where they are permitted to set up camp.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Campsites are evenly spaced across the country.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "People who use motorhomes bring a second vehicle with them.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Some campers choose a middle ground between luxury and rustic camping.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "Some camping equipment is less able to withstand unpleasant conditions.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "Language Decline",
+       "The numbers are in, and they're grim: Three thousand of the world's seven thousand languages are in decline and expected to perish by around 2100. While the most prevalent languages are taking a firmer hold across the globe, the extinction rate for languages is 25 per year. Charting language demise, UNESCO ranks dwindling languages on a scale ranging from \"vulnerable\" to \"critically endangered.\" The question is how, or whether, UNESCO or sovereign governments should intervene?",
+       "Concerned language preservation organizations include the Canadian Association for Language Diversity (CALD), a charity whose goal is to prevent language extinctions. IALD spokesperson Norman Reideger says all endangered languages should be saved. \"For individuals, language fosters a sense of personal identity. Language extinction means loss of priceless, irreplaceable cultural knowledge the grammar, music, narratives, and even medical knowledge embedded in a language. A linguistically diverse planet is a healthy planet.\"",
+       "Concordia University linguistics professor Marianne Houseman deplores such use of biodiversity rhetoric in linguistics discourse. \"Life is life, and language is language,\" she clarifies. Houseman is skeptical about whether speakers of endangered languages benefit from linguistic preservation, noting that those who abandon their language may be acting in their own best interests by adapting to a naturally evolving socio-economic climate. \"Whose needs are served by government-funded social or socio-linguisticengineering schemes?\" asks Houseman, \"Their proponents are typically nationalist regimes advancing their own territorial, political and economic agendas.\"",
+       "Annalisa Ducharme, a Memorial University doctoral candidate, points out that a confounding factor is variation within a language. \"One language can have multiple dialects-regional varieties,\" says Ducharme, \"If an endangered language is to be artificially propped up with government funded schools and preschools, as they do with some First Nation languages in Canada, then which-whose-version of the language should be deemed \"essential\" and therefore worth saving?\"As well as First Nation languages, Duchenne points to French, which \"has many dialects worth sustaining. Globally, France, Louisiana, and Africa have their own versions. In New Brunswick, French dialects include Quebecois, Acadian, and Chiac, a sub-dialect that blends Acadian French, English, and [aboriginal] Mikmaq.\""
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Annalisa Ducharme most likely objects to",
+        "options": [
+         "inflated claims about language preservation outcomes.",
+         "public programs to revitalize dying languages for political reasons.",
+         "denials about the rate of language extinction.",
+         "a simplistic categorization or definition of a language."
+        ],
+        "answer": 3,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Marianne Houseman thinks language preservation programs should be",
+        "options": [
+         "modified.",
+         "continued.",
+         "consolidated.",
+         "abandoned"
+        ],
+        "answer": 3,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Who holds directly opposing viewpoints?",
+        "options": [
+         "Ducharme and UNESCO",
+         "Houseman and Reideger",
+         "Reideger and Ducharme",
+         "Ducharme and Houseman"
+        ],
+        "answer": 1,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Marianne Houseman would most likely agree that",
+        "options": [
+         "investments in language immersion schools are defensible.",
+         "language preservation policies deserve public attention.",
+         "people stand to gain from speaking a lingua franca.",
+         "dying languages are a priceless cultural resource."
+        ],
+        "answer": 2,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Overall, the article suggests that efforts to preserve dying languages are",
+        "options": [
+         "hampered by the link between language and identity.",
+         "fraught with an array of sociopolitical complications.",
+         "warranted on the basis of disturbing global statistics.",
+         "essential for the sake of preserving indigenous cultures."
+        ],
+        "answer": 1,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "I'm Metis, of French and Cree descent. Having just 1,000 remaining speakers, Michif, the language of my people, is being sustained through Canadian federal government funded programs like those described in the article. The goal is to save it through transmission to {{6}} I have two points. First, I remind the {{7}} that historically, the demise of Michif was anything but an organic process; Michif endured systematic government efforts to erase it. Michif therefore merits government efforts to help it {{8}} strongly disgree with the notion that language-targeted government redress and reconciliation programs are {{9}} Second, Michif has several dialects; we chose to revitalize two. While Ms Ducharme may think targeting languages for revival is {{10}} we think Michif is worth reviving."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "the next generation",
+         "linguistic researchers",
+         "a range of First Nation groups",
+         "Michif speakers"
+        ],
+        "answer": 0,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "professor",
+         "graduate student",
+         "CALD representative",
+         "United Nations"
+        ],
+        "answer": 0,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "continue evolving",
+         "grow more diverse",
+         "make a comeback",
+         "become official"
+        ],
+        "answer": 2,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "language standardization efforts",
+         "aggressive nationalist agendas",
+         "likely to proliferate",
+         "indulgent charity campaigns"
+        ],
+        "answer": 1,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "unnecessary",
+         "linguistic",
+         "essential",
+         "arbitrary"
+        ],
+        "answer": 3,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "als Selected Product: CELPIP-General Practice Tests, Set 6 -",
+     "Read the following information.",
+     "You have recently moved to another province and need your internet service set up. You chose the company you would like to go with and made an appointment. However, nobody arrived at the scheduled time."
+    ],
+    "instruction": "Write an email to the company in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Explain the problem.",
+     "Tell them why you need internet service.",
+     "Suggest what the company should do now."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "Your English instructor has assigned a final project. It will involve doing online research and presenting a 15-minute speech to the class. This project can be done either individually or in groups of three. Your instructor has asked you to complete an opinion survey."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I want to work by myself on the final project.",
+     "Option B: I want to do the project in a group of three."
+    ],
+    "surveyTitle": "Final Project Survey",
+    "samples": [],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your friend is worried about making a good impression on her first day at her new job. Give her advice about what she should and should not do on her first day."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you had to learn something new. Maybe you can talk about a time when you learned a new skill, a new language, or a new lesson. What was it, when did it happen, and how did it make you feel?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p1_2.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "You are a teacher at the local elementary school. You need to plan a field trip for the kids. There are two choices. Using the pictures and information, choose the option that you prefer.",
+     "In the next part, you will need to persuade a co-worker that this is the best choice.",
+     "If you do not choose, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "Your co-worker is suggesting another field trip. Persuade her that the option you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "You are taking a college course and have a group project due next week. One of your group members, Andy, has not completed his part of the project because he has been busy at work. He wants to ask for an extension. The instructor, Ms. Pratt, said that she would only give extensions for special situations."
+    ],
+    "choices": [
+     "Talk to Andy. Explain why he must complete his work.",
+     "Talk to Ms. Pratt. Explain why your group should get an extension."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think that all Canadian citizens over 18 years old must be required to vote in government elections? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You are at an interior decorating store and see an interesting wallpaper design. Your friend, Laura, has been wanting to change the look of her room. Call Laura and describe in detail what the wallpaper design looks like, and ask if she would be interested in using it for her room."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

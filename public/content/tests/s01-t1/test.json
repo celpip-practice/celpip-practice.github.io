@@ -1,0 +1,1767 @@
+{
+ "id": "s01-t1",
+ "set": 1,
+ "test": 1,
+ "title": "Practice Test 1-1",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 48.1
+      },
+      "transcript": "Excuse me. Before I leave, could you take a look at my account and see how many cardio classes I have left? Sure. Do you have your membership card? Here it is. I joined this health club a couple of months ago, but haven't been keeping track of how often I come. No worries. I can look it up. Let's see. You have five classes left. Did you know we have a special promotion this month? If you buy a 20 class package, you get a 10% discount. I already get a 15% student discount. Can I add it on to that? Oh, no. Sorry. The current promotion can't be combined with any other discounts. Oh, well. Thanks and have a great day.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "to get a membership"
+         },
+         {
+          "text": "to receive a discount"
+         },
+         {
+          "text": "to check his account"
+         },
+         {
+          "text": "to take a cardio class"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "What does the man want?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "10%"
+         },
+         {
+          "text": "15%"
+         },
+         {
+          "text": "20%"
+         },
+         {
+          "text": "50%"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "What discount does the woman offer the man?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 44.5
+      },
+      "transcript": "Hi again. Hey, I must be having bad luck. I was on my way home, and once it started raining, I discovered that I'd forgotten my umbrella. Do you have a lost and found bin? I think I might have left my umbrella in the locker room. Sure, we have a lost and found. What does your umbrella look like? It's black, the kind where the stem collapses and it becomes really small. The handle is wooden, it's the bay brand. It might have the brand logo on the handle, I don't remember. Let me check. Wow, umbrellas seem to be a commonly forgotten item. But I think I found yours. Oh, that's great. Thank you. You're welcome. See you next time.",
+      "questions": [
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "to wait until it stops raining outside"
+         },
+         {
+          "text": "to look for something in his locker"
+         },
+         {
+          "text": "to return something that wasn't his"
+         },
+         {
+          "text": "to get back a missing personal item"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "Why does the man return to the health club?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "image": "media/listening_p2_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_2.jpg"
+         },
+         {
+          "image": "media/listening_p2_3.jpg"
+         },
+         {
+          "image": "media/listening_p2_4.jpg"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "What does the umbrella look like?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "The man was walking home from the gym."
+         },
+         {
+          "text": "The man should have received a discount."
+         },
+         {
+          "text": "The gym's clients rarely carry umbrellas."
+         },
+         {
+          "text": "The gym's clients don't use the lockers."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "Which statement is most likely true?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 71.3
+      },
+      "transcript": "Hey, it's me again. Sorry, I see you're closing in a few minutes. No worries. It always takes a while for the last class to leave, and it takes an hour to clean up after that. What can I do for you? Sorry, but I think I took the wrong umbrella. What? Really? Yeah, are you sure there weren't two black Bay umbrellas in the Lost and Found? Mine has a rip in the fabric near the top, but the one you gave me doesn't have a rip. Here, see? I don't feel right taking it. Wow, what are the chances of that happening? Okay, let me go check the lost and found again. I didn't really look that carefully because I thought for sure that one was yours. Yeah, if you could check, that would be fantastic. One second. Wow, you're right. I can't believe there were two umbrellas exactly the same. Let's open this one. Yep, it's got a rip at the top. That's the one. Here, I'll trade you. It's a deal. See you next time. Just press the buzzer to unlock the door on your way out.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "He interrupted her clean-up routine."
+         },
+         {
+          "text": "He made her re-open the health club."
+         },
+         {
+          "text": "He thinks he is bothering the woman."
+         },
+         {
+          "text": "He is making the woman work late."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "Why does the man apologize to the woman?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "It belonged to someone else."
+         },
+         {
+          "text": "He wanted to make a deal."
+         },
+         {
+          "text": "It was the wrong type of fabric."
+         },
+         {
+          "text": "He found a small rip at the top."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "Why does the man return the item?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "The woman will apologize to the man."
+         },
+         {
+          "text": "The man will need help getting out."
+         },
+         {
+          "text": "The man will buy a better umbrella."
+         },
+         {
+          "text": "The woman will begin her chores."
+         }
+        ],
+        "answer": 3,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "What will most likely happen next?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 130.7
+      },
+      "transcript": "Hey, I haven't seen you before. You must be new here. My name's Jonathan. How do you like it here so far? I'm Anna. Nice to meet you. Yes, I just started this afternoon. It's okay. Have you worked at this restaurant long? two years now, but I only work four days a week. I really enjoy it, but you you don't sound like you're having much fun. This is my first time waitressing and I'm afraid I'm not very good. I just spilled wine on a customer a couple of minutes ago. The guy was really upset and I didn't know what to do so I just ran off. what do I do now? That's okay. Everyone makes mistakes, even experienced servers. Don't be so hard on yourself. Don't worry, just go back and apologize and bring him another glass of wine and tell him dessert will be free. What about his shirt? It's got a huge red wine stain on the arm. I heard him tell his date that he can't go to the opera with a ruined shirt. I'll tell you what, I'll go talk to him with you. We'll tell him the restaurant will reimburse him for his shirt. But first we should tell Laura the manager what happened. Oh no, I'll get fired. She's going to think I'm the worst waitress ever. Laura's very understanding, trust me, you won't get fired. She will make you practice is carrying wine glasses though. Actually, if this is your first time waitressing, I'm surprised she let you carry wine glasses at all. Usually they train you for at least a week first. Another waitress just passed me a tray with wine glasses on it and asked me to take it to table five. She said she was too busy. Oh, I see. She must not have known it was your first day. Anyways, let's go solve the situation. You'll feel much better. It'll be fine. You'll see.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "two years"
+         },
+         {
+          "text": "about a month"
+         },
+         {
+          "text": "a day"
+         },
+         {
+          "text": "four days"
+         }
+        ],
+        "answer": 2,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "How long has the woman been a waitress?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "She apologized."
+         },
+         {
+          "text": "She asked another server for help."
+         },
+         {
+          "text": "She got embarrassed and ran off."
+         },
+         {
+          "text": "She offered the man a free dessert."
+         }
+        ],
+        "answer": 2,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "Why is the waitress apprehensive?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "because there was a problem with his order"
+         },
+         {
+          "text": "because the food wasn't to his liking"
+         },
+         {
+          "text": "because the server forgot to put in his order"
+         },
+         {
+          "text": "because he may not be able to attend the opera"
+         }
+        ],
+        "answer": 3,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "Why was the customer upset?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "by paying to replace the customer's ruined shirt"
+         },
+         {
+          "text": "by offering a complimentary dessert"
+         },
+         {
+          "text": "by offering a free meal"
+         },
+         {
+          "text": "by offering complimentary opera tickets"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "How does the man suggest they fix the problem?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "fire the waitress from her job"
+         },
+         {
+          "text": "require the waitress to practice"
+         },
+         {
+          "text": "move the waitress to hosting"
+         },
+         {
+          "text": "take money from the waitress' pay"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "What does the man think the manager will do?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 187.8
+      },
+      "transcript": "Hi there. What brings you into Artland today? Hi. I'm looking to take up painting as a hobby, be, and my grandson just gave me a gift certificate to this store. The problem is, I really have no idea where to start. I'm wondering if you can give me some advice. Of course. That's what I'm here for. Well, let me start by asking you a few questions. Were you looking to enroll in our classes? I have a lot of free time, so I figured I would try it on my own. Certainly. Do you have ideas about what subjects you want to paint? I think landscapes. We were looking at some old photographs on my birthday, and I thought it would be nice to recreate the rolling hills of the beautiful farm I grew up on in Manitoba. I've been living in Toronto for five decades now, and though I love city life and the downtown skyline, line. The memories of sunsets on the farm are still with me. Wonderful. Well, the three basic types of paints are watercolor, acrylic, and oil. They are all suitable for landscapes. I would say watercolor is the hardest for a beginner to start with, even though it is the most affordable of them all. I don't think watercolor will be the one for me then. What's the main difference between acrylics and oils? The amount of time it takes for the paint to dry. Acrylic paints dry very quickly, within a matter of hours, whereas oil paints can take up to several days, even weeks, to dry. A lot of our beginner students like acrylics, because if they make a mistake, they don't have to wait long to paint over it. However, that can also be frustrating because it's hard to mix the colors you want when they dry so fast. I see. Well, I don't think I'll mind fast drying paints. I'll go for acrylics then. What other kind of supplies will I need? Do you think you'll be painting indoors or outdoors? Definitely outdoors. outdoors. I'd like to paint landscapes while immersed fully in nature myself. I'm a big wilderness explorer. Sounds lovely. And if you ever feel you need some extra help, we have painting workshops at a local farm not too far from the city every last Saturday of the month. The workshop goes from 9 a.m. to 5 p.m. and participants enjoy a nice farm style lunch meal. Thank you. I'll go at my own pace, but I'll definitely consider it. It might be a nice way to learn, socialize, make new friends, and reminisce about my mother's cooking.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "to inquire about in-store painting lessons"
+         },
+         {
+          "text": "to claim a gift from his grandson"
+         },
+         {
+          "text": "to purchase painting items he ran out of"
+         },
+         {
+          "text": "to learn a new painting technique"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "Why is the man at the art store?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "recreating family portraits inspired by old pictures"
+         },
+         {
+          "text": "capturing real-life scenes from Toronto's downtown"
+         },
+         {
+          "text": "reproducing the look of Toronto's downtown sunset"
+         },
+         {
+          "text": "painting rural landscapes from his childhood"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "What is the man interested in doing?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "Because it is too difficult for first-time painters."
+         },
+         {
+          "text": "It is not suitable for the kind of painting he plans to do."
+         },
+         {
+          "text": "It can take up to several days or even weeks to dry."
+         },
+         {
+          "text": "He won't be able to capture details with this painting technique."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": ""
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "It does not take a long time to mix."
+         },
+         {
+          "text": "It has a much quicker drying time."
+         },
+         {
+          "text": "It is can be easily removed with water."
+         },
+         {
+          "text": "It can be used indoors safely."
+         }
+        ],
+        "answer": 1,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "According to the woman, why is acrylic better than oil paint?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "because the man needs help with his technique"
+         },
+         {
+          "text": "because the man could help beginner painters"
+         },
+         {
+          "text": "because the man enjoys painting outdoors"
+         },
+         {
+          "text": "because the man could get assistance"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "Why does the woman suggest the workshop?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "become part of a painting group"
+         },
+         {
+          "text": "take painting classes every Saturday"
+         },
+         {
+          "text": "try to learn painting by himself"
+         },
+         {
+          "text": "return to his hometown for a visit"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "What is the man planning to do?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "It is about one and a half minutes long.",
+     "Then five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 138.2
+      },
+      "transcript": "A family driving near Banff British Columbia on a camping trip last weekend narrowly avoided crashing into a deer, only to hit a large pheasant instead. Banff is a nature reserve home to thousands of wild animals including bears, deer and countless game birds such such as pheasant. Michael Jansen, who was driving at the time, said they were heading back to their campsite around dusk when they came around a bend of the highway and saw a deer trotting across the road. Jansen swerved successfully around the animal, but only a few seconds later a pheasant flew across the road in the opposite direction and hit the windshield. shield. He pulled over to the side of the road as the deer ran into the forest, unharmed. Unfortunately for the pheasant, the impact of the windshield killed it immediately. However, Janssen's daughter Emily, who took a wilderness survival course last year, decided to make the best of the situation. She took the bird back to the campsite and roasted it with garlic and onions. It's completely legal to eat roadkill in British Columbia, she explained, why waste perfectly good food? It's sad that we hit it, but at least it didn't go to waste. You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Michael Jansen was driving back to the campsite when",
+        "options": [
+         {
+          "text": "he nearly hit a person crossing the road."
+         },
+         {
+          "text": "he hit a deer that crossed the road."
+         },
+         {
+          "text": "he saw an accident on the highway."
+         },
+         {
+          "text": "a large bird flew into his windshield."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The area where the accident took place is",
+        "options": [
+         {
+          "text": "at a busy intersection."
+         },
+         {
+          "text": "near a city zoo."
+         },
+         {
+          "text": "in a protected area."
+         },
+         {
+          "text": "near their home."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The accident caused",
+        "options": [
+         {
+          "text": "the engine to break down."
+         },
+         {
+          "text": "the children to get hurt."
+         },
+         {
+          "text": "the deer to die."
+         },
+         {
+          "text": "the bird to die."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "That night Jansen's daughter, Emily,",
+        "options": [
+         {
+          "text": "had a picnic on the side of the road."
+         },
+         {
+          "text": "cooked the animal they had hit."
+         },
+         {
+          "text": "refused to eat dinner."
+         },
+         {
+          "text": "used her survival skills to get help."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Emily's actions that night were prompted by",
+        "options": [
+         {
+          "text": "a survival course she had taken."
+         },
+         {
+          "text": "distress over the accident."
+         },
+         {
+          "text": "being stranded in the woods."
+         },
+         {
+          "text": "the family running out of food"
+         }
+        ],
+        "answer": 0,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "You will watch a two-minute video, then eight questions will appear.",
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 139.4
+      },
+      "transcript": "Well, thanks for being on time, folks. Our agenda today is pretty short. We're just trying to decide on a venue for our company's 20th anniversary celebration. Any ideas? Well, I've got a couple places in mind. One smaller and one's larger. It depends on how many people we're talking about. How many are coming? Well, we're up to 100 maximum. Everyone's allowed to invite their spouse or partner. Here's the program, as we know it, starting at 7 p.m. Wine, speeches, and maybe award presentations. follow it at 8 p.m. by a buffet dinner starting at 9.30 they'll be entertainment ideally a live band if we can afford one up to a hundred people that's quite a crowd I mean obviously we need space for everyone but we don't want to go over budget well I've got a few penny pinching tricks up my sleeve we could find a venue on a weekday Monday through Thursday is cheaper we can also find a place that's out of town maybe even out in the suburbs and if If force comes to worse, you can always hire a DJ instead of a live band. Also, we don't need to go overboard on the menu. We could just order reasonably priced food that everyone will enjoy. And we can always tweak the menu a bit, assuming the caterer will let us. I know a couple of places called Griffin's that might be perfect. It's in Wimperton. Where's Wimperton? It's about 30 minutes east by car on Highway 18. Anyway, Griffin's family owned, has great ambience, and fairly reasonable prices. They do group bookings as well. I know the manager. I might be able to talk him into giving us a group discount. Yeah, my main concern would be the location. My brother retired and moved to Wimberton, and it's impossible to get there by public transit. You know, we don't want to say farewell to people as they're getting behind the wheel after having a few drinks. You know, we'd want to get them all to take taxis home, and then we'd have to reimburse them for the ride. We don't want to incur that expense. You know here. Thanks. Hey, how about the red door? It's just two blocks north of here. It's right on the subway line. I know they're dining area seats over a hundred people. I'm pretty sure the owner could accommodate us price-wise and he just hired the top chef in the city. Sounds well worth checking out. Brian, could you contact the manager and get an estimate? Oh, better yet. Get two. One for a Thursday and one for a Saturday. So, we'll meet again next week and we'll take it from there.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Why is the party being organized?",
+        "options": [
+         {
+          "text": "to acknowledge an important date"
+         },
+         {
+          "text": "to celebrate the company's success"
+         },
+         {
+          "text": "to mark the boss's 20th anniversary"
+         },
+         {
+          "text": "to say farewell to retiring employees"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What is the main limitation for the organizers?",
+        "options": [
+         {
+          "text": "booking dates"
+         },
+         {
+          "text": "menu options"
+         },
+         {
+          "text": "financial means"
+         },
+         {
+          "text": "seating capacity"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What does the man say about Griffin's Restaurant?",
+        "options": [
+         {
+          "text": "He accepts its disadvantages."
+         },
+         {
+          "text": "He criticizes it as impractical."
+         },
+         {
+          "text": "He dismisses it for no reason."
+         },
+         {
+          "text": "He feels it is worth considering."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What would the speakers probably consider most important?",
+        "options": [
+         {
+          "text": "avoiding complaints about the organizers"
+         },
+         {
+          "text": "ensuring top staff members receive awards"
+         },
+         {
+          "text": "avoiding indirect responsibility for accidents"
+         },
+         {
+          "text": "ensuring that the events unfold on schedule"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Why did the woman and the man wearing glasses laugh?",
+        "options": [
+         {
+          "text": "They said something that sounded wrong."
+         },
+         {
+          "text": "They were making fun of the man's opinion."
+         },
+         {
+          "text": "They were pretending to agree with the man."
+         },
+         {
+          "text": "They said the same thing at the same time."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Which option did the committee consider but reject?",
+        "options": [
+         {
+          "text": "an out-of-town restaurant location"
+         },
+         {
+          "text": "an alternate entertainment provider"
+         },
+         {
+          "text": "a party that welcomed staff only"
+         },
+         {
+          "text": "a smaller range of menu items"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What information is needed about The Red Door?",
+        "options": [
+         {
+          "text": "Is it cheaper to book on weekdays?"
+         },
+         {
+          "text": "Is it located on the subway line?"
+         },
+         {
+          "text": "Do they have space for a hundred?"
+         },
+         {
+          "text": "Do they have the city's top chef?"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Which statement is most likely true?",
+        "options": [
+         {
+          "text": "The organizers will reject The Red Door."
+         },
+         {
+          "text": "The event will be on a Saturday night."
+         },
+         {
+          "text": "The food quality will please the guests."
+         },
+         {
+          "text": "The staff will have to walk to the event."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "It is about three minutes long.",
+     "Then six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 214.6
+      },
+      "transcript": "Asha Miller is a grade 11 student at Giles Secondary, a private school. school. She is pushing for her school to change their school uniform policy. Asha has recently started a petition protesting the school's mandatory attire. Her cause has attracted a large number of supporters within the student body and also from some parents and school staff. At the same time, many among the student body, faculty and parents are in favor of continuing the school tradition. The debate about whether or not students should wear a uniform to school or not is quite common in Canadian private schools. Although a few public schools also require students to wear a school uniform, most public schools don't require this. One of the most common arguments for uniforms is that students will not be as or peer pressure. Consequently, students focus on better grades and they are also easier to discipline. Uniforms are also thought to play a role in creating a sense of belonging and school culture that is important for cooperation and unity. Critics, such as child psychologist Dr. Jason educational results. In fact, academic performance scores in schools that adopt uniforms and those that do not often average the same. Moreover, dissenters point out that students required to wear uniforms typically manage to fight the rules and individualize their uniforms by wearing unique shoes or accessories. accessories. But perhaps the most damaging argument against uniforms is that they can discriminate against certain religions or cultures. The school's administration advocates that there is a middle ground. Uniforms can work with students' diverse cultural needs if the school authorities consult parents about what is acceptable. Exceptions could be made, such as, for example, allowing Muslim girls to wear long, loose trousers instead of skirts that might not provide adequate coverage. Asha Miller thinks such accommodations don't quite suffice, and she advances a different alternative. She is suggesting that uniforms be abolished in favor of a dress code that specifies the kinds of clothes that can be worn, including the length of dresses, amount of exposed skin, cleanliness, and so on. She argues this solution would address the concerns of all parties. Students wouldn't feel constrained in how they express their identity and cultural beliefs. Meanwhile, appropriate school attire and discipline would be maintained. gained. She adds that adolescence is a particularly critical phase in a person's life in which they are trying to figure out who they are and where they fit, and clothing choice is a way to truly express one's interests and personality.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Asha Miller's campaign has received",
+        "options": [
+         {
+          "text": "unanimous support from students and teachers."
+         },
+         {
+          "text": "opposition from all of the school's faculty."
+         },
+         {
+          "text": "resistance from traditionalists in the school."
+         },
+         {
+          "text": "growing media support following the school debate."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "School uniform policy",
+        "options": [
+         {
+          "text": "has been newly implemented in the public school system."
+         },
+         {
+          "text": "affects mostly students attending private schools."
+         },
+         {
+          "text": "is being considered as a country-wide policy in Canada."
+         },
+         {
+          "text": "was eliminated by a student initiative at Giles Secondary."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Uniforms are generally adopted because they",
+        "options": [
+         {
+          "text": "eliminate issues of religious affiliations."
+         },
+         {
+          "text": "promote equal rights for all students."
+         },
+         {
+          "text": "help students focus on academics, not fashion."
+         },
+         {
+          "text": "reduce awareness of individual identity."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "According to the report, opponents of uniforms state that their use",
+        "options": [
+         {
+          "text": "is not always culturally sensitive."
+         },
+         {
+          "text": "impacts academic achievement negatively."
+         },
+         {
+          "text": "does not interfere with obedience in class."
+         },
+         {
+          "text": "may generate fights amongst students."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The school administration shows",
+        "options": [
+         {
+          "text": "some flexibility to the enforcement of uniform rules."
+         },
+         {
+          "text": "unwillingness to bring the matter for discussion."
+         },
+         {
+          "text": "disapproval for teachers who support the petition."
+         },
+         {
+          "text": "intention to ban the use of uniform rules in the future."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "An alternative to the prevailing uniform policy, Asha suggests that the school should",
+        "options": [
+         {
+          "text": "allow Muslim girls to wear pants."
+         },
+         {
+          "text": "allow students to personalize their uniforms with accessories."
+         },
+         {
+          "text": "allow students to vote on whether uniforms should be banned."
+         },
+         {
+          "text": "provide students with a clear dress code to be applied to regular clothes."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Dear Grandpa,",
+       "Thank you so much! I was surprised and delighted to receive your parcel and open your thoughtful present. A two-person camping tent is just what I needed. I've used it already; my friend Ryan and I spent a week camping in the Kootenay region of BC. We just got back. I was going to use our old family tent, but it's not only too big, it is also getting pretty worn out, so your gift was perfect.",
+       "We planned on camping at various locations in the Kootenay region, but we ended up staying at our first campsite for the whole trip. The campground, located on the east side of Arrow Lake, was called McDonald Creek Provincial Park. We were looking forward to the white sand beach, but when we arrived, the park ranger informed us that all the recent rainfall had caused the lake to flood a couple metres higher than normal. The beach was completely submerged. We still had a great time, though, hiking in the beautiful wilderness.",
+       "We drove a different route to get home so we could pass through the city of Nelson. It looks different from the last time I was there, but that's not too surprising; I was there just a couple times as a kid. Last time we were there, Dad showed me the house where he had been born, and also your old clothing store. I drove around and I couldn't find your old house, Grandpa; however, I did find your old store! It's a cafe now, but they kept your old shop sign as a decoration in the cafe. I got pretty emotional when I saw it. I felt really proud of our family history.",
+       "Now I'm back in Calgary, but the trip to Nelson made me realize how much I miss you. So, I was thinking that maybe I should fly over to visit you. I have 2 weeks before college starts, so I could come for a week or so. I have enough money saved up from my summer job to pay for the ticket to Montreal. How does that sound? Perhaps the two of us can go camping like in the old days. We haven't done that since you moved east. I'll bring the new tent!",
+       "Love, Greg"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (\" ), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Greg",
+        "options": [
+         "got used to his old family tent.",
+         "got a new tent in the mail.",
+         "needs a new tent for his trip.",
+         "bought a new tent."
+        ],
+        "answer": 1,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Greg and Ryan",
+        "options": [
+         "toured several campsites in the Kootenay region.",
+         "enjoyed the provincial park's white sand beaches.",
+         "were surprised by the water level at the lake.",
+         "were unable to tour and camp because of the rainfall."
+        ],
+        "answer": 2,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Greg took an alternative way back because",
+        "options": [
+         "he wanted to revisit his dad's hometown.",
+         "his grandpa still owns a shop there.",
+         "he wanted to pay his father a visit.",
+         "he used to live there as a child."
+        ],
+        "answer": 0,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Greg became emotional when",
+        "options": [
+         "he found out his grandpa's business had shut down.",
+         "his father told him stories about his childhood.",
+         "he saw the house where his father grew up.",
+         "he saw something that belonged to his grandfather."
+        ],
+        "answer": 3,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Greg is hoping to",
+        "options": [
+         "use the tent for the first time.",
+         "travel to Montreal very soon.",
+         "be accepted in college this year.",
+         "get a summer job before starting school."
+        ],
+        "answer": 1,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Greg's grandpa",
+        "options": [
+         "is coming to Calgary for a few weeks.",
+         "bought Greg a ticket back to Nelson.",
+         "used to go camping with Greg.",
+         "is moving back to Calgary."
+        ],
+        "answer": 2,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the best choice for each blank from the drop-down menu (\" ).",
+      "paragraphs": [
+       "Greg,",
+       "It goes without saying that I'd love to {{7}} Now with my old bones, I'm not so sure that {{8}} but even if it's not, I think we should do it anyway. After all, we have to put the tent to good use! You just email me your travel plans. Also, there's no need to {{9}} I can take care of that, you should keep your savings for tuition. Well, I can't say I've been to Nelson since I sold my business there many years ago. Did you take any photos of {{10}} If you did, I'd love to see them. I'm sorry you {{11}} I don't even know if it's still standing. If it is, it would be a hundred years old Anyway, email me as soon as you book the flight over here. Grandpa"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "visit Montreal.",
+         "visit the Kootenays.",
+         "go to Calgary.",
+         "see you here."
+        ],
+        "answer": 3,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "flying here is wise,",
+         "I can make it to Calgary,",
+         "we should visit the old cafe,",
+         "camping is a great idea,"
+        ],
+        "answer": 3,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "plan a camping trip for us;",
+         "spend your own money on a ticket;",
+         "buy a new tent for this trip;",
+         "drive all the way to Montreal;"
+        ],
+        "answer": 1,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "the old store sign?",
+         "the old cafe?",
+         "your father at the cafe?",
+         "the house where your dad was born?"
+        ],
+        "answer": 0,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "didn't find the old house.",
+         "didn't find the old store.",
+         "didn't recognize the cafe.",
+         "couldn't buy the old sign."
+        ],
+        "answer": 0,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu (\" ).",
+      "paragraphs": [
+       "Subject: Kids Activities",
+       "To: Mary S <t.smithers@frimpton.bc.ca>",
+       "From: Sandy Rockton <srockton@sterlings.ca>",
+       "Hi Mary,",
+       "It was a pleasure meeting you and the kids at the park on Sunday. I hope you're settling into our neighborhood You said you were looking for {{1}} I saw a few possibilities in the latest Burnaby Parks and Recreation brochure. I remember you saying that Alex is contemplative {{2}} seems a great choice for thinkers like Alex. He will get to think hard and learn some additional math skills. You said Melissa is quite scared of math, in which case you could check out {{3}} They may help her feel better about her schoolwork.",
+       "Speaking of Melissa, she may want to join my daughter Cindy in the young teens' soccer league. This is quite a commitment as there is {{4}} If that's a problem, she could try karate. I'm not sure about the class times {{5}} You'll have to call and ask.",
+       "Cheers,",
+       "Sandy"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "some after school activities for your kids.",
+         "some helpful educational websites.",
+         "babysitting services for your children.",
+         "online classes for your son."
+        ],
+        "answer": 0,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "Trimble Studio",
+         "hellomath.ca",
+         "Al Math and Chess",
+         "Eastburn Soccer"
+        ],
+        "answer": 2,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "Eastburn Soccer.",
+         "Trimble Studio.",
+         "Karate.",
+         "the hellomath.ca website."
+        ],
+        "answer": 3,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "a boys and girls soccer league.",
+         "training in the week and a weekend game.",
+         "a website where you can get information.",
+         "a week long summer training session."
+        ],
+        "answer": 1,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "there's no website.",
+         "they are not well established.",
+         "there's no contact information.",
+         "I don't know where they practice."
+        ],
+        "answer": 0,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (> ), choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Mary and Sandy",
+        "options": [
+         "have been friends for a long time.",
+         "met at their kids' soccer practice.",
+         "now live in the same area.",
+         "were neighbours in the past."
+        ],
+        "answer": 2,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Sandy",
+        "options": [
+         "is looking for activities for her own children.",
+         "is suggesting activities in the neighbourhood.",
+         "works for Burnaby Parks and Recreation.",
+         "has committed to drive the girls to soccer practice."
+        ],
+        "answer": 1,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Melissa",
+        "options": [
+         "prefers individual to team activities.",
+         "doesn't have the weekends off.",
+         "doesn't enjoy math as much as Alex.",
+         "is too young to play team sports."
+        ],
+        "answer": 2,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. The first record of chewing gum dates back to Finland about 5,000 years ago. Neolithio-period chewing gum was made of bark tar and was widely utilized for its antiseptic and medicinal properties. In America, chewing gum was first introduced to settlers by the American Indians who chewed resin made from the sap of spruce trees. After World War II chewing gum was made of a latex sap substance called chicle, which has been steadily engineered and replaced by synthetic rubbers and artificial sweeteners that allow for greater flavouring, colouring, and texture. Modern chewing gum hardly resembles its predecessors in appearance and flavour. It has also gained unprecedented popularity, becoming a 20-billion-dollar industry in North America.",
+       "B. Over the past decades, the bad reputation chewing gum earned for causing cavities and gum disease has also begun to dwindle. With the advent of sugarless chewing gum, most dentists today deem chewing gum in moderation to be harmless, or even potentially beneficial to oral hygiene. In addition, functional chewing gum, a special category of gum that imparts a practical function in addition to, or as a replacement for, the usual enjoyment provided by a confectionery gum, has become increasingly prescribed by dentists and doctors alike. Conditions such as bad breath and tobacco addictions are now commonly treated with functional gum. Surgeons also prescribe functional chewing gum for patients recovering from gastrointestinal surgeries.",
+       "C. Recent research suggests the benefits of gum may not be limited to medicated gum. Chewing regular gum has been found to boost cognitive performance in many ways including improved reaction time, motor control, and alertness. These effects have been found to come at an expense, however. Although as many as eight areas of the brain are activated by the simple act of chewing gum, the cognitive gains of mastication-induced arousal can only be sustained for a short period. Moreover, chewing gum was observed to interfere with verbal-fluency and short-memory tasks.",
+       "D. Oral health researchers posit the short-lived cognitive gains of chewing gum pale in comparison to their potentially hazardous health effects. They claim the innocuousness of sugarless gum is a myth, expounding that sugar substitutes such as aspartame have been increasingly linked to different types of cancer and autoimmune diseases. They also point to possible chronic irreversible conditions that may ensue from excessive gum chewing such as headaches, tightness in jaw muscles and nerves, metabolic imbalances, and irregularities in mastication that range from tooth decay to bone loss.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Evidence suggests gum chewing can enhance some brain functions.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The chemical bases of chewing gum have been reformulated",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Chewing gum is used post-operatively as a healing aid.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "There can be lifelong damage associated with regular intake of synthetic sugars.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Chewing gum can curb some unhealthy dependence behaviours.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Some researchers oppose the reported benefits of chewing gum.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Patients who chew gum regularly tend to be more neglectful of their oral hygiene.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Early chewing gum was entirely natural.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "The benefits of sugar-free gum are recognized.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "Stephanie Lee is a science teacher at Ryerson Secondary who believes that real science should encourage critical thinking, even if it means challenging what's written in the textbook. Part of the curriculum involves learning about climate change, and Lee was dismayed to find the textbook material to be \"little more than propaganda, which claims that global warming is chiefly a human-caused phenomenon.\"",
+       "Lee argues that education is supposed to teach students how to see objectively, yet textbooks often monopolize certain viewpoints and push them as the only truth. In the case of climate change, Lee was appalled to find that no alternative theories were presented. \"The absence of other perspectives seems to indicate that the topic of global warming has been made into a sort of doctrine which seeks to diminish the credibility of other points of view,\" Lee says. Lee taught her students additional perspectives. Not only did she teach the theory of anthropogenic global warming, that is, that global warming is caused by human consumption of fossil fuels and the release of carbon dioxide into the atmosphere, but also taught that throughout history, the earth's temperature has naturally risen and fallen.",
+       "Other science teachers at Lee's school have raised concerns that Lee's approach is only confusing students. Carol Harvey argues that the greenhouse gas effect and subsequent global warming is not a controversy in the scientific community. It has been proven that humans have increased the amount of greenhouse gases in the atmosphere by roughly 30% in the last 100 years. \"Our textbooks are up to date, and Lee is only prompting students to dismiss valuable textbook information,\" Harvey says.",
+       "Lee disagrees, asserting that science should not shy away from evaluating multiple perspectives. \"Carbon dioxide changes have not been proven to be the primary cause of global warming,\" Lee says. \"In fact, research indicates the reverse might be happening: global warming might be causing changes in carbon dioxide levels. Either way, my job is to help students to analyze both theories, not simply accept the one presented in the textbook.\""
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (* ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Stephanie Lee's main objective in teaching science is to",
+        "options": [
+         "make sure students have mastered the textbook content.",
+         "teach about the impact of human activities in global warming.",
+         "challenge well established educational publications.",
+         "promote reflection on different scientific perspectives."
+        ],
+        "answer": 3,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "According to Lee, the main issue with textbooks is that",
+        "options": [
+         "they reflect research sponsored by private businesses.",
+         "they typically present information from particular vantage points.",
+         "they promote low-standard research with no scientific credibility.",
+         "they contest less-popular theories about global warming."
+        ],
+        "answer": 1,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Lee's opinion on climate change differs from science textbooks in that",
+        "options": [
+         "she agrees it is actually a chiefly human-caused phenomenon.",
+         "she argues that fossil fuel consumption is mostly to blame.",
+         "she observes that historically the earth's temperature has fluctuated.",
+         "she demonstrates that the temperature around the world has mainly dropped."
+        ],
+        "answer": 2,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The main criticism of Lee's teaching approach is that",
+        "options": [
+         "it ignores controversy in the scientific community.",
+         "it could be misleading for some students.",
+         "it ignores the views presented in the textbook.",
+         "it lacks a historical perspective."
+        ],
+        "answer": 1,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Lee responds to criticism of her teaching approach by",
+        "options": [
+         "arguing multiple perspectives ought to be part of learning science.",
+         "reiterating that global warming is yet to be scientifically confirmed",
+         "questioning her colleagues' scientific knowledge.",
+         "highlighting how well her students have accepted her approach."
+        ],
+        "answer": 0,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "Lee is right that schools {{6}} The trouble is how we decide which points of view we teach and who decides. On the one hand, as Lee notes, {{7}} On the other hand, are teachers any better at presenting an unbiased perspective? {{8}} upon which Lee seems to focus is very complex. The scientists themselves have yet to make up their minds and yet Lee believes that science teachers are qualified to {{9}}",
+       "This is a complicated problem. In the end, however, I tend to side with Lee. Teachers {{10}} on a topic and allow students to draw their own conclusions.",
+       "M. Ladner"
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "should not hire underqualified science teachers.",
+         "should not have a fixed science curriculum.",
+         "should teach multiple perspectives on a subject.",
+         "should teach children about the politics of research."
+        ],
+        "answer": 2,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "we cannot rely on textbooks to provide a balanced view.",
+         "teachers are unwilling to supplement the content of their classes.",
+         "part of the school day should be spent investigating research articles.",
+         "students have assumed a rather passive interest in scientific research."
+        ],
+        "answer": 0,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "The responsibility of science teachers",
+         "The question of changing the school's curriculum",
+         "The value of reading original research in class",
+         "The issue of climate change and global warming"
+        ],
+        "answer": 3,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "create tests that measure scientific knowledge.",
+         "dictate how researchers should carry out their investigations.",
+         "make choices about which theories should be taught.",
+         "teach students about the impact of global warming."
+        ],
+        "answer": 2,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "should present diverse positions",
+         "stop using the textbook",
+         "focus on environmental problems",
+         "hire better-prepared teachers"
+        ],
+        "answer": 0,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "Last weekend you attended the Canada Day community picnic. The event was a potluck, so everyone brought a dish of food to share. Some people, including you, have allergies or can't eat some types of food, such as nuts and seafood, so you included a list of ingredients with your dish. No one else did this."
+    ],
+    "instruction": "Write an email to the community picnic organizer in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Express your overall enjoyment of last week's event.",
+     "Explain why each potluck dish needs a list of ingredients.",
+     "Describe how the potluck could be differently organized next year."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "To: Community Picnic Organizer",
+       "Subject: Canada Day Picnic",
+       "I was really enjoyed and overwhelmed the last weekend Canada day community picnic in Turner park. There's a lot of people in our community was organized and joined this kind of event. I was so amaze because it's successfully done everything in the picnic and I really thankful for those people who brought some dish of foods.",
+       "In this letter there's a sensitive way to need to know about the food and it can notice the list of ingredient's was wrote it up of each dishes, being aware for those people have an allergy included me this is very helpful and aware which food might be sensitive to eat or not to be eaten. Many of people are not aware what was written in the dish so we've encountered some minor concerned they are not aware of that and not safe to eat it cause of allergy.",
+       "I would suggest to our organizer team that we need to talk about this matter and plan to do something different by next year. Potentially we give some suggestion and discuss it better way.",
+       "Thank you,",
+       "Best Regard,",
+       "Ramesh Zavala"
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "Hello Richardson,",
+       "I am writing this email to extend my heartfelt gratitude to you for organising the Canada Day community picnic. However, I would like to draw your attention on few facts as given below.",
+       "I really liked the idea of a potluck event as it brings forth harmony and a chance for people to socialize with different cultures. But being a public gathering there would be people who are allergic to certain food items, like my mouth started swelling when I had chicken, unaware that it contained roasted nuts. Similarly I saw few children getting into trouble when they had seafood. Hence it would have been great if a list of ingredients were placed by the side of each dish.",
+       "I do have few suggestions for next year's event: - Instead of printing flyers try to get email-ids from municipalities, it is cost-effective and highly reachable. - Organise games for children that ensures a more fun-filled evening. - Voluntary music bands for entertaining the crowd.",
+       "All in all, as the chief organiser you should be proud of your team and sponsors for setting up this event. Wishing you all success in the coming years as well.",
+       "Regards Hakim"
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Dear Canada Day community picnic organizer",
+       "Thank you for the wonderful event last weekend. I had an enjoyable time interacting with the community on such an important celebration in Canada.",
+       "I noticed on the day that participants did not include a list of ingredients for the dishes they brought to the potluck. There are individuals including myself who have some food allergies such as those related to nuts and seafood. The allergies can in some cases be fatal which is why a list of ingredients would be helpful to better assist individuals to make the right food choices based on their allergies.",
+       "May I suggest that for the event next year, that participants are requested to supply a list of ingredients to go with the dishes they bring to the potluck to avoid any issues that may occur from an individual eating a tainted item that may aggravate their food allergy.",
+       "I believe that having the list of ingredients will be widely received and will mean that people can be more involved in the event and try the various dishes without risking their health.",
+       "Thank you for your consideration and I look forward to another wonderful event next year."
+      ]
+     }
+    ],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "Your local newspaper is experiencing low sales of its newspapers since many readers are now choosing the online version. Its current number of online subscribers is now three times the number of print subscribers. The newspaper has sent a survey to all of its print and online subscribers to see whether there is enough demand to keep the print version."
+    ],
+    "instruction": "Choose the option that you prefer. Explain the reasons for your choice. Why do you prefer your choice? Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: Stop producing the print version of the newspaper.",
+     "Option B: Keep producing both the print and online versions."
+    ],
+    "surveyTitle": "Online vs. Print News Survey",
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "I would like to say to keep print version and also develop the online version because both of them have supporter.",
+       "Nowadays, with the development of internet. Surf the net became a lifestyle in our daily life. The online version for the newspaper can provide the most convenience way for us to get the new information about the world. We can get the news everywhere with our laptop, iPad. The most important thing is it can protect the environment save more tree, reduce the waste. This online version obviously will be a trend of the lifestyle in the future.",
+       "Although the online version have many advantage, but as a company they take care of every person in the society. We still have many old person who unable to use the computer or other eletronic devices. But they still need to get information from the world. We can not regardless of them. They have right to get the news.",
+       "I will suggest that to control the weight between print version and online version to let everyone to choose their lifestyle."
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "News paper is one of the oldest source of information in the world. But nowadays many online version are available in the market that are the good alternative source of information. so we have to stop the producing print media? According to my opinion we should stop producing print version. Print version have many disadvantages as compare to online version That disadvantages i am going to explain in the following.",
+       "First of all it is not good for the environment every one knows every year many trees cut down to produce paper. If we stop producing print media then we can save that tree and save wild life.",
+       "Secondly, it save the manufacturing cost and transportation cost. For example every morning news paper travels from its manufacturing place to our door step and manufacturer spend much money for this So if stop producing print media can save these cost. And manufacture can this money for other creative work.",
+       "Finally i strongly prefer to stop print version and prefer online version because it have more advantages than print version."
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "I would recommend that the local newspaper continues to keep producing both the print and online versions.",
+       "I recognize that particular individuals are pushing a shift towards media being exclusively online but doing this will undoubtedly leave some readers unhappy.",
+       "I enjoy having the physical printed newspaper to read. I spend enough time each day on a computer as it is. Reading the newspaper is a time for me to relax and get away from the online and electronic world.",
+       "There are certainly times when the online issue has been beneficial, like being able to access the local news while in a foreign country but for the most part, I prefer the experience of reading a print version.",
+       "I also believe that within our community, there is a large number of elderly residents who actively buy the print version and have been doing so for year. Many do not have access to a computer. If you stop producing the print version, you are instantly cutting this group of people form your readers."
+      ]
+     }
+    ],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your friend wants to rent a movie tonight. Give your friend advice about which movie to rent and explain why it is a good movie."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you interacted with an animal. Maybe you can talk about a family pet, a farm or zoo animal, or an animal in the wild. What kind of animal was it, what happened, and why do you remember the experience?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most likely happen next?"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "Your niece has a two-week break from school, and to keep her entertained, you are looking at summer camps you could suggest to her. You find two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade your niece's mother that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "Your niece's mother (your sister) is suggesting another day camp. Persuade her that the camp you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "You and Mike work in a department store, and Mike is talking to a customer who wants to return a coffeemaker he bought there. The customer doesn't have his receipt, but you remember selling him the coffeemaker the day before. Mike is refusing to refund the coffeemaker, but the customer is getting upset and just wants his money back."
+    ],
+    "choices": [
+     "Explain to Mike that you sold the coffeemaker to the man the day before, and he should give a full refund.",
+     "Explain to the customer that the store policy is that you must have the original receipt to return an item, so he cannot get a refund for the coffeemaker."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think Canada should spend money on preserving its historical sites or spend money on scientific research and advances? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "While driving, you see a car that you think is unsafe. You call 911 (you have a hands-free phone), and the police answer your call. Now describe in detail what you see, and explain why you think it is unsafe."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

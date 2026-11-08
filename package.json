@@ -1,0 +1,32 @@
+{
+  "name": "celpip-open-practice",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": ".venv/bin/python -m http.server 3000 --bind 127.0.0.1 --directory out",
+    "test": "vitest run",
+    "test:content": ".venv/bin/python scripts/validate.py && .venv/bin/python -m pytest -q tests",
+    "test:e2e": "PLAYWRIGHT_BROWSERS_PATH=work/pw playwright test",
+    "test:all": "npm run test:content && npm test && npm run build && npm run test:e2e",
+    "content:build": ".venv/bin/python scripts/build.py"
+  },
+  "dependencies": {
+    "@fontsource/fira-sans": "^5.3.0",
+    "next": "^15.5.29",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@testing-library/dom": "^10.4.2",
+    "@testing-library/react": "^16.3.3",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "jsdom": "^29.1.1",
+    "typescript": "^5.9.3",
+    "vitest": "^5.1.0"
+  }
+}

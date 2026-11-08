@@ -1,0 +1,1767 @@
+{
+ "id": "s04-t1",
+ "set": 4,
+ "test": 1,
+ "title": "Practice Test 4-1",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 64.7
+      },
+      "transcript": "Hello, Mr. Adler. You asked me to come over? Yes, thanks. Please come in. What seems to be the problem? Well, I know it's sunny outside, but inside it's so cold. I have both heaters turned on, but I'm still freezing. The house is small, and I thought it would be easy to heat, but I see now that the ceilings are high. I turned the ceiling fan on to push the hot air down down, but it's pulling the hot air up. I can't figure out how to make it change direction. You can't. The fan is only for the summer, but this cold weather is very unusual. Normally it's warmer than this. Do you know how long it will last? They say only for a few days. Unfortunately, they're calling for rain after that, but I can have some firewood delivered if you'd like. Could you show me how to use the wood stove first? of course. Okay then, yes, I'd like some firewood delivered. All right, but it probably won't get here until tomorrow. In the meantime, I'll bring over another heater for you.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "The house is too cold."
+         },
+         {
+          "text": "The firewood is too wet."
+         },
+         {
+          "text": "The heaters won't turn on."
+         },
+         {
+          "text": "The ceiling fan won't spin."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "What is the man's main complaint?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "confused"
+         },
+         {
+          "text": "helpful"
+         },
+         {
+          "text": "angry"
+         },
+         {
+          "text": "funny"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "Which word best describes the woman?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "rainy"
+         },
+         {
+          "text": "sunny"
+         },
+         {
+          "text": "colder"
+         },
+         {
+          "text": "warmer"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "What is the weather normally like?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 31.4
+      },
+      "transcript": "Hello? Oh, come in. Here's the extra heater. Where would you like it? Right here in the living room is perfect. In the corner. So I don't trip over it. Okay. This is the button to turn it on and this is the button to turn it off. Yes, yes. and I see that I can set the temperature and then it will shut off by itself, right? Yes. Afterwards, when you don't need it anymore, just put it away in the closet or something. It'll be good to have an extra heater here. Okay. And thanks for bringing it over so quickly.",
+      "questions": [
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "return it to the woman"
+         },
+         {
+          "text": "store it in the house"
+         },
+         {
+          "text": "give it to someone else"
+         },
+         {
+          "text": "leave it in the living room"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "What should the man do with the heater later?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "He thinks the extra heater won't work."
+         },
+         {
+          "text": "He believes the heater is easy to use."
+         },
+         {
+          "text": "He expected a larger heater."
+         },
+         {
+          "text": "He won't use the extra heater."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "What is likely true of the man?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 51.1
+      },
+      "transcript": "The wood has been delivered, I see. Yes, thank you. I asked them to stack it near the door. Good. Okay. Now, before you light the fire, slide the damper, this handle, to the right, to open the chimney. Otherwise, the house will fill the smoke. Like this? No. To the right. And then I put some wood in the stove. No. First, crumple up some newspaper. Next, you put in some small pieces of wood, and then you light it. Once there is a nice, small fire, you can put in bigger pieces of wood, one at a time, carefully. Make sure you always close the door, though. And when the fire is completely out, I turn the handle to close the chimney to the left? Yes, but just in case I'll come back later.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "to deliver a stack of firewood"
+         },
+         {
+          "text": "to help rid the house of smoke"
+         },
+         {
+          "text": "to explain how to use the stove"
+         },
+         {
+          "text": "to help the man stack firewood"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "What is the purpose of the woman's visit?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "He moved the handle too far."
+         },
+         {
+          "text": "He moved the handle too many times."
+         },
+         {
+          "text": "He moved the wrong handle."
+         },
+         {
+          "text": "He moved the handle in the wrong direction"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "What did the man do wrong when he opened the chimney?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "The man has asked her to return."
+         },
+         {
+          "text": "She wants to make sure all is well."
+         },
+         {
+          "text": "The man will pay her for the firewood then."
+         },
+         {
+          "text": "She will bring the man something else."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "Why does the woman say she'll come back later?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 136.7
+      },
+      "transcript": "Hi, can I help you? Hi, this is Charlene at CableTron calling. We have an installation date for you. CableTron, great. Finally, I've survived three weeks in my apartment without the Internet and I'm starting to lose my mind. Let me just log into my calendar here. Sorry, the internet is a little slow in this coffee shop. It'll be a lot faster in your home with cable Tron. When you placed your service order, you said you were available in the mornings. Our installation technician will come to your house between 7.30 a.m. and 12.00 noon on Thursday April 10th. Oh no, that's the day I'm supposed to bring my car to the auto shop for a mechanical check. I'm new to this province and my car needs a safety inspection before I can register it in Ontario. Both have to be done by the 15th. If you can take our April 10th appointment, the next available one will be April 18th. I'm sorry, but we're unbelievably busy this time of year. Can you change your car appointment by any chance? Good question. Well, what do you think? Which do I need more urgently right now? The internet or my car? more. I'm afraid you're asking the wrong person. I'm a computer geek who doesn't drive and rides her bike everywhere. So I know which one I'd pick, but I'm biased. I'm guessing the mechanics have a bit more flexibility in their schedule than cable tron. So I'll go for the internet installation. I'll call the garage when I get off the phone. I'm pretty sure they can accommodate. I hope so. But if you need to reschedule your cable-tron installation, please call us 48 hours in advance. And by the way, welcome to the Province of Ontario. Thank you. I'll see your technician on the 10th.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "a Government of Ontario employee"
+         },
+         {
+          "text": "an internet company representative"
+         },
+         {
+          "text": "the man's personal assistant"
+         },
+         {
+          "text": "a secretary at an auto garage"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "Who is the woman?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "His internet is broken."
+         },
+         {
+          "text": "He's using public Wi-Fi."
+         },
+         {
+          "text": "He forgot his password."
+         },
+         {
+          "text": "His computer is slow."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "Why does the man have difficulty logging in?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "tell the man his appointment date"
+         },
+         {
+          "text": "ask the man when he's available"
+         },
+         {
+          "text": "ask the man which date he prefers"
+         },
+         {
+          "text": "ask the man to re-schedule an appointment"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "What did the woman intend to do with this phone call?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "His calendar is in error."
+         },
+         {
+          "text": "His appointments conflict."
+         },
+         {
+          "text": "His home internet is slow."
+         },
+         {
+          "text": "His car has broken down."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "Why does the phone conversation frustrate the man?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "ignores the woman's recommendation"
+         },
+         {
+          "text": "reschedules his CableTron appointment"
+         },
+         {
+          "text": "goes along with the woman's plan"
+         },
+         {
+          "text": "refuses the woman's request"
+         }
+        ],
+        "answer": 2,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "What does the man do in the end?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 136.1
+      },
+      "transcript": "Hi, I'm looking to start a college club, and I was told that the Student Society Office was the right place to ask. I can definitely help you out with that. What kind of club are you interested in starting? Well, I found a brochure of clubs around campus, and I noticed there wasn't a music club. I play guitar and I sing and I thought maybe it would be fun to start a club so students could get together and make some music. That's awesome. Okay let's get you started. You will need 10 students who support your club and will sign a petition to launch your club. There's a special day next week club day where you can set up a table with posters or signs to gain students interest in your club. That sounds fun. I'm sure I can get at least 10 people interested. Is there funding for the club? Yes, if you get 10 signatures and start your club, the student society budgets $40 to new clubs, and that money can be used towards anything such as event planning or food. If you're looking for additional funding, you could apply for a grant of up to three hundred dollars. Wow! Maybe in the future we could even put on a concert at the college pub or something. And where do clubs usually meet? Do they book rooms? Clubs get the privilege of accessing a lot of college space, like any of the rooms or lecture halls. You could even hold club meetings outdoors. The only thing that you have to be careful about is the noise level, as you're going to be a music club. I'd recommend the couch lounge next to the college pub. You can be loud and there's even a piano there. Great. Is there a form I need to fill out? Ah, yes. Are you going to be the president of the club? There can be up to three executives. Just me for now. Perfect. Fill out the form and get your 10 signatures. Then we can process your application.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "so more people can hear live music"
+         },
+         {
+          "text": "so she can help people learn to play music"
+         },
+         {
+          "text": "so she can practice with her group"
+         },
+         {
+          "text": "so students can play music together"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "Why does the woman want to start a music club?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "advertising so people know about them"
+         },
+         {
+          "text": "cleaning up well after them"
+         },
+         {
+          "text": "including everyone who comes"
+         },
+         {
+          "text": "keeping the noise level acceptable"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "What must the woman think about when planning their sessions?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "a development plan"
+         },
+         {
+          "text": "a space to meet"
+         },
+         {
+          "text": "agreement of 10 people"
+         },
+         {
+          "text": "a letter from a professor"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "What does the woman need to start a club?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "a concert"
+         },
+         {
+          "text": "a festival"
+         },
+         {
+          "text": "a course"
+         },
+         {
+          "text": "a competition"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "What kind of event is the woman thinking of organizing?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "at the Student Centre"
+         },
+         {
+          "text": "at the local pub"
+         },
+         {
+          "text": "in empty classrooms"
+         },
+         {
+          "text": "in student residence"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "Where do clubs usually meet?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "the man"
+         },
+         {
+          "text": "three executives"
+         },
+         {
+          "text": "the woman"
+         },
+         {
+          "text": "a group of students"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "Who will lead the club?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "It is about one and a half minutes long.",
+     "Then five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 126.2
+      },
+      "transcript": "A resident of Lethbridge, Alberta has lost the use of his backyard due to a family of unexpected guests. Henry Chang says a pair of raccoons gave birth to a litter of baby raccoons in his storage shed, a wooden structure where he keeps his tools. Chang said that he hadn't renovated the shed yet because it's old and has a hole in the side. He guessed the raccoons thought it was a good place to raise a family. Chang soon discovered he could not enter his backyard at all as parent raccoons are fiercely protective and aggressive when raising their young. On the bright side, however, Chang joked that he doesn't have to tell his children to stop watching TV because their too busy watching the raccoon family from the living room. Even so, Chang plans to fix the shed after the raccoons leave so that the same problem doesn't happen again next year. Local wildlife expert James Wade reminds residents that urban raccoons are very common, but certain steps can be taken to keep them out of our houses and backyards. Wade said, the best approach was to block holes in places where raccoons may nest. You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The raccoons used the shed to",
+        "options": [
+         {
+          "text": "keep warm."
+         },
+         {
+          "text": "sleep at night."
+         },
+         {
+          "text": "hide from Mr. Chang."
+         },
+         {
+          "text": "have their babies."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "A negative result was that Mr. Chang",
+        "options": [
+         {
+          "text": "worried about his children."
+         },
+         {
+          "text": "began watching too much TV."
+         },
+         {
+          "text": "couldn't use his backyard."
+         },
+         {
+          "text": "had to fix the hole."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "A positive result was that Mr. Chang's",
+        "options": [
+         {
+          "text": "children could play with the raccoons."
+         },
+         {
+          "text": "children liked watching the raccoons."
+         },
+         {
+          "text": "shed was large enough for the raccoons."
+         },
+         {
+          "text": "shed was put to good use."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "In the future, Mr. Chang will",
+        "options": [
+         {
+          "text": "repair the shed"
+         },
+         {
+          "text": "build a new shed"
+         },
+         {
+          "text": "leave holes for raccoons."
+         },
+         {
+          "text": "allow raccoons in the yard."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "According to the wildlife expert, raccoons",
+        "options": [
+         {
+          "text": "are common in cities."
+         },
+         {
+          "text": "are afraid of humans."
+         },
+         {
+          "text": "are very dangerous."
+         },
+         {
+          "text": "make good pets."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "You will watch a two-minute video, then eight questions will appear.",
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 139.6
+      },
+      "transcript": "You will watch a discussion among three people, one woman and two men. They are discussing a situation that is happening in the hospital gift shop. This is Jason. This is Alec. This is Janet. Thanks for getting together today. We need to talk about the situation at the hospital gift shop. We need to understand exactly what's going on so we can report at the hospital auxiliary meeting next week. What situation? I haven't heard anything. Haven't you noticed some of the stock has been disappearing more quickly than usual? If you check the sales records sales haven't been going up. If anything they've been going down lately. How could that be? Doesn't everybody know that we're a volunteer organization and that all the money we raise there goes to buying medical supplies? Well you'd think so. I mean certainly the staff appreciate the work that we do and positive it's no one from staff involved. So are you saying that somebody has stolen the stock one of the volunteers or a customer and that someone is stealing money from the cash register that would have to be one of the gift shop volunteers right? It's just too dreadful to think about but we have to decide what we're going to do about the situation. I think first we should compare the computer inventory with what we actually have in the store. That way we can identify what's missing and how much money has actually been lost. That's a good idea. You know, maybe it's someone from staff who's just taking something home on approval and and forgot to pay for it. I mean, maybe that's all what's happening. Well, there should be a record so that we can tell at a glance what hasn't been paid for yet and by whom? There is. There's a notebook. Maybe people have forgotten about it. You know what? We should just get rid of on approval privilege. It's always been a nuisance. Maybe we should install a security camera. That way, if the problem continues, we can know exactly what's happening and we can involve the police. I could price some different cameras and then bring up the idea at the next meeting. I can call all of the volunteers who work in the gift shop and let them know to be more watchful. That way they'll know that we are aware there's a theft problem going on. If it is a volunteer involved, maybe that will resolve the issue. First, let's get the inventory done and see how serious this situation actually is. Maybe the shelves just look empty and it's not as bad as we think it is. I can do it tomorrow morning.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What are the roles of these three people?",
+        "options": [
+         {
+          "text": "managers of a volunteer organization"
+         },
+         {
+          "text": "distributors of medical supplies"
+         },
+         {
+          "text": "trainers of hospital volunteers"
+         },
+         {
+          "text": "cashiers at the hospital gift shop"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What is the primary purpose of their meeting?",
+        "options": [
+         {
+          "text": "to investigate a problem"
+         },
+         {
+          "text": "to take stock of inventory"
+         },
+         {
+          "text": "to follow up on a meeting"
+         },
+         {
+          "text": "to discuss volunteer workers"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Why does Jason, the man on the left, ask SO many questions?",
+        "options": [
+         {
+          "text": "He thinks Janet knows what happened."
+         },
+         {
+          "text": "He is unaware of the state of affairs."
+         },
+         {
+          "text": "He disagrees that there is a problem."
+         },
+         {
+          "text": "He wants to attract their attention."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What is the purpose of the gift shop?",
+        "options": [
+         {
+          "text": "to collect funds for hospital supplies"
+         },
+         {
+          "text": "to provide volunteering opportunities"
+         },
+         {
+          "text": "to raise money for volunteer projects"
+         },
+         {
+          "text": "to finance the hospital's expansion"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Why does Alec, the man in the middle, rule out hospital staff as suspects?",
+        "options": [
+         {
+          "text": "The staff are aware of the security camera."
+         },
+         {
+          "text": "The staff reported the missing inventory."
+         },
+         {
+          "text": "The staff support the gift shop."
+         },
+         {
+          "text": "The staff undergo security checks."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "How does the meeting end?",
+        "options": [
+         {
+          "text": "They remain conflicted about what to do."
+         },
+         {
+          "text": "They have each taken on a specific task."
+         },
+         {
+          "text": "They decide to postpone the investigation."
+         },
+         {
+          "text": "They have prepared a report for the hospital."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Why isn't the on-approval system working?",
+        "options": [
+         {
+          "text": "People fail to keep track of items taken."
+         },
+         {
+          "text": "Volunteers are unaware of the notebook."
+         },
+         {
+          "text": "The same items are always being taken."
+         },
+         {
+          "text": "Too much time is wasted checking inventory."
+         }
+        ],
+        "answer": 0,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What is one possible explanation given for the situation?",
+        "options": [
+         {
+          "text": "Customers know the shop lacks proper security."
+         },
+         {
+          "text": "The shop's inventory lists are inaccurate."
+         },
+         {
+          "text": "Shop workers have reduced stock prices."
+         },
+         {
+          "text": "Shop workers have neglected to pay for items."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "It is about three minutes long.",
+     "Then, six questions will appear.",
+     "Here, choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 152.3
+      },
+      "transcript": "Welcome everyone to today's community center workshop on purchasing a vehicle. Buying a car can certainly seem like a daunting task, but it's not actually as complicated as it seems. The fact of the matter is, what you need really depends on why you need it. This morning, we will explore three options to help you make your decision. Buying a used car, buying a new car, and leasing a new car. Business owner Jane Repton prefers to buy a used car, because it's the cheapest option. Not only is the vehicle itself cheap, but insurance for the vehicle will also be low cost, since you'd probably just get the minimum, the insurance required by law. Presumably, you wouldn't get replacement insurance if the car is damaged beyond repair and an accident, you just get rid of it and buy another one. That being said, buying a used car can be risky because there's no warranty. You'll have to pay for any repairs yourself. And even Repton admits that used cars can be unreliable. She admits that she takes the bus to work more often than she'd like. car salesperson Ron McNabb says that if you depend heavily on your vehicle you should go with a new car. If you lease there's a limit of 20,000 kilometers annually, more than that and it'll cost you. So McNabb prefers to buy. Another advantage of buying new is that you know the vehicle's history from day one and you'll be the one managing its long-term condition. McNabb always chooses a new car. Yes, they're more expensive than used cars, but it's possible to get a car alone with no interest. Zero percent financing, they call it. Plus, with a new car, you can get up-to-date safety features and the best fuel economy. On the other hand, lawyer Tom Purdy prefers to lease cars. He pays the monthly fee, and when the lease is up, he turns the car in and leases a new one. The reason he prefers is to lease is because the company leasing the car looks after everything, including maintenance and repairs. All the driver has to do is get gas and pay the monthly premium. According to Purdy, it's hassle-free driving. However, Repton and McNabb agree that they would never lease, claiming that it takes a lawyer to understand all the legal jargon in the contract.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "One advantage of choosing a used car is",
+        "options": [
+         {
+          "text": "inexpensive insurance."
+         },
+         {
+          "text": "consumer protection laws."
+         },
+         {
+          "text": "access to the car's history."
+         },
+         {
+          "text": "a variety of vehicle options."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "For business owner Jane Repton, buying used car involves",
+        "options": [
+         {
+          "text": "a compromise."
+         },
+         {
+          "text": "a legal ordeal."
+         },
+         {
+          "text": "a lot of time."
+         },
+         {
+          "text": "a lot of luck."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "It can be inferred that McNab",
+        "options": [
+         {
+          "text": "doesn't care how much a car costs him."
+         },
+         {
+          "text": "likes all the optional features of new cars."
+         },
+         {
+          "text": "drives more than 20,000 kilometers per year."
+         },
+         {
+          "text": "values short-term performance of a car."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Car salesperson Ron McNab prefers buying a new car because",
+        "options": [
+         {
+          "text": "new cars require less paperwork."
+         },
+         {
+          "text": "new cars can be much better on gas."
+         },
+         {
+          "text": "he doesn't mind paying monthly fees."
+         },
+         {
+          "text": "he thinks they're the cheapest option."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Lawyer Tom Purdy is most interested in",
+        "options": [
+         {
+          "text": "status and style."
+         },
+         {
+          "text": "convenience."
+         },
+         {
+          "text": "a clear contract."
+         },
+         {
+          "text": "safety."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The speaker's primary purpose is to",
+        "options": [
+         {
+          "text": "facilitate an academic debate."
+         },
+         {
+          "text": "solicit audience participation."
+         },
+         {
+          "text": "introduce entertaining guests."
+         },
+         {
+          "text": "provide helpful information."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "Dear Mrs. Johnson,",
+       "Please accept my application for the position of sales clerk in your department store, as advertised on your website. I have had the pleasure of reviewing your company's website and am very enthusiastic about the position advertised. I believe that my skills and abilities make me the perfect candidate for this position, and I would be an asset to your sales team.",
+       "With four years of experience selling footwear, and having worked for two years in a women's clothing store at a local mall, I have developed effective customer service techniques. I enjoy working with the public, assisting shoppers by inquiring about their needs, and suggesting suitable products to meet their tastes and budget. The management team in the clothing store where I worked recognized my strong customer service skills by choosing me as 'Employee of the Month' on more than one occasion. I completed a customer service course at a local college, and attended additional training offered by my employer.",
+       "As a sales associate, not only did I assist customers, but I also handled cash, credit card, and debit transactions. I processed returns, as well as performed opening and closing procedures in the store. These responsibilities show the level of trust that my employers put in me and my abilities. Finally, the store environment required that the staff work as part of a team, which is one of my strengths. I am also comfortable working on my own. Other important skills I gained in that role include completing sales reports, meeting sales targets, and ordering stock.",
+       "Please find attached a resume outlining my retail experience, skills, and training. I feel that these qualifications equip me to make a valuable contribution to your retail establishment. I would appreciate the opportunity to discuss the position with you. I will contact you in ten days time to answer any questions you may have and to see if you need any other information from me. Thank you for your consideration.",
+       "Sincerely,",
+       "Brenda Ashburn"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (* ), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Brenda wrote Mrs. Johnson a",
+        "options": [
+         "reference letter.",
+         "letter of request.",
+         "letter of complaint.",
+         "cover letter."
+        ],
+        "answer": 3,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Mrs. Johnson and Brenda are",
+        "options": [
+         "employer and job seeker.",
+         "employee and client.",
+         "manager and employee.",
+         "employee and sales rep."
+        ],
+        "answer": 0,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Brenda is responding to",
+        "options": [
+         "a letter from a co-worker.",
+         "a memo from an employment centre.",
+         "a job advertisement.",
+         "a personal ad."
+        ],
+        "answer": 2,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Brenda has shown she is good at",
+        "options": [
+         "management.",
+         "customer service.",
+         "training others.",
+         "making a budget."
+        ],
+        "answer": 1,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "By working in retail, Brenda learned how to",
+        "options": [
+         "trust others.",
+         "work as part of a team.",
+         "write cheques.",
+         "run sales meetings."
+        ],
+        "answer": 1,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Because of her skills, experience, and training, Brenda will probably",
+        "options": [
+         "hire Mrs. Johnson.",
+         "be called for an interview.",
+         "get a promotion.",
+         "become 'Employee of the Month.'"
+        ],
+        "answer": 1,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the best choice for each blank from the drop-down menu (\" ).",
+      "paragraphs": [
+       "Dear Ms. Ashburn,",
+       "Thank you for your application and interest in our company. I am glad to hear that you are {{7}} working at our store.",
+       "You mentioned that you worked in a {{8}} and a women's clothing store. However, {{9}} in the housewares department. Do you have any experience in this area? We do offer some training, but it's limited.",
+       "Your experience helping customers by {{10}} and staying within their price range is exactly what we are looking for. The fact that you have experience {{11}} makes you a suitable candidate for the position, as this job requires a large volume of sales.",
+       "I would like to meet with you to discuss your resume and your skills. My assistant will be in touch in the next couple of days to schedule a meeting.",
+       "Sincerely,",
+       "Mrs. Johnson"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "happy to be",
+         "not tired of",
+         "sure about",
+         "excited about"
+        ],
+        "answer": 3,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "sports store",
+         "boutique",
+         "shoe store",
+         "call centre"
+        ],
+        "answer": 2,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "the position is for a manager",
+         "we are not hiring anyone",
+         "the opening we have is",
+         "the manager has experience"
+        ],
+        "answer": 2,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "targeting their needs",
+         "finding someone to help them",
+         "selling them expensive items",
+         "giving them a discount"
+        ],
+        "answer": 0,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "winning awards",
+         "processing purchases",
+         "training staff",
+         "opening the store"
+        ],
+        "answer": 1,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu (* ).",
+      "paragraphs": [
+       "Subject: Are you free for lunch?",
+       "To: Anna Smith <ansmith@dunderson.com>",
+       "From: Jeanette LeBlanc <jeanb@ses.com>",
+       "Hi Anna,",
+       "Remember how you mentioned wanting to be more active? Well, I got this flyer in the mail for the recreation centre near our office and thought you might be interested in {{1}}. I'd only be available evenings though. Since changing departments, I'm at my desk by 7:00 a.m. every day (I miss getting picked up on your way to work!).",
+       "As far as classes go, I'm hoping to get in shape before summer, meaning I'd like to go as many nights a week as possible. So my preference would be the {{2}} class. Actually, I'm trying to convince my entire family to do the same. However, this place might not be the best for them since {{3}}. Anyways, I know you had mentioned wanting to try a bootcamp class, but, unfortunately, it isn't {{4}} Hopefully one of the other classes will work.",
+       "Also, if we were to buy the monthly membership {{5}}. Definitely worth considering!",
+       "Let me know!!",
+       "Jeanette"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "signing up for a drop-in class",
+         "trying out a weekend fitness class",
+         "registering for a free trial class",
+         "joining their team sports league"
+        ],
+        "answer": 0,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "Beginner Spin Class",
+         "Circuit Weight Training",
+         "Intermediate Pilates",
+         "Yoga for Adults"
+        ],
+        "answer": 3,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "children must be over 16",
+         "most classes are for women",
+         "there isn't a family rate",
+         "most classes are for adults"
+        ],
+        "answer": 3,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "a drop-in class",
+         "meant for beginners",
+         "a challenging workout",
+         "intended for adults"
+        ],
+        "answer": 1,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "our husbands get free memberships",
+         "we get a reduced rate on classes",
+         "our first month of classes are free",
+         "we can attend any class for free"
+        ],
+        "answer": 3,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (* ), choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "What is Jeanette's relationship to Anna?",
+        "options": [
+         "client",
+         "friend",
+         "boss",
+         "neighbour"
+        ],
+        "answer": 1,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Why does Jeanette want to take evening classes?",
+        "options": [
+         "She works in the morning.",
+         "She can get a ride with Anna.",
+         "She wants to avoid getting up early.",
+         "She prefers the classes being offered."
+        ],
+        "answer": 0,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What does Jeanette think about the membership?",
+        "options": [
+         "The family membership would be best.",
+         "It's a great value for the money.",
+         "The trial membership is a good price.",
+         "It's not as good as drop-in classes."
+        ],
+        "answer": 1,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. In this age of global connectedness and social networking, it is hard to imagine that lost tribes still exist. However, the Sentinelese tribe of the Andaman Islands are just that. This indigenous group has been living on North Sentinel Island in the Indian Ocean's Bay of Bengal for thousands of years. Living on a sea route that has been travelled since ancient times, the Sentinelese have impressively managed to avoid influence from outside civilizations. They are the last tribe of the Andaman Islands to maintain their isolation, mainly because of their hostile resistance to outsiders' attempts at contact.",
+       "B. Due to lack of access, little is known about the Sentinelese people. What knowledge exists comes either from observation from a distance or is based on comparison with other Andaman tribes. A hunter-gatherer society, the Sentinelese subsist mainly by hunting, fishing, and collecting wild plants, and do not appear to have developed any agricultural practices. The majority of their tools and weapons are made from stone and animal bones; however, there is some evidence that they make use of metal fragments that wash ashore. They use javelins and flatbows as weapons, in addition to a variety of arrows. Canoes, nets, and harpoons serve as fishing gear.",
+       "C. Because contact with the Sentinelese tribe is nearly impossible, it is difficult to estimate the size of their population. Based on a limited number of encounters by outsiders and attempts by census officials to infer numbers by counting from a distance, it is estimated that there could be anywhere between 20 and 60 individuals. The island's inhabitants tend to live in two types of dwellings. There are shelter-style huts that can house a group of three or four people. These huts have no walls, and their floors are covered in palm leaves. Additionally, there are more elaborate communal huts with raised floors and specific areas for fire.",
+       "D. Starting in 1967, attempts at peaceful contact were made by the Indian government with the support of anthropologists. During these contact expeditions, gifts of coconuts were left on the shore on several occasions in an effort to diminish the aggressiveness the Sentinelese demonstrated toward strangers. The Indian authorities had limited success before finally discontinuing the expeditions out of concern for the tribe. Due to their isolation from the outside world, it was decided that contact with the tribe only put them at risk of contracting diseases. Since then, the government policy has been to leave the tribe alone.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Sentinelese isolation is surprising because travellers have long known about their island",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The Indian government used to leave food offerings for the Sentinelese.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The government is passing a bill to protect the Sentinelese community from modern diseases.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Census data on the Sentinelese have been collected by indirect observation.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The Indian government stopped visiting the Sentinelese for fear of contagion.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The Sentinelese aggressively reject any outside technology that washes ashore.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Food production on North Sentinel Island has remained very basic.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "The floors in Sentinelese huts may be elevated or covered with foliage.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "The Sentinelese are the last remaining tribe on the Andaman Islands.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "When a small town loses a major employer, the impact is enormous. Consider a community of about 20,000 people where 1,200 are employed at one business that suddenly lays off half of its employees. This happened recently at a Nova Scotia factory, Queenston Paper. The 600 dismissed employees were offered relocation, early retirement, or severance packages. One hundred fifty of the previous employees opted to relocate to another Queenston Paper factory in Nova Scotia. About 200, primarily those having built up a large enough pension, are considering retirement. Many others will receive a severance package of more than half their annual earnings. However, many feel this has little appeal since government taxes will take at least 40 percent. The rest have yet to choose their future.",
+       "Janice Witherspoon says that she and her husband wanted to enjoy their attractive Queenston salaries for five more years. Feeling secure in working at the 50-year-old factory and with their seniority status, they have been spending instead of saving. Moving isn't an option, she says. Real estate prices are far higher at the other Queenston Paper town, so the Witherspoons would end up in debt again. She scoffed at the ridiculous severance package. \"Three choices\", she says, \"but not one is really viable for us at this time of life.\"",
+       "Ginny Rousseau is more optimistic. An immigrant from France, Ginny loves the area. She and her family intend to stay. \"It doesn't cost a lot to live here,\" she says, \"so we're going for early retirement. We're already doing a little farming, a little gardening, and trying to be self-sustainable. It's very rewarding.\" Like Ginny, many Queenston Paper employees are not native to Canada, but they don't all share her complacency. Without jobs, these relative newcomers have no reason to remain. Quite a few have packed their bags and headed west in search of work. \"It's unfortunate\", says David Santos, a Brazilian. \"With the low cost of rent, I have managed to save a lot. I had hoped to eventually save enough to bring my family over from Brazil. This would have been a great place for my kids to grow up. Without work though, there is no point in sticking around.\""
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (* ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Which option is least attractive to the laid-off employees?",
+        "options": [
+         "early retirement",
+         "moving reimbursement",
+         "relocation",
+         "severance package"
+        ],
+        "answer": 3,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What do David and Ginny have in common?",
+        "options": [
+         "outlooks",
+         "backgrounds",
+         "savings",
+         "goals"
+        ],
+        "answer": 1,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "David would agree with Janice that",
+        "options": [
+         "layoffs should be based on seniority.",
+         "housing is affordable in their town.",
+         "relocation is the best choice.",
+         "retirement is an attractive option."
+        ],
+        "answer": 1,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Why are some of the laid-off employees moving away?",
+        "options": [
+         "Getting into farming is easier elsewhere.",
+         "They do not feel welcome in the community.",
+         "They took jobs at another manufacturing plant.",
+         "Industry salaries are higher in Western Canada."
+        ],
+        "answer": 2,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Ginny and David would agree that",
+        "options": [
+         "Farming is becoming more common in the area.",
+         "The town is a pleasant place to settle down.",
+         "People need to go where the jobs are.",
+         "It is difficult for newcomers to find work."
+        ],
+        "answer": 1,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "It mystifies me why those laid off complain about their situation. Jobs come and go; our town is not unique. In my opinion, these people were lucky to get such generous layoff options. When I was laid off several years ago, I was certainly not offered {{6}}. Also, why would anyone be upset about having to {{7}}? These charges are standard, so it shouldn't be surprising to see them taken from a {{8}} agreement. Furthermore, the tax credit you get when you move closer to your job would pay for the difference in {{9}} between the one town and the other Queenston Paper location. I agree with {{10}}, one needs to look on the bright side of the situation."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "40% of my annual salary",
+         "the opportunity to work elsewhere",
+         "continued pension contributions",
+         "financial help to move"
+        ],
+        "answer": 1,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "pay income taxes",
+         "contribute to their pension",
+         "cover their moving costs",
+         "dip into their savings"
+        ],
+        "answer": 0,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "layoff",
+         "relocation",
+         "retirement",
+         "severance"
+        ],
+        "answer": 3,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "commuting costs",
+         "accommodation costs",
+         "government taxes",
+         "salaries"
+        ],
+        "answer": 1,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "Queenston",
+         "Santos",
+         "Rousseau",
+         "Witherspoon"
+        ],
+        "answer": 2,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "Your son has been experiencing some difficulties at his elementary school. He has been unhappy for several weeks. You want to talk to his teacher."
+    ],
+    "instruction": "Write an email to the teacher in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Describe the problems your son is having.",
+     "Suggest some solutions to the problems.",
+     "Make an appointment with the teacher to discuss the problems and your solutions."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "To: Mr. Tom",
+       "From: Haruna",
+       "Dear Mr. Tom Good afternoon, My name is Haruna, my son Jerry is your student. In the last week, he was very unhappy when he was come home. I know he is a happy child because he go home and will talk me he was happy at very day, but at the last week, he was go to the room and don't say something. In the dinne time, he talk me what's worry. he say he lose her homework at home, so he don't give you homework on time, he was very worry about your think. I know he was skill at last day. and 1 am so busy at my job. so, I have not time to chock her homework, but that is firth time, I hope you give he other time to make the homework, I know he will on time. sincerely Haruna May 11.2014"
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "Dear Sir,",
+       "I am writing this to inform you that my son Jason Singh studying 5th grade in your class experiencing listening difficulty in subjects. Actually couple of months ago he had some vision problem and had treatment for cure. I was in the impression that he got completely cured. But yesterday i noticed that he was struggling a little to read the news paper. Now i understand the reason for why Jason seems to be quite and shows uninterested in his studies.",
+       "At the moment i realized this i wanted to inform you about this and discuss in person how to make Jason get better on his studies.1 have some suggestions to get the situation better, I will take Jason back to eye clinic and consult with the doctor to cure his vision problem completely. Also it would be more helpful if you can make seat adjustment in you class for Jason to sit in the first row of the class.",
+       "Also i would like to meet you in person to discuss about this. Please let me know your availability to for the same. Thanks.",
+       "Regards,",
+       "Hardeep"
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Dear Mr. Sinclair,",
+       "1 am writing to you to inform you of the difficulties my son has been having in school for several weeks. It appears that a boy in his class has been bullying him and I would like to propose a solution to try and prevent this behaviour in the future. I would Like this problem resolved as soon as possible as my son is afraid of going to school.",
+       "There are a couple of options I can suggest to try to stop the bullying. Firstly, I can get contact information of the parents of the bully and 1 can arrange a meeting with them and try to resolve any issues the children are having with each other. Secondly, you could intervene and talk to both children and try to find a solution to their problem.",
+       "If you would like to meet me in person to discuss the problem and my suggested solutions 1 am available any time.",
+       "1 look forward to hearing from you.",
+       "Kind Regards,",
+       "Nick Konstantopoulos"
+      ]
+     }
+    ],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "The City Manager is surveying the opinion of the community about family picnics held in public parks. On the one hand, public parks are created for people to enjoy nature. On the other hand, large family gatherings can be noisy and occupy a lot of park space. The City Manager has asked you to complete an opinion survey."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: Family picnics should not be allowed in public parks.",
+     "Option B: Family picnics should be allowed in public parks."
+    ],
+    "surveyTitle": "Family Picnics",
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "I choose option B: Family picnics should be allowed in the public parks. Based of my opinion the family parks is created for people to enjoy nature. If some family gatherings and made noisy as well as occupy a lot of park space. Actually everyone does if the family park itself have no rules or policies to be follow, and it will really happened most of the time. But however if the city manager make a policies and rules to be followed inside the family park, probably this kind of problem will not be happened again. Because that's the only way how to educate some family having there picnics inside the family park. I did not choose A: Family picnics should not be allowed in the public parks. Because it sound's selfishness to the family who want's to have their picnics in the family parks. Based of my opinion in this option A: City manager will provide some resources like making rules inside the family parks so that if family know's the rules, probably they should be aware and follow the rules in order for them to avoid complaint of some family having their picnics inside the family parks.",
+       "Thank you."
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "Dear The City Manager,",
+       "In my opinion, Family picnics should be allowed in the public parks because that is one of the ways that the parks should be used for by publics to enjoy their leisure as long as people respect each other with positive manners.",
+       "First of all, the public parks are created for every one to use for many purposes such as enjoying the nature, walking dogs, picnics, and etc. Having family picnics are of course the option as 1 mentioned and should not be excluded from the purposes of using the parks. It will cause an unfairness to some people to enjoy the parks.",
+       "Secondly, I respect the opposite opinions that family picnics could get noisy for other park users. However, It will become understandable for everyone as long as everyone keep positive manners to ensure not causing noise complaint from family picnics and respect each others way of enjoying the use of the parks.",
+       "For those reasons above, Family picnics should be allowed in the public parks as long as people respect each others with positive manners while using the parks.",
+       "Regards,",
+       "Ikuo Oshira"
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Family picnics should most definitely be allowed in public parks.",
+       "Children especially should be encouraged to spend as much time as possible outdoors exercising, playing and having fun. With childhood obesity on the rise globally, we should be doing as much as possible to ensure that our children grow up as fit and healthy as possible. The benefits are not just for the individual, but for the community as a whole. It has been proven that a simple 10 minute walk in the sun can cheer you up and get you you've Vitamin D for the day. How much better would you be after a family picnic in the park?",
+       "If the city is concerned about the availability of vehicle parking in order to get the park then why can't the visitors walk? The exercise will do them good. Public space is for everyone to enjoy and here in Canada especially, we are very fortunate to have lots of it. As long as people respect the environment and there are sufficient garbage and recycling bins provided then I cannot see why having picnics should be a problem."
+      ]
+     }
+    ],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your friend has just moved into your neighbourhood and wants to know about a good grocery store. Give her advice on which grocery stores are good, which are not good, and why they are good or bad."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you tried a new technology. Maybe you can talk about a new phone, a new computer, or a new GPS. Why did you get it, and how did it change your life?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "You and your business partner are looking for an office to lease-you will be working alone in the office most of the time, but it will also be used for small meetings with two or three people. You find two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade your business partner that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "Your business partner is suggesting another office. Persuade him that the office you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "You are the soccer coach at a high school. This year is the first time that your soccer team qualified to compete in the national soccer match, but the competition is in another province. The school principal says that the school cannot afford to pay for the team's travel and accommodation costs."
+    ],
+    "choices": [
+     "Explain to the school principal why the team should attend the soccer match.",
+     "Explain to the team members why they cannot attend the soccer match."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think that social media such as Facebook, Twitter, and Tumblr should require users to verify their true identity, that is, to provide their real names and other personal information? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You saw an unusual animal by the side of the road. Call the local animal shelter. Provide a full and clear description of the animal and ask if anyone has lost it."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

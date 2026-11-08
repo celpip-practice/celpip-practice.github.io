@@ -1,0 +1,1697 @@
+{
+ "id": "s12-t2",
+ "set": 12,
+ "test": 2,
+ "title": "Practice Test 12-2",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation between a man and a woman at a large warehouse store. The man works at the store.",
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 54.9
+      },
+      "transcript": "Hi. Welcome to Bulk Club. Can I see your membership card? Oh. A membership card? For a grocery store? I've never heard of that before. I have other identification cards with me. Well, sorry. Bulk Club is actually a warehouse club. You can join the store by purchasing a membership, and then you can take advantage of all our great low prices by buying in bulk. I really just need some milk and a few produce items. I just moved to this area, and I noticed this was my closest store. Or I guess I'll go somewhere else. Okay, but we do sell milk and produce. For example, we have a special on bags of apples this week, five pounds of apples for five dollars. Hmm, that is a good price for apples. Do you have some information I can take with me? Sure. Here is our membership information brochure and our flyer for this week. If you have any questions, just let me know.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "She forgot her membership card."
+         },
+         {
+          "text": "She went to the wrong store."
+         },
+         {
+          "text": "She is not a member of this store."
+         },
+         {
+          "text": "She did not bring identification."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "What problem does the woman have?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "She used to be a member of this store."
+         },
+         {
+          "text": "She has not been to this store before."
+         },
+         {
+          "text": "She lives far away from this store."
+         },
+         {
+          "text": "She is not interested in joining this store."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "What seems to be true about the woman?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "sell some milk to the woman"
+         },
+         {
+          "text": "end the conversation quickly"
+         },
+         {
+          "text": "persuade the woman to join the store"
+         },
+         {
+          "text": "explain the store's membership fees"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "What is the man trying to do?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 55.4
+      },
+      "transcript": "Oh, hi! I remember you from a few days ago. So have you decided to join? Apples are still on sale. Well, I'm not sure yet. I was talking to my neighbor, and she said she's here on a weekly basis. She has four kids, so buying everything in bulk really helps her save money. Yes, our store is popular with families since we sell everything in large quantities. Yes, so she lent me her card to use today. I figure I'll try it out and see if I like it. Oh, unfortunately, the membership cards are non-transferable. You would have to come with your neighbor. So you mean I can't even come into the store, even just to buy one or two items? I'm not interested in those huge boxes of candy or large packages of meat. It's just my husband and me at home, and we're vegetarians. Sorry, but you'll have to go talk to the staff at our membership desk. They can help you with membership questions. Well, I hope they can help with complaints.",
+      "questions": [
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "Only members can use them."
+         },
+         {
+          "text": "They are on sale right now."
+         },
+         {
+          "text": "Only families can buy them."
+         },
+         {
+          "text": "They are no longer available."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "What does the man say about bulk club cards?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "image": "media/listening_p2_1.png"
+         },
+         {
+          "image": "media/listening_p2_2.png"
+         },
+         {
+          "image": "media/listening_p2_3.png"
+         },
+         {
+          "image": "media/listening_p2_4.png"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "Which item does the woman most likely want to buy at bulk club?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "She cannot shop at the store."
+         },
+         {
+          "text": "The man is acting rudely."
+         },
+         {
+          "text": "The store is closing now."
+         },
+         {
+          "text": "She cannot find what she needs."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "Why is the woman upset?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 31.0
+      },
+      "transcript": "Okay, here's my card. How is fast? I'm glad you decided to join. Well, I went over there to complain, but then they showed me the different membership options. There's actually a special rate for seniors, so I was only charged half price for the same card. Wonderful, and your picture came out nicely too. Yes, better than my driver's license, that's for sure. Okay, well, here are some coupons we're giving to all our customers today. More discounts? I'm starting to like this place. You",
+      "questions": [
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "The man offered her special coupons."
+         },
+         {
+          "text": "She got a discount on the membership fee."
+         },
+         {
+          "text": "She was offered a free membership card."
+         },
+         {
+          "text": "The man convinced her it was a good idea."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "Why did the woman decide to join bulk club?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "They take a long time to be made."
+         },
+         {
+          "text": "They need to be used with other identification."
+         },
+         {
+          "text": "They are given to seniors for free."
+         },
+         {
+          "text": "They have a photo of the member on them."
+         }
+        ],
+        "answer": 3,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "What seems to be true about bulk club cards?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation between two neighbours.",
+     "You will hear a conversation followed by five questions.",
+     "You will hear the conversation only once.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 81.8
+      },
+      "transcript": "Hey, Ian, I'm looking for someone to take care of my cat while I'm away next week. There's absolutely no pressure, though. I know you're busy. I'd be happy to look after your cat, Tracy. His name is Blue, right? Sometimes he comes over and naps on my doorstep. Great. My sister and I are taking a trip to California. And you'll be gone for the whole week? Okay. What exactly do I have to do to look after Blue? Well, I think it'll be better if he just stays at my house. You live right next door, and it's such a hassle when I have to take him to a new place. All you really have to do is feed him twice a day and fill his water dish. But he's an outdoor cat, right? Surely I have to let him in and out of the house, too. Well, ideally he's an outdoor cat, but I don't want to create extra work for you. He can just stay inside for the week. No no, it's no problem. I'll let him in and out of the house when I can. I'm mostly working from home these days anyway. Anyway. Are you sure? You'll need to make sure he's inside when it gets dark, but he stays pretty close to the house so it'll be easy for you to find him. Sounds good. Does he come when he's called by name? Usually, if he doesn't, just shake his bag of cat treats. Perfect. This actually sounds like fun. I've always wanted to experience having a pet, so this will be a great way for me to see what it's like.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "The woman is telling the man about her trip."
+         },
+         {
+          "text": "The woman is asking the man to help her."
+         },
+         {
+          "text": "The woman is describing her cat to the man."
+         },
+         {
+          "text": "The woman is persuading the man to get a cat."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "What is the conversation mainly about?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "He saw her cat's food and water outside."
+         },
+         {
+          "text": "He has seen her cat sleeping outside."
+         },
+         {
+          "text": "He believes cats generally like the outdoors."
+         },
+         {
+          "text": "He hears the woman calling her cat at night."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "Why does the man think her cat is an outdoor cat?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "It is the most convenient option."
+         },
+         {
+          "text": "The man has a lot of experience."
+         },
+         {
+          "text": "It is the least expensive option."
+         },
+         {
+          "text": "The man works from home."
+         }
+        ],
+        "answer": 0,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "What reason does the woman give for suggesting her plan?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "her cat getting sick"
+         },
+         {
+          "text": "her cat not eating enough"
+         },
+         {
+          "text": "her cat getting lost outside"
+         },
+         {
+          "text": "her cat being outside overnight"
+         }
+        ],
+        "answer": 3,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "What detailed does the woman worry about?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "The man will follow the woman's plan."
+         },
+         {
+          "text": "The man will purchase his own cat."
+         },
+         {
+          "text": "The man will decide whether to help."
+         },
+         {
+          "text": "The man will buy some treats for the cat."
+         }
+        ],
+        "answer": 0,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "What will most likely happen next?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation between two office colleagues who are in the lunch room.",
+     "You will hear a conversation followed by six questions.",
+     "You will hear the conversation only once.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 143.9
+      },
+      "transcript": "Hey, you weren't at the staff meeting. You missed an important announcement about the Beverage Club. The Beverage Club? What's that? Some new catering service? An after-hours drinking group? Neither. Remember that survey I sent out a couple of weeks ago asking what people tend to drink during the day? Yeah, I was wondering about that. I figured it probably had something to do with the upcoming staff retreat. Getting everyone's drink preferences for the caterer or something? Well, actually, you might have noticed we're running out of room in the fridge, what with everyone having their own bottle of juice, or carton of milk or cream for their tea or coffee. Yeah, I frequently see three cartons of exactly the same thing, each with a different name on it. Right, so we're going to start a beverage club. I've prepared a list that covers almost everything people drink. drink, juice, regular coffee, gourmet coffee, green tea, regular tea, which, around here, is orange pico, and sugar, milk, and cream, will provide it all so people don't have to buy their own, we can share. I like the idea, but how are we going to pay for it? I am assuming management hasn't volunteered to fund this. Not quite. But look, I've praised everything on the sheet here. You just add up how many cups of what you drink each day to figure out how much to pay. You pay at the beginning of each month, and then you're covered. That sounds pretty complicated. Why not just charge everyone the same amount? Because that wouldn't be fair. Suppose you drink two cups of green tea per day. That's That's about five cents a day. Someone else might drink six cups of gourmet coffee with cream. That's almost ten bucks. Why should you both pay the same? Hmm. Good point. But still, I'm not sure it will work. How will we prevent people from paying for the green tea and then drinking the gourmet coffee? Or paying for one cup and drinking five? I'm pretty sure people around here are a little more honest than that. That would be stealing. Don't be so sure. Stuff is always going missing from the supply cabinet. People take staples, pens, pads of paper, and they don't pay a dime for them.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "a new procedure"
+         },
+         {
+          "text": "an upcoming event"
+         },
+         {
+          "text": "a new purchase"
+         },
+         {
+          "text": "an unfortunate incident"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "What does the man explain?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "He sent around a survey."
+         },
+         {
+          "text": "He talked to people."
+         },
+         {
+          "text": "He called a catering company."
+         },
+         {
+          "text": "He watched people."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "How did the man come up with the drinks menu?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "at the beginning of each week"
+         },
+         {
+          "text": "at the end of each week"
+         },
+         {
+          "text": "at the beginning of each month"
+         },
+         {
+          "text": "at the end of each month"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "When are people supposed to pay?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "to make a comparison"
+         },
+         {
+          "text": "to make a criticism"
+         },
+         {
+          "text": "to indicate his personal favourite"
+         },
+         {
+          "text": "to indicate the general preference"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "Why does the man mention gourmet coffee with cream?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "whether everyone should pay the same fee"
+         },
+         {
+          "text": "whether the refrigerator is overcrowded"
+         },
+         {
+          "text": "whether management should be asked to pay"
+         },
+         {
+          "text": "whether to conduct an opinion survey"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "What do the man and woman agree about?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "They're untrustworthy."
+         },
+         {
+          "text": "They're hard-working."
+         },
+         {
+          "text": "They're lazy."
+         },
+         {
+          "text": "They're generous."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "What does the woman think about people in the office?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item about a popular event.",
+     "You will hear a news item once.",
+     "Then five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 90.3
+      },
+      "transcript": "Halifax attracts visitors all year round, but since 2010 it is particularly busy in fall when the unique event Halcon takes place. Hal, being short for Halifax, and Khan, short for convention. In Halcon's first year there were 1,700 attendees, a mere six years later an incredible 9,000 delegates crowded into the city for the event. Hal Khan celebrates geek pop culture, a trend that continues to grow in popularity amongst those under 40. To help those unfamiliar with the jargon, we interviewed local organizer Alex Jarvis. He explained that geek pop culture refers to activities of people interested in science fiction, fantasy, video games, board games, comic books, and elaborate role-playing that involves costumes. Jarvis said that many attendees appear in costumes that boggle the mind. These aren't adult versions of Halloween costumes, but clothes carefully crafted by each individual for a unique role-play character. Gaming for these participants means live enactments, not just computer games. Not everyone in the city welcomes such unusual events, perhaps fearing an encounter with an unfamiliar dressed-up character, year. But Halcon will return next year with an expected 10,000 attendees bringing revenue and a dash of colorful excitement.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Attendance at Hal-Con has grown because",
+        "options": [
+         {
+          "text": "more kids like dressing in costumes."
+         },
+         {
+          "text": "attendees enjoy coming to Halifax."
+         },
+         {
+          "text": "the event has appeal for everyone."
+         },
+         {
+          "text": "its theme is increasingly popular."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Hal-Con terminology is",
+        "options": [
+         {
+          "text": "known mostly to costume designers."
+         },
+         {
+          "text": "taken from science fiction movies."
+         },
+         {
+          "text": "connected to geek pop culture."
+         },
+         {
+          "text": "unfamiliar to local residents."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "During Hal-Con, costumes are",
+        "options": [
+         {
+          "text": "unpopular with some locals."
+         },
+         {
+          "text": "worn by conference planners."
+         },
+         {
+          "text": "purchased at the convention."
+         },
+         {
+          "text": "created for Halloween."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The speaker thinks Hal-Con is",
+        "options": [
+         {
+          "text": "an attractive event for visitors."
+         },
+         {
+          "text": "an extension of Halloween activities."
+         },
+         {
+          "text": "a form of entertainment for children."
+         },
+         {
+          "text": "a course in costume design for adults."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The news item is about",
+        "options": [
+         {
+          "text": "an event disliked by young adults."
+         },
+         {
+          "text": "an increasingly popular exhibition."
+         },
+         {
+          "text": "unique costume competitions."
+         },
+         {
+          "text": "people who like video games."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "You will watch a discussion among three people. They are starting a painting company. The discussion takes place at the house of one of the people.",
+     "You will watch a two-minute video, then eight questions will appear.",
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 137.0
+      },
+      "transcript": "You will watch a discussion among three people. They are starting a painting company. The discussion takes place at the house of one of the people. This is Devin. This is Ren. This is Alice. Okay, we need to figure out the details of this house painting company of ours. For instance, do we just paint houses? Would we paint porches or outdoor furniture if that's all somebody wants? I'd go for that. Although then maybe we have to reconsider the name of our company. Devin, you should be the one to provide the estimates. You're good at it. You say that a job that will take us three days and then it does. Well, it's just arithmetic. A certain amount per square meter of surface area plus a certain amount per window. Alice, you should look after talking to the clients. You're good at that. Okay, I don't mind. I'll make sure there are no misunderstandings about what we're supposed to be doing and when. And when you talk to them, don't forget to mention dogs. If they have a dog, it needs to stay inside. On our last job, a dog came rushing out of the house, and I was so scared I almost fell off the ladder. It was huge. Speaking of falling off ladders, we should get insurance. Maybe we should all go together to a few insurance companies. Find out what kind of policy we need. Find out how much it's going to cost, where we can get the best deal. That's a good idea. And I can be in charge of our equipment. We're going to have to get new brushes, paint rollers, pans, paint thinner, ladders. Oh, and I should go and pick up some of those paint samples from all the paint companies. And a binder to put them in. That way, it'll be convenient for me to show people what their options are. And the binder will keep the cards clean. Speaking of equipment, are we going to hold off on getting our own scaffolding? I mean, it's expensive, and we don't need it on every job. If we need it, we can just rent it. No, I think we should go ahead and buy it. It'll save us a lot of money in the long run. But we don't have enough room on our truck for all of our ladders and scaffolding, do we? Couldn't we just use our extension ladders? Maybe we should hold off on this and make a decision later on. What about the books? My sister will take care of that, if you like. We just have to keep all of our receipts and make sure we make note of every detail of every job so she can make out the invoices.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What are the people mainly trying to make decisions about?",
+        "options": [
+         {
+          "text": "the name of their company"
+         },
+         {
+          "text": "the division of labour"
+         },
+         {
+          "text": "the prices they will charge"
+         },
+         {
+          "text": "the time jobs will take"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What is Alice best at doing?",
+        "options": [
+         {
+          "text": "estimating prices"
+         },
+         {
+          "text": "liaising with clients"
+         },
+         {
+          "text": "gathering equipment"
+         },
+         {
+          "text": "tracking the finances"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What is Devon's response to praise about his estimates?",
+        "options": [
+         {
+          "text": "surprise"
+         },
+         {
+          "text": "amusement"
+         },
+         {
+          "text": "confusion"
+         },
+         {
+          "text": "modesty"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Why did Ren almost fall off the ladder at their last job?",
+        "options": [
+         {
+          "text": "She wasn't paying attention."
+         },
+         {
+          "text": "She was very tired that day."
+         },
+         {
+          "text": "She was taken by surprise."
+         },
+         {
+          "text": "She was using a broken ladder."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What does Alice think about getting insurance?",
+        "options": [
+         {
+          "text": "They should do that first."
+         },
+         {
+          "text": "They should shop around."
+         },
+         {
+          "text": "Devon should take care of it."
+         },
+         {
+          "text": "The insurance they have is enough."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "What does Alice think about using a binder?",
+        "options": [
+         {
+          "text": "It's a good way to present samples."
+         },
+         {
+          "text": "It's unnecessary for their business."
+         },
+         {
+          "text": "Paint companies will supply free binders."
+         },
+         {
+          "text": "They could save money by using one."
+         }
+        ],
+        "answer": 0,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What decision do they decide to postpone?",
+        "options": [
+         {
+          "text": "whether to purchase insurance"
+         },
+         {
+          "text": "whether to buy paint or stain"
+         },
+         {
+          "text": "whether to get paint sample cards"
+         },
+         {
+          "text": "whether to buy or rent equipment"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Who will take care of their financial records?",
+        "options": [
+         {
+          "text": "the woman"
+         },
+         {
+          "text": "a friend"
+         },
+         {
+          "text": "a relative"
+         },
+         {
+          "text": "a colleague"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a presentation about a workplace issue.",
+     "You will hear a report once.",
+     "Then six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 185.8
+      },
+      "transcript": "In this age of technology, workplace norms and workplace culture are rapidly changing. Previously, employees were generally expected to commute to a physical office and complete their work in company-provided workspaces. Today, with mobile devices such as smartphones, tablets, and laptops being commonplace, many companies are moving towards more flexible work arrangements, with work hours and work locations no longer being fixed. While many welcome such changes, others are not yet convinced. Emmanuel Corley, head of operations at ThinkTech Inc., a global corporation, manages a workforce of 52 employees. Having held this position for over 15 years, Corley takes pride in maintaining a productive and enjoyable work environment. He values teamwork and believes that a productive workplace is is best achieved when co-workers are friends. Consequently, Corley views the growing work from anywhere trend with trepidation. Not only is it more difficult to supervise workers who are not physically present, but with an entire workforce working from home or some other remote location, there is little opportunity for getting to know one's co-workers. Corley worries that while the flexibility of working from anywhere may initially appeal to some, Eventually, employees will feel isolated and lose their sense of commitment. However, for Daniel Sage, a computer programmer, mobile working has had an enormous impact on his ability to maintain a healthy work-life balance. A single father, Sage used to miss countless days of work when his children were homesick. This affected not only his productivity, but also how coworkers and managers perceived his commitment to the company. According to Sage, the stress of trying to keep up with home and work commitments was taking its toll on his health. Having spent the past two years working from home, Sage is emphatic that flexible work arrangements are the way of the future. Although he admits to occasionally missing the camaraderie of his colleagues, the benefits of being able to work when and where he wants far outweigh any drawbacks. attacks. Anita Buffalo, CEO of Global Solutions, acknowledges the concerns of Corley. However, she believes that a mobile workforce can be a win-win situation. Not only do employees appreciate the flexibility and control of order to them, but companies benefit from lower infrastructure costs. If one's entire workforce works from home, the costs involved in maintaining an office space disappear. Although Buffalo admits that switching to mobile work arrangements can pose certain challenges when it comes to employee supervision, she believes that this can be countered by a shift in thinking. At Global Solutions, employee performance is determined solely by the tangible results they achieve, not the time spent in achieving them.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The best title for this presentation would be",
+        "options": [
+         {
+          "text": "Mobile Work: Promise or Peril."
+         },
+         {
+          "text": "Workplace Culture: The New Normal."
+         },
+         {
+          "text": "Working from Home: Maintaining Balance."
+         },
+         {
+          "text": "Management Today: Leading a Mobile Workforce."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The head of operations at Think-Tech is concerned that the new trend will",
+        "options": [
+         {
+          "text": "attract employees to other companies."
+         },
+         {
+          "text": "decrease employee dedication."
+         },
+         {
+          "text": "increase the company's expenses."
+         },
+         {
+          "text": "cause excessive socializing during work."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The head of operations at Think-Tech would likely choose to work",
+        "options": [
+         {
+          "text": "several days a week from home."
+         },
+         {
+          "text": "every day from his home office."
+         },
+         {
+          "text": "every day at the company's office."
+         },
+         {
+          "text": "part of the year in another country."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The computer programmer believes his new work arrangement has",
+        "options": [
+         {
+          "text": "caused him extra stress."
+         },
+         {
+          "text": "made him feel isolated."
+         },
+         {
+          "text": "improved his work ethic."
+         },
+         {
+          "text": "increased his happiness."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The CEO of Global Solutions believes the new trend will",
+        "options": [
+         {
+          "text": "be countered by another shift in thinking."
+         },
+         {
+          "text": "benefit corporations and workers equally."
+         },
+         {
+          "text": "overcome supervisors' current resistance to it."
+         },
+         {
+          "text": "prove to be more affordable than first predicted."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The CEO of Global Solutions would likely agree that",
+        "options": [
+         {
+          "text": "mobile workers need more supervision than others."
+         },
+         {
+          "text": "effort is equally important as the end product."
+         },
+         {
+          "text": "companies profit from having a mobile work force."
+         },
+         {
+          "text": "low cost infrastructures ultimately boost wages."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Good afternoon,",
+       "I am writing to you regarding the new violin teacher that my daughter has been assigned. My daughter, who is eight years old, has been studying violin at your music school since she was three. As you know, Tara, my daughter's teacher over this five-year span, recently became seriously ill and had to stop teaching. This was a great disappointment to both my daughter and me, as Tara was truly exceptional at her job. We sincerely hope that she recovers soon.",
+       "Neither my daughter nor I have been impressed with the teacher chosen to take over Tara's students. At first I thought the problem was one of adjustment and that it would resolve itself once the teacher was used to the new school and students. However, after 2 months, nothing has improved, and I have come to realize that the teacher is simply unprofessional and poorly qualified. She has been late for almost every one of my daughter's lessons. While I can understand occasionally being held up in traffic, this problem has become habitual. Since my daughter's lessons are only 30 minutes long, the 5 to 10 minutes she loses each week due to her teacher's tardiness are significant. Furthermore, I seriously question whether this teacher should be teaching young children. She has very little patience and frequently loses her temper when my daughter makes a mistake. In addition, my daughter is sent home from each lesson with more pieces than any 8-year-old should be expected to learn in a week. Music is supposed to be her hobby, not her job.",
+       "Since beginning with this new teacher, I have noticed both my daughter's confidence and interest in playing the violin have declined significantly, a fact which likely led to the lower-than-usual mark she received on her recent music exam. Therefore, effective immediately, I would ask you to assign her to an alternate instructor. I have been very impressed with your school until now, but if you are unable to find a suitable replacement for this teacher, I will have no other choice but to cancel all of my daughter's future lessons.",
+       "Sincerely,",
+       "Mario Perez"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "The daughter has studied music for",
+        "options": [
+         "2 years.",
+         "3 years.",
+         "5 years.",
+         "8 years."
+        ],
+        "answer": 2,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The current music teacher",
+        "options": [
+         "drives to work most days of the week.",
+         "frequently shows up 30 minutes late.",
+         "gives the daughter a lot of work.",
+         "is generally on time for her lessons."
+        ],
+        "answer": 2,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The current music teacher has",
+        "options": [
+         "never taught music to children before.",
+         "recently recovered from a serious illness.",
+         "recently started working at the school.",
+         "taught at the school for many years."
+        ],
+        "answer": 2,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The father thinks his daughter should",
+        "options": [
+         "enjoy learning to play the violin.",
+         "have more patience with herself.",
+         "make few mistakes when playing.",
+         "practice more than she does."
+        ],
+        "answer": 0,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The primary purpose of the letter is to",
+        "options": [
+         "ask for a different teacher.",
+         "cancel upcoming music lessons.",
+         "express concern and sympathy.",
+         "request that someone be fired."
+        ],
+        "answer": 0,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The letter mainly expresses",
+        "options": [
+         "dissatisfaction.",
+         "indifference.",
+         "sadness.",
+         "worry."
+        ],
+        "answer": 0,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the best choice for each blank.",
+      "paragraphs": [
+       "Dear Mr. Perez,",
+       "Thank you for your letter. I am very sorry to hear that your {{7}} I can assure you that our school screens and selects each of its teachers very carefully. For this reason I find {{8}} and the matter will be looked into immediately. Such a {{9}} is not something that is tolerated at our school.",
+       "I agree that Tara was a particularly {{10}} she will not be easy to replace. I will find another teacher for your daughter as soon as possible. Meanwhile, to show my appreciation for your willingness to {{11}} I have enclosed a gift of two free tickets to the symphony. If you have any other comments or concerns, please do not hesitate to contact me.",
+       "Sincerely,",
+       "Ed Sanderson"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "daughter failed her recent music exam",
+         "expectations as a parent were not met",
+         "instructor has been cancelling lessons",
+         "plan is to find an alternate school"
+        ],
+        "answer": 1,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "this absence upsetting",
+         "your decision surprising",
+         "this grade to be unusual",
+         "your comments distressing"
+        ],
+        "answer": 3,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "lack of professionalism",
+         "disrespect for authority",
+         "poor showing at exams",
+         "disregard for school policy"
+        ],
+        "answer": 0,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "entertaining teacher",
+         "gifted teacher",
+         "hardworking student",
+         "talented student"
+        ],
+        "answer": 1,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "continue with the same teacher",
+         "give us a second chance",
+         "recommend our school to others",
+         "wait until Tara returns"
+        ],
+        "answer": 1,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_p4_1.png"
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank.",
+      "paragraphs": [
+       "Subject: Daycare Providers",
+       "To: Anna Robertson <anna.robertson@canmail.com>",
+       "From: Jenn Sanchez <jenn.sanchez@mail.com>",
+       "Hi Anna,",
+       "I found this flyer at the recreation centre. Sara will be ready for daycare soon so I've started looking around. You went through this with your kids three years ago, so I'm hoping to get some advice.",
+       "I imagine most daycares have similar activities. However, I like that Sunflower Daycare offers {{1}} The centre run by volunteers is probably the most affordable. Unfortunately, Sara isn't particularly fond of water, I think I'd be nervous sending her there since they have {{2}} I also don't like that, at the Community Centre Daycare, it doesn't seem possible {{3}}",
+       "Of the three options, Sunflower Daycare seems the one with the most {{4}} However, the home daycare is the only one that offers {{5}} That would certainly be nice!",
+       "I noticed that none of the centres list their prices. Do you know if daycare prices are regulated? Any input would be appreciated. Let's chat soon!",
+       "Best,",
+       "Jenn"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "lessons with professional teachers",
+         "daily lessons in various outdoor sports",
+         "cooking classes designed for children",
+         "an early childhood reading program"
+        ],
+        "answer": 0,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "teenage lifeguards",
+         "water colours",
+         "daily swim time",
+         "inexperienced staff"
+        ],
+        "answer": 2,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "for the children to play outdoors",
+         "to send Sara before 18 months",
+         "for the children to get exercise",
+         "to register Sara in advance"
+        ],
+        "answer": 0,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "popular program",
+         "up-to-date play area",
+         "convenient location",
+         "flexible options"
+        ],
+        "answer": 0,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "discounted prices for multiple children",
+         "regular trips outside the daycare",
+         "an outdoor play area for the children",
+         "a program for babies and toddlers"
+        ],
+        "answer": 0,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Jenn is emailing Anna",
+        "options": [
+         "to get help in selecting daycare.",
+         "to give Anna advice on daycares.",
+         "to tell Anna which daycare she chose.",
+         "to suggest daycares to volunteer at."
+        ],
+        "answer": 0,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Jenn wonders about daycare prices because she",
+        "options": [
+         "heard some daycares cost less than others.",
+         "is worried whether she can afford daycare.",
+         "was unable to find prices for the daycares.",
+         "would like to see day care price controls."
+        ],
+        "answer": 2,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Anna has children who are probably",
+        "options": [
+         "older than Sara.",
+         "the same age as Sara.",
+         "in Sara's daycare.",
+         "younger than Sara."
+        ],
+        "answer": 0,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": null,
+      "paragraphs": [
+       "A. One of the most popular tourist attractions of the Maritime Provinces is Green Gables House in Prince Edward Island. Of course, Anne herself is a fictional character in the novels of Lucy Maud Montgomery. However, the places Anne supposedly inhabited, especially the Green Gables farmhouse, attract many thousands of tourists every year. Shopkeepers market items based on the novels, even straw hats with red braids so that young girls can look like Anne. She is also celebrated in a permanently running live musical in the capital city of Charlottetown.",
+       "B. Anne and her story have attracted Canadian fans since 1908. The dated language and Anne's enthusiastic monologues of the original text are challenging to read, but once you meet Anne Shirley, rescued from an orphanage by Matthew and Marilla Cuthbert, you are hooked into her life. Anne's story is based on Montgomery's own life. Born in a PEI village, Montgomery was an orphan by age seven and raised by her strict, Cuthbert-like grandparents in Cavendish. Montgomery had a lonely childhood and depended on imaginary friends, just like Anne did. Like Anne, Montgomery was lively, intelligent, and flirtatious, and, like Anne, she supported herself as a teacher.",
+       "C. Montgomery wrote six novels about Anne, portraying her life from age 11 to 40. The first book, Anne of Green Gables, appeals to women of all ages. Many readers have tried to analyze this appeal, which boils down to this: Anne shows us the key to essential happiness. She represents all women, especially during the formative years, wanting to be smart, funny, honest, and optimistic. Anne agonized over her red hair, frequently a stigma that invites teasing. All women may not worry about red hair, but all worry about their faults and their looks, especially at Anne's age in the first book.",
+       "D. The Anne books, translated into more than 30 languages, attract readers worldwide. The Japanese are among the most ardent of Anne fans, often flying more than 10,000 kilometers for 18 hours to spend a few days visiting Anne sites in PEI. Japanese is spoken at most of the tourist attractions and shops in PEI. Anne even attracted the attention of Prince William and his bride Kate Middleton during their visit to Canada in 2011. Anne of Green Gables was the Duchess's favourite book as a child, so she made sure their tour included PEI. Like most Anne enthusiasts, Kate yearned to see Anne's homeland.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Local merchants capitalize on visitors' enthusiasm for Anne.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Even royalty appreciates the endearing Anne character.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The Japanese adore Anne because they have a similar character in their culture.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The Anne story is portrayed in an ongoing stage performance.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Anne is a beloved character in part because her struggles are relatable.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "There are many parallels between Montgomery's and Anne's hardships.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "The writing style of the stories makes them difficult to read.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Lucy Maud Montgomery had difficulty writing the Anne of Green Gables novels.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "Montgomery's stories of Anne have cross-cultural appeal.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "A recent surge of high-profile data breaches has prompted renewed interest in cybersecurity. At issue is the security and confidentiality of thousands of terabytes of business and government data. Some experts are now warning that, unless drastic steps are taken to strengthen cybersecurity, the entire process of digitalization could be threatened.",
+       "The past few months have been really unnerving for a lot of decision-makers. People read the news and they realize that breaches could happen to their company, often jeopardizing years of work, if not their organization's very survival,\" said Mona Jackman, a federal government policy analyst. \"It's gotten to the point where people are questioning the whole digital revolution. I can't really say I blame them. When you look at the scale of the leaks and the strength of the organizations that were hacked, you have to feel vulnerable. If you are a small business owner who depends on proprietary information, isn't it better to leave everything offline and stick with pen and paper methods?",
+       "Those who say that hacking could somehow harm the IT industry don't understand the long-term technological forces that are at work. Solutions are being found as more cash is infused into the system,\" opined Cassandra Black, an IT industry analyst. \"Security consultants make thousands of dollars installing firewalls, authentication software, and cyberactivity monitoring systems. Cybersecurity companies have been flourishing; these high-profile hacking cases are like free publicity for them.",
+       "However, not everyone believes that more costly, sophisticated systems are the answer to modern cybersecurity threats. \"When dealing with hackers, the best tool we have in our arsenal is education,\" weighs in Mark Levinstein, Chief Information Officer at a large Canadian engineering consulting firm. \"Most of these large leaks were the results of very simple phishing scams, whereby hackers were unwittingly given network access by employees. I don't worry for the IT industry, because these are basic issues that can be resolved at a low cost, but we need proper training and coordination across the sector."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Cybersecurity companies have likely",
+        "options": [
+         "lost many skilled employees.",
+         "experienced increased hiring.",
+         "been suffering financially.",
+         "been behind the data breaches."
+        ],
+        "answer": 1,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Jackman would agree that",
+        "options": [
+         "news stories have exaggerated the threat of data breaches.",
+         "smaller businesses are less vulnerable to being hacked.",
+         "the federal government has a duty to shut down hackers.",
+         "the internet is a risky location to store sensitive data."
+        ],
+        "answer": 3,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "One issue mentioned regarding data breaches is that",
+        "options": [
+         "they're frequently exaggerated in the news.",
+         "cybersecurity companies cannot keep pace.",
+         "small businesses are the primary targets.",
+         "they're often inadvertently caused by staff."
+        ],
+        "answer": 3,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Cassandra Black believes that cybersecurity concerns",
+        "options": [
+         "harm the IT industry in the long run.",
+         "require little financing to address.",
+         "benefit cybersecurity companies.",
+         "have been insufficiently publicized."
+        ],
+        "answer": 2,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "According to the article, recent cybersecurity breaches have",
+        "options": [
+         "caused skepticism about computing.",
+         "revived use of paper documentation.",
+         "become easier to fix systematically.",
+         "caused the IT industry to hit a wall."
+        ],
+        "answer": 0,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "I've been working as an IT consultant for over a decade, helping companies transition towards online activities. I would tend to agree with Ms. Black when she says that there are {{6}} ensuring the continuation of the digitalization process. {{7}} big data, machine learning, and cloud computing are becoming huge business advantages, and companies that fail to adapt will be unable to compete. Of course, this means that {{8}} is becoming very profitable. {{9}} Mr. Levinstein, I believe that there is a technological arms race happening between cybersecurity experts and hackers. {{10}} are not enough to ensure security. Systems have to be built before employees can learn how to use them properly."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "network protection experts",
+         "various government analysts",
+         "reformed computer hackers",
+         "famous publicity consultants"
+        ],
+        "answer": 0,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "It is therefore a good thing that",
+         "She's hit the mark in saying that",
+         "This continues even while",
+         "So it's no small wonder that"
+        ],
+        "answer": 3,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "safeguarding digital information",
+         "employee training courseware",
+         "publicizing information breaches",
+         "internet technology coordination"
+        ],
+        "answer": 0,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "Contrary to",
+         "Based on research by",
+         "To paraphrase",
+         "As eluded to by"
+        ],
+        "answer": 0,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "Training courses",
+         "Software programs",
+         "Network restrictions",
+         "Sophisticated tools"
+        ],
+        "answer": 0,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "You recently visited a friend's apartment. You noticed that your friend's building has a shared bookcase in the lobby where people can leave and take books. You would like to suggest having a similar bookcase in your apartment building."
+    ],
+    "instruction": "Write an email to your building manager. Your email should do the following things:",
+    "bullets": [
+     "describe how the shared bookcase would work",
+     "explain why you would like to have a shared bookcase",
+     "propose what you can do to start this project"
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "The local community college is asking students what general interest courses they would like offered at the college. The college wants to offer either a basic cooking course or an introductory piano course. You have been asked to respond to an opinion survey."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I would prefer to take a basic cooking course.",
+     "Option B: I would prefer to take an introductory piano course."
+    ],
+    "surveyTitle": "General Interest Courses",
+    "samples": [],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your friend wants to volunteer at an animal shelter that looks after cats and dogs. Give her advice on what she should consider before working as a volunteer."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you met someone memorable. Maybe you can talk about meeting a person you admire, a new family member, or someone who became your friend. Who did you meet, how did it make you feel, and why was the event memorable?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.png"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p1_1.png"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "You are shopping for a telephone for a relative who has difficulty hearing and cannot see very well. You have two options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade your friend that your choice is the better choice. If you do not choose, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1.png",
+     "media/speaking_t5_2.png"
+    ],
+    "prompt": [
+     "Your friend is suggesting another option. Persuade them that the option you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_3.png",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "Your 15-year-old friend, John, wants to go to an outdoor music festival to see his favourite musician. He has saved up money to buy a ticket. Your friend's mother does not want him to go because she is worried that he's too young to go by himself."
+    ],
+    "choices": [
+     "Talk to John. Explain why he should not go to the music festival.",
+     "Talk to John's mother. Explain why she should let John go to the music festival."
+    ]
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think that companies should be allowed to advertise their products and services in public schools? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You are visiting a toy factory that has an automated assembly line. Call your friend Jim. Describe in detail what you see and ask Jim if he would like to come and see it."
+    ],
+    "images": [
+     "media/speaking_p4_1.png"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

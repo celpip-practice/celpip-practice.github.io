@@ -1,0 +1,1794 @@
+{
+ "id": "s05-t1",
+ "set": 5,
+ "test": 1,
+ "title": "Practice Test 5-1",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 45.4
+      },
+      "transcript": "Excuse me, are we stopping at the Art Museum next? For an hour? Yes, it has a wonderful collection of 18th century furniture. I think you'll find it very interesting. Yes, I think you're right, which is why I wanted to ask if we could stay longer. I doubt an hour will be enough time. I'm afraid we're on a tight schedule. If we stay longer, we won't be able to get to the rest of our stops. But couldn't I stay longer? I don't mind missing the next stop. I really don't like wine, not really into tasting and drinking. Perhaps you can come back and get me. Sorry, I'm afraid we can't do that either. If I approve such a thing for you, everyone will want to be staying longer here and there.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "to request a drink"
+         },
+         {
+          "text": "to check the route"
+         },
+         {
+          "text": "to ask for more time"
+         },
+         {
+          "text": "to leave the bus tour"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "Why does the man approach the woman?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "image": "media/listening_p1_1.jpg"
+         },
+         {
+          "image": "media/listening_p1_2.jpg"
+         },
+         {
+          "image": "media/listening_p2_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_2.jpg"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "What exhibit is at the museum?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "All of the tour stops involve art."
+         },
+         {
+          "text": "The art museum is the main attraction."
+         },
+         {
+          "text": "The bus will stop at many places."
+         },
+         {
+          "text": "There are not many people on the tour."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "What is true of the bus tour?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 54.0
+      },
+      "transcript": "Is everyone ready for lunch? We'll be stopping at a popular vegetarian restaurant shortly. Couldn't we stop somewhere else instead? I'm not sure I like vegetarian food. Maybe we could go to a place that sells burgers and fries? I'm afraid we've already booked a restaurant. With a group this size, it's hard to find enough tables at the last minute. We also want quick service since we're on a schedule. Yes, but we haven't paid yet. There are probably other restaurants nearby. Couldn't we all just go where we want and meet back at the bus at, say, one o'clock? I'd rather the group stay together, sir. If anyone gets lost or into some kind of trouble, I'm sure we can manage. We're all adults here. I'm sorry, sir. I didn't mean to imply that you couldn't manage on your own, but accidents can happen, and I'd like to be able to provide help in that case.",
+      "questions": [
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "He wants more time to walk around the area"
+         },
+         {
+          "text": "He doesn't want to eat with the group."
+         },
+         {
+          "text": "He isn't content with the restaurant choice."
+         },
+         {
+          "text": "He prefers to eat something healthier."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "Why does the man want to change the lunch plan?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "She is a big fan of vegetarian food."
+         },
+         {
+          "text": "The tour company owns the restaurant."
+         },
+         {
+          "text": "She feels responsible for the group."
+         },
+         {
+          "text": "There are too many children in the group."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "What is likely the reason for the woman's response?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 40.7
+      },
+      "transcript": "Excuse me, could we go back? I forgot my umbrella at the restaurant. Oh dear, it's quite a way back. We wouldn't be able to keep to our schedule. But it is looking like rain and I'd really like to have my umbrella. The rest of our stops are indoors, and I'd be happy to lend you my umbrella, sir. But I'd really like to go back and get my own umbrella. It's an expensive one. What I'll do right now is call the restaurant and ask them to keep it safe until you can go back on your own. Would that be okay? Or, perhaps they'll send it to you if you give them your address? That's a great idea. Thank you. I'll be able to pick it up after the tour. I suppose I can use my raincoat in the meantime.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "He doesn't know where his umbrella is."
+         },
+         {
+          "text": "He wasn't prepared for rainy weather."
+         },
+         {
+          "text": "He left the restaurant a while ago."
+         },
+         {
+          "text": "He is upset with the tour guide."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "What is likely true about the man?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "She offers him some solutions."
+         },
+         {
+          "text": "She asks the bus driver to go back."
+         },
+         {
+          "text": "She gives him her rain jacket."
+         },
+         {
+          "text": "She buys him a new umbrella."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "How does the woman help the man?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "excitement"
+         },
+         {
+          "text": "anger"
+         },
+         {
+          "text": "confusion"
+         },
+         {
+          "text": "appreciation"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "What is the man's reaction to the woman's response?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 102.9
+      },
+      "transcript": "Oh, it's a hot one today, isn't it? Yes, it is very hot. Our apartment doesn't have air conditioning, so I really look forward to being here in the park in the middle of the day. Same here and for the same reason. It's nice that these benches are in the shade and still close enough to the playground equipment. Minji doesn't look very happy today. Is your daughter ill? No. Minji's fine. She wanted to go to the swimming pool, but I said no. It's just too long a bus ride on a hot day like today. I know what you mean. You know, I was thinking before you came that they should have some sprinklers or fountains here for the kids to plan. There's an open space right over there that's not being used. They say we'll be having more hot spells like this. It could be a lot of fun. There could be water shooting shooting out a different spouts, some stationary and some spinning around. We could call it a sprinkler playground. It should be free, of course. Of course. And you know, letting kids run through sprinklers would probably be a lot more hygienic than letting them swim in a communal pool. I confess I worry about what Minji might catch when she goes swimming at the pool. Ear infections, eye infections? You might be right. The water would continuously wash away. Why? The kids could still wear their bathing suits, but also sneakers or special water shoes. I suspect a sprinkler playground would use less water than a swimming pool. Did you know that they're talking about rationing the water again this summer, at least for watering lawns? Yes, I heard that. Perhaps I should send my suggestion to the City Parks and Recreation Department. I think you should. On a day like today, even I'd use it, just as I am.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "a swimming pool"
+         },
+         {
+          "text": "a sprinkler playground"
+         },
+         {
+          "text": "the location of the park benches"
+         },
+         {
+          "text": "the increasing water shortages"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "What is the main topic of discussion?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "It does not have air conditioning."
+         },
+         {
+          "text": "It is a long way from the park."
+         },
+         {
+          "text": "It is close to a swimming pool."
+         },
+         {
+          "text": "It is very close to a bus stop."
+         }
+        ],
+        "answer": 0,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "What is true of the man's apartment?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "She feels hot."
+         },
+         {
+          "text": "She looks sad"
+         },
+         {
+          "text": "She isn't playing."
+         },
+         {
+          "text": "She isn't there."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "Why does the man ask if Minji is sick?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "Minji is not a strong swimmer."
+         },
+         {
+          "text": "They cost too much to use."
+         },
+         {
+          "text": "She is concerned about germs."
+         },
+         {
+          "text": "They are always too crowded."
+         }
+        ],
+        "answer": 2,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "Why is the woman reluctant to take Minji to swimming pools?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "It would make a lot of money."
+         },
+         {
+          "text": "There is no space for it."
+         },
+         {
+          "text": "No one would use it."
+         },
+         {
+          "text": "It is an excellent idea."
+         }
+        ],
+        "answer": 3,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "What does the woman think of the man's suggestion?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 127.9
+      },
+      "transcript": "Hi, welcome to Music and More. Can I help you? Hi, yes. I'm looking for either a guitar or a drum set. It's for my son for his birthday. He's always wanted either of those two instruments. Could you tell me a little bit about both? Has your son played either instrument before? Well, he had a toy drum set when he was five and loved it so much that he broke it. He's 13 now. His friends all play guitar and sometimes he tries playing on their guitars, but he's never taken lessons. I'd prefer if you played the guitar. I think drums would be too noisy. Our house has very poor sound insulation Well, we have options that will make both you and your son happy We sell regular drum sets, but if soundproofing is a concern We do sell electronic drums that you can plug headphones into so that you won't hear a thing Wow, that certainly would be nice. What about guitars? You could get a classical acoustic guitar or an electric guitar For a beginner, I'd recommend a classical acoustic with nylon strings. Nylon strings are softer on the fingers and are much easier to learn on. All his friends have electric guitars, so he'd probably want an electric one too. The good thing about the electric guitar is that, like electronic drums, he can plug headphones in and you won't hear in practice. However, electric guitars have steel strings. They can be quite painful on the fingers for beginners. and he may get frustrated and give up quickly. I see. Well, there's quite a few options. Which is the most affordable? An electronic drum set would set you back the most. They started at around $700. A beginner electric guitar would be a lot cheaper and a regular acoustic guitar would be the cheapest. We have some nice quality ones that are on sale right now. I think an electric guitar might be the way to go. I know it has steel strings, but I think he'd get used to it. Can you show me some? Certainly. We have a great variety of styles. Please follow me.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "He hasn't had lessons since he was five."
+         },
+         {
+          "text": "He's learned to play two instruments."
+         },
+         {
+          "text": "He hasn't had any formal music instruction."
+         },
+         {
+          "text": "His friends taught him how to play the drums."
+         }
+        ],
+        "answer": 2,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "What musical experience does the woman's son have?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "He enjoys playing music."
+         },
+         {
+          "text": "He wants to join a band."
+         },
+         {
+          "text": "He needs an instrument for school."
+         },
+         {
+          "text": "He dreams of being a rock star."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "Why does the woman want to buy her son a musical instrument?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "provide the best information"
+         },
+         {
+          "text": "sell the most expensive product"
+         },
+         {
+          "text": "offer a chance to purchase both"
+         },
+         {
+          "text": "sell a full set of drums"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "What was the man trying to do?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "a drum set that can be kept at the store"
+         },
+         {
+          "text": "a drum shield that will reduce the noise"
+         },
+         {
+          "text": "an electronic drum set that can be silent"
+         },
+         {
+          "text": "a soundproofing service for the home"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "What solution does the man offer for the drums?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "because it can be played without additional equipment"
+         },
+         {
+          "text": "because steel strings last longer"
+         },
+         {
+          "text": "because the strings are less painful to use"
+         },
+         {
+          "text": "because it has a nicer sound"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "Why does the man say the acoustic guitar might be better?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "% because he knows people with electric guitars"
+         },
+         {
+          "text": "because he will be able to play loud music"
+         },
+         {
+          "text": "because of the quality of the sound"
+         },
+         {
+          "text": "because it is easier for beginners to learn"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "Why does the woman think her son will prefer the electric guitar?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "It is about one and a half minutes long.",
+     "Then, five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 97.3
+      },
+      "transcript": "Recently arrived residents Mike and Paula Hendricks are delighted that the community garden they started this spring in their townhouse complex in Arm prior Ontario has turned out to be a big hit. it. The couple have been avid gardeners for years. Mike said they were disappointed that there weren't any nearby community gardens to join. They decided to start their own. They soon found that almost everyone in the area was enthusiastic about the idea. A team of 30 residents converted a large unused patch of grass into gardening plots. They filled the beds with soil and compost. They also dug upon to collect rainwater for watering plants. Now the garden is packed with vegetables, flowers, and people. One resident, Atsuko Tanaka, said that it's a great place to hang out and socialize with the neighbors. Another man said he was delighted to find that growing his own vegetables cut down his grocery grocery bill. The local wildlife seemed to benefit as well. Gardener and biologist John Cheney, who is researching frog populations in the area, is thrilled that the pond is now home to a species of endangered frogs. Paula said there's something for everyone in the community garden. You will watch a two-minute video, then eight questions will appear. Choose the best way to answer each question.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The community garden is part of",
+        "options": [
+         {
+          "text": "a public park area."
+         },
+         {
+          "text": "government land."
+         },
+         {
+          "text": "an unused grass area."
+         },
+         {
+          "text": "the Hendricks' garden."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The Hendricks started the garden to",
+        "options": [
+         {
+          "text": "meet their neighbours."
+         },
+         {
+          "text": "reduce their food bill."
+         },
+         {
+          "text": "enjoy their hobby."
+         },
+         {
+          "text": "help local wildlife."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The people building the garden were",
+        "options": [
+         {
+          "text": "retired."
+         },
+         {
+          "text": "local residents."
+         },
+         {
+          "text": "local workers."
+         },
+         {
+          "text": "mostly students."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "They added the pond to",
+        "options": [
+         {
+          "text": "water the gardens."
+         },
+         {
+          "text": "help endangered frogs."
+         },
+         {
+          "text": "make the area prettier."
+         },
+         {
+          "text": "grow aquatic plants."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "People were enthusiastic because they could",
+        "options": [
+         {
+          "text": "sell flowers and vegetables."
+         },
+         {
+          "text": "give a home to wildlife."
+         },
+         {
+          "text": "enjoy being outdoors."
+         },
+         {
+          "text": "socialize and grow vegetables."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 167.6
+      },
+      "transcript": "You will watch a conversation among three co-workers, two men and one woman. They get together in a meeting room to discuss a new work assignment for one of them. This is Brenda. This is Larry. This is Tom. Tom, Brenda and I want to talk to you about presentations. Presentations. What about them? Well, we're the Salesforce. We do all the sales pitches. We meet with potential clients on a regular basis and show them our products and hopes to acquire new accounts. And we think that you should come on board. You want me to start doing sales pitches? Look, I don't have the skills or the experience. Tom, why would you say that? You started with the company what about a year ago as a sales assistant? Since then, you've worked in three different departments and you've done very well in all three. Absolutely. We've been talking with your past and current co-workers to get references, and they all speak very highly of you. You do beautiful charts, top-notch reports, and everybody really seems to like you. How did you manage that, by the way? I don't know. I just helped them out when they asked me for things. I try to give them what they need. See, that is the mark of a great salesperson, identifying the individual's needs and delivering delivering to their expectations. Hold on, Brenda. Tom didn't seem particularly excited when we offered him the opportunity to start pitching. Now, I think it's important that Tom tell us exactly what it is that's bothering him. Well, it's a couple of things, really. I don't feel like I'm competent. What if they ask me questions about our product that I can't answer technical questions? I'm sure you know more than you think you know. Plus, you're a great communicator. Now, I don't think there's anything here that can't be solved with a little bit of preparation. Okay, I'm also not that keen on public speaking. I mean, I'm good one-on-one, but I remember even back in school when I had to do presentations, you know, when you start to blush and you're breathing heavily and your mouth gets dry and your palms start to get sweaty. I think that you should attend some important sales presentations with our more senior sales representatives. I think that'll help you get some confidence and be more sure of yourself. Really help you fight that stage fright. I agree. A little observation, a little preparation, a little practice you'd be amazed at how far it can go. You wouldn't believe how bad I was when I first started. And now he's winning awards. You mark my words, Tom. You're going to follow in his footsteps. Welcome aboard.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Which department do Larry and Brenda work for?",
+        "options": [
+         {
+          "text": "Customer Service"
+         },
+         {
+          "text": "Sales and Marketing"
+         },
+         {
+          "text": "Human Resources"
+         },
+         {
+          "text": "Technology"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "According to Brenda and Larry, what is one of Tom's strengths?",
+        "options": [
+         {
+          "text": "He has been a sales assistant for 3 years."
+         },
+         {
+          "text": "He writes top quality reference letters."
+         },
+         {
+          "text": "He helps co-workers make beautiful charts."
+         },
+         {
+          "text": "He is popular with all of his colleagues."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What does the company provide?",
+        "options": [
+         {
+          "text": "technical products"
+         },
+         {
+          "text": "consulting services"
+         },
+         {
+          "text": "communication training"
+         },
+         {
+          "text": "marketing and sales advice"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "How does Tom initially feel about his co-workers' suggestion?",
+        "options": [
+         {
+          "text": "He is excited"
+         },
+         {
+          "text": "He is reluctant."
+         },
+         {
+          "text": "He is devastated"
+         },
+         {
+          "text": "He is unsurprised"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Why do Brenda and Larry collect references?",
+        "options": [
+         {
+          "text": "to understand Tom's previous job"
+         },
+         {
+          "text": "to update Tom's personnel files"
+         },
+         {
+          "text": "to determine Tom's suitability"
+         },
+         {
+          "text": "to assess Tom's popularity"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "What worries Tom about presenting to potential clients?",
+        "options": [
+         {
+          "text": "The clients won't like him."
+         },
+         {
+          "text": "He lacks specialized knowledge."
+         },
+         {
+          "text": "His clients have specific needs."
+         },
+         {
+          "text": "He is new to working in sales."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What does the woman want Tom to do?",
+        "options": [
+         {
+          "text": "prepare his own sales talk"
+         },
+         {
+          "text": "listen to presentations by other staff"
+         },
+         {
+          "text": "meet with her potential clients"
+         },
+         {
+          "text": "give a presentation at his old school"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What do Tom's two co-workers convey at the end?",
+        "options": [
+         {
+          "text": "They are confident Tom will win this year's top sales award"
+         },
+         {
+          "text": "They are delighted that they have changed Tom's feelings."
+         },
+         {
+          "text": "They are optimistic that Tom's skills will increase rapidly."
+         },
+         {
+          "text": "They are pleased that Tom said he would accept their offer."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "It is about three minutes long.",
+     "Then, six questions will appear.",
+     "Here, choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 192.6
+      },
+      "transcript": "Suburbs, they're a curious beast, they're neither urban nor rural, and their sole purpose is to provide a space for domestic life. With their homogenous architecture and thematic subdivisions, they're often perceived as ugly. They're visual monotony stems in part from the fact that they were meticulously planned, in contrast to city centers which evolved organically and haphazardly over time in response to changing economic influences. But ever since the internal combustion engine revolutionized commuting, the suburbs have attracted the inhabitants of the cramped and chaotic inner city and lured them out to the periphery. periphery. In the 1970s, essayist Narendra Benzel described how this would-be paradise evolved to embody the worst of the postmodern world. Benzel said that suburbanites had opted out of the vibrant urban communities that held society together. She predicted that suburbanites' alienation and boredom would eventually give rise to an anxiety epidemic. This anxiety, Society, she felt, would eventually make suburbanites return to closer-knit, psychologically healthier urban neighborhoods. So in fact, the prefabricated houses and manicured lawns that gave the suburbs their initial appeal would eventually be their downfall. In 2008, suburban sprawl was curtailed by the financial crisis. It was then that Benzel went from disdain to doom-mongering. She famously declared that the death of the suburb was at hand. This dismal view of suburbia was unwarranted, says demographer Lee Stavanoic. She maintains that families and professionals are flocking to the suburbs, especially in the developing world, where rapid economic growth has been associated with declining urban density. Stavanoic suggests that as populations gain in wealth, they consume more goods and take up more space. This trend, she says, is proof that we're not witnessing suburbia's demise. Instead, she believes we're witnessing how a growing global middle class is affecting settlement patterns. Sociologist and best-selling author Manuel Rubio observes that millions of people around the globe are lining up to swap urban frenzy for suburban tranquility. However, Rubio questions whether global suburbia can survive the war on global warming, since car culture is one of suburbia's most persistent features. Meanwhile, in the first world, Rubio sees the young, the bored, and the frustrated turning their collective backs on the white picket fence world they sprang from. To Rubio, this suggests that suburban life satisfies people who are willing to settle for less, but that it can't satisfy the appetites of those eager for material success. Perhaps Benzel's prophecy of mass anxiety is being realized in at least some of the population.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The speaker regards the suburbs with",
+        "options": [
+         {
+          "text": "detachment."
+         },
+         {
+          "text": "curiosity."
+         },
+         {
+          "text": "disdain."
+         },
+         {
+          "text": "sarcasm."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The presentation's main theme is that the suburbs",
+        "options": [
+         {
+          "text": "are still considered suitable places to raise families."
+         },
+         {
+          "text": "bring widespread neuroses and hence are shrinking."
+         },
+         {
+          "text": "may or may not survive the end of the fossil fuel era."
+         },
+         {
+          "text": "remain popular despite their psychological drawbacks."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Bansal thought moving from the suburbs to the city was",
+        "options": [
+         {
+          "text": "boring."
+         },
+         {
+          "text": "dangerous."
+         },
+         {
+          "text": "puzzling."
+         },
+         {
+          "text": "therapeutic."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "We can tell that the essayist Narendra Bansal",
+        "options": [
+         {
+          "text": "accurately foresaw the future."
+         },
+         {
+          "text": "enjoyed living in a big city."
+         },
+         {
+          "text": "tended toward pessimism."
+         },
+         {
+          "text": "was trained as a psychologist."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The demographer, Leigh Stevanoic, thinks suburbanization is",
+        "options": [
+         {
+          "text": "a favourable economic indicator."
+         },
+         {
+          "text": "enabling people to earn more money."
+         },
+         {
+          "text": "a cultural trend that will soon die."
+         },
+         {
+          "text": "growing too quickly in some places."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Sociologist and author Manuel Rubio most likely",
+        "options": [
+         {
+          "text": "considers himself easily satisfied"
+         },
+         {
+          "text": "drives an efficient automobile."
+         },
+         {
+          "text": "has a youthful urban lifestyle."
+         },
+         {
+          "text": "resents his life in the suburbs."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "Dear Mr. Albertson,",
+       "We are interested in renting your charming cottage for the first two weeks of September. I found your ad on the internet, and the pictures are really attractive. Living that close to the ocean would be a real treat for a few weeks. I can already smell the refreshing salt air!",
+       "I've heard that the Atlantic Ocean is quite cold and that swimming isn't always possible. Is that true? Your ad mentions nearby Martinique Beach, a 5-km-long white sand beach with beautiful waves enjoyed by surfers. The pictures I've seen show surfers in protective wetsuits, but perhaps that's winter surfing? We're hoping to put in long hours lying on the beach, and then cooling off in the fresh ocean water.",
+       "Another thing I've heard is that Nova Scotia gets hurricanes, especially in September. Is that true? I've read all about Hurricane Juan that hit in late September, 2003. I learned that the power was out for some residents for as long as three weeks. How can anyone survive without electricity for that long? It's unimaginable. In a situation such as this, what do you do for food and coffee, for heat and water? Do you keep emergency supplies and information in the cottage? I just can't imagine winds of 160 km/h! Wow. The waves must be spectacular with that much wind. It would be fantastic watching the waves from the comfort of your lovely cottage!",
+       "We really enjoy sampling the local cuisine, and we've read about Nova Scotian specialties such as lobster and scallops. On the internet I found one food placeit can't really be called a restaurantthat serves seafood. This is Scallopini's, which is supposed to be a short drive from your cottage. It features two dishes worth trying, a scallop sauté and a cold lobster roll. Would you recommend Scallopini's, or should we go into the city to a real restaurant?",
+       "Anyway, we would like to reserve your cottage. Please let me know what details you need and how to send the deposit.",
+       "Thanks,",
+       "Alison MacGregor"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (* ), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Alison's main reason for writing the email is to",
+        "options": [
+         "make a cottage reservation.",
+         "ask about the nearby beach.",
+         "learn more about the cottage.",
+         "understand more about hurricanes."
+        ],
+        "answer": 0,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Alison is interested in",
+        "options": [
+         "watching a surfing competition.",
+         "buying a house by the ocean.",
+         "eating in quality restaurants.",
+         "reading more about hurricanes."
+        ],
+        "answer": 2,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Why does Alison think the Atlantic Ocean might be cold?",
+        "options": [
+         "She knows oceans are cold.",
+         "She was told that it's cold.",
+         "She has a friend who surfs there.",
+         "She read about Atlantic temperatures."
+        ],
+        "answer": 1,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Alison is worried about hurricanes because",
+        "options": [
+         "she needs survival training.",
+         "she read about a famous one.",
+         "the waves would be too big.",
+         "the wind may be too strong."
+        ],
+        "answer": 1,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Alison has never experienced",
+        "options": [
+         "cheap restaurants.",
+         "cold water.",
+         "sand beaches.",
+         "severe weather."
+        ],
+        "answer": 3,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Why does Alison want to rent this cottage?",
+        "options": [
+         "It's near the ocean.",
+         "It's famous with surfers.",
+         "It's close to restaurants.",
+         "It's in Nova Scotia."
+        ],
+        "answer": 0,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks.",
+      "paragraphs": [
+       "Select the best choice for each blank from the drop-down menu(\" ).",
+       "Dear Ms. MacGregor,",
+       "We would be delighted to have you rent our cottage in September. Consider it booked.",
+       "Answering your question about the {{7}} it may be true, depending on what you're used to. We think it's pleasant, and early September is when it's warmest. If you're interested in surfing, you need to bring your own {{8}} but we provide the boards.",
+       "People experience considerable {{9}} when hurricanes hit, but these storms usually miss us, which is why you've read about just one, Juan. The belief is that a bad one hits every 50 years, so you don't need to worry. To answer your questions, the cottage has {{10}}",
+       "Yes, we recommend Scallopini's, and there are several other excellent {{11}} close by.",
+       "See you in September!",
+       "John Albertson"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "hot white sand",
+         "ocean being cold",
+         "beauty of the beach",
+         "cold salt air"
+        ],
+        "answer": 1,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "swimsuits",
+         "goggles",
+         "towels",
+         "wetsuits"
+        ],
+        "answer": 3,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "inconvenience",
+         "excitement",
+         "support",
+         "pleasure"
+        ],
+        "answer": 0,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "a number of useful tools",
+         "a lot of raincoats",
+         "an emergency supply kit",
+         "a new well-built roof"
+        ],
+        "answer": 2,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "spots to dine",
+         "places to fish",
+         "souvenir shops",
+         "cottage rentals"
+        ],
+        "answer": 0,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "SSB is pleased to now"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_2.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "offer full-day Welcome to kindergarten in all 26 of Kindergarten! our elementary schools! Find out more!",
+       "Latest News Upcoming Events E-Learning Portal Daycare Spaces Approved for Volunteer Info Night SSB is tech-savvy! Our new e- Southern District Thursday, Feb. 12th at learning portal is now 6:30 p.m. More details... accessible for all students, We are delighted to announce from elementary to adult that 500 daycare spaces for infants, toddlers, and Kindergarten registration learners. Click here to launch. preschoolers will be made begins soon! Dates TBA. available, starting in September 2016, through provincial funding. Space will be drawn from underutilized schools in the Board-wide initiatives A+ district. Register here. meeting on March 1st. Stay tuned for more"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_3.jpg"
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_4.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "details!",
+       "Spring break-all SSB schools-March 10-14th.",
+       "More events...",
+       "© 2016 Southern School Board. All rights reserved. Contact us: 1-800-555-9937 or info@ssb.ca"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu (\" ).",
+      "paragraphs": [
+       "To: <farrah@newmail.com>",
+       "From: <marjan29@gomail.ca>",
+       "Subject: Information",
+       "Hi Farrah,",
+       "Nice meeting you today! As promised, here is the {{1}} (To go to it, just click HERE.) As I mentioned, I think your family is in the Thompson Public School area like us, but if you click on the {{2}} tab near the top, you should be able to find your designated location.",
+       "I noticed that the dates have not yet been announced for {{3}} so I guess you'll have to keep checking. Also, I saw that they had some news about childcare spaces {{4}} which may be of interest to you.",
+       "By the way, as evening ESL students at the school, it looks like we are eligible for {{5}}! I'm excited to try that out in the evenings!",
+       "See you tomorrow!",
+       "Marjan"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "contact information for the teacher",
+         "details about the e-learning course",
+         "local school board website",
+         "brochure for my daughter's school"
+        ],
+        "answer": 2,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "Schools",
+         "E-learning Portal",
+         "Employment",
+         "News"
+        ],
+        "answer": 0,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "kindergarten registration",
+         "spring break",
+         "volunteer information sessions",
+         "board-wide meetings"
+        ],
+        "answer": 0,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "at the provincial government sites",
+         "paid for by the provincial government",
+         "throughout the province",
+         "for a limited time only"
+        ],
+        "answer": 1,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "free daycare",
+         "volunteer training",
+         "online learning",
+         "employment opportunities"
+        ],
+        "answer": 2,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Farrah and Marjan are likely",
+        "options": [
+         "old friends.",
+         "new classmates.",
+         "former colleagues.",
+         "school teachers."
+        ],
+        "answer": 1,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Farrah probably has a",
+        "options": [
+         "young child living with her.",
+         "lot of experience with volunteering.",
+         "background in technology.",
+         "job in the evenings."
+        ],
+        "answer": 0,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "The overall purpose of Marjan's message is to",
+        "options": [
+         "confirm an informal meeting.",
+         "give some requested advice.",
+         "provide helpful instructions.",
+         "share useful information."
+        ],
+        "answer": 3,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. For some, it may be hard to imagine how a small stainless steel needle put into one's left palm can soothe a stomachache. Yet in the practice of acupuncture, such fine needles are used to pierce specific points on the body for pain relief or therapeutic purposes. Acupuncture began in China thousands of years ago and remains a leading form of medical treatment in some Asian cultures. However, the practice of acupuncture has only taken hold beyond its traditional homelands over the last three decades. Over that time, its popularity in Western culture has greatly increased. It is now being hailed by many Westerners as a safe, drug-free remedy for ailments such as arthritis, chronic pain, addiction, and depression.",
+       "B. Traditional acupuncture is based on the East Asian belief that the body's internal organs are connected by a system of energy channels. A very simple explanation is that vital energy travels along these channels in the body, like water in a stream. Diseases are caused by a blockage in these natural energy flows, just as a fallen tree would obstruct a stream. The acupuncturist must find the obstruction, isolate the area, and clear the blockage. To do this, fine stainless steel needles are inserted into a related acupuncture point. These disposable needles are gently twirled and then removed, and the energy flow can be restored to a natural state.",
+       "C. People who have been helped by acupuncture have little problem accepting its success. Yet some in the Western medical community find the unfamiliar concepts of energy and channels hard to believe. As a result, experts in this community have tried to find more scientific reasons for how acupuncture works. After decades of research, some Western medical researchers have proposed theories.",
+       "D. Experimental research suggests that acupuncture needles put into certain points on the body can stimulate the central nervous system (brain and spinal cord). Once stimulated, the central nervous system can release \"feel good\" chemicals into the muscles, spinal cord, and brain. These natural painkillers block pain signals from going to the brain, leading to a feeling of physical and emotional well-being. In light of the research, a growing number of scientists and medical practitioners are suggesting the use of acupuncture under certain conditions. In fact, it is becoming so popular that many people in North America are using it to treat their ailing household pets!",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Skepticism has led to investigations into acupuncture's efficacy.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "In acupuncture, illness can be alleviated by clearing obstructions within the body.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Some studies have shown that acupuncture has little more than a placebo effect.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Some believe that acupuncture works because it causes the body to produce its own anesthetic.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Acupuncture is a well established medical practice in East Asia.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Only in recent years has acupuncture become an accepted treatment around the world.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "The analogy of acupuncture is akin to hydro-irrigation systems.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Scientific studies are beginning to provide evidence for the efficacy of acupuncture.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "Scientific evidence shows that acupuncture cures damaged nerves and muscles.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "The Canada Pension Plan (CPP) covers all eligible Canadians. Based on the amount of earnings, a deduction is made from each pay cheque and deposited into Canada's Pension Plan fund. Employers are also required to contribute to the plan for each of their employees. When an employee reaches 65 years of age, he or she is entitled to receive payments from the plan.",
+       "Many people believe that participation should be voluntary, but having a guaranteed stream of revenue into the plan means that the government can hopefully provide a stable return to contributors.",
+       "Another criticism of the plan is that the people who need it the most are the ones who receive the least. This is because the size of payments depends on the amount contributed, and the amount contributed depends on one's level of income. People who have had little or low-paying employment thus receive low payments. And yet they are the ones who have been least able to put aside money of their own for their old age. It should be noted, however, that other government programs can provide financial assistance for people in need.",
+       "Some companies (especially large ones) have, in addition to this government plan, their own pension plans that work in essentially the same way. Deductions are also based on level of income, but part-time employees are often not eligible at all. This again seems to put those with lower incomes at a disadvantage. Even if someone has two part-time jobs that together equal a full-time job, he or she would be eligible to participate only in the Canada Pension Plan and probably not in the pension plans offered by either employer. But again, there are other programs.",
+       "Some critics consider both the government and employer pension plans to be patronizing. They believe that people should have complete freedom in whether and how much they save for their old age, along with how they invest what they save. Such critics seem to forget that they then wouldn't benefit from government or employer contributions!"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (> ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "The author's purpose of the first paragraph is to",
+        "options": [
+         "make a prediction.",
+         "provide background information.",
+         "indicate a solution.",
+         "present a personal anecdote."
+        ],
+        "answer": 1,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The CPP and company pension plans are similar with respect to",
+        "options": [
+         "low-income earners.",
+         "eligibility criteria.",
+         "government contributions.",
+         "investment decisions."
+        ],
+        "answer": 0,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "At 65 years of age, people with low-income part-time jobs will most likely",
+        "options": [
+         "utilize company pension plans.",
+         "be content with CPP payments.",
+         "require monetary support.",
+         "keep working at their jobs."
+        ],
+        "answer": 2,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "If pension plans were voluntary, the critics mentioned in the last paragraph would likely",
+        "options": [
+         "refrain from participating.",
+         "make high-risk investments.",
+         "lose all their retirement money.",
+         "seek government assistance."
+        ],
+        "answer": 0,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Critics believe that the pension plans are patronizing because",
+        "options": [
+         "they are mandatory.",
+         "they advantage full-time employees.",
+         "companies provide pension plans.",
+         "employers make contributions."
+        ],
+        "answer": 0,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "I don't understand why employers are required to make CPP contributions. It shouldn't be their responsibility to ensure the government has a constant source of {{6}} for re-investments. My guess is that having to contribute to the CPP {{7}} many businesses. Even for larger companies, I was surprised by the author's opinion. Why is it problematic that most employer pension programs {{8}}? Companies and individuals should be free to do what they want with their money. I can understand providing {{9}} employers want to see their employees at the workplace as much as possible, not absent due to illness. However, I agree with the critics, even if it means I miss out on {{10}}"
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "revenue",
+         "employees",
+         "accounts",
+         "taxes"
+        ],
+        "answer": 0,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "disadvantages",
+         "confuses",
+         "fuels",
+         "controls"
+        ],
+        "answer": 0,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "encourage employees to make extra CPP payments",
+         "make smaller deductions for part-time workers",
+         "fund only a company's full-time employees",
+         "make a profit from employee contributions"
+        ],
+        "answer": 2,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "recreation facilities",
+         "health care plans",
+         "gym memberships",
+         "investment advice"
+        ],
+        "answer": 1,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "employer contributions",
+         "career opportunities",
+         "early retirement",
+         "extended healthcare"
+        ],
+        "answer": 0,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "Your manager asked you to work at the reception desk while the receptionist is getting lunch. This involves answering telephones and helping clients who come in. However, you are unable to help out because you have other work."
+    ],
+    "instruction": "Write an email to your manager in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Apologize.",
+     "Explain why you don't have time to help out.",
+     "Suggest a way to solve the problem."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "Hello Sir,",
+       "I am writing this email to you regarding the service at reception at the lunch time when other receptionist is on lunch break. I am really very sorry to say that because, i has a lot of work. You know at the end of the month we have to prepare pay slips for all our customers and this week is the last week to fill up the tax. You know tax is more important to fill up on time. If not we have to pay the plenty. You know i am working extra hours to finish my work. I has very less time to complete all my works before this week end. I think we should ask to Mr. Stedman .Stedman is free in lunch time and he did work at reception many times. He has no enough work to do. I will be very grateful to you if you ask Stedman to do work as receptionist at lunch time. So, i can do my work at time. Once again really very sorry for that and i will be ready for any duty as reception desk in future. Your Sincerely Lily Vasquez"
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "Hello Manager:",
+       "I apologize I cannot help the receptionist to answering telephones and helping clients during the receptionist lunch time, because I have to complete the business plan which you gave to me yesterday. As you know, the plan is going to be discussed in the meeting which we booked at 6 p.m. today. So I have to work on and finish the plan as soon as possible, in another words, I must give it to you before the meeting. Well, We still need a person who has to stay at reception desk for sure. So my personal recommendation is I will ask Ron who sit behind me that if he has the time during the receptionist lunch time. What I am seeing now is he just finish his work and he is very kind person who really like to communicate and help others, so he should be the best choose. I will ask him if you agree with it. If you have another decision, please let me know.",
+       "Best regards Adewale Sept 18 2015"
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Dear Mr. Misra,",
+       "I am writing this email in response to your earlier email to take over the receptionist's work temporarily until she is back from lunch. I am currently occupied with monthly management presentation work. I will not be in a position to support receptionist today and I sincerely apologize for not helping you here. If I may explain myself, the monthly management presentation is very critical and it needs to be delivered to our senior management by tomorrow end of day. This presentation depicts our roadmap for the next quarter and our senior management will not be tolerating any delays in this regard as they need to draw out the plan to execute the projects by end of next week. Moreover, I need to collect and consolidate data from various departments and review with each departmental manager before presenting to our senior management. In addition my customer service experience is very minimal and I do not think I am qualified to handle the receptionist work. Once again, my sincere apologies for not helping you out. My sincere suggestion is to make use of our sales support staff who have outstanding customer service experience.",
+       "Yours Sincerely,",
+       "Ammar Dutta"
+      ]
+     }
+    ],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "You are taking an English writing class at a local college, and your instructor is surveying your opinion about the final exam. Currently, half of the course grade is based on a three-hour final exam written in class. However, your instructor is considering allowing students to submit a five-page report instead, which they would write at home."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I would prefer to write a three-hour final exam in class.",
+     "Option B: I would prefer to write a five-page report at home."
+    ],
+    "surveyTitle": "Final Exam Survey",
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "I would prefer to write a five page report at home, because preparing a report at home will give you less stress, if you are in your house you can think freely and concentrate on your work well, you can use special tools like books and dictionaries where you can research some of your reports. You can also use the internet and computer to research and type the report to make you easier, and if you are in your house you can construct your report immediately and beautifully because the tools you had used, specially nowadays our equipment or tools are high technology and you cannot just bring those tools in your school. unlike in school it is more stress and you cannot just use any of the tools for your report writing. so if my instructor given me a consideration to make my report at home i prefer to choose homework. and we have a saying that \"there is no place in the world like home\"."
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "Dear instructor:",
+       "1 am a student in your English writing class. In response to your email regarding about final exam survey. I would prefer to write a five-page report at home.",
+       "Although option A is ok. This final exam survey just need to memorize something and to spend 3 hour to complete the test. Almost students will just review the content what you will cover in the exam. I think it is not useful. Option B could encourage the students searching some information and it will bring much knowledge to us. This option will promote the students learning more active.",
+       "If the students prepare for report, we need to collect information in the library or on website. During this process, it is another chance for students learning by themselves. Through writing report process, we will learn new resources and good idea from other authors. Moreover, it has 5-page length let us write own opinion and ideas on the report. Of course, This is just my opinion. I think either option i will accept.",
+       "Best regards",
+       "Cecily Yuan"
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "I appreciate your inviting our opinions on the option of a final report in lieu of a final exam in this class.",
+       "If given the choice, I would prefer to turn in a five-page term report than to sit a final exam. I firmly believe that writing is a craft that, in order to produce the best work product, should not have imposed time constraints. When we are asked to write exams under short timelines, such as 3 hours, that tends to favour efficiency over quality, and I have found in past exams that my writing suffers tremendously.",
+       "I would much prefer to have the opportunity to sit with a term project or report at home, think through both the content and the writing style, and produce a final paper that I have spent some effort on and that I am proud of.",
+       "Especially given the report/exam is worth half the course mark, I think it only fair that we are given the time and opportunity with a final project to assimilate some of the lessons of the course, and put them down in a report that is worthy of your final assessment!"
+      ]
+     }
+    ],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "alk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your friend has been dating his girlfriend for 2 years and would like to propose to her as soon as they graduate from university. Give your friend advice on how he should propose to his girlfriend"
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time you tried a new kind of food. Maybe you can talk about a meal at a restaurant, in a new country, or at a friend's home. What kind of food was it, who introduced you to it, and what did you think of it?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "You work in an office, and you have to organize a team-building activity for everyone in the office. You find two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade a colleague that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "A young co-worker is suggesting another team-building activity. Persuade this co-worker that the activity you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "You are an accountant in a busy firm. Your friend works in a volunteer organization, and he wants you to do the organization's income taxes as a personal favour for free. You ask a colleague what to do, and your colleague reminds you that this is against company policy."
+    ],
+    "choices": [
+     "Talk to your colleague and explain why you need to help your friend's organization.",
+     "Talk to your friend. Explain why you cannot help him with the organization's taxes."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think that learning a subject online is more effective than learning in a face-to-face classroom? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You see some teenagers doing an activity in the park. Call your nephew Benny. Describe in detail what the children are doing and ask him if he would like to participate."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,1777 @@
+{
+ "id": "s03-t1",
+ "set": 3,
+ "test": 1,
+ "title": "Practice Test 3-1",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 54.7
+      },
+      "transcript": "Hello, how can I help you? I'm registered for the honors psychology program and for the four language requirements I'd like to take Latin but it's offered at the same time as the first year honors psychology course you could take French instead but I took French in high school every single year well you could take the first year general psychology course and then just switch to the honors courses in your second year that way you could take Latin the first year honors psychology Our psychology course isn't a prerequisite for me? Not really. We have so many students wanting first-year psychology. We just created two sections, and it makes sense to put all the honors students in one section and the general students in the other. You're already accepted into the honors program, so there's no problem just registering for the honors courses in your second year. Okay, thank you.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "She wants to take two courses that conflict."
+         },
+         {
+          "text": "She doesn't understand a foreign language."
+         },
+         {
+          "text": "She wants to transfer out of Honours Psychology."
+         },
+         {
+          "text": "She doesn't want to take first year Latin."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": ""
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "She thinks it would be too difficult."
+         },
+         {
+          "text": "She has had enough French."
+         },
+         {
+          "text": "She doesn't think it should be required."
+         },
+         {
+          "text": "She wants to take it in her second year."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "What does the woman think about taking French?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "The General and Honours courses are the same."
+         },
+         {
+          "text": "They are more difficult than the second year courses."
+         },
+         {
+          "text": "Not very many students want to register for them."
+         },
+         {
+          "text": "They are required only for Psychology students."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "What does the man imply about the first year psychology courses?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 69.0
+      },
+      "transcript": "Hello again. Hi. I was talking to a friend about what you advised, and she actually did that, but she said that once she was in second year, she never got anything higher than an A minus. Her professors thought she was just a general student trying to step up to the honors level. Even though, like me, she was an A plus student all through high school. I'm sorry to hear that. Many students' grades go down once they're in university. Perhaps your friends' high school teachers graded easy. I really don't think our professors would be so prejudiced. I'm sure they grade assignments fairly. I hope you're right. Even so, I'd like to be considered an honors student from the beginning. She also said that by second year, everyone's formed their groups, so she felt like an outsider in the honors program for the rest of her degree. I see. Well, there might be another solution. If you took a language course at the other university, you might get credit for it here, but I'd have to look into that. In the meantime, why don't you see if they offer a Latin course and bring back the course outlined, in case the decision here is made on a case-by-case basis? Okay, I'll do that.",
+      "questions": [
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "A plus"
+         },
+         {
+          "text": "A"
+         },
+         {
+          "text": "A minus"
+         },
+         {
+          "text": "lower than A minus"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "What grades did the woman's friend get in high school?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "not being part of any social group"
+         },
+         {
+          "text": "not getting grades as high as her friend"
+         },
+         {
+          "text": "not becoming an Honours student until third year"
+         },
+         {
+          "text": "not having friends in the General program"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "What is the woman concerned about?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "denial"
+         },
+         {
+          "text": "agreement"
+         },
+         {
+          "text": "shock"
+         },
+         {
+          "text": "shame"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "What is the man's response to the woman's implication about professors?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 24.1
+      },
+      "transcript": "Hello, I have good news. We give transfer credit for all language courses at the other university. Even English. Oh, that is good news. They don't have Latin, but they do offer Chinese, which I'd like to take, and it doesn't conflict with any other of my first-year courses. Not even the honors psych? No. Then you're all set? Yes.",
+      "questions": [
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "Latin"
+         },
+         {
+          "text": "French"
+         },
+         {
+          "text": "English"
+         },
+         {
+          "text": "Chinese"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "What language course will the woman take?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "happy"
+         },
+         {
+          "text": "confused"
+         },
+         {
+          "text": "surprising"
+         },
+         {
+          "text": "sad"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "How would you describe the ending?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 118.6
+      },
+      "transcript": "Hi, I'm waiting for the number 87 bus that goes by Main Street. Do you know if this is the right stop? Yes, it is the right stop, but apparently we both just miss the bus. I'm just checking the transit schedule on my phone and it came by five minutes ago even though it says it should be here right now. I guess it came early. The next one comes in half an hour. Oh darn! I'm going to be late for my business meeting. I would have driven to work today but my car got a flat tire last night. I think I drove over a nail or something. That's too bad. Is your Did you work hard the Red Honda parked on the side of Woodsworth Avenue? Yes, it is. We're neighbors then. I noticed a Red Honda with a flat tire outside my house this morning. I live up the street on the next block, but the tire rim was scraping on the ground. And I didn't want to damage it. Is it okay if I park in front of your house until I get it fixed? Leave it as long as you like. Did you move here recently? I don't think I've seen you before. One month exactly today. I used to live downtown, but I prefer it out here, where there's more nature. I like living out here as well. The only real drawback is that commuting to the city takes a lot longer. It would be okay if only transit was reliable. I'm really late. Maybe I should just take a cab. Are you going to Main Street as well? Did you want to split a cab there? That would be great, actually. I'm meeting a friend for lunch and I don't want to keep him waiting. That works out perfectly then. I'll just call a cab now.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "a few minutes"
+         },
+         {
+          "text": "several weeks"
+         },
+         {
+          "text": "a month"
+         },
+         {
+          "text": "a long time"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "How long have the man and woman known each other?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "She will be late for a meeting"
+         },
+         {
+          "text": "She will miss her lunch date."
+         },
+         {
+          "text": "The man is asking too many questions."
+         },
+         {
+          "text": "Her boss will be upset."
+         }
+        ],
+        "answer": 0,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "Why is the woman worried?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "in the same apartment complex"
+         },
+         {
+          "text": "in the same townhouse complex"
+         },
+         {
+          "text": "on the same street"
+         },
+         {
+          "text": "on the same residential block"
+         }
+        ],
+        "answer": 2,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "Where do the man and woman live?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "She regularly takes the bus."
+         },
+         {
+          "text": "It's too cold to walk."
+         },
+         {
+          "text": "Her car is being serviced."
+         },
+         {
+          "text": "Her car isn't working today."
+         }
+        ],
+        "answer": 3,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "Why is the woman taking the bus to work?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "They share a taxi."
+         },
+         {
+          "text": "The bus arrives."
+         },
+         {
+          "text": "Her car is fixed"
+         },
+         {
+          "text": "A friend picks them up."
+         }
+        ],
+        "answer": 0,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "How do they get to Main Street?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 138.0
+      },
+      "transcript": "Hi there, I saw that the Green Butler Company won the award for best catering on bestwettings.com, so I thought I'd drop by. My family and I are planning my sister's wedding for July 9th. We can certainly cater your event. We provide a comprehensive range of wedding services from location rentals to floral arrangements and custom menu choices. Well, I'm actually a florist myself, so we won't need the flowers. And my sister has already picked Clearwater Park as her location, so that's covered too. But everything else we will need. Excellent. How many people will be coming to your event? We've invited 70, and so far, 50 have confirmed. could I let you know the exact number by the end of next week? Oh, no rush. As long as we know a week in advance to the actual day of the event, that will be fine. Now, what sort of meal service would you prefer? We offer full multi-course dinners, buffet style food, or appetizers on platters. I think buffet style would be best. It will be outdoors in the park, so we don't want to have to set up too many tables or chairs. Great! We have four basic options for buffet menus. One is vegetarian, one is seafood, one is meat, and one is continental, which is basically a mix of the other three. Of course, we can modify the myth needed. needed. Sophia and her fiance are both vegetarian, but the rest of our families are not. So I think the continental menu would work best. Sounds good. Would you like to book this today? We take a 25% deposit at the time of booking, and the rest of the payment no less than 10 days before the event. If you should need to cancel, the prepayments and deposits are forfeited. That all sounds great. Send us a quote with full pricing details laid out and we'll get back to you in a few days.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "Her sister recommended the company."
+         },
+         {
+          "text": "She saw their advertisements online."
+         },
+         {
+          "text": "They have received awards."
+         },
+         {
+          "text": "They help find a good location."
+         }
+        ],
+        "answer": 2,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "Why is the woman interested in this company?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "Her sister is a professional flower arranger."
+         },
+         {
+          "text": "They aren't planning to have flowers."
+         },
+         {
+          "text": "The flowers arrangements are expensive."
+         },
+         {
+          "text": "The woman works in a flower store."
+         }
+        ],
+        "answer": 3,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "What does the woman say about flowers?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "because it will be lower cost"
+         },
+         {
+          "text": "because the event will be outside"
+         },
+         {
+          "text": "so people can choose their food"
+         },
+         {
+          "text": "so people can choose their table"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": ""
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "She wants to please everyone."
+         },
+         {
+          "text": "Her sister wants vegetarian food."
+         },
+         {
+          "text": "Some guests are allergic to seafood."
+         },
+         {
+          "text": "Some of her family dislike vegetarian food."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "Why does the woman choose the continental menu?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "She asks for more information."
+         },
+         {
+          "text": "She books the company right there."
+         },
+         {
+          "text": "She decides to continue looking."
+         },
+         {
+          "text": "She will check with her husband."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "What is the woman's final decision?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "birthday party"
+         },
+         {
+          "text": "retirement party"
+         },
+         {
+          "text": "wedding anniversary"
+         },
+         {
+          "text": "wedding reception"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "What kind of event is the woman planning?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "It is about one and a half minutes long.",
+     "Then five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 129.3
+      },
+      "transcript": "Two hikers lost on Mount Gibson for the past three days were finally rescued today. Ron and Sally Jackson left their home in Calgary, Alberta last Saturday and drove north to Mount Gibson. The couple had planned to spend the afternoon hiking the mountain trails rails, and carried a small backpack containing only sandwiches and water. Just an hour into their hike they decided to leave the designated trail, and soon became lost in the dense forest. Fortunately, a local resident noticed that their car had been parked at the base of the mountain for a few days. He notified police, and a search and rescue helicopter was sent to look for the pair. When asked how they managed to survive, Sally Jackson, who was uninjured but very dehydrated, answered, we ate berries and drank water from the creek. Search and rescue official, Frank Smith, said, people should carry extra food, water, and clothing when hiking. He added, they should also inform someone as to where they plan to hike and approximately when than they expect to return. Grateful for his rescue, Ron Jackson said, we wouldn't be alive today without the help of the man who reported our car to the police and the experienced rescue crew that found us. And next time, we'll stick to the marked trails. You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Ron and Sally went for",
+        "options": [
+         {
+          "text": "a drive in the mountains."
+         },
+         {
+          "text": "a long hike in the mountains."
+         },
+         {
+          "text": "a picnic in the mountains."
+         },
+         {
+          "text": "a helicopter ride in the mountains."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The Jacksons",
+        "options": [
+         {
+          "text": "intended to be away only for the afternoon."
+         },
+         {
+          "text": "were not noticed by local residents."
+         },
+         {
+          "text": "did not bring any food and water with them."
+         },
+         {
+          "text": "intended to camp at the top of the mountain."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The Jacksons got lost",
+        "options": [
+         {
+          "text": "when it started to get dark."
+         },
+         {
+          "text": "when they left the trail in the forest."
+         },
+         {
+          "text": "because their car broke down."
+         },
+         {
+          "text": "because they got dehydrated and confused."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "A rescue operation began after",
+        "options": [
+         {
+          "text": "the Jacksons called the police by cell phone."
+         },
+         {
+          "text": "a friend realized they had not returned"
+         },
+         {
+          "text": "someone noticed their parked car had not moved"
+         },
+         {
+          "text": "a local resident saw the Jackson's camp fire."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The Jacksons survived by",
+        "options": [
+         {
+          "text": "relying on the supplies they had brought."
+         },
+         {
+          "text": "finding things to eat in the forest."
+         },
+         {
+          "text": "building a shelter next to the creek."
+         },
+         {
+          "text": "using smoke as a call for help."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "You will watch a two-minute video, then eight questions will appear.",
+     "Here, choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 129.8
+      },
+      "transcript": "Thank you for meeting with us, Ted. We know how busy you are. Yeah, too busy for this. Is this meeting even necessary? Well, every year we present the hostile workplace lecture. I talk about the legal issues. You guys talk about the personnel issues. What's to discuss? We could have picked a time. You could have booked a room. We wouldn't have to have this meeting. Hey, I'm short on time, too. But I want to make some changes to this year's event. So, let's talk. First of all, no more standing on the stage while people just sit and listen. We thought that the staff could be more actively involved. Maybe do some role-playing games. There's over a hundred staff and they all have to attend. Doing some kind of participatory drama games, it's going to be kind of chaotic, isn't it? Well, I'm no expert, but role-playing is a widely used learning activity. People can learn a lot from it, and isn't that our goal to help our employees learn, teach them what to do and not to do on the job, this affects you directly, you know. When you put it that way, I do want to reduce the number of grievances and prevent lawsuits. And we can do it in small groups and in a cozier place than the cafeteria. Obviously, this room would be too small, but maybe we could book a conference room. Look, I've got a lot on my plate. I can put aside maybe one day a week to do this. I don't want to do marketing one day and accounting the next day. We could just book say Monday at 10 o'clock and do a different department each week. Actually, I was thinking we could get units to mix and mingle. Have you ever noticed that the annual winter party people just tend to stick to their own departments? I think it would be good for the company if people weren't so attached to their tribes. We should warm up to other people, become more aware of what they do. You know, that might go a ways towards creating a less hostile work environment. If people learned some respect for those in other departments, if everyone didn't think they were the only ones with important work to do, if everyone weren't so...",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Which word best finishes the man's last sentence? \"If everyone weren't so...",
+        "options": [
+         {
+          "text": "busy"
+         },
+         {
+          "text": "pessimistic"
+         },
+         {
+          "text": "self-centered"
+         },
+         {
+          "text": "unfriendly"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Why do the women remain silent at the end of the video?",
+        "options": [
+         {
+          "text": "They're amused that the man is describing himself."
+         },
+         {
+          "text": "The man has given them headaches."
+         },
+         {
+          "text": "They still disagree with what the man said."
+         },
+         {
+          "text": "They don't understand what the man said"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What are the co-workers meeting to discuss?",
+        "options": [
+         {
+          "text": "whether to hold an event this year"
+         },
+         {
+          "text": "the format for an annual event"
+         },
+         {
+          "text": "whether to hire experts for an event"
+         },
+         {
+          "text": "the changes to next year's event"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What is the topic of the annual lecture?",
+        "options": [
+         {
+          "text": "acceptable workplace behaviour"
+         },
+         {
+          "text": "improving your people skills"
+         },
+         {
+          "text": "managing your time on the job"
+         },
+         {
+          "text": "the role of the legal department"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What is the man's attitude toward the event?",
+        "options": [
+         {
+          "text": "He would rather not make a presentation."
+         },
+         {
+          "text": "He wishes the women weren't involved."
+         },
+         {
+          "text": "He would rather resolve staff grievances."
+         },
+         {
+          "text": "He wants to invest time in other priorities"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "What do the women think about the lecture format?",
+        "options": [
+         {
+          "text": "It's too confusing."
+         },
+         {
+          "text": "It's too lengthy."
+         },
+         {
+          "text": "It's too passive."
+         },
+         {
+          "text": "It's too technical."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What room does the woman in the T-shirt want to reserve?",
+        "options": [
+         {
+          "text": "the one they're in now"
+         },
+         {
+          "text": "a room with a stage"
+         },
+         {
+          "text": "the staff cafeteria"
+         },
+         {
+          "text": "a big meeting room"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Why does the woman in the T-shirt mention the winter party?",
+        "options": [
+         {
+          "text": "to warn of the risks of tribal thinking"
+         },
+         {
+          "text": "to suggest it should be in summer"
+         },
+         {
+          "text": "to illustrate a need for improvement"
+         },
+         {
+          "text": "to give an example of inclusiveness"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "It is about three minutes long.",
+     "Then, six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 192.4
+      },
+      "transcript": "Back in the 1980s, Roger Wong lived in Surrey, British Columbia, and commuted to work in Vancouver. The journey took him 40 minutes. Over the last 30 years, city planners have been designing and investing in road improvements and transit systems. Now, 30 years later, Roger's son one lives in Surrey and commutes to Vancouver just as his father did. The journey by car takes close to an hour. Despite the changes, traffic congestion has not improved. City planners across Canada have been unsuccessfully fighting commuter congestion for decades. Despite wider freeways, computerized management systems, and more transportation corridors, most cities cities are worse off than they were three decades ago. Experience has shown that building more roads simply leads to more traffic. Moreover, most Canadian cities cover a huge area and demand a lot of roads. The cost of developing such an infrastructure in the low-density suburbs of our cities is immense. What can we do to defeat traffic congestion once and for all? The short answer is that we need to get people out of their cars. City planning policies need to consider alternatives to roads. As long as most commuters travel alone in a car, traffic congestion will remain a problem. Change will not be easy. Opposition to changes in city planning policies are overwhelming. In Vancouver, Hoover, closing down a single lane of a bridge for a bicycle lane, met with furious opposition from motorists. Proposals for a gasoline tax to raise funds for public transportation also met with protests from motorists. Curiously, the one form of commuter infrastructure investment that meets with general approval is more road bridges and wider roads, precisely the policies that have consistently failed over over the last few decades. In short, we have a society that seems determined to persist with failed policies. There are four reasons why this might be the case. First, for most commuters, private vehicles are usually faster than public transportation. Second, there is the problem of getting to the workplace from the train station, which may involve an additional 10-minute walk. Third, fatigue also discourages utilization of our public networks. Few people wish to start and end their day with an hour of standing in cramped conditions. Fourth, grocery shopping or other errands after work might be difficult. It seems that people will continue to rely on private vehicles until this mode of transportation proves less pleasant than the alternatives. City planners, however, continue to invest hundreds of millions of dollars in a road infrastructure that makes the motorists' method of commuting marginally more tolerable than the alternatives.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Roger's son",
+        "options": [
+         {
+          "text": "works in the same city as Roger did."
+         },
+         {
+          "text": "takes the same bus as Roger did."
+         },
+         {
+          "text": "lives in a more distant suburb than Roger did."
+         },
+         {
+          "text": "has a more comfortable commute than Roger did"
+         }
+        ],
+        "answer": 0,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "City planners in Canada have",
+        "options": [
+         {
+          "text": "managed to reduce traffic congestion in the suburbs."
+         },
+         {
+          "text": "neglected the building of roads for the suburbs."
+         },
+         {
+          "text": "struggled with insufficient funding for bridges and roads."
+         },
+         {
+          "text": "failed to reduce commute times for most drivers."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The speaker argues that an alternative planning policy should be to",
+        "options": [
+         {
+          "text": "build wider roads and increase the number of bridges."
+         },
+         {
+          "text": "persuade people to use the transit system."
+         },
+         {
+          "text": "encourage people to work from home."
+         },
+         {
+          "text": "build more major access roads to the suburbs."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "In Vancouver, many people opposed",
+        "options": [
+         {
+          "text": "more bridges near the city."
+         },
+         {
+          "text": "a bicycle lane on a bridge."
+         },
+         {
+          "text": "wider roads in the suburbs."
+         },
+         {
+          "text": "more train stations in the suburbs."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "One problem with public transit is that",
+        "options": [
+         {
+          "text": "the cost of public transport is not competitive."
+         },
+         {
+          "text": "trains are often quite dirty and unhygienic."
+         },
+         {
+          "text": "there are not enough buses to meet demand."
+         },
+         {
+          "text": "shopping centres are more easily accessible by car."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The speaker believes that",
+        "options": [
+         {
+          "text": "current city planning policies are bound to"
+         },
+         {
+          "text": "roads being built will reduce congestion."
+         },
+         {
+          "text": "public transit systems are too slow."
+         },
+         {
+          "text": "budget for road expansions should increase."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "Dear Mrs. Smith,",
+       "I am writing in response to your reservation request for the \"Blue Oasis\" vacation property. I sincerely appreciate your choosing my rental property for your family's Christmas holidays; however, I regret to inform you that the home you've chosen has already been booked. The good news is that in the same neighbourhood I own another property which is larger - \"Seaside Escape.\" It has a pool and is desirably situated closer to the ocean. I think this house would be an excellent choice for a family with kids, such as yours, as the amenities include high speed wireless internet, video game consoles, and a four-player table tennis set, not to mention a home theatre system. Although I usually rent it at a higher rate than the slightly less roomy \"Blue Oasis,\" I am willing to offer it to you for the same price. The available house is more spacious and luxurious than your original choice. This three-level villa offers a total of 4 bedrooms and 4 bathrooms that are spread out over two floors and can sleep up to 8 people comfortably. On the main level is a large living room and a formal dining room off the open gourmet kitchen. Beside the kitchen is a recreation room and a separate entertainment room with a large-screen TV. There is also a stunning outdoor pool which has a waterfall on one side and is completely surrounded by tropical landscaping to maintain privacy. Just off the pool is a large seating area with an outside shower and a large barbecue. The home's wrap-around decks overlook the elegant pool, ocean and dock. There are also many other attractions in the neighborhood, such as restaurants, movie theatres, an amusement park, and a shopping mall.",
+       "If you are interested in taking me up on this offer, please let me know by September 21st. As previously mentioned, I am willing to rent you this property for a reduced rate of $1200 a week Please be advised that a $450 deposit must be made at the time of the reservation, and the remainder must be paid by October 31st. I look forward to hearing from you regarding your decision.",
+       "Sincerely,",
+       "Sandro Cavalli"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (* ), choose the bestoption according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "What kind of letter is this?",
+        "options": [
+         "offer",
+         "advice",
+         "apology",
+         "agreement"
+        ],
+        "answer": 0,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Who is Mr. Cavalli?",
+        "options": [
+         "a seller",
+         "a parent",
+         "an agent",
+         "a landlord"
+        ],
+        "answer": 3,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "\"Blue Oasis\" is",
+        "options": [
+         "taken.",
+         "sold.",
+         "roomy.",
+         "vacant."
+        ],
+        "answer": 0,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Compared to Blue Oasis, \"Seaside Escape\" has",
+        "options": [
+         "more flexible payment terms.",
+         "more convenient beach access.",
+         "higher quality kitchen appliances.",
+         "fewer entertainment options."
+        ],
+        "answer": 1,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What does Sandro suggest the children will enjoy?",
+        "options": [
+         "the gourmet kitchen",
+         "mall shopping",
+         "game playing",
+         "outdoor swimming"
+        ],
+        "answer": 2,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Four hundred and fifty dollars is to...",
+        "options": [
+         "cover travel costs.",
+         "confirm the booking.",
+         "pay for damages.",
+         "finalize the payment."
+        ],
+        "answer": 1,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the bestchoice for each blank from the drop-down menu (* ).",
+      "paragraphs": [
+       "Dear Mr. Cavalli,",
+       "Many thanks for your message concerning the alternate property. You've given me a thorough {{7}} of the residence, which, on one level at least, would seem an appealing substitute for my own more {{8}} initial selection. Obviously your pricing is {{9}} compared with Seaside Escape. However, I do have two concerns to address before I'm ready to {{10}} I understand this is a multi-storey house and that it has a pool, both of which seem to be considered {{11}} features That said, I have a one-year-old child and am wondering if there are stairway safety gates and a pool enclosure. Could you advise?",
+       "Kind regards,",
+       "Olean Smith"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "apology",
+         "confirmation",
+         "description",
+         "contract"
+        ],
+        "answer": 2,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "modest",
+         "private",
+         "coastal",
+         "expensive"
+        ],
+        "answer": 0,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "complex",
+         "favourable",
+         "standard",
+         "inflexible"
+        ],
+        "answer": 1,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "move",
+         "buy",
+         "bid",
+         "choose"
+        ],
+        "answer": 3,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "exotic",
+         "brand-new",
+         "desirable",
+         "unusual"
+        ],
+        "answer": 2,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_2.jpg"
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_3.jpg"
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_4.jpg"
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_5.jpg"
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu (* ).",
+      "paragraphs": [
+       "Subject: Are you free for lunch?",
+       "To: Alina Lee <alinal22@xmail.ca>",
+       "From: Janet Foster <foster@xmail.ca>",
+       "Hey Alına,",
+       "How are you enjoying the {{1}} so far? Listen, since you're going to be {{2}} because of your presentation, I can order lunch for you and save you a seat at our table. Management wants us to meet up with our teams at lunch to discuss the morning workshops. I saw the {{3}} when I passed the dining hall this morning. The selections sound pretty good. There's cream of asparagus soup or {{4}} to start. For the main course, there's a wrap. Which would you prefer: vegetarian, chicken, beef, or pork? They all come with fresh veggies and {{5}} with your choice of side. There are some really interesting desserts as well. I know sweets aren't your cup of tea, but they come with fresh berries and look delicious.",
+       "Let me know, and I'll see you at lunch,",
+       "Janet"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "workshop",
+         "conference",
+         "presentation",
+         "celebration"
+        ],
+        "answer": 1,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "leaving early",
+         "meeting new people",
+         "late for lunch",
+         "sharing your ideas"
+        ],
+        "answer": 2,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "menu",
+         "schedule",
+         "recipes",
+         "advertisement"
+        ],
+        "answer": 0,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "chicken wraps",
+         "french fries",
+         "lettuce and tomatoes",
+         "Mediterranean salad"
+        ],
+        "answer": 3,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "black olives",
+         "roasted red pepper mayo",
+         "a hint of lemon",
+         "white wine vinaigrette"
+        ],
+        "answer": 1,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (* ), choose the bestoption.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Janet and Alina know each other because",
+        "options": [
+         "Janet is Alina's boss.",
+         "they are both managers.",
+         "they met at the morning workshop.",
+         "they work together."
+        ],
+        "answer": 3,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Janet and Alina are planning to eat lunch together to",
+        "options": [
+         "share what they learned.",
+         "decide which workshops to attend.",
+         "present topics from the conference.",
+         "introduce ideas to management."
+        ],
+        "answer": 0,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "When Janet says that sweets are not Alina's \"cup of tea,\" she means that Alina",
+        "options": [
+         "prefers tea to sweets.",
+         "likes tea with her desserts.",
+         "doesn't usually like dessert.",
+         "only likes fresh desserts."
+        ],
+        "answer": 2,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. Regarded as a work of human creative genius, the Rideau Canal is designated as a UNESCO World Heritage Site and a National Historic Site of Canada. Stretching over 202 km from Ottawa to Kingston, it is North America's oldest, continuously operated canal system. The overall design involves a series of 52 dams that control the water levels, and 47 stone locks that allow watercraft to pass through a series of enclosures containing different levels of water. Remarkably, these locks work much the same way today as they did when it originally opened.",
+       "B. The motivation for the canal's construction came from a need for defense. At the time, the St. Lawrence River served as the primary supply line for the British colony. However, following the War of 1812 against the Americans, the British loyalists recognized the vulnerability of the St. Lawrence to American attack. In 1826, Lieutenant Colonel John By of Britain's Royal Engineers was tasked with designing a navigable waterway that could serve as a secure military supply route between Montreal and Kingston. The project posed severe logistical and engineering challenges since the desired route consisted of virgin forest, rocky terrain, and untouched rivers and lakes.",
+       "C. The construction began in 1826. Independent contractors were in charge of building the waterway, while the Royal Engineers oversaw its design. The skilled work was done primarily by French Canadians, including stonemasons, blacksmiths, and carpenters. The unskilled labour was carried out by immigrants, mainly from Ireland. Over the years, thousands of labourers were involved in the canal's construction. The vast majority of the work was done manually, with some assistance from draft animals. The excavation was done using shovels, axes, and wheelbarrows. Even the large stones of the locks were set in place using manual cranes. The canal was completed in November 1831 and officially opened in 1832.",
+       "D. Although the canal was never used for its intended purpose, it was a commercial success. It became a path for early settlement and a supply route for local resources such as lumber, grains, minerals, and farming products. Presently, the canal functions chiefly as a waterway for leisure craft and recreation. The scenic location offers entertainment for every season including dining, museums, fishing, cycling, hiking, canoeing, snowshoeing, skiing, and skating. In the winter, a 7.8 km section is transformed into the world's longest skating rink. The Rideau Canal is popular with tourists and locals alike due to its rich history and variety of attractions.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Work that required little training was done mostly by settlers.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The Rideau Canal project spanned several years.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The plan for the canal arose from the need for greater protection.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The Rideau Canal has year-round appeal.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Special devices allow boats to travel through different levels of water on the canal",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Colonel John By managed the canal construction project from Montreal.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Businesses in nearby communities profited from the canal's construction.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "The bulk of the work on the canal was carried out by hand",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "Military goods were never actually transported along the canal.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "Valhalla Air is continuing to fly its Fortuna 3000 Intercontinental jet, touted by the airline's CEO Goran Pekarchuk as \"the world's best commercial aircraft,\" despite its having been grounded in 2014 after several engine failures. For still-unknown reasons, the turbine engine's ultra-lightweight carbon fibre blades crack and break in midflight. This disrupts engine flow and requires engine shutdown. Some suspect that the company responsible for manufacturing these parts, Mexico's Power Tech Corporation, is trying to save time and cut costs at the expense of quality.",
+       "Racing against European rival Nimbus Air to bring its new product to the skies, the 3000's manufacturer, Fortuna Aeronautics, hastily reinforced the blades on affected aircraft; conducted quick, semi-scientific tests convincing the US Federal Aviation Administration (FAA) the blade was safe; and acquired that regulator's approval to re-launch the 3000. This all occurred before the National Transportation Safety Board (NTSB) had finished its incident investigation. The NTSB responded with a stern letter urging more guidance from independent experts and more stringent and standardized verification procedures for aircraft components.",
+       "Despite the band-aid solution, the 3000 Intercontinental is applauded by environmentalists like Eveline Ryall, who praises its enhanced fuel efficiency and reduced carbon emissions. \"In a world where three to six percent of greenhouse gases come from jet exhaust, the 3000 Intercontinental is a step in the right direction.\"",
+       "Interviewed London-Toronto passengers, like Hamida Barzun, gushed over the 3000's in-flight entertainment system and interior design while dismissing safety concerns. \"If there were problems, Transport Canada would have intervened.\"",
+       "Valhalla Air has welcomed the latest addition to its fleet with an extravagant marketing campaign. In one video, First Officer Andre Pierre says 3000 Intercontinental passengers \"just go, Wow.\" (\"They'll say the same thing when flames start shooting from the turbines over the Atlantic,\" quipped the Globe and Mail's Sheldon Blumfeld, who lambasted the ads and dubbed the Fortuna aircraft \"the Misfortuna.\")",
+       "Marketing professor Caitlin Harwood labels the 3000 Intercontinental \"a flawed product, flawlessly marketed.\" She notes how Valhalla Air's videos shrewdly ignore overseas outsourcing while emphasizing its made-in-Canada components. \"It's a case study in the triumph of marketing over matter.\""
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (* ), choose the bestoption according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Whose opinion is similar to Sheldon Blumfeld's?",
+        "options": [
+         "Caitlin Harwood",
+         "Eveline Ryall",
+         "Goran Pekarchuk",
+         "Hamida Barzun"
+        ],
+        "answer": 0,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What did Fortuna do to stay competitive?",
+        "options": [
+         "gained the confidence of the Transportation Safety Board",
+         "launched an aggressive response to adversity",
+         "prevented turbine engine failures aboard new aircraft",
+         "standardized quality control testing of outsourced components"
+        ],
+        "answer": 1,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Fortuna benefited most from its relationship with",
+        "options": [
+         "the Federal Aviation Administration.",
+         "the Globe and Mail media.",
+         "the Nimbus Company.",
+         "the Power Tech Corporation."
+        ],
+        "answer": 0,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "We can reasonably conclude that",
+        "options": [
+         "the Federal Aviation Administration.",
+         "the Globe and Mail media.",
+         "the Nimbus Company.",
+         "the Power Tech Corporation."
+        ],
+        "answer": 3,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The best title for this article would be \"The Fortuna 3000 Intercontinental:",
+        "options": [
+         "Better Than Airworthy, Claims FAA.\"",
+         "Faulty Engine Still Puzzles Experts.\"",
+         "Marketing Dream, Safety Nightmare.\"",
+         "New Technology Cuts Carbon Emissions.\""
+        ],
+        "answer": 2,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "This is clearly a tale of {{6}}. The situation could have been avoided if {{7}}. The government should require Fortuna to be more {{8}} Now I hear a number of Asian aircraft companies are demanding compensation for mechanical problems with the 3000s that they purchased, and these are problems that go beyond the {{9}} -related ones the writer describes. But I honestly can't see Transport Canada taking any action that might wreak havoc with the profits of one of the country's largest corporations. Valhalla Air had a flotilla of 3000s on order from Fortuna in 2014, and it's no surprise their {{10}} as they hyped the plane while remaining, along with Transport Canada, shrewdly silent on its many defects."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "a corporation showing disregard for due process",
+         "a regulator operating independently from a business",
+         "an authority ignoring binding recommendations",
+         "an investigation being hampered by a journalist"
+        ],
+        "answer": 0,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "consumers had been given more satety reassurances",
+         "designers of European jets had been consulted",
+         "manufacturers had known more about marketing",
+         "regulators had been forced to act in the public's interest"
+        ],
+        "answer": 3,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "accessible",
+         "accountable",
+         "fuel-conscious",
+         "scientific"
+        ],
+        "answer": 1,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "electrical",
+         "landing",
+         "navigation",
+         "propulsion"
+        ],
+        "answer": 3,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "entire fleet improved",
+         "federal regulator erred",
+         "marketing plan tanked",
+         "share prices soared"
+        ],
+        "answer": 3,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "You saw a car accident. Now you have been asked to write a report for the police describing the scene."
+    ],
+    "instruction": "Write an email to the police in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Explain when and where you saw the accident.",
+     "Describe the road conditions, what you saw, and how many people and vehicles were involved.",
+     "Explain who you feel was responsible and why."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "To police inspector, fox creek town Dear sir\\ madam,",
+       "I would like to inform that the i have seen a huge car accident near the wall mart mall where divested five cars and some peoples are really on the critical condition which unexpected. victims are on the road that need some body help for them as soon as possible. it would be more appreciate if some reprehensive send to the occurred place. It was ten a.m. the accident happened near the mall, the weather wasn't clear that why very difficult to recognize the place due the the circumstance is to bad as well, If i explain the condition of road was not proper gravel all over precisely, spared soil and stones all over road that made inconvenient to the victims to identify correct direction.",
+       "Two persons were injured in the cars than others were on the road they are unconscious boldly. the 1 was there to help the them and i called the ambulance before call called ambulance i call help line. Their response was positive. The responsible is not only the police man because the liability to all public this kinds of divested We can save some life on time. applicant"
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "To Whom It May Concern, Tam writing to you as a witness to a car accident that took place on February 26th 2015 in which one car (Honda Accord carrying one male passenger) collided with another (Ford Escort carrying one male passenger) on the busy intersection that is Yonge and Eglington at approximately 1:25pm. The accident happened when one car #1 (Honda Accord) could not stop in time at the set of lights on Yonge St and the end result being the car had collided with the car #2 in front (Ford Escort) this was not due to speeding as i could see the car travelling at what i would comprehend as being an appropriate speed but due to the icy conditions on the roads, I believe the man traveling in the Ford Escort was responsible for the accident and should have took into account the icy conditions and should have gave more space between cars as it looked like he was travelling very close to the Ford Escort",
+       "I believe this information to be true to the best of my knowledge, Thank you",
+       "Josh Johnson"
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "To whom it may concern, The following is an account of the vehicle accident I witnessed on February 16th, 2014 at approximately 6:45pm. The accident occurred on in the intersection of George Street and Mason Avenue in Jumpton, Alberta.",
+       "At that time of the accident, I was walking northbound on George Street, towards the intersection with Mason Avenue. The road conditions were slick as an intense rainfall event had just passed through the city, however it was not raining at that time. Car A (a Ford F150) was on George Road (heading northbound), waiting in the intersection with Mason Street to turn left. When the traffic light turned red, Car A commenced turning left onto Mason Street. However, at the same time, Car B (a purple Corvette) who was travelling southbound on George Street, also entered the intersection on the red light. Car A hit the left side of Car B. The drivers in both cars required medical attention from the ambulance that arrived on the scene shortly after. No other passengers or vehicles were involved in the accident.",
+       "I believe Car B was at fault for failing to stop at a red light.",
+       "Regards",
+       "Mavis"
+      ]
+     }
+    ],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "Your children's school provides free school lunches. Usually the lunch is a hamburger, hotdog, or pizza. The children really enjoy the lunches. Some parents want to change the lunches so that the children eat salad or vegetables every day. The school asked you to respond to an opinion survey."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I would prefer the lunches stayed the same.",
+     "Option B: I would prefer they changed the lunches."
+    ],
+    "surveyTitle": "School Lunch Survey",
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "Dear Mike,",
+       "In the response of our email regarding the lunch of school children i would prefer that diversity food would be more appropriate and admirable to all kids that they would fell the different test and knowledge either. i know providing all kinds food are so delicious as well, However, i would respect verity of foods. My intention is it would be delightful when able to provide different dishes.",
+       "I would like to give clarify that the same is not much enough vitamins and minerals to enhance physically and mentally improvement consequently. You have been servicing as like hot dogs, hot hamburgers and pizzas, contains the more cholesterol, it caused to the obesity to them. Is the best option to diminish the cholesterol if we put some salad instead.",
+       "Thus, I would like to have all kinds of to provide the them make happy and enhance knowledge and to take care about the health would more suitable. Which have mention above that would be great ideas to all. thanks. Lucy Jung"
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "In my opinion to this survey, changing lunches will be beneficial for children as well as parents and teachers.",
+       "Firstly, having same lunch everyday, makes children bore. They eat candies and other snacks in order to avoid hamburger, hotdog, or pizza. Children always wants variety in food which salad will give them. Salads have varieties like fruit salad, vegetables salad and comes with different flavours too.",
+       "Secondly, considering health, eating salad and vegetables provides proper nutrition to them and make them less prone to sickness. No doubt, children don't like this stuff but we can make variety of salads using cream cheese, sour cream, salad dressing and many more.",
+       "Lastly, It is easy to make vegetables and salads as compared to the junk food. It takes few minutes to make salads by just directly mixing them or by steaming them. Overall, 1 can say in this way only children will start eating these health conscious diets which will lead to longevity of there lives and school is the place where they can learn these things through teachers as well as by imitating there fellows. I will appreciate if this new plan for changing meals will be initiated.",
+       "Thanks"
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Dear Sir/Madam,",
+       "In response to your request for my opinion on the foods served for lunch in Bethany's school I think that current food plan should be totally changed or at least modified because of several reasons.",
+       "First, as we all know, pizzas, hotdogs and generally all the foods that are rich in fat are proven to be harmful to human's health as they result in obesity and cause many different cardio-vascular diseases in one's body. As an educational institute I expect you to teach our children on the negative effects of these kind of foods and let them understand that avoiding these foods is a beneficial way to have a healthy life. Second, almost all the nutritionists and food specialists believe that adding more fresh and organic foods like vegetables and fruits that are rich in fibres and vitamins to daily meal plans not only helps human body to keep its healthy conditions but also results in more efficient daily student activities at the school.",
+       "So, in my opinion it's more suitable to at least reduce the amount of current foods and increase the amount of healthy foods like salad and vegetables.",
+       "Thank you for your efforts in improving the schools food service qualities. Kindest regards,",
+       "Kevin Nadir"
+      ]
+     }
+    ],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your friend's cousin is visiting from abroad, and she loves shopping. Advise your friend on where to take his cousin shopping and which shops are the most interesting."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you helped someone. Maybe you can talk about helping a family member, a classmate, or a total stranger. Where were you, how did you help them, and how did it make you feel?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "The children's club you volunteer at is planning a field trip for the children aged 8 to 10, and you must help choose where they will go. You find two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade another parent of the club that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "Another parent in the club is suggesting another activity for the fieldtrip. Persuade them that the activity you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "Your colleague, Adam, is going to visit a client tomorrow. He wants to dress informally to stress his individuality. Your co-worker, Suzanne, believes that formal style is always better."
+    ],
+    "choices": [
+     "Talk to Suzanne. Explain that informal clothing can be appropriate.",
+     "Talk to Adam. Explain why formal clothing is better for a business meeting."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think car drivers should re-take the road test every 5 years? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You want to purchase this rug, but the store won't let you take a photo. Call a family member. Provide a full and clear description of the rug you wish to buy, and ask your family member if you can buy the rug."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

@@ -1,0 +1,2152 @@
+{
+ "id": "s13-t1",
+ "set": 13,
+ "test": 1,
+ "title": "Practice Test 13-1",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation between a student and a staff member. They are in a university computer lab.",
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 47.5
+      },
+      "transcript": "WOMAN: Welcome to the computer lab. Sit anywhere you like. If you have any questions, please let me know.\nMAN: Thanks! I'm doing a practice exam for one of my classes today, so I would like a computer in a quiet corner somewhere.\nWOMAN: The computers next to the bookshelves in the back are a little out-of-the-way, so it should be pretty quiet.\nMAN: Thanks. I really need to focus on studying. I'm worried about this exam because I've missed a lot of classes this past term.\nWOMAN: Well, you've come to the right place. [pause] My name's Deborah. I'm just filling in at the lab today. Normally, I work down the hall in technical support, so if you have any technical problems, I would be happy to help you. Good luck!\nMAN: That's good to know, thanks. How long is the lab open tonight?\nWOMAN: Until 11. That should give you plenty of time.",
+      "questions": [
+       {
+        "id": "L1-1",
+        "num": 1,
+        "options": [
+         {
+          "text": "to study for an exam"
+         },
+         {
+          "text": "to work on a project"
+         },
+         {
+          "text": "to finish some homework"
+         },
+         {
+          "text": "to get technical help"
+         }
+        ],
+        "answer": 0,
+        "stem": "Why did the man come to the computer lab?",
+        "audio": "media/l1_q1.mp3"
+       },
+       {
+        "id": "L1-2",
+        "num": 2,
+        "options": [
+         {
+          "text": "He may not have learned all the material."
+         },
+         {
+          "text": "He may have to leave the computer lab early."
+         },
+         {
+          "text": "He may not have his computer for the exam."
+         },
+         {
+          "text": "He may have to ask a friend to tutor him."
+         }
+        ],
+        "answer": 0,
+        "stem": "What problem does the man expect to have?",
+        "audio": "media/l1_q2.mp3"
+       },
+       {
+        "id": "L1-3",
+        "num": 3,
+        "options": [
+         {
+          "text": "She has worked there for a long time."
+         },
+         {
+          "text": "She usually works somewhere else."
+         },
+         {
+          "text": "She has little technical knowledge."
+         },
+         {
+          "text": "She can provide books for practice."
+         }
+        ],
+        "answer": 1,
+        "stem": "What is true about the woman?",
+        "audio": "media/l1_q3.mp3"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 50.1
+      },
+      "transcript": "Man: Excuse me, I'm having technical problems. Could you help me? I can't log in with my username.\nWoman: Sure, let me take a look. (pause) Oh yes, you need to use your email address as your username and then enter the exam code below it.\nMan: I did that, but the screen still isn't loading! I need to finish this today! I think something is wrong with this computer.\nWoman: Hmm, let's clear the cache and check the settings. We should also double check your exam code; maybe you made a typo.\nMan: Ugh… I can't believe this! [sounding frustrated] My classmates were able to do the exam using the same code! How much more time am I going to waste before starting the test?\nWoman: Let's try to relax. I'm sure we can figure this out and get you going soon.\nMan: I'm sorry, but I don't have time for this. I'll just borrow my friend's computer. One that actually works!",
+      "questions": [
+       {
+        "id": "L1-4",
+        "num": 4,
+        "options": [
+         {
+          "text": "The man made a mistake logging on."
+         },
+         {
+          "text": "The exam code has expired."
+         },
+         {
+          "text": "The computer screen is broken."
+         },
+         {
+          "text": "The man requires a new computer."
+         }
+        ],
+        "answer": 0,
+        "stem": "What does the woman believe?",
+        "audio": "media/l1_q4.mp3"
+       },
+       {
+        "id": "L1-5",
+        "num": 5,
+        "options": [
+         {
+          "text": "His classmates had the same issue."
+         },
+         {
+          "text": "The woman can fix his problem."
+         },
+         {
+          "text": "He will run out of studying time."
+         },
+         {
+          "text": "His friend can repair the computer."
+         }
+        ],
+        "answer": 2,
+        "stem": "What does the man believe?",
+        "audio": "media/l1_q5.mp3"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 43.7
+      },
+      "transcript": "Woman: Good morning! Welcome to… Oh! Hello again. I thought you were going to use your friend's computer! What happened?\nMan: Well, it took me a while to find him. And when I finally found him, his laptop wasn't working either! He accidentally spilled coffee on the keyboard and it stopped working.\nWoman: Oh no, that's too bad! I hope the screen is okay at least.\nMan: Anyway, can you help me today if I have trouble again? I really need to get some practice in. Now, I've only got 24 hours.\nWoman: Yes. In fact... I've already fixed the problem. A system update had changed our settings; that's why you couldn't log on earlier. I've restored the original settings, so the system works now.\nMan: Thanks again. You're a real lifesaver! [sounding grateful]",
+      "questions": [
+       {
+        "id": "L1-6",
+        "num": 6,
+        "options": [
+         {
+          "text": "He learned how to solve the problem."
+         },
+         {
+          "text": "He needs to work on a new assignment."
+         },
+         {
+          "text": "He remembered his system information."
+         },
+         {
+          "text": "He was unable to use his friend's device."
+         }
+        ],
+        "answer": 3,
+        "stem": "Why has the man returned?",
+        "audio": "media/l1_q6.mp3"
+       },
+       {
+        "id": "L1-7",
+        "num": 7,
+        "options": [
+         {
+          "image": "media/listening_1.png"
+         },
+         {
+          "image": "media/listening_2.png"
+         },
+         {
+          "image": "media/listening_3.png"
+         },
+         {
+          "image": "media/listening_4.png"
+         }
+        ],
+        "answer": 2,
+        "stem": "What was the problem with the laptop?",
+        "audio": "media/l1_q7.mp3"
+       },
+       {
+        "id": "L1-8",
+        "num": 8,
+        "options": [
+         {
+          "text": "The man will leave the computer lab."
+         },
+         {
+          "text": "The man will log on to the computer."
+         },
+         {
+          "text": "The woman will update the settings."
+         },
+         {
+          "text": "The woman will adjust the system."
+         }
+        ],
+        "answer": 1,
+        "stem": "What will likely happen next?",
+        "audio": "media/l1_q8.mp3"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation between two neighbours.",
+     "You will hear a conversation followed by five questions.",
+     "You will hear the conversation only once.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_passage.mp3",
+       "duration": 111.1
+      },
+      "transcript": "WOMAN: Hi Robert! You should clean up the leaves on your lawn, like I am. My husband says to let the leaves blow down the street, but I like to get rid of them right away.\nMAN: That's a good idea. I'll take care of them a little later today. Hey, are you going to take your kids to the Parade of Lights this weekend? The weather's supposed to be really nice on Saturday, so we won't freeze like last year.\nWOMAN: We saw the Santa Claus Parade in Toronto, but I haven't heard about this one. Is it the same thing? Sort of an organized walk on main streets to celebrate a special event?\nMAN: Yes, but here it's much smaller.\nWOMAN: So who's in this parade? Will all those decorated platform things in the parade be related to Christmas?\nMAN: Yeah, for the most part these floats have a Christmas theme. Some floats are organized by the Children's Hospital, or local cultural organizations, or charity groups. The last float is Santa Claus sitting in his sleigh with lots of his helpers giving candy to kids.\nWOMAN: Well, we certainly enjoyed the one in Toronto, so we should see what this one is like. What time does the parade start? Our kids are too young to stay up very late.\nMAN: It starts around 6:00pm downtown, and it takes about two hours for it to travel the full distance. Spring Garden Road is the best place to watch because that's halfway on the route, and you're close to shops and restaurants.\nWOMAN: That sounds good, and the parade probably finishes there in an hour. I guess we need lots of time beforehand to find parking, though. It's going to be busy, right?\nMAN: Oh yeah, it'll be busy. We usually take the kids downtown around 4:00 and have dinner somewhere. After that we do a little shopping, then find a place to watch the parade, and then we just wait.\nWOMAN: We should have dinner together and watch the parade together. The kids would really like that. What do you think?\nMAN: That's a great idea! I'll get Alison to call you and arrange all the details.",
+      "questions": [
+       {
+        "id": "L2-1",
+        "num": 1,
+        "options": [
+         {
+          "text": "have dinner at the man's house"
+         },
+         {
+          "text": "take their families to an event"
+         },
+         {
+          "text": "go shopping with their families"
+         },
+         {
+          "text": "clean up the remaining leaves"
+         }
+        ],
+        "answer": 1,
+        "stem": "What are the man and woman planning to do?",
+        "audio": "media/l2_q1.mp3"
+       },
+       {
+        "id": "L2-2",
+        "num": 2,
+        "options": [
+         {
+          "text": "to find a parking space"
+         },
+         {
+          "text": "to do some shopping"
+         },
+         {
+          "text": "to see all of the parade"
+         },
+         {
+          "text": "to see a special float"
+         }
+        ],
+        "answer": 0,
+        "stem": "Why do the man and woman want to be early?",
+        "audio": "media/l2_q2.mp3"
+       },
+       {
+        "id": "L2-3",
+        "num": 3,
+        "options": [
+         {
+          "text": "She participates in the parade."
+         },
+         {
+          "text": "She takes her kids every year."
+         },
+         {
+          "text": "She helped with the hospital float."
+         },
+         {
+          "text": "She watched one in another city."
+         }
+        ],
+        "answer": 3,
+        "stem": "Why is the woman familiar with this kind of event?",
+        "audio": "media/l2_q3.mp3"
+       },
+       {
+        "id": "L2-4",
+        "num": 4,
+        "options": [
+         {
+          "text": "She thinks it would be easier to travel there together."
+         },
+         {
+          "text": "She knows a place for dinner that the kids would like."
+         },
+         {
+          "text": "She believes their children would have fun together."
+         },
+         {
+          "text": "She feels it will be difficult to find each other at the event."
+         }
+        ],
+        "answer": 2,
+        "stem": "Why does the woman suggest going to the event together?",
+        "audio": "media/l2_q4.mp3"
+       },
+       {
+        "id": "L2-5",
+        "num": 5,
+        "options": [
+         {
+          "text": "She might get lost in the dark."
+         },
+         {
+          "text": "She wants to go shopping first."
+         },
+         {
+          "text": "Her kids need to be in bed early."
+         },
+         {
+          "text": "Her husband likes to be on time."
+         }
+        ],
+        "answer": 2,
+        "stem": "Why is the woman worried about the event start time?",
+        "audio": "media/l2_q5.mp3"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation between a man and a woman.",
+     "You will hear a conversation followed by six questions.",
+     "You will hear the conversation only once.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_passage.mp3",
+       "duration": 138.2
+      },
+      "transcript": "MAN: Hey Anika, you're home early today! Do you have a minute? I was hoping you could look at my resumé. I've used it to apply for tons of jobs, but I haven't gotten a single response! I could really use your expert opinion.\nWOMAN: (laughing) Well, \"expert opinion\" might be an exaggeration-I'm no professional. But, I have helped quite a few people in the past... [pause] Okay, so, taking a quick look, you don't seem to be showing your strengths with this resumé.\nMAN: That makes sense. I know I have the qualifications, but it's been a long time since I've had to do a resumé.\nWOMAN: Well, my first suggestion is to make your resumé stand out in some way. It may seem simple, but some colour and an interesting font can be eye-catching and entice someone to actually take a look at your resumé. You'll also need to do more than just list your past jobs.\nMAN: That's a great idea! I didn't even think of colour and appearance… For content I thought the whole point was to list the jobs I've held over the last 10 years, with a few details about my roles and responsibilities.\nWOMAN: Well, these days employers often hire people who can show the impact they've made in their companies. Since you want to highlight your leadership experience, you should definitely mention the sales and marketing seminars you conducted. Those boosted profits for your previous company 3 years in a row, right? That's a big deal!\nMAN: Yes, good point! I hadn't thought of that. Any other advice?\nWOMAN: Well, you may want to rearrange your resumé a bit because it's very chronological. Although it's good to have an overview of what you've done over the years, you should briefly mention your professional skills first.\nMAN: Do you mean things like project management, budgeting, and business negotiation?\nWOMAN: Yes, exactly! Not everyone possesses those skills, so you really should put them at the top of your resumé.\nMAN: These are really useful suggestions! Thanks so much! I'm so glad I asked you.\nWOMAN: Great! Just a few minor fixes and you'll be getting those phone calls you've been hoping for! Oh, before you go-just let me run inside the house and grab the book you lent me. It was a great read!",
+      "questions": [
+       {
+        "id": "L3-1",
+        "num": 1,
+        "options": [
+         {
+          "text": "She works in an office with the man."
+         },
+         {
+          "text": "She has assisted other job-seekers."
+         },
+         {
+          "text": "She revises resumés professionally."
+         },
+         {
+          "text": "She has a potential job for the man."
+         }
+        ],
+        "answer": 1,
+        "stem": "What is probably true about the woman?",
+        "audio": "media/l3_q1.mp3"
+       },
+       {
+        "id": "L3-2",
+        "num": 2,
+        "options": [
+         {
+          "text": "His resumé has misspelled words."
+         },
+         {
+          "text": "There are few jobs in his field."
+         },
+         {
+          "text": "He lacks necessary qualifications."
+         },
+         {
+          "text": "Employers are unaware of his skills."
+         }
+        ],
+        "answer": 3,
+        "stem": "What is likely causing the man's problem?",
+        "audio": "media/l3_q2.mp3"
+       },
+       {
+        "id": "L3-3",
+        "num": 3,
+        "options": [
+         {
+          "text": "He helped his company make money."
+         },
+         {
+          "text": "He won an award at his workplace."
+         },
+         {
+          "text": "He plans to take leadership training."
+         },
+         {
+          "text": "He has one year of work experience."
+         }
+        ],
+        "answer": 0,
+        "stem": "What is true about the man?",
+        "audio": "media/l3_q3.mp3"
+       },
+       {
+        "id": "L3-4",
+        "num": 4,
+        "options": [
+         {
+          "text": "revise a document"
+         },
+         {
+          "text": "get expert advice"
+         },
+         {
+          "text": "make a phone call"
+         },
+         {
+          "text": "seek skills training"
+         }
+        ],
+        "answer": 0,
+        "stem": "What will the man's next step most likely be?",
+        "audio": "media/l3_q4.mp3"
+       },
+       {
+        "id": "L3-5",
+        "num": 5,
+        "options": [
+         {
+          "text": "to read a book the man lent her"
+         },
+         {
+          "text": "to get an item she borrowed"
+         },
+         {
+          "text": "to grab a copy of her resumé"
+         },
+         {
+          "text": "to make an important phone call"
+         }
+        ],
+        "answer": 1,
+        "stem": "Why did the woman go into her house?",
+        "audio": "media/l3_q5.mp3"
+       },
+       {
+        "id": "L3-6",
+        "num": 6,
+        "options": [
+         {
+          "text": "Have a professional revise it."
+         },
+         {
+          "text": "Get rid of excess information."
+         },
+         {
+          "text": "Rearrange it into a timeline."
+         },
+         {
+          "text": "Focus more on your abilities."
+         }
+        ],
+        "answer": 3,
+        "stem": "What was the woman's main suggestion?",
+        "audio": "media/l3_q6.mp3"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item about a man at a houseplant show.",
+     "You will hear a news item once.",
+     "Then five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 74.6
+      },
+      "transcript": "A local man went home happy after collecting an award at the city's annual Houseplant Show, held at the downtown Rhodes Arena this past weekend. Justin Wilson, 53, set a new record for the tallest cactus ever grown indoors.\nWhen asked how he managed to grow the 3.5-metre beast, he claimed it was nothing but good fortune. Wilson explains how, nearly a decade ago, he bought the cactus at a local garden centre for a few dollars. After bringing it home, he simply placed it by his large living room window and watered it weekly.\nUnderstandably, Wilson was not required to transport the cactus to the Houseplant Show, a popular indoor convention for houseplant enthusiasts. Instead, volunteers from the event met Wilson at his home, where they measured the towering cactus and photographed it for their records.\nWilson accepted the award for his oddity from Michael Cole, head organizer of the event and an ecologist at Maplewood University. Cole says that he sees cacti as tall as Wilson's all the time in the desert, but never in someone's home.",
+      "questions": [
+       {
+        "id": "L4-1",
+        "num": 1,
+        "options": [
+         {
+          "text": "in a private home."
+         },
+         {
+          "text": "in a public venue."
+         },
+         {
+          "text": "at the university."
+         },
+         {
+          "text": "at the local desert."
+         }
+        ],
+        "answer": 1,
+        "prompt": "The Houseplant Show takes place"
+       },
+       {
+        "id": "L4-2",
+        "num": 2,
+        "options": [
+         {
+          "text": "efficient."
+         },
+         {
+          "text": "popular."
+         },
+         {
+          "text": "skilled."
+         },
+         {
+          "text": "lucky."
+         }
+        ],
+        "answer": 3,
+        "prompt": "Joe Wilson says he won because he is"
+       },
+       {
+        "id": "L4-3",
+        "num": 3,
+        "options": [
+         {
+          "text": "confirm his cactus's size."
+         },
+         {
+          "text": "interview him."
+         },
+         {
+          "text": "give him an award."
+         },
+         {
+          "text": "determine how he grew his cactus."
+         }
+        ],
+        "answer": 0,
+        "prompt": "People from the Houseplant Show visited Joe to"
+       },
+       {
+        "id": "L4-4",
+        "num": 4,
+        "options": [
+         {
+          "text": "promising."
+         },
+         {
+          "text": "common."
+         },
+         {
+          "text": "unlikely."
+         },
+         {
+          "text": "dangerous."
+         }
+        ],
+        "answer": 1,
+        "prompt": "At the end of the report, Michael Cole says that, in the desert, cacti as tall as Wilson's are"
+       },
+       {
+        "id": "L4-5",
+        "num": 5,
+        "options": [
+         {
+          "text": "an unusual gardening style."
+         },
+         {
+          "text": "a surprising visitor."
+         },
+         {
+          "text": "a special species of plant."
+         },
+         {
+          "text": "an unexpected result."
+         }
+        ],
+        "answer": 3,
+        "prompt": "The news item is about"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "You will watch a discussion among three co-workers, two men and one woman. The discussion takes place at a community soccer clubhouse.",
+     "You will watch a two-minute video, then eight questions will appear.",
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 152.3
+      },
+      "transcript": "Eric: Thanks for coming today. So, Fall Soccer is just around the corner and we want to make sure online registration goes smoothly. We had a lot of glitches last year-and complaints.\nIan: Oh, I remember that. [groaning] I spent hours fixing those issues and calming frenzied parents. I just overhauled the registration section on our website, so I don't anticipate the same problems this year.\nAlyssa: I'm glad you were the one dealing with that. You're the techie! [slight pause] On another note, we've had a lot of inquiries about our fees. Can we manage to keep them the same as last year?\nEric: Good question. We're looking at a 5% increase. But we need to stick to our mandate - developing players in the local community. I don't want cost to become an obstacle. Families are already paying for registration, photography, uniforms, shoes, snacks. ..\nIan: Yeah, I'm worried that some kids won't be able to participate if it strains their family budget.\nAlyssa: Yeah, with three players in my house, soccer costs add up to a small fortune!\nEric: Well, some other clubs offer discounts to parents who volunteer throughout the season. Especially the parents who help out as assistant coaches, they really offset some of the costs. What do you think?\nIan: I don't know about that. We're fortunate to have enough time to volunteer for this club, but not all parents do. What about a family discount plan? For example, full price for the first child, then ten percent off for the second. And 15 percent off for the third, in families like Alyssa's.\nAlyssa: For me personally, that would be great - but it wouldn't help most of our soccer families at all. [pause] How about a 'used gear exchange'? Kids outgrow their stuff so quickly. If we set something up on our website, then parents could browse through used items when doing their registration.\nEric: That sounds good. We could add a discussion forum to our website where parents and players can arrange to buy, sell and trade their gear.\nIan: I'm not so sure about that idea. [not agreeable] From a technical perspective, it's actually more complicated than it sounds.\nAlyssa: Well, we could also consider a partnership with a local sports store in the area. For example, players could show their club ID cards to get a markdown on shoes and other gear.\nEric: I can look into something like that, but in the meantime, Ian, it would be great if you could research ways to get the online forum going.",
+      "questions": [
+       {
+        "id": "L5-1",
+        "num": 1,
+        "options": [
+         {
+          "text": "to decide how to lower fees"
+         },
+         {
+          "text": "to change the registration form"
+         },
+         {
+          "text": "to discuss a website issue"
+         },
+         {
+          "text": "to plan for the upcoming sign-up"
+         }
+        ],
+        "answer": 3,
+        "prompt": "What is the main purpose of the meeting?"
+       },
+       {
+        "id": "L5-2",
+        "num": 2,
+        "options": [
+         {
+          "text": "He is in charge of finances."
+         },
+         {
+          "text": "He helped with registration last year."
+         },
+         {
+          "text": "He has very little time for volunteering."
+         },
+         {
+          "text": "He lacks computer skills."
+         }
+        ],
+        "answer": 1,
+        "prompt": "What seems true about Ian?"
+       },
+       {
+        "id": "L5-3",
+        "num": 3,
+        "options": [
+         {
+          "text": "keeping soccer accessible to local players"
+         },
+         {
+          "text": "charging more to cover equipment costs"
+         },
+         {
+          "text": "encouraging parents to try playing soccer"
+         },
+         {
+          "text": "using a different registration system"
+         }
+        ],
+        "answer": 0,
+        "prompt": "What does Eric say the club needs to focus on?"
+       },
+       {
+        "id": "L5-4",
+        "num": 4,
+        "options": [
+         {
+          "text": "pay all soccer fees right away"
+         },
+         {
+          "text": "create their own online forum"
+         },
+         {
+          "text": "assist with coaching the teams"
+         },
+         {
+          "text": "fundraise for the community"
+         }
+        ],
+        "answer": 2,
+        "prompt": "What does Eric suggest that parents do?"
+       },
+       {
+        "id": "L5-5",
+        "num": 5,
+        "options": [
+         {
+          "text": "They like the online registration process."
+         },
+         {
+          "text": "They find participation fees affordable."
+         },
+         {
+          "text": "They know where to buy cheap soccer gear."
+         },
+         {
+          "text": "They have only one child enrolled in soccer."
+         }
+        ],
+        "answer": 3,
+        "prompt": "What does Alyssa imply about most soccer club parents?"
+       },
+       {
+        "id": "L5-6",
+        "num": 6,
+        "options": [
+         {
+          "text": "reducing the club's registration fees"
+         },
+         {
+          "text": "helping parents save on equipment"
+         },
+         {
+          "text": "donating gear to local sport stores"
+         },
+         {
+          "text": "getting parents to connect online"
+         }
+        ],
+        "answer": 1,
+        "prompt": "What do Alyssa's suggestions focus on?"
+       },
+       {
+        "id": "L5-7",
+        "num": 7,
+        "options": [
+         {
+          "text": "It will not be easy."
+         },
+         {
+          "text": "It will not be practical."
+         },
+         {
+          "text": "It is not necessary."
+         },
+         {
+          "text": "It is not possible."
+         }
+        ],
+        "answer": 0,
+        "prompt": "What does Ian say about starting an online forum?"
+       },
+       {
+        "id": "L5-8",
+        "num": 8,
+        "options": [
+         {
+          "text": "selling the club's used sports gear"
+         },
+         {
+          "text": "increasing the amount of volunteers"
+         },
+         {
+          "text": "reducing equipment costs for parents"
+         },
+         {
+          "text": "offering discounts to families in need"
+         }
+        ],
+        "answer": 2,
+        "prompt": "What does the group decide to focus on?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a speech about an educational issue.",
+     "You will hear a report once.",
+     "Then six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 196.6
+      },
+      "transcript": "Welcome parents and staff of Cederbrook Elementary. I appreciate all of you being here tonight. It is standard practice at our school, indeed, at most schools everywhere, to issue daily homework assignments. Beginning in kindergarten, students are assigned tasks that typically take about 15 minutes to complete. With each grade level, the complexity and quantity of the assignments increases, to a maximum of about 2 hours per night for our grade eight students. Recently, this practice has been called into question.\nSpearheading this debate is parent and child psychologist Jaime Lee. According to Lee, numerous studies have pointed to the detrimental impacts of daily homework. Indeed, increasingly in her practice, she is seeing these impacts. Many of her younger clients are experiencing high levels of stress, poor physical health, and feelings of isolation, with the long hours of homework after long days at school being the primary cause. According to Lee, these results are not surprising when you consider what children are giving up in order to manage their daily workloads; time with family, time with friends, time for themselves. For Lee, a child's time after school should be unstructured. She contends daily homework leads to an overemphasis on academics that fails to address all of the developmental needs of children.\nArnold Blake, president of Cederbrook Elementary's parent council, disagrees. For Blake, homework time is quality time with his child. In fact, sitting with his daughter while she does her homework is one of their favourite times of day. He appreciates knowing what his daughter is learning at school, what interests her, and what she finds challenging. Additionally, Blake believes this one-on-one attention, in the comfort of her own home, is crucial to his daughter's learning. While, initially, his daughter struggled at school, her academic performance has gotten much better since Blake became more involved. He believes that her daily assignments have played a large role in this change. While Blake acknowledges a balance must be maintained, he does not feel his daughter's development has been adversely impacted. In contrast, he has seen an increase in her confidence, a fact which has benefited all aspects of her life. In consideration of both perspectives, perhaps something we need to consider is the frame of mind of parents and children. If both the parent and child feel positive about the task, I believe homework can be a great way to improve grades and involve parents in their child's learning. However, if either party feels negative, a fifteen-minute assignment can easily turn into a two-hour disciplinary nightmare. This would clearly be counterproductive. I'll now open the floor for discussion.",
+      "questions": [
+       {
+        "id": "L6-1",
+        "num": 1,
+        "options": [
+         {
+          "text": "dependent on the grade level."
+         },
+         {
+          "text": "determined by school performance."
+         },
+         {
+          "text": "meant for advanced classes."
+         },
+         {
+          "text": "reserved for struggling students."
+         }
+        ],
+        "answer": 0,
+        "prompt": "The homework that Cederbrook Elementary assigns is"
+       },
+       {
+        "id": "L6-2",
+        "num": 2,
+        "options": [
+         {
+          "text": "a harmful outcome."
+         },
+         {
+          "text": "an adaptable solution."
+         },
+         {
+          "text": "an optimistic theory."
+         },
+         {
+          "text": "a conflict of findings."
+         }
+        ],
+        "answer": 0,
+        "prompt": "The research cited by Jamie Lee discusses"
+       },
+       {
+        "id": "L6-3",
+        "num": 3,
+        "options": [
+         {
+          "text": "have more freedom."
+         },
+         {
+          "text": "be better disciplined."
+         },
+         {
+          "text": "receive personal tutoring."
+         },
+         {
+          "text": "set a homework schedule."
+         }
+        ],
+        "answer": 0,
+        "prompt": "Jaime Lee feels it's more beneficial for children to"
+       },
+       {
+        "id": "L6-4",
+        "num": 4,
+        "options": [
+         {
+          "text": "prefers to learn at school."
+         },
+         {
+          "text": "improved her grades."
+         },
+         {
+          "text": "struggles with assignments."
+         },
+         {
+          "text": "increased her class participation."
+         }
+        ],
+        "answer": 1,
+        "prompt": "Arnold Blake's daughter"
+       },
+       {
+        "id": "L6-5",
+        "num": 5,
+        "options": [
+         {
+          "text": "good research."
+         },
+         {
+          "text": "physical health."
+         },
+         {
+          "text": "family connection."
+         },
+         {
+          "text": "academic success."
+         }
+        ],
+        "answer": 2,
+        "prompt": "Blake and Lee both emphasize the importance of"
+       },
+       {
+        "id": "L6-6",
+        "num": 6,
+        "options": [
+         {
+          "text": "homework needs reform."
+         },
+         {
+          "text": "discipline can be taught."
+         },
+         {
+          "text": "schools are too forgiving."
+         },
+         {
+          "text": "attitude is most important."
+         }
+        ],
+        "answer": 3,
+        "prompt": "The speaker likely believes that"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Dear Principal Chaudry,",
+       "I am writing because I need to withdraw my son, Adam, from the Berry Hill Preschool program. I am requesting a refund of the tuition we prepaid for the period of January to June of next year.We have been very happy with Berry Hill, and Adam has been enjoying his time there. However, we find that living in Vancouver is financially difficult for our family. I have been unable to get permanent work as a teacher for almost 2 years, and I have been looking for employment in other cities which can offer a more stable situation for us. Last week, I accepted a position teaching grade 10 at a high school in Calgary, and we will move in December.",
+       "My wife and I knew that when we enrolled Adam in the school we would be responsible for paying a full year of tuition, but I respectfully ask that you make an exception in our case due to our circumstances. We will be moving away, and there is simply no way we can afford to pay for our move plus make payments for a school Adam is not even attending.",
+       "I understand that we still need to forfeit the $400 deposit we made when we initially signed the contract, and that is all right with us. However, I must ask you to consider allowing us to cancel the contract due to our move to Calgary.",
+       "Unfortunately, even if Berry Hill is unable to release us from the contract, I will still ask the bank to cancel the post-dated cheques we gave you in September, simply because it does not make sense for us to pay.",
+       "Dear Principal Chaudry,",
+       "I hope you understand the difficult situation we are in. Again, I want to tell you that we have had a very positive experience with your school. Because he's so shy, it took Adam a while to get comfortable with everyone at the school, but now he is enjoying the friendly, stimulating environment.",
+       "Thank you for your time and understanding.",
+       "Sincerely,",
+       "Bart Wang"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "What is the purpose of this letter?",
+        "options": [
+         "to request a reduced tuition fee",
+         "to give thanks for a good experience",
+         "to ask for special consideration",
+         "to excuse an upcoming absence"
+        ],
+        "answer": 2,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Why is Mr. Wang interested in Calgary?",
+        "options": [
+         "He found a job in the city.",
+         "He has family who live there.",
+         "The cost of living is cheaper.",
+         "The wages for teachers are better."
+        ],
+        "answer": 0,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Why does Mr. Wang make his request?",
+        "options": [
+         "He needs his deposit money back.",
+         "His son is leaving the school.",
+         "His wife wants a better school.",
+         "His wife lost her job at the school."
+        ],
+        "answer": 1,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "How will Adam likely feel about the change?",
+        "options": [
+         "happy to begin a new grade",
+         "indifferent to the change",
+         "sad to leave his friends",
+         "relieved to get new teachers"
+        ],
+        "answer": 2,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What does Mr. Wang say to stress the importance of his message?",
+        "options": [
+         "He demands a meeting with the principal.",
+         "He says his wife recently lost her job.",
+         "He explains he is now working in Calgary.",
+         "He warns that he will cancel his cheques."
+        ],
+        "answer": 3,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "How is this letter best described?",
+        "options": [
+         "threatening",
+         "polite",
+         "difficult",
+         "sympathetic"
+        ],
+        "answer": 1,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the best choice for each blank from the drop-down menu.",
+      "paragraphs": [
+       "Dear Mr. Wang, I am {{7}} about your situation here in Vancouver. It has been a pleasure getting to know Adam. It's good news, though, that your {{8}} will finally be over. If possible, please send us some information for our records. We will need some form of documentation in order to process your request. Our contract allows you to withdraw your child early if you can provide some proof that {{9}}. Please don't concern yourself about {{10}}.We will return them to you. I trust my reply will {{11}}.Best of luck to you and your family! Sincerely, Seymour Chaudry"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "sorry to learn",
+         "delighted to read",
+         "distraught to hear",
+         "amazed to find out"
+        ],
+        "answer": 0,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "education program",
+         "banking commitments",
+         "teaching contract",
+         "money troubles"
+        ],
+        "answer": 3,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "you are moving away from the area",
+         "you have been laid off from work",
+         "your son has specialized learning needs",
+         "your term's invoices have all been paid"
+        ],
+        "answer": 0,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "your deposit funds",
+         "cancelling your cheques",
+         "Adam's report cards",
+         "Adam's letters of reference"
+        ],
+        "answer": 1,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "be read with relief",
+         "arrive before its too late",
+         "encourage you to continue",
+         "save you some time"
+        ],
+        "answer": 0,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_1.jpeg"
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu.",
+      "paragraphs": [
+       "Subject: Revised Performance Review",
+       "Date: 04/13/16",
+       "To: Andrey Kovalenko <akovalenko@rotmp.ca>",
+       "From: Steve Nguyen <snguyen@rotmp.ca>",
+       "Hi Andrey,",
+       "Thank you for a productive meeting this morning. Following our discussion, I have made some revisions to your annual performance review document. You will find the final version attached with the revisions indicated in blue.",
+       "I took into account what you mentioned about {{1}} and changed your rating in this area accordingly. Please note that two of your ratings {{2}}, but the {{3}} should clearly be a high priority for you in the year ahead. We simply cannot afford to ignore that any longer. To summarize, your {{4}}. On behalf of the technical department, I would like to take this opportunity to thank you for another successful year. The last step in the process is for you to {{5}}.",
+       "Regards,",
+       "Steve"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "showing initiative with ISS1000",
+         "participating in safety training",
+         "keeping accurate records",
+         "demonstrating leadership"
+        ],
+        "answer": 3,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "are within the top category",
+         "seem missing from the document",
+         "fall below our expectations",
+         "changed after our meeting"
+        ],
+        "answer": 0,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "troubleshooting process",
+         "sanitation of your desk",
+         "new ISS1000 product",
+         "legibility of your logs"
+        ],
+        "answer": 1,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "punctuality is 100% this year",
+         "work is mostly on target",
+         "tasks will continue to expand",
+         "first follow-up will be in 2 weeks"
+        ],
+        "answer": 1,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "add your comments to the bottom of the document",
+         "send this document directly to Human Resources",
+         "sign the document and send it back to me",
+         "meet with your supervisor to discuss the document"
+        ],
+        "answer": 2,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given in the diagram and email.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Steve is sending this email after?",
+        "options": [
+         "meeting yesterday with Andrey and the technical department.",
+         "revising Andrey's appraisal as requested by the other boss.",
+         "mentioning Andrey's training refresher earlier in 2016.",
+         "deciding that Andrey excels in more than just one area."
+        ],
+        "answer": 3,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Steve's email shows that he is mostly?",
+        "options": [
+         "pleased with Andrey's work.",
+         "concerned about safety at work.",
+         "discouraged by Andrey's bad habits.",
+         "interested in giving high ratings."
+        ],
+        "answer": 0,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Steve now expects Andrey will?",
+        "options": [
+         "suggest changes to the document.",
+         "provide feedback on the document format.",
+         "forward the document to someone else.",
+         "accept the document as being final."
+        ],
+        "answer": 3,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. Caribana is an annual summer arts and culture carnival held in Toronto, Ontario. It's modelled after many such carnivals occurring throughout the Caribbean islands and is now the largest festival of its kind in North America. Every year Caribana draws more than two million people, many of whom come to Canada just for the impressively elaborate event. Thanks to Caribana, about $400 million a year flows into Ontario, about half of which goes to the government in tax revenues.",
+       "B. Caribana-the name is intended to suggest both the Caribbean and Canada-started in 1967 as the Caribbean community's contribution to Canada's centennial celebrations. It celebrates not only Canada's centennial, but also Caribbean culture and the African emancipation, when the enslavement of African people in Canada was declared illegal on August 1, 1834. However, since the 1980s, Caribana has included elaborate and impressive contributions from cultural groups in Central America, South America, and Africa, as well.",
+       "C. The festival celebrates music with indigenous songs and instrumental music including calypso, soca, reggae, and salsa. The performers' contributions include not only music but also dance, masquerade, and oral traditions that feature storytellers and comedians performing in \"talk tents.\" Arguably the most significant events in the two-week festival are the steel band street parties. The steel drum, originating from Trinidad and Tobago, is the only non-electric musical instrument invented in the twentieth century. In fact, one notable moment from the first Caribana was a flawless three-piece performance by a steel band during a blackout caused by a rainstorm. In addition to all the entertainment, visitors may indulge in a variety of Caribbean food ranging from the expensive to the economical.",
+       "D. The highlight of the festival, however, is the grand parade. Although its route has changed over the years, it continues to be an electrifying spectacle of colour, costumes, music, and dance that covers several miles, dazzling the dense crowds that line both sides of the streets. However, since this parade is carnival style, anyone can join in and contribute in their own way. Parade participants are organized into masquerade groups called \"bands\" (now over a hundred), each of which has a particular theme-historical, political, fantastical-and is led by a \"king\" or \"queen.\" The parade is also a competition, and the bands are judged on elements including energy, creativity, and costumes that are typically quite lavish.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "The carnival's title conveys its cross-cultural origins.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Caribana makes a significant contribution to its community.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "In the opening year of the festival, performers overcame a difficult situation.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Each year, Caribana highlights the contributions of a different cultural group.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The carnival hosts a variety of performance genres.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The costumes seen at Caribana are impressively elaborate.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "The festival's crowning moment encourages collaboration with spectators.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Electronic instruments have a unique place in history.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "Some Caribana performances are spoken narratives.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Ever heard of Firmicutes, Bacteroidetes, or Verrucomicrobia? While these names might sound like an alien species from a thriller movie, they are, in fact, microscopic residents within our very own bodies. Indeed, they're just a few of the many microorganisms which make up the human microbiome, a term which refers to all of the microorganisms within the human body. It turns out that a healthy human body is teeming with a wide variety of microorganisms, including bacteria, fungi, and even viruses, with many human ailments linked to a reduction in this diversity.",
+       "According to researcher Ellie Kim, her investigations have found correlations between human microbiomes and a diverse array of diseases. \"The role that these tiny creatures appear to have on health is profound and will open doors to new kinds of medical treatments,\" Kim enthuses. She envisions that correcting microbiome imbalances may soon replace the practice of wiping out entire colonies of microorganisms with antibiotics. Indeed, with antibiotic-resistant bacteria on the rise, our current methods of treating bacterial illnesses are becoming worryingly obsolete.",
+       "Dietician Carlos Gomez is unconvinced. He contends that it isn't clear whether the microbiome changes associated with various diseases are the cause of, or simply the secondary effect, of disease. \"Studies have found both a decrease in gut diversity and a rise in gastrointestinal illnesses when travellers eat new dishes,\" says Gomez. He acknowledges that gut microorganisms typically undergo changes when digesting unfamiliar foods. Gomez emphasizes, \"It's uncertain whether supplementing yourself with a better balance of microorganisms, without an accompanying avoidance of these foods, would impact overall gut health.\"",
+       "Magali Beauchamp, however, is willing to take her chances. Although stomach troubles aren't a concern for her, Beauchamp struggled with eczema-a skin condition-for years. She tried an array of the usual topical treatments, but to no avail. Under her doctor's supervision, she resorted to probiotics, which are live microorganisms which can be consumed to balance the body's microbiome. Within months, she found relief. A now healthy Beauchamp markets probiotic foods to stores across Canada, believing everyone can benefit from a few extra critters."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given in the article.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "The article mainly discusses the",
+        "options": [
+         "impact of diseases on the body.",
+         "considerations against antibiotic use.",
+         "importance of bacterial balance.",
+         "types of microorganisms in the body."
+        ],
+        "answer": 2,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Ellie Kim is excited about",
+        "options": [
+         "new microorganisms.",
+         "bacterial evolution.",
+         "updated antibiotics.",
+         "potential discoveries."
+        ],
+        "answer": 3,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The author implies that antibiotics might one day be",
+        "options": [
+         "depleted.",
+         "harmful.",
+         "useless.",
+         "imprecise."
+        ],
+        "answer": 2,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "According to Carlos Gomez, what is true about gut health?",
+        "options": [
+         "Dietary changes prevent the evolution of gut bacteria.",
+         "Diseases are caused by having unstable gut bacteria.",
+         "Probiotics allow gut bacteria to adapt to new foods.",
+         "Adjustments in what we eat can affect gut bacteria."
+        ],
+        "answer": 3,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The way Magali Beauchamp dealt with eczema was",
+        "options": [
+         "ineffective.",
+         "risky.",
+         "unconventional.",
+         "unapproved."
+        ],
+        "answer": 2,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "Thank you for an informative article. Like the author suggests, I might have assumed Firmicutes or Verrucomicrobia are something {{6}} I was particularly intrigued by Ellie Kim's {{7}} and I hope it will inspire people to think more about this topic. Indeed, I agree with her about how bacteria that are immune to drugs are {{8}}. Additionally, Carlos Gomez made some interesting comments about the relationship between microbiomes and diseases being {{9}}. You learn something new every day! However, I find it troubling when people, such as Magali Beauchamp, assume their {{10}} applies to everyone. Every person is unique, and only further research can yield a reliable answer.",
+       "Yuri Petrov"
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "fictional",
+         "edible",
+         "dangerous",
+         "extinct"
+        ],
+        "answer": 0,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "traditional remedies",
+         "medical findings",
+         "research methods",
+         "microbiome substitutes"
+        ],
+        "answer": 1,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "a natural phenomenon",
+         "an unexpected problem",
+         "an inevitable outcome",
+         "an increasing concern"
+        ],
+        "answer": 3,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "unknown",
+         "Predictable",
+         "Absent",
+         "Direct"
+        ],
+        "answer": 0,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "exercise program",
+         "medicinal research",
+         "dietary solution",
+         "health problem"
+        ],
+        "answer": 2,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "surveyTitle": "Construction Safety Concern",
+    "scenario": [
+     "You live across from an elementary school where a construction team is working outside. You notice that the construction site does not have a safety fence around it and that it is too noisy during class. You are worried about children getting hurt after school or having difficulty learning in class."
+    ],
+    "instruction": "Write an email to the construction company in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Describe what you have seen",
+     "Explain why you are worried",
+     "Suggest how they could work more safely"
+    ],
+    "options": [],
+    "samples": [
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "I hope this email finds you well. I am writing to express my concerns regarding the construction site located across from the elementary school. As a resident in the neighborhood, I have observed several safety issues that need immediate attention.",
+       "Firstly, I noticed that the construction site lacks a proper safety fence. This poses a significant risk to the children who play in the area after school. Without a barrier, they could easily wander into the site and get injured by heavy machinery or construction materials. Additionally, the noise levels during school hours are excessively high, which could disrupt the students' ability to concentrate and learn effectively.",
+       "To address these issues, I suggest installing a sturdy safety fence around the perimeter of the construction site to prevent unauthorized access. Furthermore, implementing noise reduction measures, such as using quieter equipment or scheduling noisier activities outside of school hours, would greatly benefit the students and teachers.",
+       "Thank you for your attention to this matter. I trust that you will take the necessary steps to ensure the safety and well-being of our community.",
+       "Regards,",
+       "[Name]"
+      ]
+     },
+     {
+      "level": "9",
+      "paragraphs": [
+       "I am writing to express my concerns regarding the ongoing construction project near the elementary school. As a resident living directly across from the school, I have observed several safety issues that require immediate attention.",
+       "Firstly, I have noticed the absence of a safety fence around the construction site. This poses a significant risk to the children, especially during after-school hours when they might wander into the area. Additionally, the noise levels during class hours are excessively high, making it difficult for students to concentrate on their studies. The constant drilling and machinery sounds are disruptive to the learning environment.",
+       "I strongly suggest implementing several safety measures to address these concerns. Erecting a sturdy safety fence around the perimeter would prevent unauthorized access and protect the children from potential hazards. Furthermore, scheduling noisy construction activities outside of school hours would minimize disruptions to the educational process. Implementing these changes would ensure a safer and more conducive environment for both the students and the construction workers.",
+       "Thank you for your attention to this matter. I look forward to seeing these improvements implemented promptly.",
+       "Sincerely,",
+       "[Name]"
+      ]
+     },
+     {
+      "level": "8",
+      "paragraphs": [
+       "I hope this email finds you well. I am writing to express my concerns regarding the construction site near the elementary school. As a resident living across from the school, I have observed that the site lacks a safety fence and generates excessive noise during class hours.",
+       "This situation raises significant safety and educational concerns. Without proper fencing, children could easily access the site after school, potentially leading to serious injuries. Additionally, the constant noise disrupts classroom learning, making it difficult for students to concentrate and teachers to conduct their lessons effectively.",
+       "To address these issues, I suggest implementing several safety measures. First, installing a sturdy fence around the perimeter would prevent unauthorized access. Second, scheduling noisy construction activities outside school hours would minimize disruptions. Finally, regular safety inspections and clear signage could further enhance site security.",
+       "I appreciate your attention to this matter and hope these suggestions will help create a safer and more conducive learning environment for our children.",
+       "Sincerely,",
+       "[Name]"
+      ]
+     },
+     {
+      "level": "7",
+      "paragraphs": [
+       "I hope this email finds you well. I am writing to express my concerns about the construction site near the elementary school. I have noticed that there is no safety fence around the site, and the noise levels are very high during school hours.",
+       "I am worried about the safety of the children. Without a fence, they could easily wander into the construction area after school and get hurt. Additionally, the loud noise is making it difficult for students to concentrate in class, which could affect their learning.",
+       "To address these issues, I suggest that the construction team install a safety fence around the site immediately. This will help keep the children safe. Also, they could try to reduce the noise during school hours by using quieter equipment or scheduling noisier work for after school. I believe these changes will make the site safer and less disruptive for the students.",
+       "Thank you for your attention to this matter. I look forward to seeing improvements soon.",
+       "Regards,",
+       "[Name]"
+      ]
+     }
+    ],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "surveyTitle": "New Airport Survey",
+    "scenario": [
+     "The city council is considering two empty sites as possible places to build a new airport. All residents are being asked to complete an opinion survey. One is in the downtown area and the other is 10 km away from the city centre."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I think the airport should be built in the downtown area.",
+     "Option B: I think the airport should be built far from the downtown area."
+    ],
+    "samples": [
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "I strongly believe that the new airport should be constructed 10 kilometers away from the downtown area. This location offers significant advantages for both the city's development and residents' quality of life.",
+       "Firstly, building the airport outside the city center would minimize noise pollution and traffic congestion in the downtown area. The constant noise from aircraft taking off and landing would significantly disrupt businesses, schools, and residential areas if the airport were located downtown. Additionally, the increased traffic from airport operations would exacerbate existing transportation challenges in the city center.",
+       "Secondly, the remote location provides ample space for future expansion and development. Unlike the limited space available downtown, the suburban site can accommodate larger runways, additional terminals, and supporting infrastructure without space constraints. This forward-thinking approach ensures the airport can meet growing demand and adapt to future technological advancements in aviation.",
+       "In conclusion, while the downtown location might offer some convenience, the long-term benefits of the suburban site far outweigh this advantage. The remote location better serves the city's sustainable development goals and protects residents' quality of life."
+      ]
+     },
+     {
+      "level": "9",
+      "paragraphs": [
+       "I firmly believe that the new airport should be constructed in the downtown area rather than 10 kilometers away from the city center. This decision is based on two compelling reasons: accessibility and economic benefits.",
+       "Firstly, a downtown airport would provide unparalleled convenience for both residents and visitors. The central location would significantly reduce travel time for the majority of users, particularly business travelers who often have tight schedules. This accessibility would also benefit tourists, making our city more attractive as a destination. Furthermore, the integration with existing public transportation systems would be more efficient, reducing traffic congestion and environmental impact.",
+       "Secondly, the economic advantages of a downtown airport are substantial. The construction and operation of the airport would create numerous job opportunities in the heart of the city. Additionally, the increased foot traffic would stimulate local businesses, from hotels to restaurants, contributing to the overall economic growth of the downtown area. This development could potentially transform our city center into a vibrant hub of activity.",
+       "In conclusion, while both locations have their merits, the downtown area offers superior accessibility and economic potential. I strongly recommend that the city council consider these factors when making their final decision."
+      ]
+     },
+     {
+      "level": "8",
+      "paragraphs": [
+       "I strongly believe that the new airport should be constructed 10 km away from the downtown area. This decision is based on two crucial factors: environmental impact and urban development.",
+       "Firstly, building an airport in the downtown area would significantly increase noise and air pollution, negatively affecting the quality of life for residents. The constant noise from aircraft would disrupt daily activities, while increased air traffic would worsen air quality. In contrast, a location outside the city center would minimize these impacts, preserving the downtown's livability.",
+       "Secondly, constructing the airport away from the city center would promote balanced urban growth. It would encourage the development of new residential and commercial areas around the airport, creating job opportunities and stimulating economic growth in less developed regions. This approach would prevent overconcentration of infrastructure in the downtown area, which is already facing space constraints.",
+       "In conclusion, while both locations have their merits, the site 10 km from downtown offers a more sustainable solution that benefits both the environment and the city's long-term development."
+      ]
+     },
+     {
+      "level": "7",
+      "paragraphs": [
+       "I strongly believe that the new airport should be built 10 km away from the downtown area. This location offers several significant advantages that would benefit both the city and its residents.",
+       "Firstly, constructing the airport outside the city center would minimize noise pollution and traffic congestion in the downtown area. Airports naturally generate substantial noise from aircraft takeoffs and landings, which could disrupt businesses, schools, and residential areas if located in the city center. Additionally, the increased traffic from airport operations would likely overwhelm downtown streets, causing delays and frustration for commuters.",
+       "Secondly, the remote location provides ample space for future expansion. As air travel continues to grow, the airport will need to accommodate more passengers and flights. A site 10 km from downtown offers the necessary land area for runway extensions, additional terminals, and parking facilities without the constraints of urban development.",
+       "In conclusion, while building the airport downtown might seem convenient initially, the long-term benefits of a remote location far outweigh the temporary advantages. The 10 km site would create a more sustainable and efficient transportation hub for our city's future."
+      ]
+     }
+    ],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your friend started a new job and is a very shy person. She would like to get to know her co-workers. Advise her about different ways to make friends at work."
+    ],
+    "images": [],
+    "samples": [
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Hey there, I totally get that starting a new job can be nerve-wracking, especially if you're shy. But don't worry, I've got some tips that might help you break the ice with your co-workers.",
+       "First off, try joining in on group activities or social events at work. Whether it's a lunch outing or a team-building exercise, these are great opportunities to chat in a more relaxed setting. For example, you could suggest grabbing coffee together during a break - it's a simple way to start a conversation.",
+       "Another thing you could do is ask for help or advice on work-related tasks. People generally enjoy sharing their expertise, and it's a natural way to build rapport. You might say something like, 'Hey, I'm new to this project - do you have any tips on how to approach it?'",
+       "One final thing is to show genuine interest in your co-workers' lives. Ask about their weekend plans or hobbies. People love talking about themselves, and it can lead to discovering common interests. For instance, if someone mentions they enjoy hiking, you could share your own experiences or ask for trail recommendations.",
+       "Remember, making friends takes time, so be patient with yourself. Most people are more approachable than they seem, and your co-workers will likely appreciate your efforts to connect. Good luck, and I'm sure you'll do great!"
+      ]
+     },
+     {
+      "level": "9",
+      "paragraphs": [
+       "Hey there, I totally get that starting a new job can be nerve-wracking, especially if you're shy. But don't worry, I've got some tips that might help you break the ice with your co-workers.",
+       "First off, try joining in on lunchtime conversations or coffee breaks. It's a relaxed setting where you can chat about non-work stuff. For example, you could ask about their favorite local restaurants or weekend plans. It's an easy way to find common interests.",
+       "Another thing you could do is volunteer for team projects or committees. This gives you a natural reason to interact with different people. I remember when I joined the office social committee, it really helped me get to know my colleagues better.",
+       "One final suggestion is to use small talk as a starting point. Compliment someone on their work or ask for their opinion on something. People generally like to feel valued, and it can lead to more meaningful conversations.",
+       "Remember, making friends takes time, so don't be too hard on yourself. Just be genuine and patient, and you'll gradually build those connections."
+      ]
+     },
+     {
+      "level": "8",
+      "paragraphs": [
+       "Hey there! I totally get that starting a new job can be nerve-wracking, especially if you're shy. But don't worry, I've got some tips that might help you connect with your co-workers.",
+       "First off, try joining in on lunch breaks or coffee runs. It's a casual way to chat and get to know people without the pressure of work talk. For example, you could ask someone if they want to grab a coffee with you - it's a simple gesture that can lead to great conversations.",
+       "Another thing you could do is participate in team activities or social events. Whether it's a team-building exercise or a casual after-work gathering, these are perfect opportunities to bond with your colleagues in a relaxed setting. You might find common interests that make it easier to strike up conversations later.",
+       "One final thing is to offer help when you can. If you see a co-worker struggling with something, offer your assistance. It shows you're a team player and can open the door to more interactions. Plus, people appreciate the support, and it can help build trust and rapport.",
+       "Remember, it's okay to take small steps. Building relationships takes time, but with these strategies, you'll be making friends in no time. Good luck!"
+      ]
+     },
+     {
+      "level": "7",
+      "paragraphs": [
+       "Hey, I know starting a new job can be tough, especially if you're shy. But don't worry, I've got some tips to help you make friends at work.",
+       "First, try to join in on lunch breaks or coffee runs. It's a great way to chat with your co-workers in a relaxed setting. For example, you could ask someone if they want to grab a coffee with you. It's simple and can lead to a good conversation.",
+       "Another thing you could do is offer to help with small tasks. If you see someone struggling with something, offer your assistance. This shows you're a team player and can help break the ice.",
+       "One final thing is to attend work events or social gatherings. Even if it feels a bit uncomfortable at first, it's a good way to meet people outside of the usual work environment. You might find you have more in common than you think.",
+       "Remember, it's okay to take small steps. Just be yourself and take your time. You'll find your place in no time!"
+      ]
+     },
+     {
+      "level": "6",
+      "paragraphs": [
+       "Hey, I know starting a new job can be tough, especially if you're shy. But don't worry, I've got some tips for you. First, try to join in on lunch breaks or coffee runs. It's a great way to chat in a relaxed setting. For example, you could ask someone if they want to grab a coffee with you. It's simple and helps you get to know them better.",
+       "Another thing you could do is ask for help or advice on something work-related. People usually like to share their knowledge, and it can start a conversation. Like, if you're not sure about a project, ask a co-worker for their opinion. It shows you value their input.",
+       "One final thing is to join any work events or activities. Even if it's just a small gathering, it's a good chance to meet people outside of work tasks. For instance, if there's a team-building event, go for it. It's a fun way to connect with others.",
+       "Remember, it's okay to take small steps. Just be yourself, and over time, you'll feel more comfortable. Good luck!"
+      ]
+     },
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "Hey, I know it can be tough to make friends at work, especially if you're shy. But don't worry, I've got some ideas that might help.",
+       "First, try to join in on lunch breaks or coffee chats. It's a relaxed way to get to know people. For example, you could ask someone if they want to grab a coffee with you. It's simple and doesn't feel too formal.",
+       "Another thing you could do is offer to help with small tasks. If you see someone struggling with something, offer your assistance. It shows you're friendly and willing to be part of the team.",
+       "One final thing is to join any work events or social activities. Even if it's just a small gathering, it's a great way to meet people in a more casual setting. You might find you have more in common than you think.",
+       "Just take it one step at a time, and don't be too hard on yourself. Making friends takes time, but you'll get there!"
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you spoke in front of a group of people. Maybe you can talk about a presentation you gave in class, a report you delivered at work, or a speech you made at a wedding. Where did it happen, what did you say, and how did it make you feel?"
+    ],
+    "images": [],
+    "samples": [
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "I remember this one time when I had to give a presentation at work, and it was quite the experience. It was during our annual team meeting, and I was tasked with presenting our department's quarterly results. The meeting took place in our company's main conference room, which was packed with about 50 people, including senior management.",
+       "I had prepared a detailed PowerPoint presentation, focusing on our key achievements, challenges, and future goals. I started by introducing our team's objectives, then moved on to the numbers, highlighting our successes and explaining the areas where we fell short. I also included some graphs and charts to make the data more digestible.",
+       "Honestly, I was pretty nervous at first. My heart was racing, and I could feel my palms getting sweaty. But as I got into the flow of the presentation, I started to relax. I made sure to maintain eye contact with the audience and speak clearly. I even managed to throw in a couple of jokes to lighten the mood, which got a few laughs.",
+       "By the end of it, I felt a huge sense of relief and accomplishment. The feedback I received was overwhelmingly positive, and it really boosted my confidence. It was a great reminder that stepping out of your comfort zone can lead to some pretty rewarding experiences."
+      ]
+     },
+     {
+      "level": "9",
+      "paragraphs": [
+       "I remember this one time when I had to give a presentation in my university class. It was for my marketing course, and we were supposed to present a new product idea to the class. I was pretty nervous at first, you know, because public speaking isn't really my thing. But I had prepared well, so I tried to focus on that.",
+       "The presentation was in our regular classroom, but the professor had arranged the seats in a semi-circle to make it more interactive. I started by introducing our product - it was a smart water bottle that tracks your hydration levels. I explained the features, the target market, and our marketing strategy. As I got into the flow, I started feeling more comfortable. I even managed to crack a couple of jokes, which got some laughs from the class.",
+       "By the end of it, I was actually enjoying myself! The professor gave me positive feedback, and some classmates complimented my presentation skills. It was a great confidence booster. That experience taught me that with proper preparation, I can overcome my fear of public speaking. It's something I'll definitely remember whenever I have to speak in front of a group again."
+      ]
+     },
+     {
+      "level": "8",
+      "paragraphs": [
+       "I remember when I had to give a presentation in my university class last year. It was about climate change and its impact on Canadian agriculture. I was really nervous at first, but I prepared well by researching and practicing my speech. When I stood in front of the class, I started by explaining how rising temperatures are affecting crop yields in the Prairies. Then, I discussed potential solutions like drought-resistant crops and sustainable farming practices. As I spoke, I noticed my classmates were really engaged, which made me feel more confident. By the end, I was actually enjoying myself! The professor gave me positive feedback, and some students even asked follow-up questions. It was a great experience that taught me the value of thorough preparation and helped me overcome my fear of public speaking."
+      ]
+     },
+     {
+      "level": "7",
+      "paragraphs": [
+       "I remember when I had to give a presentation in my college class. It was about climate change, and I was really nervous. The room was full of students, maybe about 30 people. I started by explaining what climate change is and how it affects our planet. Then, I talked about some solutions we can all do to help, like recycling and using less plastic. My voice was shaking at first, but as I kept talking, I felt more confident. When I finished, everyone clapped, and my teacher said I did a good job. It made me feel proud and happy that I could share important information with others."
+      ]
+     },
+     {
+      "level": "6",
+      "paragraphs": [
+       "I remember when I had to give a presentation in my high school class. It was about Canadian history, and I was really nervous. The classroom was full, with about 30 students watching me. I talked about the War of 1812 and how it shaped Canada's identity. My voice was shaking at first, but as I continued, I started to feel more confident. I used some pictures and maps to make it more interesting. When I finished, my classmates clapped, and my teacher said I did a good job. It made me feel proud and more comfortable speaking in front of people. That experience helped me a lot in university when I had to do more presentations."
+      ]
+     },
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "I remember when I had to give a presentation in my high school class. It was about Canadian history. I was very nervous at first. My hands were shaking and my voice was not steady. But I took a deep breath and started talking. I spoke about the First Nations people and how they lived before Europeans came. I also talked about the fur trade and how it changed Canada. As I continued, I felt more comfortable. My classmates were listening carefully and some were even taking notes. When I finished, my teacher said I did a good job. I felt proud of myself. It was a good experience for me. It helped me become more confident in speaking in front of others."
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_1.png"
+    ],
+    "samples": [
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "The picture shows a very busy construction site in the middle of a city. In the center, there's a huge crane that's taller than all the buildings around it. On the left side, I can see a yellow backhoe digging into the ground. There's a big truck parked on the right, probably full of materials for the workers.",
+       "There are about 13 workers spread out across the site. Some are standing near the crane, maybe giving directions or watching it work. Others are walking around with tools or looking at plans. Everyone seems to be working hard and paying attention to their jobs.",
+       "In the background, there's a city skyline with tall buildings. The whole scene looks very active and organized, like a well-oiled machine. The workers are wearing hard hats and safety vests, which shows they're being careful while they work."
+      ]
+     },
+     {
+      "level": "9",
+      "paragraphs": [
+       "The picture shows a busy construction site with several workers and heavy machinery. In the center of the image, there's a large crane that stands out as the main feature. Around the crane, you can see a group of construction workers wearing hard hats, which indicates they're actively involved in the construction process. On the left side of the image, there's a truck parked, while another truck is positioned in the middle of the scene. A third truck is visible on the right side. Near the center, there's also a backhoe, which is commonly used for digging and moving materials. Some of the workers are holding tools like hammers and spades, which are essential for their tasks. Overall, the image captures the essence of a bustling construction site with workers diligently focusing on their work around the crane and other equipment."
+      ]
+     },
+     {
+      "level": "8",
+      "paragraphs": [
+       "The picture shows a busy construction site with several workers and vehicles. In the center, there's a large crane, which is a key piece of equipment for the project. Around the crane, you can see a group of construction workers wearing hard hats for safety. Some of them are holding tools and seem to be discussing their tasks.",
+       "On the left side of the image, there's a truck parked near some construction materials. In the middle, another truck is positioned closer to the workers, likely ready to transport equipment. On the right side, a third truck is visible, possibly waiting to be loaded or unloaded. Additionally, there are a few cars scattered around the site, probably used by the workers or supervisors for transportation.",
+       "The scene captures the essence of a collaborative work environment, with everyone focused on their roles to complete the project efficiently. The workers appear to be coordinating their efforts, and the presence of multiple vehicles suggests that materials and equipment are being moved around the site as needed."
+      ]
+     },
+     {
+      "level": "7",
+      "paragraphs": [
+       "In the picture, there is a busy construction site with many workers. Some are standing, and others are sitting on benches. The workers are wearing hard hats for safety. They are doing different jobs like using heavy machines and working on the ground.",
+       "There are several vehicles on the site. A truck is parked in the middle, a car is on the left, and a bus is on the right. There is also a backhoe in the center and a crane on the right side. Tools and equipment are scattered around the area.",
+       "The scene shows a lot of activity. The workers are focused on their tasks, and it looks like they are working together to get the job done. The construction site is well-organized, and everyone seems to be doing their part to make the project successful."
+      ]
+     },
+     {
+      "level": "6",
+      "paragraphs": [
+       "Okay, so in this picture, I see a construction site with many workers. There are about 13 people, and they are all wearing hard hats for safety. Some workers are standing closer to the front, and others are further back.",
+       "In the middle of the picture, there is a big crane, which is very noticeable. On the left side, there is a truck, and another truck is in the center. A third truck is on the right side. There are also two backpacks, one near the center and the other towards the right. I can see a book in the middle, maybe it belongs to one of the workers.",
+       "Overall, the picture shows a busy construction site with workers and equipment. It looks like they are working hard and being careful with their safety."
+      ]
+     },
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "The picture shows a busy construction site. There are many workers doing different jobs. I can see at least 13 people. Some are close together, others are spread out. All workers wear hard hats for safety.",
+       "In the center of the picture, there is a big crane. Around the site, there are several trucks and one car. The trucks are in different places - some near the crane, others further away. These vehicles are probably used to move materials.",
+       "On the ground, I can see a few backpacks and one handbag. These likely belong to the workers. The whole scene looks very active, with everyone working hard to finish the project."
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_1.png"
+    ],
+    "samples": [
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Looking at this construction site, I can predict a few things that might happen next. First, the crane operator will likely start lifting heavy materials, probably steel beams or concrete slabs, to be placed in the structure they're building. The workers near the crane will guide the load into position, ensuring it's placed accurately and safely.",
+       "Meanwhile, the backhoe operators will probably continue their excavation work, digging trenches or moving earth to prepare the site for the next phase of construction. The workers handling equipment might start unloading more materials from the trucks parked nearby, keeping the site well-stocked for the ongoing project.",
+       "Finally, I imagine the site supervisor will be checking on everyone's progress, making sure all safety protocols are followed, and coordinating the next steps in the construction process. The whole team will likely continue working together efficiently to keep the project on schedule."
+      ]
+     },
+     {
+      "level": "9",
+      "paragraphs": [
+       "Looking at this construction site, I can predict a few things that might happen next. First, the workers will likely start operating the large crane in the center of the site. It seems they're preparing to lift heavy materials, possibly steel beams or concrete slabs, to higher levels of the building they're constructing. The workers near the crane appear to be checking its mechanisms, so safety checks are probably underway.",
+       "Next, the trucks on both sides of the site will probably be put to use. The one on the left might start unloading construction materials, while the truck on the right could be preparing to transport debris or excess materials away from the site. The workers scattered around the area will likely continue their specific tasks, with some focusing on ground-level construction while others might move to higher levels as the structure progresses.",
+       "Finally, considering the tools visible in the scene, particularly the scissors and backpacks, I think the workers will soon take a short break. They might use the scissors to open packages of materials or cut safety ropes, and the backpacks probably contain their personal items for when they take a well-deserved rest. The atmosphere of teamwork suggests they'll coordinate these activities efficiently, maintaining the site's productivity."
+      ]
+     },
+     {
+      "level": "8",
+      "paragraphs": [
+       "Looking at this busy construction site, I can predict a few things that might happen next. First, the workers will likely continue their tasks with great focus and teamwork. They seem very dedicated to completing the project efficiently. The cranes might start moving heavy materials to different parts of the site, which is essential for the construction process.",
+       "Next, the truck parked in the middle could be loaded with construction debris or supplies. It's common for trucks to transport materials in and out of the site regularly. The car on the left might be used by a supervisor or manager to check on the progress and ensure everything is running smoothly.",
+       "Finally, the workers might take a short break soon. Construction work is physically demanding, and taking breaks helps maintain productivity and safety. They might gather near the backpacks to rest and hydrate before continuing their tasks. Overall, the site will remain active and organized as the team works towards their goal."
+      ]
+     },
+     {
+      "level": "7",
+      "paragraphs": [
+       "Looking at this construction site, I think the workers will probably finish setting up the crane soon. The workers on the left are checking the equipment, so they might start lifting heavy materials next. In the center, the backhoe is ready to dig, so it could begin excavation work. On the right, the truck is loaded with supplies, so the workers might unload them soon. Everyone seems focused on their tasks, so the project should move forward smoothly. The site looks well-organized, so I think they'll make good progress today."
+      ]
+     },
+     {
+      "level": "6",
+      "paragraphs": [
+       "In this picture, I think the workers will probably start using the crane soon. They are all gathered around it and look like they are getting ready. Some workers are holding tools, so maybe they will fix something on the crane first. The trucks are parked nearby, so they might use them to bring materials. The workers seem busy and focused, so I think they will work together to finish their tasks. Maybe they will lift something heavy with the crane or move materials around the site. The atmosphere looks like they are preparing for something important, so I think they will start working on the crane very soon."
+      ]
+     },
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "In the picture, I see many workers at a construction site. They are working on a big crane. There are trucks on the left and right side. The workers are doing different jobs. Some are near the crane, others are walking around. There are buildings in the background.",
+       "I think the workers will keep working on the crane. Maybe they will lift something heavy soon. The trucks might move to bring more materials. The workers will probably work together to finish their tasks. The construction site will be busy for a long time."
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "Your friend is going to a flower shop to buy a birthday gift for his sister and has asked you to help him choose something. You find two suitable bouquets that you think his sister would like. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade your friend that your choice is the better choice. If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1.png",
+     "media/speaking_t5_2.png"
+    ],
+    "prompt": [
+     "Your friend is suggesting another option. Persuade them that the option you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_3.png",
+    "choose": 60,
+    "samples": [
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Well, I can certainly understand your friend's dilemma, eh? It's not easy to balance a fantastic career opportunity with the comfort of staying close to loved ones. But let me tell you, as a true Canuck, I think there's a lot to consider here.",
+       "First off, let's talk about the career benefits. This job overseas could be a real game-changer for her resume. It's like scoring a hat trick in the career hockey game, if you know what I mean. She'd gain international experience, which is as valuable as a loonie these days in our globalized economy. Plus, she'd be expanding her professional network faster than you can say 'double-double'.",
+       "Now, onto personal growth. Living abroad is an adventure that'll make her grow faster than a Manitoba wheat field in summer. She'll learn about new cultures, maybe pick up a new language, and gain a perspective on life that you just can't get staying in the Great White North. It's the kind of experience that'll shape her worldview and make her appreciate our Canadian multiculturalism even more.",
+       "But I get it, leaving friends and family behind is tougher than a Canadian winter without a toque. However, with today's technology, staying connected is easier than ever. She can schedule regular video calls, share her adventures on social media, and maybe even convince some friends to visit. Before she knows it, she'll be back for a visit, bringing stories and souvenirs like maple syrup to a pancake breakfast.",
+       "So, here's my advice: encourage her to weigh the pros and cons, but remind her that opportunities like this don't come along every day. It might be scary, but sometimes you've got to leave the comfort of your igloo to see what the world has to offer. Whatever she decides, make sure she knows you'll support her, whether she's here or on the other side of the world."
+      ]
+     },
+     {
+      "level": "9",
+      "paragraphs": [
+       "Hey there! I know this decision feels as tough as a Canadian winter, but let me give you some advice to help you through it.",
+       "First off, if I were you, I'd seriously consider the career benefits. This overseas job could be a real game-changer for your resume. It's like scoring a hat trick in your professional life! You'd gain international experience, which is super valuable in today's global economy. Plus, you'd be expanding your network faster than you can say 'double-double'.",
+       "Another thing you could do is think about personal growth. Living abroad is an adventure that'll make you grow faster than a Manitoba wheat field in summer. You'll learn about new cultures, maybe pick up a new language, and gain a perspective on life that you just can't get staying in one place. It's the kind of experience that'll shape your worldview and make you appreciate diversity even more.",
+       "One final thing is to consider how you'll stay connected with friends and family. I get it, leaving loved ones behind is tougher than a Canadian winter without a toque. But with today's technology, staying connected is easier than ever. You can schedule regular video calls, share your adventures on social media, and maybe even convince some friends to visit. Before you know it, you'll be back for a visit, bringing stories and souvenirs like maple syrup to a pancake breakfast.",
+       "So, here's my advice: weigh the pros and cons, but remember that opportunities like this don't come along every day. It might be scary, but sometimes you've got to leave the comfort of your igloo to see what the world has to offer. Whatever you decide, know that your friends and family will support you, whether you're here or on the other side of the world."
+      ]
+     },
+     {
+      "level": "8",
+      "paragraphs": [
+       "Hey there, I know this is a big decision for you, but let me share some thoughts that might help. First off, if I were you, I'd consider the career growth this opportunity offers. Working overseas can really boost your resume and open doors to future possibilities. For example, my cousin took a job in Singapore and it completely transformed her career trajectory.",
+       "Another thing you could do is think about the personal development aspect. Living in a different country can be an incredible learning experience. You'll gain new perspectives and develop skills you never knew you had. I remember when I moved to a new city, it was challenging at first, but it made me so much more independent and confident.",
+       "One final thing is to consider how technology can help you stay connected with loved ones. With video calls and social media, you can maintain those important relationships even from afar. My friend who works in Europe has weekly family video chats, and it really helps her feel close to home.",
+       "Ultimately, this is your decision, but I believe this could be a fantastic opportunity for both your career and personal growth. Whatever you choose, I'm here to support you!"
+      ]
+     },
+     {
+      "level": "7",
+      "paragraphs": [
+       "Okay, so I think you should consider a few things before making your decision. First, think about the job itself. Is it something you really want to do? If it's a good opportunity, it might be worth it. Second, think about your family and friends. It's hard to be far away, but you can still stay in touch with them. Maybe you can visit them sometimes. Third, think about the new experience. Living in a new place can be exciting. You can learn new things and meet new people. So, it's up to you, but these are some things to think about."
+      ]
+     },
+     {
+      "level": "6",
+      "paragraphs": [
+       "Okay, so if I were you, I would think about a few things. First, think about the job. Is it good for your future? If yes, maybe you should take it. Second, think about your family. You can call them and visit sometimes. It's not forever. Third, think about new experiences. Living in a new place can be fun and you can learn new things. So, these are my ideas. I hope it helps you decide."
+      ]
+     },
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "Okay, so if you are thinking about moving overseas for a job, I have some advice. First, think about the money. Overseas jobs can pay more, which is good for your family. For example, you can save more and send money home. Second, think about the experience. Working in another country can teach you new things. Like, you might learn a new language or meet different people. This can help your career later. Third, think about your family. It's hard to be far from them, but you can visit or call often. Technology makes it easy to stay in touch. So, these are things to think about. If I were you, I would take the job. It's a good chance for your future."
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "Your best friend is visiting your city for 1 week and has asked to stay with you and your roommate. She doesn't want to stay at a hotel because it is very expensive. Your roommate does not want her to stay at your place because your friend is very messy."
+    ],
+    "choices": [
+     "Talk to your best friend. Explain why you cannot let her stay at your place.",
+     "Talk to your roommate. Explain why you should let your friend stay at your place."
+    ],
+    "samples": [
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Hey roommate, I know you're concerned about my friend staying with us, but let me explain why it could work out. First off, I've talked to her about the messiness issue, and she's promised to be extra careful. She's even offered to clean up after herself daily, which shows she's serious about respecting our space.",
+       "Secondly, having her here could actually be beneficial for us. She's offered to help with groceries and even cook a few meals during her stay. That could save us some time and money, which is always a plus. Plus, she's a great conversationalist, so it could be nice to have some fresh company for a week.",
+       "Lastly, I think it's important to consider the bigger picture. She's my best friend, and this is a chance to strengthen our friendship. I know it's a bit of an inconvenience, but it's only for a week. I'm confident we can make it work if we communicate openly and set some ground rules. What do you think about giving it a try?"
+      ]
+     },
+     {
+      "level": "9",
+      "paragraphs": [
+       "Hey roommate, I know you're concerned about my best friend staying with us, but let me explain why it could work out. First off, I've already talked to her about being more tidy during her visit. She's promised to keep her things organized and clean up after herself. I'll also make sure to remind her regularly.",
+       "Secondly, having her stay with us would actually save us some money. She's offered to chip in for groceries and utilities while she's here. That extra bit could help with our monthly expenses. Plus, she's a great cook and has offered to make us some meals during her stay.",
+       "Lastly, it's only for a week. I know it might be a bit inconvenient, but it's a short period of time. I'll take full responsibility for making sure she respects our space and keeps things clean. If it doesn't work out, I'll help her find another place to stay. I really appreciate you considering this - it means a lot to me."
+      ]
+     },
+     {
+      "level": "8",
+      "paragraphs": [
+       "Hey roommate, I know you're concerned about my friend staying with us, but hear me out. First off, she's only here for a week, so it's not a long-term thing. We can set some ground rules to keep things tidy. For example, we can ask her to clean up after herself daily and keep her stuff in one area. Secondly, she's my best friend, and it would mean a lot to me to have her stay here. It's a chance for us to catch up and spend quality time together. Lastly, she's on a tight budget, and staying with us would save her a lot of money. I promise I'll make sure she respects our space and keeps things clean. Let's give it a try, and if it doesn't work out, we can revisit the conversation. Thanks for understanding!"
+      ]
+     },
+     {
+      "level": "7",
+      "paragraphs": [
+       "Hey roommate, I know you're not too keen on having my best friend stay with us, but hear me out, eh? First off, she's only here for a week, so it's not a long-term thing. We can set some ground rules to keep things tidy, like having her clean up after herself every day. Second, she's a really great person to have around. She's super fun and always helps out, so it could actually make our place more lively. Lastly, it would mean a lot to me. She's my best friend, and I want her to have a good time here without worrying about hotel costs. Let's give it a try, and if it doesn't work out, we can always revisit the conversation. Thanks for considering it!"
+      ]
+     },
+     {
+      "level": "6",
+      "paragraphs": [
+       "Hey roommate, I know you're worried about my friend staying with us, but I think we should let her stay. First, she's my best friend, and it's only for one week. I'll make sure she cleans up after herself. Second, hotels are really expensive, and she's trying to save money. It would mean a lot to her if we could help out. Finally, I'll take responsibility for any mess she makes. I'll clean up and make sure it doesn't bother you. So, what do you think? Can we give her a chance?"
+      ]
+     },
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "Hey, I need to talk to you about my friend staying with us. I know you're worried about her being messy, but I think we should let her stay. First, she's my best friend, and it's important to me to help her out. She's visiting for just one week, and hotels are really expensive. Second, I'll make sure she keeps things clean. I'll remind her to pick up after herself and help her if needed. Finally, it's only for a short time, and I think we can manage. It would mean a lot to me if we could do this. Thanks for understanding."
+      ]
+     }
+    ]
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think that mature students, those returning to university after time in the workforce, should get the same special discounts on travel, entertainment, and products as younger students? Explain your reasons."
+    ],
+    "images": [],
+    "samples": [
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "I strongly believe that mature students should receive the same special discounts as younger students, and here's why.",
+       "First off, returning to university after years in the workforce is a significant financial commitment. Many mature students have family responsibilities and mortgages to pay, making their financial situation often more challenging than that of younger students. These discounts could make a real difference in their ability to pursue education without undue financial stress.",
+       "Secondly, mature students bring valuable life experience to the classroom, enriching the learning environment for everyone. By offering them discounts, we're acknowledging their unique contribution to the academic community. It's a way of saying, 'We value your experience and want to support your educational journey.'",
+       "Lastly, from a societal perspective, encouraging lifelong learning benefits us all. When mature students upgrade their skills or change careers, they contribute more effectively to the economy. These discounts could be seen as an investment in our collective future, fostering a culture of continuous learning and adaptation in our rapidly changing world.",
+       "In conclusion, providing equal discounts to mature students isn't just fair - it's a smart move that benefits individuals, educational institutions, and society as a whole."
+      ]
+     },
+     {
+      "level": "9",
+      "paragraphs": [
+       "I believe mature students should absolutely receive the same discounts as younger students, and here's why.",
+       "First off, returning to school as an adult often comes with significant financial challenges. Many mature students are balancing tuition costs with supporting families or paying mortgages. These discounts can make a real difference in their ability to afford education. For example, a friend of mine who went back to school at 35 found that the transportation discount was crucial for her to attend classes while still managing her household budget.",
+       "Secondly, mature students contribute just as much to the academic community as younger students. They bring valuable life experience and often enhance classroom discussions. By offering them the same benefits, we're recognizing their important role in the educational system. I've seen this firsthand in my university classes, where mature students often provide practical insights that complement the theoretical knowledge.",
+       "Finally, education should be accessible to everyone, regardless of age. These discounts aren't just about saving money - they're about creating equal opportunities for lifelong learning. When we support mature students, we're investing in a more educated and skilled workforce, which benefits everyone in the long run.",
+       "In conclusion, mature students face unique challenges and make valuable contributions. Extending the same discounts to them is not only fair but also beneficial for our educational institutions and society as a whole."
+      ]
+     },
+     {
+      "level": "8",
+      "paragraphs": [
+       "I believe mature students should definitely get the same discounts as younger students. Here's why.",
+       "First, mature students often face more financial pressures. They might have families to support or mortgages to pay. These discounts can really help them manage their budgets better. For example, a discount on public transportation could save them hundreds of dollars each semester.",
+       "Second, mature students contribute a lot to the university community. They bring work experience and different perspectives to class discussions. Giving them discounts is a way to recognize their value. It's like saying 'we appreciate what you bring to our school.'",
+       "Finally, education should be accessible to everyone, regardless of age. Discounts help make that possible. If we want more people to keep learning throughout their lives, we need to support them. These small savings can make a big difference in someone's decision to return to school.",
+       "In conclusion, mature students deserve these discounts just as much as younger ones. It's fair, it's practical, and it supports lifelong learning."
+      ]
+     },
+     {
+      "level": "7",
+      "paragraphs": [
+       "I think mature students should get the same discounts as younger students. First, they are students too, so they should have the same benefits. Second, many mature students have financial problems because they have families to support. Discounts can help them save money. For example, my friend John went back to school at 35. He has two kids and his wife doesn't work. The discounts really help him.",
+       "Another reason is that mature students often have more expenses. They might need to pay for childcare or transportation. Discounts can make it easier for them to study. For instance, my cousin Sarah is a mature student. She uses student discounts for bus tickets and it saves her a lot of money.",
+       "Finally, giving discounts to mature students is fair. They are working hard to improve their lives, just like younger students. They should have the same opportunities. In conclusion, I believe mature students deserve the same discounts as younger students because they face similar challenges and need support too."
+      ]
+     },
+     {
+      "level": "6",
+      "paragraphs": [
+       "I think mature students should get the same discounts as younger students. First, they are students too. They pay the same fees and study the same things. It's not fair to treat them differently just because they are older.",
+       "Second, many mature students have families to support. They often have less money than younger students. Discounts can help them save money for important things like food and rent.",
+       "Finally, mature students bring good experience to the classroom. They share what they learned at work. This helps everyone learn more. Giving them discounts is a way to say thank you for their contribution.",
+       "In conclusion, mature students work hard and face challenges. They deserve the same help as younger students. Discounts can make their lives a little easier."
+      ]
+     },
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "I think mature students should get the same discounts as younger students. First, they are students too. They study hard just like younger students. Second, many mature students have families to support. Discounts can help them save money. For example, a discount on bus tickets can help them get to school. Third, mature students often have less money than younger students. They may have left their jobs to study. So discounts are important for them. In conclusion, I believe mature students should get the same discounts as younger students. It is fair and it helps them."
+      ]
+     }
+    ]
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You are at a shoe store and you see a pair of interesting shoes that your sister, Josie, might like. Call Josie and describe in detail what the shoes look like. Ask her if she would like to buy them."
+    ],
+    "images": [
+     "media/speaking_5.png"
+    ],
+    "samples": [
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Hi Josie, I'm at the shoe store right now and I've spotted something that I think you'd absolutely love! There's this unique shoe sculpture that's the centerpiece of the display. It's placed on a striking red pedestal, which really makes it stand out. The design is intricate and artistic, definitely something that catches your eye immediately.",
+       "Around the sculpture, there are several other shoes scattered throughout the scene. Some are on the ground, while others are placed on various surfaces. It feels like a creative exhibition of footwear, each piece adding to the overall artistic vibe of the display.",
+       "I think these shoes would be perfect for you, especially if you're into unique and artistic designs. What do you think? Should I grab them for you, or do you want to come and check them out yourself?"
+      ]
+     },
+     {
+      "level": "9",
+      "paragraphs": [
+       "Hi Josie, I'm at the shoe store and I just saw a pair of shoes that I think you'd really like. They're quite unique-they're actually a sculpture of a shoe, placed on a red table that really makes them stand out. The colors are vibrant, with a mix of purple and green that gives them a really artistic look. The design is intricate, with lots of details that make them look like a piece of art rather than just regular shoes.",
+       "In the background, there are some books scattered around, which adds to the whole artistic vibe of the scene. It's like they've created a little reading nook with the shoes as the centerpiece. I can't stop looking at them-they're so different from anything I've seen before.",
+       "What do you think? Would you like me to get them for you? I think they'd be a great addition to your collection, especially if you're into unique, statement pieces. Let me know!"
+      ]
+     },
+     {
+      "level": "8",
+      "paragraphs": [
+       "Hi Josie, I'm at the shoe store and I just saw a pair of shoes that I think you'd really like. They're on a red table in the center of the display. The shoes are a deep navy blue with gold accents, and they have this unique pattern that looks like waves. The material seems to be a mix of leather and suede, giving them a really classy yet modern look. What caught my eye is the sole - it's a bright yellow, which adds a fun pop of color. They're definitely eye-catching but still elegant enough for work or a night out. There are also two books in the display, one near the top right and another at the bottom right, which makes the whole setup look really artistic. I think these would be perfect for you, especially with your style. Would you like me to get them for you? They seem to be in your size."
+      ]
+     },
+     {
+      "level": "7",
+      "paragraphs": [
+       "Hi Josie, I'm at the shoe store and I found something you might like. There's this really unique shoe sculpture here. It's on a red table, so it really stands out. The design is super artistic and detailed. Around it, there are some books scattered on the table and even a few on the floor. In the background, there's a handbag and a clock, which adds to the whole scene. It's like a mix of art and everyday items. I think it's really cool and thought you might like it too. What do you think? Should I get it for you?"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

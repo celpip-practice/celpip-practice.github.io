@@ -1,0 +1,1768 @@
+{
+ "id": "s11-t2",
+ "set": 11,
+ "test": 2,
+ "title": "Practice Test 11-2",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 49.7
+      },
+      "transcript": "Hello, how can I help you? Well, I'm living in an apartment, and I'm always cold. I bought an extra heater, but it's not helping. Someone suggested that the problem is the windows. That could be. When you look closely at the windows, do you see double layers of glass, with some space between the layers, or is there just one sheet of glass? Just one. And I have noticed that I'm especially cold when I stand in front of them. Even when the curtains are closed. I've even seen frost on them! So they're not double-paned. And probably old. Have you asked your landlord to replace them? That would be a waste of time.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "His home isn't warm enough."
+         },
+         {
+          "text": "He wants to buy new curtains."
+         },
+         {
+          "text": "His space heater isn't working."
+         },
+         {
+          "text": "He wants to buy new windows."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-1",
+        "stem": "Why did the man come to talk with the woman?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "whether they have two sheets of glass"
+         },
+         {
+          "text": "whether they have curtains on them"
+         },
+         {
+          "text": "whether they get frost on them"
+         },
+         {
+          "text": "whether they are new or old"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-2",
+        "stem": "What does the woman ask about the man's windows?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "He does not mind cold weather."
+         },
+         {
+          "text": "He will not replace the windows."
+         },
+         {
+          "text": "He does not use his time wisely."
+         },
+         {
+          "text": "He will not get his heater back."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-3",
+        "stem": "What is most likely true of the landlord?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 56.9
+      },
+      "transcript": "Well, there are a few things I can suggest. First, you can caulk the edges. I'm sorry? Caulk is. .. like toothpaste, but thicker. It comes in a cardboard tube, and you use a special tool to squeeze it out... Ah, I know what you mean. The tool works like a gun. You use it to squeeze the white stuff along the top, sides, and bottom of the window. It fills the crack between the wooden trim and the wall. Exactly. Another solution is to put plastic over your windows. We have kits that include the plastic as well as tape that's sticky on both sides. Surely a thin sheet of plastic won't do much good. .. You'd be surprised. It's not the plastic so much as the four inches of air you'll trap between the glass and the plastic. It's the air that acts as an insulator.",
+      "questions": [
+       {
+        "num": 4,
+        "options": [
+         {
+          "image": "media/listening_p2_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_2.jpg"
+         },
+         {
+          "image": "media/listening_p2_3.jpg"
+         },
+         {
+          "image": "media/listening_p2_4.jpg"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-4",
+        "stem": "What does the woman tell the man to do?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "He's enthusiastic."
+         },
+         {
+          "text": "He's confused."
+         },
+         {
+          "text": "He's doubtful."
+         },
+         {
+          "text": "He's curious."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-5",
+        "stem": "What does the man think of the plastic kits?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 39.2
+      },
+      "transcript": "I'll take the caulk, but not the kit. If I cover my windows with plastic, I won't be able to open them. That's true. Another solution is to get some really good curtains. Specifically, thermal curtains. What are thermal curtains? They're special curtains made with a layer of foam. The layer of foam acts as an insulator, keeping the warmth in and the cold out. And you sell those curtains here? We do have a few, but to be honest, you'd be better off going to the drapery store downtown. They have a good variety of fabrics, designs, and colours. I can give you the address. I'd appreciate that. Thanks!",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "He wants to open his windows."
+         },
+         {
+          "text": "He thinks the plastic will just tear."
+         },
+         {
+          "text": "He thinks his curtains are enough."
+         },
+         {
+          "text": "He wants to try the crack filler first."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-6",
+        "stem": "Why doesn't the man buy the plastic kit?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "The colours are dull."
+         },
+         {
+          "text": "The fabric lacks foam."
+         },
+         {
+          "text": "The price is too high."
+         },
+         {
+          "text": "The selection is limited."
+         }
+        ],
+        "answer": 3,
+        "id": "L1-7",
+        "stem": "What does the woman think about the curtains she has for sale?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "buy warmer winter clothes"
+         },
+         {
+          "text": "make some new curtains"
+         },
+         {
+          "text": "buy new curtains downtown"
+         },
+         {
+          "text": "visit another home supplies store"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-8",
+        "stem": "What will the man likely do next?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "You will hear the conversation only once.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 110.6
+      },
+      "transcript": "You will hear a conversation that takes place at a department store. Hello. Can I help you find something? Hi. Yeah, I need to buy a blender. I'd like to start making my own smoothies at home. I've tried using my food processor, but the result is just too lumpy. What do you recommend? Well, we have lots of blenders to choose from. You'll need to think about capacity, power, durability, and cost. Will you be making a smoothie just for yourself, or for several people? It's just for one, but I don't want something that's too small. I'd like to make a big smoothie. You know, something that'll replace my breakfast and fill me up until lunchtime. Okay. Now, what about ice? Do you plan to put ice into your smoothie? Some of these blenders are not really that good at crushing ice. Yeah, I definitely want to be able to add ice to my drink. Maybe some fruit and berries, too, for flavour. Plus protein powder, which is why my wife and kids won't touch it. Some almonds are great in smoothies, too. Well, I think that narrows it down to these two blenders, the Smoothie Master and the Samurai. They're very similar, but the Samurai is a little more powerful. That name's pretty cool. And with a name like that, of course it's more powerful. What else can you tell me about it? Well, it's very easy to clean. It comes with a great little recipe book, and the website has lots of tips and useful information. Actually, this is the one I have, and I love it. Okay, you've convinced me. I'll take it. How long is the warranty? It's got a 2-year replacement warranty. That means if you have any problems with it, just bring it back in with the receipt, and we'll replace it. After your warranty expires, you can get replacement parts here in our store, such as new blades. That's great. Thanks very much for your help. I can't wait to get home and try it out!",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "extended warranties"
+         },
+         {
+          "text": "food products"
+         },
+         {
+          "text": "recipe books"
+         },
+         {
+          "text": "small appliances"
+         }
+        ],
+        "answer": 3,
+        "id": "L2-1",
+        "stem": "What kind of items does the woman sell?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "he and his wife"
+         },
+         {
+          "text": "just his kids"
+         },
+         {
+          "text": "just himself"
+         },
+         {
+          "text": "the whole family"
+         }
+        ],
+        "answer": 2,
+        "id": "L2-2",
+        "stem": "Who does the man plan to make smoothies for?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "almonds"
+         },
+         {
+          "text": "chopped bananas"
+         },
+         {
+          "text": "protein powder"
+         },
+         {
+          "text": "berries"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-3",
+        "stem": "What does the woman like to add to her smoothies?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "the lower cost"
+         },
+         {
+          "text": "the better durability"
+         },
+         {
+          "text": "the extra features"
+         },
+         {
+          "text": "the greater capacity"
+         }
+        ],
+        "answer": 2,
+        "id": "L2-4",
+        "stem": "Why does the man finally choose one blender over the other?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "excited to try his new blender"
+         },
+         {
+          "text": "happy to have a blender again"
+         },
+         {
+          "text": "worried his blender will break down"
+         },
+         {
+          "text": "uncertain of how to use his blender"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-5",
+        "stem": "How does the man feel about making smoothies at home?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "You will hear the conversation only once.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 131.3
+      },
+      "transcript": "You will hear a conversation between a woman and a man about tourist sites. Hello. We'd like some help, please. We just arrived and we're wondering what to see here. You've come to the right place. Halifax offers lots of exciting things to keep you busy. How long are you visiting for? Well, our cruise ship just arrived this morning, and it leaves early tomorrow for Charlottetown. So just today. OK then. You'll want the main tourist highlights and recommendations for some good local food. One of Halifax's most popular attractions is the Public Gardens. They are especially beautiful right now with the rhododendrons and azaleas. Take a look at this map. It's just a short walk up Spring Garden Road, and on the way you'll find charming boutiques and superb local crafts. We have lots of lovely gardens in Florida. Is there something historic we should see? Oh yes, there's Citadel Hill right in the center of downtown. It has displays showing how the original settlers lived in the 1700s. At noon every day the soldiers set off a real canon, and you'll see the changing of the guard, traditional uniforms, and even hear bagpipes. That sounds like fun. We certainly don't have live bagpipes back home! And what about along the waterfront? There must be something historic to explore there. Is that famous ship around? What's it called? The Bluenose? Can we tour through that? Unfortunately the Bluenose is being repaired just now, but there are other ships you can sail on around the harbour. Would you like tickets for the dinner and dance combo this evening on one of those sailing ships? Well, we've actually had enough of being on the water with this cruise! I just wanted to see the real Bluenose since it's so famous. It would be nice to eat on dry land for a change, so where would you suggest we get a typical Nova Scotian dinner? Just next door is our best seafood restaurant with a traditional Nova Scotian menu. Be sure to try something with lobster, especially the fish chowder. If you're feeling adventurous, try the baked Digby scallops with fiddleheads, and blueberry grunt for dessert. We'll try there, although I'm not sure about being adventurous since we're back on the ship tomorrow! Thanks for all your help.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "a map of the city"
+         },
+         {
+          "text": "directions to craft shops"
+         },
+         {
+          "text": "restaurant suggestions"
+         },
+         {
+          "text": "advice on what to do"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-1",
+        "stem": "What does the woman want from the man?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "She can shop on her way."
+         },
+         {
+          "text": "She doesn't have a car."
+         },
+         {
+          "text": "She has enough time to walk."
+         },
+         {
+          "text": "She wants some exercise."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-2",
+        "stem": "Why does the man recommend that she walk to the gardens?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "explore famous gardens"
+         },
+         {
+          "text": "taste local food"
+         },
+         {
+          "text": "tour old houses"
+         },
+         {
+          "text": "visit historic sites"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-3",
+        "stem": "What does the woman want to do first?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "It offers a harbour cruise."
+         },
+         {
+          "text": "It's well-known internationally."
+         },
+         {
+          "text": "It has a famous seafood restaurant."
+         },
+         {
+          "text": "It's recommended by the man."
+         }
+        ],
+        "answer": 1,
+        "id": "L3-4",
+        "stem": "Why is the woman interested in the Bluenose?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "She already has tickets for dinner."
+         },
+         {
+          "text": "She doesn't like the idea of dancing."
+         },
+         {
+          "text": "She doesn't want to eat on a ship."
+         },
+         {
+          "text": "She thinks the tickets cost too much"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-5",
+        "stem": "Why does the woman refuse the dinner and dance tickets the man offers?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "She doesn't like seafood."
+         },
+         {
+          "text": "She suffers from food allergies."
+         },
+         {
+          "text": "She is already full from lunch."
+         },
+         {
+          "text": "She wants to avoid travel sickness."
+         }
+        ],
+        "answer": 3,
+        "id": "L3-6",
+        "stem": "Why will the woman be careful with her food at dinner?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "Then five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 71.4
+      },
+      "transcript": "Despite financial troubles experienced by bike-sharing programs in Montreal and Toronto, Ottawa is planning to introduce a similar program. The program would enable people to rent a bike from a number of self-serve stations for short-term use. The city plans to subsidize the program with a $60,000 grant which would fund the construction of 10 solar-powered park and pay stations across the city. The grant would also fund the purchase of the bicycles themselves, which feature three speeds, comfortable seats, reflectors and lights, a luggage carrier, and a lock. Operating costs are expected to be covered by user fees. It is hoped that the program will foster healthy transit alternatives by reducing the use of automobiles and their consequent pollution and parking problems. Opponents of the program aren't convinced that user fees will be sufficient to cover operating costs, either they'll be too high to afford or too low to cover expenses. At a recent city council meeting, one councillor argued that people should have to buy their own bikes, and the existing public transit system could use the budget to expand and improve its efficiency.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The purpose of the news item is to",
+        "options": [
+         {
+          "text": "provide information."
+         },
+         {
+          "text": "provide entertainment."
+         },
+         {
+          "text": "solicit information."
+         },
+         {
+          "text": "solicit assistance."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The grant will pay for",
+        "options": [
+         {
+          "text": "the park-and-pay stations only."
+         },
+         {
+          "text": "the three-speed bicycles only."
+         },
+         {
+          "text": "the stations and the bicycles."
+         },
+         {
+          "text": "the operating expenses."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The bicycle program aims to provide",
+        "options": [
+         {
+          "text": "a greener option of city transport."
+         },
+         {
+          "text": "revenue for the city's other programs."
+         },
+         {
+          "text": "new technology for public transportation."
+         },
+         {
+          "text": "increased business throughout the city."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The city councillor thinks",
+        "options": [
+         {
+          "text": "the program's user fees are too high."
+         },
+         {
+          "text": "city funds should be spent elsewhere."
+         },
+         {
+          "text": "people will not use the bicycles much."
+         },
+         {
+          "text": "the program will reduce transit issues."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The main issue with bicycle-sharing programs is",
+        "options": [
+         {
+          "text": "they cost a lot to manage."
+         },
+         {
+          "text": "people misuse the bikes."
+         },
+         {
+          "text": "they cause parking problems."
+         },
+         {
+          "text": "the bikes are uncomfortable."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 142.6
+      },
+      "transcript": "You will watch a discussion among three people, one man, Fred, and two women, Audrey and Janesh. They are coaches at a gymnastics club. So, Audrey, Janesh, any thoughts about whether we should go with the parade float or the exhibition? The parade's not for another month, but we need to make up our minds by the end of the week. I have some serious concerns about the parade float. A flatbed trailer isn't nearly the same size as the floor our kids usually do their routines on. Plus, there's nothing to stop them from just falling off of the trailer. Maybe we can put the balance beams on there and they can do their flips and stuff on there. Although, the truck will still be moving. We could just have them sit there on the mats or on the beams, but I don't think we should put all of our equipment onto the trailer. And if we just have them sit there, that doesn't really show people what we're all about. Wow. Well, I guess they could show off their shiny new gold medals, but I agree. We're gymnastics club, we should be showing them gymnastics. Yeah, and if we have the kids just do their simple, easy routines, that'll make us look pretty pathetic. We need to show our best stuff. But hundreds of people go see the parade. If we have an exhibition and no one comes, that defeats our purpose, that we need to recover our numbers. Well, Fred, I think your glory days of the 90s are over. Gymnastics just isn't as popular as it used to be. Look, maybe we can rent a central location, rather than the gym we usually use, then maybe more people will turn out. Perhaps we could rent a gym at one of the downtown elementary schools. But then only one school know about it. What about the high school? They have at least four times as many students and they spread the word. Even better. What about if we did it the same night as parent-teacher interviews? It's on a Monday night so our gymnast would be available for sure. That is a brilliant idea. Once the parents see what our kids can do, I mean parents talk to each other all the time. And parents that have high school-aged kids usually have younger kids as well. And we can get the media to cover it. I can handle that. And I'll look into renting the gym. I don't think it'll cost more than the parade entry fee and renting the flatbed trailer. Yeah, awesome. Awesome! Hahaha! Hahaha! Hahaha!",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What is the purpose of their meeting?",
+        "options": [
+         {
+          "text": "to assess two past events"
+         },
+         {
+          "text": "to plan two future events"
+         },
+         {
+          "text": "to decide between two activities"
+         },
+         {
+          "text": "to figure out how to combine two activities"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What reason is given for rejecting the parade float?",
+        "options": [
+         {
+          "text": "expense"
+         },
+         {
+          "text": "date"
+         },
+         {
+          "text": "satety"
+         },
+         {
+          "text": "attendance"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Why is hosting an exhibition deemed preferable?",
+        "options": [
+         {
+          "text": "It enables a more authentic display of the sport."
+         },
+         {
+          "text": "Most of their gymnasts would prefer it."
+         },
+         {
+          "text": "They have organized several exhibitions before."
+         },
+         {
+          "text": "It is what most people expect of a gymnastics club."
+         }
+        ],
+        "answer": 0,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What does the discussion suggest about the club's gymnasts?",
+        "options": [
+         {
+          "text": "They participate in other sports."
+         },
+         {
+          "text": "They take part in competitions."
+         },
+         {
+          "text": "They started training at a young age."
+         },
+         {
+          "text": "They intend to become coaches."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "How has the club changed since the 1990s?",
+        "options": [
+         {
+          "text": "Enrollment has declined."
+         },
+         {
+          "text": "There are more male gymnasts."
+         },
+         {
+          "text": "Competitiveness has declined."
+         },
+         {
+          "text": "There are fewer sponsors."
+         }
+        ],
+        "answer": 0,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "What does the discussion suggest the three coaches want to do?",
+        "options": [
+         {
+          "text": "satisfy the parents of their current members"
+         },
+         {
+          "text": "add an educational element to their sport"
+         },
+         {
+          "text": "try out a larger gym for their club practices"
+         },
+         {
+          "text": "attract children and teenagers as new members"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What does Audrey intend to do?",
+        "options": [
+         {
+          "text": "call a journalist"
+         },
+         {
+          "text": "speak to parents"
+         },
+         {
+          "text": "speak to teachers"
+         },
+         {
+          "text": "call their gymnasts"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What is the main reason they chose the high school?",
+        "options": [
+         {
+          "text": "It is located close to their gymnastics club."
+         },
+         {
+          "text": "It will allow them to reach more potential customers."
+         },
+         {
+          "text": "It will be holding a special advertising event on Monday."
+         },
+         {
+          "text": "It is attended by many of their current gymnasts."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "Then six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 186.8
+      },
+      "transcript": "Sable Island, a remote island located 300 km southeast of Halifax, has long been romanticized in many Canadians' minds as a place where wild horses run free. Brought to the Atlantic provinces by British and French colonists in the 18th century, these draft horses once served as farm animals, but were eventually abandoned on the island. Today, Parks Canada a released report suggesting that these famous horses may be in danger of extinction. Parks Canada spokeswoman Sheila McNeil says that according to a recent study commissioned by the Department of Species at Risk, there are a variety of factors that may lead to the horse's extinction in the future. One concern is inbreeding, as these horses have become more susceptible to disease. Another concern is the extreme coastal weather, because the conditions can produce heavy snowfalls which will bury the horse's food source. Each of these issues are more concerning because the horse's population is so low. If anything were to cause their numbers to decrease further, they're that much closer to extinction. McNeil reports that Parks Canada is reviewing the data and, as it stands, Parks Canada feels the horses should remain on the island. Contrary to McNeil, biologist Malcolm Watson argues that the horse population is higher than ever and that these horses are ecologically intrusive to the island's natural species. Watson believes they should be removed from the island. He says that the horses threaten plant and animal species by stomping on nests and destroying vegetation as they race around the island. He claims that because Sable Island is now a national park, the legislation requires it be kept pristine and inhabited only by indigenous species. Therefore, since the horses are not native to Sable Island, Parks Canada has a duty to remove them in order to protect the fragile ecosystem. Moreover, he asserts that the horses are living in appalling conditions and should be relocated located and better cared for. Nova Scotia resident Janet Lowe has heard this argument before and is not too worried. She remembers back in the 1960s when similar concerns were voiced and at that time the government ordered the horses be removed from the island. However, due to public outcry, the prime minister dropped the removal order and even put laws in place making it illegal for humans to interfere with the horse population. Lowe finds Watson's argument hypocritical. She says that throughout history, humans have been the most invasive species on the planet, altering and destroying ecosystems for centuries. She thinks that the horses are a far less invasive species and that the laws enacted in the 60s should be respected.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The horses of Sable Island",
+        "options": [
+         {
+          "text": "often appear in Canadian media."
+         },
+         {
+          "text": "work as farm animals on the island."
+         },
+         {
+          "text": "are managed by people on the island."
+         },
+         {
+          "text": "were originally foreign to the island."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Parks Canada is concerned about the horses because",
+        "options": [
+         {
+          "text": "they are damaging the island's ecosystem."
+         },
+         {
+          "text": "they are not giving birth as often as before."
+         },
+         {
+          "text": "a report states they could be endangered."
+         },
+         {
+          "text": "food sources on the island have disappeared."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Biologist Malcolm Watson believes the horses",
+        "options": [
+         {
+          "text": "should be considered indigenous to the island"
+         },
+         {
+          "text": "are quickly dropping in numbers."
+         },
+         {
+          "text": "help control the island's vegetation."
+         },
+         {
+          "text": "interfere with the island's natural environment."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Nova Scotia resident Janet Lowe argues",
+        "options": [
+         {
+          "text": "draft horses should be removed from the island."
+         },
+         {
+          "text": "the law protecting the horses should be changed."
+         },
+         {
+          "text": "people pose a much greater threat than horses."
+         },
+         {
+          "text": "there is historical evidence of the horses' damage."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "All three people would probably agree that the horses",
+        "options": [
+         {
+          "text": "should be protected from extinction."
+         },
+         {
+          "text": "should be relocated to the mainland."
+         },
+         {
+          "text": "need to be domesticated by humans."
+         },
+         {
+          "text": "are best left alone on the island."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Nova Scotia resident Janet Lowe's position would be to",
+        "options": [
+         {
+          "text": "overturn the laws protecting the horses."
+         },
+         {
+          "text": "allow the horses to remain on the island."
+         },
+         {
+          "text": "let the horses eventually become extinct."
+         },
+         {
+          "text": "have Parks Canada relocate the horses."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Hi Mom and Dad,",
+       "I'm happy to report that I have arrived safely in Mozambique. After an exhausting flight, I was met at the airport by the volunteer coordinator for Global Habitat Organization, who drove me to the village of Nahino, where the school-building project that I'm working on is taking place.",
+       "You wouldn't believe the weather here. Last week was so hot that a few of the other volunteers became ill. Our supervisor said that this heat wave was really extreme and that he was not surprised to see some people were affected by it. Apparently, the weather is back to normal now, but it still feels pretty hot and humid to me.",
+       "Despite the hot weather, we've made impressive progress. The frame of the school is completed, and we'll start on the roof next week. This organization has extensive experience getting volunteers and local people to work together efficiently, and, while most of us are completely untrained when it comes to building, we're all willing to learn and to work hard. The local construction workers know all about the best types of structures and materials to use in this climate. I'm learning a lot about how their ventilation systems work.",
+       "We're confident that the school will be open by September. Sixty students from the village have already enrolled, and two full-time teachers have been hired. It's so exciting to see the kids who will be attending the school come by almost every day to watch our progress and help in any way they can. It's fantastic to be working on a project that will help so many people, and I'm already thinking of volunteering for another project next summer.",
+       "Yesterday, we took a break from the project and went into the city for some entertainment. We sampled the local cuisine at a restaurant, and, afterwards, we went dancing, so I had an opportunity to meet some local people and get to know some of the other volunteers better. Bill and Katie have become two of my friends here, and we're planning a short excursion to see more of this fabulous country before returning home. After this experience, we're all somewhat reluctant to return to our dull classes in the fall.",
+       "Hope you're having a good summer,",
+       "Mike"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Mike is in Mozambique",
+        "options": [
+         {
+          "text": "for a school exchange program."
+         },
+         {
+          "text": "to do some volunteering."
+         },
+         {
+          "text": "as a project coordinator."
+         },
+         {
+          "text": "to study engineering."
+         }
+        ],
+        "answer": 1,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The weather",
+        "options": [
+         {
+          "text": "halted the progress of activities."
+         },
+         {
+          "text": "improved as the project went along."
+         },
+         {
+          "text": "caused high tidal waves."
+         },
+         {
+          "text": "didn't bother Mike at all."
+         }
+        ],
+        "answer": 1,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Local workers on the project",
+        "options": [
+         {
+          "text": "resent foreign intervention."
+         },
+         {
+          "text": "rely on foreign building expertise."
+         },
+         {
+          "text": "do not interact with volunteers much."
+         },
+         {
+          "text": "direct much of the building activities."
+         }
+        ],
+        "answer": 3,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Mike is contemplating",
+        "options": [
+         {
+          "text": "participating in similar projects in the future."
+         },
+         {
+          "text": "teaching at the school he's working on."
+         },
+         {
+          "text": "working with the children in the village."
+         },
+         {
+          "text": "returning in the summer for the opening."
+         }
+        ],
+        "answer": 0,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Bill and Katie",
+        "options": [
+         {
+          "text": "have been Mike's long-time friends."
+         },
+         {
+          "text": "are Mike's classmates."
+         },
+         {
+          "text": "met Mike during the project."
+         },
+         {
+          "text": "met at a local restaurant."
+         }
+        ],
+        "answer": 2,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Mike and other volunteers are reluctant",
+        "options": [
+         {
+          "text": "to return home."
+         },
+         {
+          "text": "to socialize with the locals."
+         },
+         {
+          "text": "to tour the country."
+         },
+         {
+          "text": "to work at the school."
+         }
+        ],
+        "answer": 0,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the best choice for each blank from the drop-down menu.",
+      "paragraphs": [
+       "Hi Mike,",
+       "It's good to hear you {{7}} even though some of your fellow volunteers did. The weather was probably a factor, so be sure to drink lots of water, especially when {{8}}. Also, you really shouldn't worry about {{9}} as long as you try to learn as much as you can about construction. You are only in your first year of engineering. You can use what you learned when you {{10}} in the fall. Finally, it's great to hear that you are {{11}} with your new friends, but be sure to plan it carefully and find out about safety issues before you go.",
+       "Love,",
+       "Mom"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         {
+          "text": "didn't mind the accommodations"
+         },
+         {
+          "text": "didn't have to walk to the village"
+         },
+         {
+          "text": "didn't miss the flight"
+         },
+         {
+          "text": "didn't get sick"
+         }
+        ],
+        "answer": 3,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         {
+          "text": "teaching in the local village"
+         },
+         {
+          "text": "working on the school all day"
+         },
+         {
+          "text": "eating the local food nearby"
+         },
+         {
+          "text": "going into the city"
+         }
+        ],
+        "answer": 1,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         {
+          "text": "being inexperienced"
+         },
+         {
+          "text": "the language barriers"
+         },
+         {
+          "text": "the accommodations"
+         },
+         {
+          "text": "socializing"
+         }
+        ],
+        "answer": 0,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         {
+          "text": "begin university"
+         },
+         {
+          "text": "start your new job"
+         },
+         {
+          "text": "return to your career"
+         },
+         {
+          "text": "go back to university"
+         }
+        ],
+        "answer": 3,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         {
+          "text": "going on a trip"
+         },
+         {
+          "text": "volunteering"
+         },
+         {
+          "text": "socializing"
+         },
+         {
+          "text": "dancing"
+         }
+        ],
+        "answer": 0,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_1.png"
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu.",
+      "paragraphs": [
+       "Subject: Garbage Collection",
+       "To: Mr. Boudreau <boudreau@dundermifflin.com>",
+       "From: Ella Fineberg <efineberg@cityofoakridge.com>",
+       "Dear Mr. Boudreau,",
+       "Thank you for your inquiry about the Oakridge Waste Program, and welcome to the city. I've attached an information flyer that should answer your questions. Your cooperation would be greatly appreciated in order to help our waste program {{1}}.",
+       "The collection schedule shows that your area, Oakridge Centre, has pick-up on Tuesdays and Fridays. Please note that there's no pick-up on Wednesdays in any neighbourhood, but you have the option of {{2}}, if necessary.",
+       "Cardboard of all sizes is recyclable, whereas small boxboard used in products like {{3}} goes in your organic green bin. Regarding plants that were sprayed with pesticides, the dead plants go into organics, but the empty pesticide container {{4}}. Finally, any item that cannot be recycled or is not considered organic waste should be {{5}}.",
+       "I understand your opinion that the Waste Diversion Program can be inconvenient, but we recently extended our pick-ups to twice a week to assist our residents in reducing waste.",
+       "Regards,",
+       "Ella Fineberg"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         {
+          "text": "meet its garbage reduction target"
+         },
+         {
+          "text": "increase drop-offs to the dump"
+         },
+         {
+          "text": "educate the public about hazardous waste"
+         },
+         {
+          "text": "develop a more convenient pick-up schedule"
+         }
+        ],
+        "answer": 0,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         {
+          "text": "changing collection schedules"
+         },
+         {
+          "text": "arranging a special pick-up"
+         },
+         {
+          "text": "requesting Thursdays instead"
+         },
+         {
+          "text": "taking trash to the landfill"
+         }
+        ],
+        "answer": 3,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         {
+          "text": "egg cartons"
+         },
+         {
+          "text": "food boxes"
+         },
+         {
+          "text": "beverage cartons"
+         },
+         {
+          "text": "shipping boxes"
+         }
+        ],
+        "answer": 1,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         {
+          "text": "cannot go in the trash"
+         },
+         {
+          "text": "goes into the recycling"
+         },
+         {
+          "text": "isn't dangerous waste"
+         },
+         {
+          "text": "should go in the dump"
+         }
+        ],
+        "answer": 0,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         {
+          "text": "reused if possible"
+         },
+         {
+          "text": "disposed of safely"
+         },
+         {
+          "text": "placed in the garbage"
+         },
+         {
+          "text": "picked up separately"
+         }
+        ],
+        "answer": 2,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given in the diagram and email.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Why does Mr. Boudreau need information about waste collection?",
+        "options": [
+         {
+          "text": "His pick-up schedule has changed."
+         },
+         {
+          "text": "He would like stricter regulations."
+         },
+         {
+          "text": "He is a new resident of the city."
+         },
+         {
+          "text": "He was fined for not sorting his waste."
+         }
+        ],
+        "answer": 2,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Who is Ms. Fineberg?",
+        "options": [
+         {
+          "text": "a neighbour"
+         },
+         {
+          "text": "a city employee"
+         },
+         {
+          "text": "an environmentalist"
+         },
+         {
+          "text": "a garbage collector"
+         }
+        ],
+        "answer": 1,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What will Mr. Boudreau probably do next?",
+        "options": [
+         {
+          "text": "stop participating in the program"
+         },
+         {
+          "text": "review the attached flyer"
+         },
+         {
+          "text": "file a complaint with the city"
+         },
+         {
+          "text": "bring his waste to the dump"
+         }
+        ],
+        "answer": 1,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. Two worldwide youth organizations that have been popular in Canada for more than a century are Boy Scouts and Girl Guides. Scouting groups started up in Ontario and Nova Scotia shortly after Lord Baden Powell founded the Boy Scouts Association in England in 1907. Around the same time, the Canadian Girl Guides Company began in Ontario. Both groups organize sports, games, and outdoor activities, such as camping, in order to promote the emotional, physical, and spiritual wellbeing of youths. Both attract enthusiastic leaders, usually former Guides or Scouts themselves.",
+       "B. Scouts and Guides have similar organizational structures and goals. They serve children and young adults within the ages of 5 to 17 in five separate age groups. No evaluation or criteria other than age affects moving from one group to another. Whereas Guides attracts ages 7 to 11, Scouts is popular with ages 5 to 10. By the teenage years, interest wanes significantly. Since 1992, all sections of Scouts have been coed, whereas Guides continues to be exclusively girls. Guides enrolments didn't suffer from Scouts broadening their market; however, Scouts experienced criticism for including girls.",
+       "C. Membership was brisk through much of the twentieth century, although it has declined significantly in recent years. In Canada, Girl Guides experienced a membership decline of more than 50% by 2012. Scouts Canada reached its peak in 1965 with 285,000 members but has since decreased by 70%. Why were these programs so interesting to youths in the past? For many it was a way to make friends, have fun, and enjoy the outdoors. It was camping and ghost stories, earning badges, attending national and international jamborees, and wearing a uniform that identified you as one of the group. The youths of the twenty-first century are more interested in internet-based activities. Both Guides and Scouts are now trying to adapt to the interests of today's youth.",
+       "D. Most of the Scouts and Guides groups are run by dedicated adults who go through an interview, reference check, and police check, followed by a training program. It's not an easy volunteer job, requiring the planning of weekly meetings, organizing camping trips, managing young personalities, and attending periodic training weekends. In the past, parents were often the leaders, but nowadays they are too busy balancing jobs, chores, and their children's sports or music events. It remains to be seen whether these two immensely popular youth organizations of the twentieth century will endure through the twenty-first.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Scouts has educational goals that help boys achieve academic recognition.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The future of the two youth organizations is uncertain.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Children in both organizations enjoyed the social activities.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Guide and Scout leaders offer their services at no charge.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The Scouts and Guides are considering unifying as one co-ed organization.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Parents who were Guides or Scouts encourage their children to join.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Leaders were often members of one of the organizations.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Older children are less likely to be interested in the scouting programs.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "Children used to enjoy the social aspect of the group activities.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Account aggregators are apps that let you see and track all your savings and expenditures together in one place. One example is Florida-based Wealth.com, which collects a whopping 7 years' worth of transactions from your bank accounts, credit cards, and investments and serves it up in tantalizing pie charts.",
+       "\"Wealth.com lets me analyze my spending patterns,\" says customer Adrienne Hyslop. \"It showed me how much I was spending on lattes and banking fees. It helped me stick to a budget, be thrifty, and save for my kids' college education.\"",
+       "But finance columnist Elsa Balka counsels caution. \"Read your banking contract,\" she says. \"Using an aggregator involves disclosing your client number and password to a third party. That puts you in default of your online banking agreement. By voluntarily sharing this data with a party other than the bank, you void the bank's guarantee that it will insure your investments against any possible fraudulent use.\" Ms. Balka adds that account aggregators are typically US companies, storing your data across the border where it's not subject to Canadian laws.",
+       "Consumer ombudsman Laurelei Reynolds has investigated the convenient \"in-house\" aggregators provided by the big banks themselves, such as Hexagon Bank's quick-and-easy MoneyViewer app, integrated into the financial giant's online banking platform. Customers who click the MoneyViewer link automatically launch an aggregator whose use is covered by a separate section of the online banking contract. There, Reynolds finds complex stipulations that compromise the consumer's legal right to compensation if data or identity theft occurs. \"Yes, MoneyViewer is bank-friendly, not 'third-party,'\" she concedes. \"Still, bear in mind, if a consumer must breach her contract in order to use the product or service that the contract promises to provide, then the contract is unfair.\"",
+       "That's welcome news to Roald Weiss, CEO of Wealth.com. \"Our security protocols are state-of-the-art,\" Weiss says. \"We use the same encryption techniques as the army. The real reason the big banks don't want you using our product is that we reveal their hidden fees. We show you what they're actually charging.\""
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given in the article.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "What is the author's attitude towards account aggregators?",
+        "options": [
+         {
+          "text": "positive"
+         },
+         {
+          "text": "concerned"
+         },
+         {
+          "text": "neutral"
+         },
+         {
+          "text": "angry"
+         }
+        ],
+        "answer": 2,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "One stated disadvantage of aggregators is that they",
+        "options": [
+         {
+          "text": "collect only seven years' worth of banking data."
+         },
+         {
+          "text": "share client financial information with other banks."
+         },
+         {
+          "text": "nullify the bank's account protection commitment."
+         },
+         {
+          "text": "offer different contracts to Americans and Canadians."
+         }
+        ],
+        "answer": 2,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Who would Laurelei Reynolds most likely agree with?",
+        "options": [
+         {
+          "text": "the finance columnist"
+         },
+         {
+          "text": "the CEO of Wealth.com"
+         },
+         {
+          "text": "Hexagon Bank"
+         },
+         {
+          "text": "Wealth.com customers"
+         }
+        ],
+        "answer": 0,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "An appropriate title would be \"Account Aggregators:",
+        "options": [
+         {
+          "text": "Can they help you save money?\""
+         },
+         {
+          "text": "Does your bank approve of them?\""
+         },
+         {
+          "text": "Is one kind better than another?\""
+         },
+         {
+          "text": "Should you really be using them?\""
+         }
+        ],
+        "answer": 3,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "We can reasonably conclude from the article that",
+        "options": [
+         {
+          "text": "consumers should keep close track of their expenses."
+         },
+         {
+          "text": "identity theft is more prevalent in the US than in Canada."
+         },
+         {
+          "text": "personal banking documents deserve careful reading."
+         },
+         {
+          "text": "the benefits of online banking outweigh the risks."
+         }
+        ],
+        "answer": 2,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "This is an interesting comment from the corporate chief executive officer. He seems to think the big banks hate aggregators only because these apps give bank customers good reasons to {{6}}. But it's more than that. As anyone can glean from the article, banks dislike how these apps {{7}}. So it seems strange that some banks are providing their clients with their own version of these apps. Presumably this is because the banks feel the {{8}} you know is better than the one you don't. At any rate, similar to the consumer advocate quoted, I find Hexagon's use of an in-house aggregator {{9}}. The whole situation just serves to remind bank customers that {{10}}"
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         {
+          "text": "find a better banking package"
+         },
+         {
+          "text": "spend money instead of invest it"
+         },
+         {
+          "text": "demand stricter security protocols"
+         },
+         {
+          "text": "use cash instead of credit cards"
+         }
+        ],
+        "answer": 0,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         {
+          "text": "change the online bank contracts"
+         },
+         {
+          "text": "gain access to bank customer data"
+         },
+         {
+          "text": "put financial institutions' assets at risk"
+         },
+         {
+          "text": "amalgamate more data than their own apps"
+         }
+        ],
+        "answer": 1,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         {
+          "text": "customer"
+         },
+         {
+          "text": "investment"
+         },
+         {
+          "text": "password"
+         },
+         {
+          "text": "product"
+         }
+        ],
+        "answer": 3,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         {
+          "text": "dishonest"
+         },
+         {
+          "text": "greedy"
+         },
+         {
+          "text": "unhelpful"
+         },
+         {
+          "text": "discriminatory"
+         }
+        ],
+        "answer": 0,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         {
+          "text": "honesty is the best policy"
+         },
+         {
+          "text": "it's best to look before you leap"
+         },
+         {
+          "text": "money doesn't grow on trees"
+         },
+         {
+          "text": "every cloud has a silver lining"
+         }
+        ],
+        "answer": 1,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "warnings": [
+  "writing: source missing",
+  "speaking: source missing"
+ ]
+}

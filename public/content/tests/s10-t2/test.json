@@ -1,0 +1,1722 @@
+{
+ "id": "s10-t2",
+ "set": 10,
+ "test": 2,
+ "title": "Practice Test 10-2",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 44.4
+      },
+      "transcript": "Hello, could you please help me? I ordered this birthday cake and picked it up this morning, but when I opened it just now to put it on the table, I discovered that it says Happy 10th birthday David. It's supposed to say Happy 10th birthday Matthew. No problem. We can just order another one. No, that won't do. My son's party starts in an hour. I'm afraid I need a cake now. Okay, still not a problem. I can scrape the frosting off the top and redecorate it. You'll never notice the difference. Are you sure? Okay. I can do it right now. Can you come back in 15 minutes? Okay, thanks. I'll just go pick up a few extra things for the party. I'll be back in 20.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "It had the wrong name on it."
+         },
+         {
+          "text": "It was not finished cooking."
+         },
+         {
+          "text": "It got damaged in the box."
+         },
+         {
+          "text": "It was not decorated at all."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "What was the problem with the cake?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "a few minutes"
+         },
+         {
+          "text": "15 minutes"
+         },
+         {
+          "text": "around one hour"
+         },
+         {
+          "text": "20 minutes"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "How long will it take to fix the cake?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 39.1
+      },
+      "transcript": "Hello. How did the birthday party go? It was a disaster. I ordered a cherry cake. The cake was chocolate. Matthew is allergic Oh, I'm so sorry. There must have been a mix-up not only with the decoration, but with the cake itself. I'll see to it that you get a full refund. I'm afraid that won't be good enough. Matthew saw the cake, and I had to take it away from him. He was so upset. Oh, dear. I really am sorry. Let me contact the manager. Please do that. Nuts and bestings aren't the only things people are allergic to.",
+      "questions": [
+       {
+        "num": 3,
+        "options": [
+         {
+          "image": "media/listening_p1_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_2.jpg"
+         },
+         {
+          "image": "media/listening_p2_3.jpg"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "What kind of cake did the man want?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "bake another cake"
+         },
+         {
+          "text": "take the cake away"
+         },
+         {
+          "text": "check the original order"
+         },
+         {
+          "text": "notify her supervisor"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "What does the woman do?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": ": angry"
+         },
+         {
+          "text": "impatient"
+         },
+         {
+          "text": "confused"
+         },
+         {
+          "text": "worried"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "How is the man feeling?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 59.3
+      },
+      "transcript": "Hello, your conversation with our manager was satisfactory? Yes, thanks. He told me that he would be implementing new procedures in the Bakery department, so that kind of mistake would never happen again. Yes, we have a list of ingredients that are possible problems, and we are instructed to ask the customer not once, but twice about allergies. We are also supposed to tell the customer whether any of the ingredients on the list are in the products ordered. Well, that's good news. I don't want what happened to Matthew to happen to anyone else. Nor do I, and I apologize again. We've been careful about nuts, but I've never even heard of an allergy to chocolate. Well, every day there seems to be something new that kids are allergic to, so I think it's best to stay on top of it. I agree. I hope the manager also gave you a discount on future orders. I do hope you will order your next birthday cake from us. Well, actually, that's why I'm here.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "He fired one of the bakery employees"
+         },
+         {
+          "text": "He introduced new rules for bakery staff."
+         },
+         {
+          "text": "He sent the man a complimentary cake."
+         },
+         {
+          "text": "He created an allergy list."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "What action did the manager take?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "She cares about her customers."
+         },
+         {
+          "text": "She has a child with a food allergy."
+         },
+         {
+          "text": "She is able to offer discounts."
+         },
+         {
+          "text": "She asks about chocolate allergies"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "What is likely true of the woman?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "The woman will call her manager again."
+         },
+         {
+          "text": "The man will ask for a larger discount."
+         },
+         {
+          "text": "The man will order another cake."
+         },
+         {
+          "text": "The woman will make a frosting-free cake."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "What will likely happen next?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 109.4
+      },
+      "transcript": "Good morning, Rebecca. Morning, Jason. Do you want to grab a coffee down the hall? Sure. Let's go. How was your weekend? It wasn't bad. There was a huge sale at Metro Town, so I did some shopping. How about you? How was your weekend? It was awesome. You'll never guess what happened. You didn't catch another prize, Sam, and did you? you? That was an amazing first attempt. No, I didn't go out on the water. My buddy and I went for a hike out at Golden Ears Park, and we came face to face with a huge black bear. I mean, he was massive. Actually, pardon me, I should say she, as there were two cubs with her. Oh my goodness, what did you do? You didn't run, I hope. No, it just so happened that I had a bag of peanut butter sandwiches in my hand. So So I threw the bag of sandwiches as far as I could, past the bearers. I guess they smelled the peanut butter and went to investigate. We were so lucky. Those sandwiches must have smelled better than we did, because the bears ripped open the bag and started eating them. And you stuck around to watch them? Not a chance. We took off and headed back for the car. I've never moved so fast in my life. Luckily, we had hiked uphill, so the sprint back down to the car wasn't too bad. We jumped in, locked the doors, and tore out of there so fast. Next time I go hiking, I'm bringing one of those cans of air that works as a horn. I heard that noise is the best way to get rid of a bear. You are one lucky guy. How come that kind of thing never happens to me? Well, you don't see many bears at the mall. Very funny. I'm going camping at Harrison next weekend. Maybe I'll have a wildlife encounter to tell you about next Monday. just be careful",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "at home"
+         },
+         {
+          "text": "at the mall"
+         },
+         {
+          "text": "at work"
+         },
+         {
+          "text": "on the bus"
+         }
+        ],
+        "answer": 2,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "Careful. Question 1. Where are Jason and Rebecca?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "camping"
+         },
+         {
+          "text": "fishing"
+         },
+         {
+          "text": "hiking"
+         },
+         {
+          "text": "running"
+         }
+        ],
+        "answer": 2,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "Rebecca Question 2 What did Jason do last weekend?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "He distracted them with food."
+         },
+         {
+          "text": "He honked an air horn."
+         },
+         {
+          "text": "He ran uphill quickly."
+         },
+         {
+          "text": "He shouted loudly."
+         }
+        ],
+        "answer": 0,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "How did Jason get away from the bears?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "confusing"
+         },
+         {
+          "text": "exciting"
+         },
+         {
+          "text": "ordinary"
+         },
+         {
+          "text": "unreal"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "How would Rebecca describe Jason's experience?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "camp in the woods"
+         },
+         {
+          "text": "explore the mall"
+         },
+         {
+          "text": "find the bears"
+         },
+         {
+          "text": "photograph wild animals"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "What will Rebecca do next weekend?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 146.3
+      },
+      "transcript": "Hello Ellen, come on in. What did you want to see me about? Thank you Bob, and thanks for meeting with me. me. I'm going to be working at a children's camp this summer, and part of my job will involve teaching them. Things like games, songs, dances, that sort of thing. I was hoping you could give me some tips. That sounds fun. Well, let me see. First and foremost, make it fun. Children like to play. We all do. Learning something requires a lot of practice, and the more fun it is, the more likely they'll spend the time they need practicing. Yes, there's a certain method, I can't remember the name right now, a certain method of teaching music that uses that basic principle, and it's very successful, more successful than many traditional methods, maybe that's why. At the same time, you must recognize that practice involves repetition. Many children will want to do something once or twice and be done with it, but that won't be enough. more importantly each repetition must be done correctly otherwise they'll be practicing how to do it wrong how can I make sure they are practicing correctly I can't go home with them I can't watch them practice all the time no but if possible involve their parents they can watch them at home that's another tip I highly recommend okay thanks anything else oh I was was wondering about attention span techniques. Children have very short attention spans. They do indeed. So keep the lessons and practice times short. Two minutes of attention is better than 10 minutes of distraction. Five two minute sessions is better than one 10 minute session. Got it. I'll remember that. I'll make a big sign in my head. What about when they don't get it. Some children are more competent than others. Be patient. Do not punish. Do not even reprimand. That's the quickest way to lose them. If they want to learn what you're teaching, eventually they'll come around. And if they don't want to learn what I'm teaching, it's probably just as well. Not everyone has to learn everything. Exactly. Hmm. I can't think of anything else at the moment. Alright then, I'll let you get on with your day, and I want to thank you again for your tips.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "He was once one of the woman's teachers."
+         },
+         {
+          "text": "He created the method mentioned by the woman."
+         },
+         {
+          "text": "He taught music at the same place as the woman."
+         },
+         {
+          "text": "He was contacted in advance by the woman."
+         }
+        ],
+        "answer": 3,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "What is probably true about the man?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "to obtain advice"
+         },
+         {
+          "text": "to provide information"
+         },
+         {
+          "text": "to make a complaint"
+         },
+         {
+          "text": "to seek clarification"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "Why does the woman arrange the meeting?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "They have many principles in common."
+         },
+         {
+          "text": "They are extremely successful."
+         },
+         {
+          "text": "They don't make learning fun."
+         },
+         {
+          "text": "They don't emphasize practice."
+         }
+        ],
+        "answer": 2,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "What does the woman think about some traditional teaching methods?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "They should be minimal."
+         },
+         {
+          "text": "They should be accurate."
+         },
+         {
+          "text": "They should be part of the lesson."
+         },
+         {
+          "text": "They should be done quickly."
+         }
+        ],
+        "answer": 1,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "What does the man think about repetitions?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "accept children's limitations"
+         },
+         {
+          "text": "expect all children to pay attention"
+         },
+         {
+          "text": "reprimand gently to increase attention"
+         },
+         {
+          "text": "use signs to help children pay attention"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "What does the man say about attention span?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "appreciated"
+         },
+         {
+          "text": "obligated"
+         },
+         {
+          "text": "favoured"
+         },
+         {
+          "text": "pleased"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "How does the woman feel at the end of the conversation?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "It is about one and a half minutes long.",
+     "Then five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 112.1
+      },
+      "transcript": "Sharon Smith, head librarian at Rickman Public Library, has reported that the library's grant from the government will not be renewed for the coming year. Consequently, the library will start charging patrons for computer time, the amount not yet decided upon. Furthermore, she reports, although patrons may continue to make special requests for books not available at the library, there will be a $5 fee for books available elsewhere in the region. The fee for books outside the region will increase from $5 to $10. Lastly, residents will have to pay a small annual membership fee. Up to now, only non-residents have had to pay for membership privileges. Smith said that they regret doing this, but they're just trying to keep the library open. Today she learned that the province is providing grants for recreation instead of libraries. While conceding that recreation is important, Smith was upset that the government is funding in costly football leagues instead of the cheaper soccer games. She explained that not only are the equipment expenses less for soccer, but it's also more inclusive because there are girls' teams and boys' teams and leagues for all ages. You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Previously, the library's computers",
+        "options": [
+         {
+          "text": "cost nothing for the public."
+         },
+         {
+          "text": "charged a small user fee."
+         },
+         {
+          "text": "required a membership card."
+         },
+         {
+          "text": "had to be booked in advance."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Smith called the press to",
+        "options": [
+         {
+          "text": "make a complaint about sports."
+         },
+         {
+          "text": "inform the public of some changes."
+         },
+         {
+          "text": "encourage greater use of public libraries"
+         },
+         {
+          "text": "ask for book and computer donations."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Books unavailable at Rickman Library",
+        "options": [
+         {
+          "text": "can be read online."
+         },
+         {
+          "text": "will soon be purchased."
+         },
+         {
+          "text": "were not returned by others."
+         },
+         {
+          "text": "may be requested"
+         }
+        ],
+        "answer": 3,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Implementing fees will enable",
+        "options": [
+         {
+          "text": "the library to remain in business."
+         },
+         {
+          "text": "more special service requests."
+         },
+         {
+          "text": "the library to pay off its debts."
+         },
+         {
+          "text": "Smith to purchase more library books."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Smith thinks the government's decision",
+        "options": [
+         {
+          "text": "is a good one."
+         },
+         {
+          "text": "will affect mostly girls."
+         },
+         {
+          "text": "is a poor one."
+         },
+         {
+          "text": "will not make a difference."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "You will watch a two-minute video, then eight questions will appear.",
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 136.2
+      },
+      "transcript": "You will watch a discussion among three employees. There are two men and one woman. They are meeting to discuss a change at work. This is Edward. This is Ted. This is Claire. So as you've likely heard, the company's purchased a new software program to manage the client database. Now this means we're going to have to retrain all the sales representatives on how to use the new system. system. I've called you here to discuss some effective yet inexpensive training options. Hmm. Well, I know that the program comes with a user guide. One option would be to have the employees read the guide and try to figure it out on their own. It's definitely a cost effective option. I'm sorry, Ted, but that sounds so tedious. I've seen that user guide and it is not short. It's certainly an inexpensive option, but probably not an effective one. I I mean, what if people had questions about the information in the guide? What if they didn't even read it? Yeah, it probably wouldn't be an appealing task. Yeah, I was just throwing it out there. How about holding a training workshop that way people could attend in person and get hands-on experience? Hands-on training is definitely effective. I think the drawback there could be finding a time for the workshop amongst everybody's busy work schedules. We have to hire a trainer that could get tricky. Well, actually, I don't think we need to hire from outside. I know Paul and IT has a lot of experience using the program. We could ask him to deliver a workshop or two. That would definitely save us from having to hire somebody. I learn best from interactive training workshops. I like that option the best so far. Another option I've been considering is an online training module. Now, that way we can ensure that everyone's completed the training and they could do it whenever they have time. That sounds convenient, but kind of complicated. I mean, we'd have to hire someone with computer skills to create the module. It might take a lot of time, but it could be easier than scheduling a bunch of workshop training sessions. Well, we've got three options, or actually two. I think we can reel out the first one. Why don't we send out a quick survey to the employees and get their feedback? That sounds great. Ted, do you mind organizing that?",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What is the purpose of the meeting?",
+        "options": [
+         {
+          "text": "to brainstorm ideas"
+         },
+         {
+          "text": "to evaluate a program"
+         },
+         {
+          "text": "to discuss a new policy"
+         },
+         {
+          "text": "to learn about software"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What topic are the people discussing?",
+        "options": [
+         {
+          "text": "lack of employee training"
+         },
+         {
+          "text": "issues with the new software"
+         },
+         {
+          "text": "viable training methods"
+         },
+         {
+          "text": "possibly buying new software"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What is Claire's concern about relying on the user manual?»",
+        "options": [
+         {
+          "text": "It may just be thrown out."
+         },
+         {
+          "text": "It is boring to read through."
+         },
+         {
+          "text": "It may not be detailed enough."
+         },
+         {
+          "text": "It is only available online."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "How does Ted feel about his first suggestion?»",
+        "options": [
+         {
+          "text": "It is not his best idea."
+         },
+         {
+          "text": "It requires too much work."
+         },
+         {
+          "text": "It was meant as a joke."
+         },
+         {
+          "text": "It may not be simple"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What is Edward's main concern about training workshops?",
+        "options": [
+         {
+          "text": "The company trainers are too busy to give workshops."
+         },
+         {
+          "text": "Their office does not have enough space to hold them."
+         },
+         {
+          "text": "They need someone qualified to lead them."
+         },
+         {
+          "text": "Staff may not want to attend them."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "What is the disadvantage mentioned about an online training module?",
+        "options": [
+         {
+          "text": "Staff may neglect to complete it."
+         },
+         {
+          "text": "It requires resources to develop."
+         },
+         {
+          "text": "It could be very expensive."
+         },
+         {
+          "text": "Employees would rather interact."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What do the three people decide to do at the end?",
+        "options": [
+         {
+          "text": "find surveys about training"
+         },
+         {
+          "text": "get assistance from IT"
+         },
+         {
+          "text": "reconsider all options"
+         },
+         {
+          "text": "gather input from staff"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What field do the employees likely work in?",
+        "options": [
+         {
+          "text": "business services"
+         },
+         {
+          "text": "scientific research"
+         },
+         {
+          "text": "higher education"
+         },
+         {
+          "text": "public health care"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "points.",
+     "You will hear a report once.",
+     "It is about three minutes long.",
+     "Then, six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 267.9
+      },
+      "transcript": "The sole responsibility of a corporation, according to economist Milton Friedman, is to make money. A corporation exists to serve its shareholders, that is, any entity which owns any part of the company, whose goal is to increase the value of their investment in that company. As long as the decisions made by a company's executives further this aim, a corporation is fulfilling its duty. Profits aside, if a company's actions harm its employees, customers, the community, or the environment, surely this must be problematic. In recent decades, more people have realized that these affected groups, known as stakeholders, deserve consideration in corporate decision-making. In contrast to Friedman's shareholder view, the stakeholder view contends that corporations have an obligation to integrate social and environmental concerns into their business model. For example, corporations should contribute to community development, payment, pay respectable wages, or donate to worthy causes. For Milton Friedman, however, addressing social issues is the responsibility of the government not corporations. Asking companies to spend revenue on social welfare is akin to imposing taxation on shareholders. Friedman makes it clear that corporations are not public servants and so are not responsible to the public. What's more, a corporation, as an artificial construct, does not have moral or social responsibilities in the same sense as people. For Friedman, the sole social responsibility of a corporation is to maximize profits while obeying the law. Ethicist Margaret White says, Friedman is right in one sense. While it would undoubtedly be kind for a rich company to give money to a community struggling economically, we can no more require a company to hand out donations than we can require a person to give money to someone on the street who asks for change. Charity should not be mandated. White points out that in many cases, however, corporations are inextricably linked to social or environmental problems. problems. Many companies, for example, find legal loopholes to irresponsibly dispose of their waste. Though they manage to skirt the law, companies, just like people, should be held morally responsible for the consequences of their actions. Interestingly, whether companies agree or disagree with White, it's now in their interest to adopt a socially responsible position. With the rise of ethics-influenced consumerism, shoppers are demanding that products products be produced with the concerns of laborers, animals, and the environment in mind. Sadly, as a by-product, this has also given rise to a form of greenwashing and advertising, where companies market themselves with an environmentally friendly image for the sole interest of increasing sales. You You You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "A supporter of the stakeholder view might suggest corporations should",
+        "options": [
+         {
+          "text": "distribute profits evenly among shareholders."
+         },
+         {
+          "text": "involve executives in corporate decisions."
+         },
+         {
+          "text": "spend money on community-based projects"
+         },
+         {
+          "text": "request financial assistance from government."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Economist Milton Friedman references government to",
+        "options": [
+         {
+          "text": "show a similarity to corporations."
+         },
+         {
+          "text": "contrast the duties of corporations."
+         },
+         {
+          "text": "describe a problem faced by corporations"
+         },
+         {
+          "text": "exemplify how corporations are overseen."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Ethicist Margaret White would agree with Friedman that",
+        "options": [
+         {
+          "text": "companies serve the public by making money."
+         },
+         {
+          "text": "corporations cannot have moral responsibilities."
+         },
+         {
+          "text": "government should not interfere with business."
+         },
+         {
+          "text": "charity cannot be mandatory for companies"
+         }
+        ],
+        "answer": 3,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "White suggests that corporations are often",
+        "options": [
+         {
+          "text": "supportive of developing communities."
+         },
+         {
+          "text": "as generous as charitable organizations."
+         },
+         {
+          "text": "unfairly blamed for problems."
+         },
+         {
+          "text": "able to avoid moral obligations."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "According to the presentation, more people nowadays",
+        "options": [
+         {
+          "text": "support socially responsible companies."
+         },
+         {
+          "text": "want to work for ethical organizations."
+         },
+         {
+          "text": "are interested in producing their own products."
+         },
+         {
+          "text": "are doubtful of messages in marketing"
+         }
+        ],
+        "answer": 0,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The speaker suggests that companies",
+        "options": [
+         {
+          "text": "care about more than merely increasing their profits."
+         },
+         {
+          "text": "have agreed they have social responsibilities."
+         },
+         {
+          "text": "sometimes misrepresent themselves to sell products."
+         },
+         {
+          "text": "cause harm by not contributing to social welfare."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "Dear Kristin,",
+       "I can't believe I'm going to be visiting you in only three weeks! Since you moved away, you've already come back to Vancouver to visit. It's about time I repaid the favour. I can't wait to see Norway at last. Although I know you recently moved to an apartment in Oslo, I'd love to visit your parents' farm that you've told me so much about, especially since I'll be there in spring. The pictures you showed me of the flowers blooming in the hills were incredible.",
+       "As we discussed before, I'm still up for traveling around Europe for a week after you show me around Norway. I agree with you that buying a train pass and stopping off at various cities would be fun, and also the least expensive way of getting around. I looked into my budget and I've been able to save a lot more than I expected, so we could even travel in the Comfort class rather than the Economy class which we had originally intended. For a 3-hour train ride, Comfort class tickets are around $90, and Economy tickets are $60. I don't mind either way, but wider seats sound a lot more luxurious. It is up to you. Just let me know what you decide.",
+       "I propose we fly to Amsterdam to start off and then take the train from there. Id like to spend at least a few days exploring Amsterdam. My mother attended a business conference there last year and she said I'd love it. I'm interested in visiting the museum of Van Gogh, as he's always been my favourite artist. The museum has the biggest collection in the world of Van Gogh's art, with some 200 paintings and over 550 sketches. That would be amazing to see.",
+       "After Amsterdam, I'm not picky where we go with the train pass. I'd love to visit Paris and Brussels, but we could also just not plan anything and decide in the moment. As long as I'm back in Oslo on Aug 27th for my flight back to Vancouver, I'm up for anything.",
+       "I'll call you in a few days to give you my flight details. I'm so excited to see you!",
+       "Alex"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Alex wrote this letter to",
+        "options": [
+         "apologize for cancelling the trip",
+         "purchase train tickets.",
+         "comment on some beautiful flowers.",
+         "set a tentative travel schedule."
+        ],
+        "answer": 3,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Which city has Kristin been to at least two times?",
+        "options": [
+         "Amsterdam",
+         "Vancouver",
+         "Oslo",
+         "Paris"
+        ],
+        "answer": 1,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Kristin lives",
+        "options": [
+         "on a farm with her parents.",
+         "in Vancouver.",
+         "in Amsterdam.",
+         "in an apartment in Oslo."
+        ],
+        "answer": 3,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "After spending time in Norway, Alex wants tor",
+        "options": [
+         "head back to Vancouver.",
+         "check out Brussels.",
+         "steer clear of Paris.",
+         "hop on a plane to Amsterdam."
+        ],
+        "answer": 3,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Alex would prefer to",
+        "options": [
+         "travel Comfort class.",
+         "travel Economy class.",
+         "rent a car.",
+         "rent a bike."
+        ],
+        "answer": 0,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Alex has already",
+        "options": [
+         "explored Amsterdam.",
+         "bought train tickets.",
+         "booked a flight back to Vancouver.",
+         "called Kristin with the flight details."
+        ],
+        "answer": 2,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks.",
+      "paragraphs": [
+       "Select the best choice for each blank from the drop-down menu ().",
+       "Dear Alex,",
+       "I was thrilled to get your letter, and I'm really looking forward to seeing you again. I appreciate your {{7}} budgeting. However, I think I can go along with your budget.",
+       "My brother is driving out to my parents' {{8}} the day after you arrive, so we can get a ride with him. From there we can get on the train and start our European adventure. You're right about spending a little more on the train tickets; the seats are much {{9}} making the trip a lot more pleasant.",
+       "Once we reach Amsterdam, I'd love to explore the area for a couple of days and {{10}} which sounds incredible. I also love your idea about being a bit {{11}} for the latter part of the trip.",
+       "I'll await your call with the travel details.",
+       "Yours truly,",
+       "Kristin"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "flexibility with",
+         "low cost",
+         "uncertainty about",
+         "worrying about"
+        ],
+        "answer": 0,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "place in the country",
+         "apartment downtown",
+         "condo in Oslo",
+         "cabin by the lake"
+        ],
+        "answer": 0,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "prettier",
+         "roomier",
+         "softer",
+         "fancier"
+        ],
+        "answer": 1,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "visit the Van Gogh Museum",
+         "get a flight to Paris",
+         "attend the business conference",
+         "then head back home"
+        ],
+        "answer": 0,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "more organised",
+         "more spontaneous",
+         "less busy",
+         "less casual"
+        ],
+        "answer": 1,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_3.jpg"
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_2.jpg"
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu ().",
+      "paragraphs": [
+       "Subject: Friday Breakfast",
+       "To: <operationsgroup@taryn.ca>",
+       "From: Moira Cohen < moiracohen@taryn.ca>",
+       "Hi all,",
+       "A quick reminder about our {{1}} this Friday. The restaurant is round the corner from our office. Try to decide on your order ahead of time (menu attached), so we can get down to business when we get there. There are a few vegetarian options including a veggie breakfast and {{2}}. For those taking part in the \"body for life\" office activity, I think you'll find the {{3}} is the least fattening option. For those of you who just want a good, filling start to the day, there are plenty of choices and additional {{4}} if you want. And to top it off, it looks like the coffee is {{5}} so you can drink as much as you like (and our company will pick up the bill anyway).",
+       "Cheers,",
+       "Moira"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "client visit",
+         "morning meeting",
+         "restaurant inspection",
+         "health and diet meeting"
+        ],
+        "answer": 1,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "a burrito",
+         "an eggs benedict",
+         "a hearty breakfast",
+         "an omelette"
+        ],
+        "answer": 3,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "Lifestyle Oatmeal and Fruit",
+         "Healthy Mushroom, Spinach, and Cheese Omelette",
+         "Veggie Breakfast",
+         "Eggs Benedict"
+        ],
+        "answer": 1,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "hashbrowns",
+         "sausages",
+         "eggs",
+         "ice cream"
+        ],
+        "answer": 0,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "about a loonie",
+         "thrown in too",
+         "only a toonie",
+         "on the house"
+        ],
+        "answer": 0,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (), choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Moira is writing to hery",
+        "options": [
+         "clients.",
+         "team.",
+         "employers.",
+         "friends."
+        ],
+        "answer": 1,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Moira's tone is»",
+        "options": [
+         "formal.",
+         "excited.",
+         "indecisive.",
+         "impatient."
+        ],
+        "answer": 0,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Moira's purpose is tor",
+        "options": [
+         "gather opinions.",
+         "ask permission.",
+         "be efficient.",
+         "settle a dispute."
+        ],
+        "answer": 2,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. On any sunny day in Toronto, one is guaranteed to find crowds at the Jack Layton Ferry Terminal, waiting to travel to the Toronto Islands. In fact, roughly one million people visit the islands by boat every year. The Toronto Islands have an intriguing history due to their close proximity to the downtown core. An airport, an amusement park, several beaches, and about 250 family homes draw people south across the harbour, especially in summer months. The islands are the largest car-free urban community in North America. Their natural beauty, juxtaposed with the soaring skyline of downtown Toronto, provides a peaceful reprieve from the hustle and bustle of the city.",
+       "B. The region referred to as the Toronto Islands today was formerly a peninsula. When the city was settled by Europeans in 1750, the islands were connected to the mainland. The Gibraltar Point Lighthouse was the first building erected on the islands in 1808. Urbanization slowed after a powerful storm in 1858 flooded the eastern edge of the peninsula. Unbeknownst to locals at the time, the flood would create what would become one of Toronto's most popular tourist attractions. Development continued throughout the nineteenth century, highlighted by the construction of an amusement park and baseball stadium by the first year-round inhabitants of the islands, the Hanlan family.",
+       "C. Proposals to reconnect the islands to the city by construction of a bridge or tunnel were commonly supported by local islanders throughout history. When a connection to the mainland by tunnel was completed in 2015, it was done through private funding and with the singular goal of improving access to the Billy Bishop airport for travellers. This tunnel is for pedestrians only; aside from the airport, the only vehicular access for those who reside on the islands is by private ferry boat. The number of houses on the islands peaked at roughly 650 in the mid-twentieth century. After building a downtown waterfront highway, city officials decided to replace lost recreational space with beaches and parkland on the islands. Two hundred sixty houses survived the city's attempts to demolish all of the residential districts.",
+       "D. Today, in the warmer months, visitors are constantly queued up to take the island ferries. Many choose to rent bicycles to explore the island. Tourists commonly seek out the islands' many iconic attractions, including the old lighthouse, the Olympic Island Bridge, and the Centreville Amusement Park, built in 1967. Some also come to swim and sunbathe. Located on the western part of the Toronto Islands, Hanlan's Point Beach is not only recognized for its connection in name to the area's first family, but also for its status as one of Canada's two clothing-optional beaches.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Boating enthusiasts enjoy sailing around the islands in summer.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Improved infrastructure allows easier access to the islands for some people.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The geography of the island area was impacted by the weather.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "In the past, pedestrians could simply walk from the mainland to the island area.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Individuals living on the islands must use a boat to travel downtown.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "A visitor to the islands would not be able to use a car there.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "The Toronto islands are located in the western part of Lake Ontario.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "One of the area's attractions carries a title that honours its past.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "The contrast between the city's skyline and the forested islands is striking",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "The Demise of Bricks-and-Mortar Retailers",
+       "As yet another department store chain closes its doors forever today, we find ourselves on the cusp of a retail revolution. This past year, more than 3,200 bricks-and-mortar retailers have closed, and that number is expected to exceed 8,600 prior to the year's end. To put this in perspective, 2008, the worst year on record for store closures, saw a total of 6,163 closings.",
+       "Adding salt to the wounds of nosediving stores are the recent statements of billionaire investor Wayne Branson. Branson foresees a complete overhaul of the retail industry within a decade: \"The world is continually evolving; today's department store is online.\" Branson is also putting his money where his mouth is by selling his shares in the retail industry. \"Retail has always been a cutthroat industry, and cracking the code to online success can elude even the savviest of businesspeople,\" he admits.",
+       "Economist Max Ling highlights that retail is being dramatically altered by the rise of e-commerce and shifts in consumer spending. \"People nowadays are opting to spend money on experiences rather than goods, choosing to enjoy trips, live music, culinary delights, and the latest tech gadgets rather than purchasing clothing and accessories. Investors believe this signals a permanent shift in consumers' spending habits, since retail decline is occurring despite a robust economy,\" says Ling",
+       "Strategic retail advisor Simone Schule insists that it is not all doom and gloom for all bricks-and-mortar retailers. Schule argues that we are seeing the collapse of the middle road: those who offer decent prices, but not the best; those who have some services, but nothing impressive; or those whose products are abundant, but not unique. According to Schule, \"brands that offer great value and purchasing efficiency are succeeding. Think of any number of dollar stores. These companies are actually opening new locations. They're seeing strong growth, as are many luxury brands and high-end specialty stores.\"",
+       "Perhaps this is the era of the consumer. The writing is on the wall: retailers need to meet the needs of consumers, and if buyers' demands fall on deaf ears, so long!",
+       "Omar Lopez"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "What is this article mainly about?",
+        "options": [
+         "economic decline",
+         "online trends",
+         "retail prices",
+         "Industry changes"
+        ],
+        "answer": 3,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What would Wayne Branson most likely advise?»",
+        "options": [
+         "moving investments to online retailers",
+         "making investments in non-retail markets",
+         "buying retail shares during the current depression",
+         "researching bricks-and-mortar retailers thoroughly"
+        ],
+        "answer": 1,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What does Wayne Branson believe is true?",
+        "options": [
+         "Online success is easy to achieve.",
+         "Retailers lack innovative ideas.",
+         "Online stores evolved too quickly.",
+         "Retailers face a challenging future."
+        ],
+        "answer": 3,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What do experts suggest about the current retail trend?",
+        "options": [
+         "It reflects a change in preferences.",
+         "It negatively impacts the economy.",
+         "It is a temporary consumer trend.",
+         "It weakens online retail activities."
+        ],
+        "answer": 0,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The writer feels that retailers should bey",
+        "options": [
+         "efficient.",
+         "optimistic.",
+         "strategic.",
+         "demanding."
+        ],
+        "answer": 2,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "Despite {{6}}, I can't help but feel Lopez's account is inaccurate. Contrary to {{7}}, a study released last week claims that the vast majority of retail purchases occur in-store. Consumers reported a preference for shopping in physical stores due to the presence of many features and services unavailable online. As Schule asserts, shoppers today want {{8}}, regardless of the channel. Nonetheless, I do find the fact that {{9}} these days a bit surprising. I do agree on one point made, however. My spending habits reflect those described in the article. I would rather {{10}} than have things.",
+       "Rhonda Boucher"
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "the inclusion of statistics",
+         "the endorsement of Schule",
+         "its focus on global retail",
+         "its promising outlook"
+        ],
+        "answer": 0,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "what Branson implies",
+         "Max Ling's predictions",
+         "Omar Lopez's research",
+         "what Schule indicates"
+        ],
+        "answer": 0,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "friendly service",
+         "exceptional deals",
+         "trusted brands",
+         "secure purchasing"
+        ],
+        "answer": 1,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "people are investing less money",
+         "consumers are shopping more",
+         "high-end stores are booming",
+         "the economy is taking a downturn"
+        ],
+        "answer": 2,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "save for future difficulties",
+         "spend my money online",
+         "set off on an adventure",
+         "invest my money wisely"
+        ],
+        "answer": 2,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "information.",
+     "You are taking an evening class at your local university, which is related to your job. On the last day of class, your professor announces that she is leaving the university because she was hired as a full-time professor at another university."
+    ],
+    "instruction": "Write an email to your professor in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Express how you feel about her leaving and her new position.",
+     "Explain what you enjoyed about her class.",
+     "Request to stay in contact and suggest a few ways to do so."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "information.",
+     "Workplace Fundraiser Project Survey Your manager is surveying your opinion about fundraising for the community. This year's fundraising goal is $1,000. One option is to sell $2 chocolate bars to friends and family over a period of two months. The other option is to host a dinner party at a local restaurant for family and friends and charge each guest $30."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I would like to sell chocolate bars for two months.",
+     "Option B: I would like to help plan and host a dinner party."
+    ],
+    "surveyTitle": null,
+    "samples": [],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your nephew is moving out of his parents' home for the first time. Advise him about what he might need to do when living on his own."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you won something. Maybe you can talk about a game that you played with friends, an award at school, or a contest you entered. What did you win, how did you win, and how did you feel about it?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "You are going on a camping trip with your family and need to purchase a tent. You found two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade a family member that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "A family member is suggesting another choice. Persuade your family member that the tent you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "You and three co-workers, Alice, George, and Mike, work together on a project. Alice frequently calls in sick on Mondays. George thinks Alice is lying to get extra vacation time and wants the group to report her to the supervisor. Mike thinks Alice could really be sick and that the three of you should not get involved."
+    ],
+    "choices": [
+     "Talk to George. Explain why the three of you should not get involved.",
+     "Talk to Mike. Explain why the three of you should report Alice."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think that children should be allowed to remain indoors during their breaks at school? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You just bought a designer phone from a company online. When it's delivered, you see some problems. Call the customer service department of the phone company and describe in detail what the problems are. Ask if they can deliver a new phone to you, or refund your money if you prefer."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

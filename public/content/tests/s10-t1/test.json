@@ -1,0 +1,1779 @@
+{
+ "id": "s10-t1",
+ "set": 10,
+ "test": 1,
+ "title": "Practice Test 10-1",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You"
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 52.0
+      },
+      "transcript": "Hello. I'm Mark. Hello. I'm Teresa. You're new here, yes? I've been away for a few months, which would explain why we haven't met yet. How's your garden coming along? Yes, I'm relatively Tilly knew. And I'm afraid I'm having some troubles already. Oh no, what's going on? Someone's been stealing my tomatoes. Oh no! That's so sad. Unfortunately, it's pretty common in a community garden. Sorry to hear that though. Any idea who's stealing them? I have no idea. It's hard to believe it might be a fellow garden member, but you never know. No. Or sometimes kids like to come through and have a snack. I've caught them eating my raspberries a few times. Do you think I should put a sign up? There's no harm in trying, but to be honest, I doubt a sign will stop anyone.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "His tomatoes are not growing well."
+         },
+         {
+          "text": "Some of his plants are disappearing."
+         },
+         {
+          "text": "His gardening tools have been stolen."
+         },
+         {
+          "text": "Someone's been eating his raspberries."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "What is the man unhappy about?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "She is unsurprised"
+         },
+         {
+          "text": "She is alarmed"
+         },
+         {
+          "text": "She does not believe him."
+         },
+         {
+          "text": "She is confused."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "What is the woman's reaction to the man's news?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 48.4
+      },
+      "transcript": "Hello again. Hi there, how's the garden? Not so good. I put up a sign, but more tomatoes are gone today. I haven't been able to eat a single ripe tomato. Only the green ones are left. Well, you could pick the green ones and make a green tomato salsa. I'm not much of a salsa fan. Do you have any other suggestions? This is a sneaky one, but you could sprinkle some baking flour on your green tomatoes. Baking flour? What good would that do? People will think it's insecticide or pesticide or something, so they won't want your tomatoes. I never would have thought of that. Thanks! Thanks",
+      "questions": [
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "She is suggesting he grow something else."
+         },
+         {
+          "text": "She thinks they are the best for cooking."
+         },
+         {
+          "text": "She's trying to make the man feel better."
+         },
+         {
+          "text": "She wants to share a green salsa recipe."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "Why does the woman mention green tomatoes?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "It makes them taste better."
+         },
+         {
+          "text": "It makes them ripen quickly."
+         },
+         {
+          "text": "It makes them grow bigger."
+         },
+         {
+          "text": "It makes them look strange."
+         }
+        ],
+        "answer": 3,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "You"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "put up another warning sign"
+         },
+         {
+          "text": "stop growing red tomatoes"
+         },
+         {
+          "text": "make his tomatoes seem toxic"
+         },
+         {
+          "text": "make some green tomato salsa"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "What is a man likely to do next?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 48.4
+      },
+      "transcript": "Hey, how are the tomatoes? There is a few red ones. The flower trick seems to be working. But I had a new thought. Maybe rabbits are eating my tomatoes. Hmm. When I think of rabbits and gardens, I think of them eating lettuce and green leafy stuff. But maybe they like tomatoes too. Anyway, I decided to put a wire fence around my tomato section. You know, out of that silver chicken wire netting? Oh, I'm afraid we have a policy against that sort of thing. There was a vote last year and most people said they didn't want, well, they didn't think wire fencing was attractive. Oh, really? That's too bad. How about a wooden fence instead? That would be okay. Sure. I'll do that then.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "image": "media/listening_p2_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_2.jpg"
+         },
+         {
+          "image": "media/listening_p2_3.jpg"
+         },
+         {
+          "image": "media/listening_p2_4.jpg"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "What does the man think is responsible for his problem?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "put out a wire trap to catch any pests"
+         },
+         {
+          "text": "put up a protective wooden fence"
+         },
+         {
+          "text": "replace the existing wire fence"
+         },
+         {
+          "text": "repair the wire mesh around his tomatoes"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "What does a man plan to do?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "safety"
+         },
+         {
+          "text": "appearance"
+         },
+         {
+          "text": "seed quality"
+         },
+         {
+          "text": "water quality"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "What are many of the community garden members concerned about?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 106.3
+      },
+      "transcript": "Hello, is David there? Speaking. Hi David, this is Sandra. How's it going? Not too bad. What's new with you? Not much. Things are busy at work. But you know me. I like it when there's lots to do. Listen, I saw a job posting today and I immediately thought of you. you. I know last month you mentioned you were looking for a career change. Thanks for thinking of me. I'd love to check it out. Don't get me wrong. I really enjoy working at the dealership, but ever since I got my Realtors license last year, I've been wanting to make the switch. Well, the ad says that they're looking for motivated, enthusiastic people, which I think describes you perfectly. It doesn't mention qualifications, and I can't see any details on salary. Oh, here. It says compensation TBD. I guess that means to be determined? Yeah. In real estate sales, the salary is usually based on commission. Where's the agency located? It's right in your neighborhood. The company is Romnax. You know, the one across the street from Superstore on King Street? Think about it. No more commuting. You would definitely save on gas and parking. Well, if it's that close to home, I might as well bike to work every day and get the exercise. Remember, I need to get my training up to speed for the New Year's bike race. That's a great idea, and it's always so expensive to park downtown. So are you going to apply for the job? Yeah, I think I will. Can you email me the link? I just updated my resume, so I'll write a cover letter and apply today. Thanks so much for thinking of me. No problem. But if you get the job, you owe me lunch.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "to arrange a work lunch"
+         },
+         {
+          "text": "to discuss job listings"
+         },
+         {
+          "text": "to offer him a position"
+         },
+         {
+          "text": "to tell him about a job"
+         }
+        ],
+        "answer": 3,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "Why did the woman call the man?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "make a career change"
+         },
+         {
+          "text": "get a promotion"
+         },
+         {
+          "text": "make more money"
+         },
+         {
+          "text": "study for a new license"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "What does the man want to do?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "lunch breaks"
+         },
+         {
+          "text": "office location"
+         },
+         {
+          "text": "parking lots"
+         },
+         {
+          "text": "employee training"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "What detail does the man want to know more about?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "He is buying a car to commute."
+         },
+         {
+          "text": "It could be a major expense."
+         },
+         {
+          "text": "The cost isn't mentioned in the posting."
+         },
+         {
+          "text": "The man asked about availability."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "Why does the woman mention parking?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "get his realtor's license"
+         },
+         {
+          "text": "research the agency"
+         },
+         {
+          "text": "respond to the ad"
+         },
+         {
+          "text": "take the woman to lunch"
+         }
+        ],
+        "answer": 2,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "What will the man probably do after the conversation?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 143.4
+      },
+      "transcript": "Welcome to Aqua World, how can I help you? Hi, I'm interested in purchasing a fish aquarium. I'm an animal lover and I've had all different kinds of pets, but never fish. I've always wanted to try owning my own aquarium. Well, you've come to the right place. I can certainly help you get started. Now, were you considering a freshwater aquarium or a saltwater one? I've always wanted a saltwater aquarium. I love tropical fish and coral reefs, but I've heard that freshwater tanks are easier for beginners to maintain. That is generally true. However, it's more the size of your tank setup that will determine how hard it is to take care of. Right, I see. A big tank is more difficult to take care of than a little one, of course. Actually, that's a very common misconception. It sounds strange, but the larger the tank, the easier it is to take care of. This is because a larger volume of water helps to maintain temperature changes and the quality of the water. Wow, I didn't know that. Do you think I should get salt water then? If you think this is going to be a serious hobby for you, I would get the aquarium you'll enjoy the most. It sounds like you want a saltwater tank. Now, to be honest with you, saltwater aquariums generally cost more than freshwater ones ones, because they tend to require additional equipment. If you want living corals, they usually need special lighting. I think I will get salt water. And yes, I'd like corals. They're so colorful. They're actually the main reason I'd prefer salt water to fresh water. So in addition to a tank, fish, and corals, what are the basics that I need to buy? You will need a good filtration system, which continuously cleans the water. You will also need sand for the tank floor and marine salt to add to the water. Then you need lighting and a water test kit and food for the fish, of course. Okay, sounds good. Would you be able to show me where I'd get all these things? Absolutely, follow me and we can get started.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "because his apartment building doesn't allow pets"
+         },
+         {
+          "text": "because he's never owned an aquarium before"
+         },
+         {
+          "text": "because they are easier to care for than other animals"
+         },
+         {
+          "text": "because he loved having tropical fish as a child"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "Why does the man want to purchase a fish aquarium?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "a tank that holds more water"
+         },
+         {
+          "text": "a tank that holds salt water"
+         },
+         {
+          "text": "a tank that holds less water"
+         },
+         {
+          "text": "a tank that holds cooler water"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "What kind of tank is easier to maintain?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "because the water requires special chemicals"
+         },
+         {
+          "text": "because they require constant cleaning"
+         },
+         {
+          "text": "because they need more specialized equipment"
+         },
+         {
+          "text": "because they are usually very big tanks"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "Why do saltwater aquariums cost more?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "because they are less expensive in the long run"
+         },
+         {
+          "text": "because they require less additional equipment"
+         },
+         {
+          "text": "because it is his first time caring for a fish tank"
+         },
+         {
+          "text": "because she thinks he'll appreciate it more"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "Why does the woman suggest the man get a saltwater tank?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "He thinks coral is easier to look after."
+         },
+         {
+          "text": "He thinks coral is beautiful to look at."
+         },
+         {
+          "text": "He thinks coral helps keep the tank warm."
+         },
+         {
+          "text": "He thinks coral keeps the fish healthy."
+         }
+        ],
+        "answer": 1,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "Why does the man like coral?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "He will need to buy a special pump"
+         },
+         {
+          "text": "He will need to get an installation service."
+         },
+         {
+          "text": "He will need to get sand for the aquarium."
+         },
+         {
+          "text": "He will need to get vitamins for the fish."
+         }
+        ],
+        "answer": 2,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "What else will the man need to get?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "months.",
+     "It is about one and a half minutes long.",
+     "Then, five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 119.1
+      },
+      "transcript": "The principal at a local Winnipeg High School couldn't believe his eyes when he discovered a valuable artifact at work. Edward O'Reilly has been working at Winnipeg Secondary School for over 15 years, first as an art teacher and later as its principal. While moving some office furniture last week, O'Reilly discovered a large beautiful painting hidden behind an old filing cabinet once used by his predecessor to store school records. The original painting, lushly colored with bright watercolors, was painted by the expert hand of legendary painter, Alejandra Lalande. It was later appraised by local art experts to be valued at approximately $10,000. Speaking with reporters at a press conference, O'Reilly recalled why he was rearranging his office in the first place. He said that the school janitor had asked him to move the filing cabinet so that he could reach the ceiling vent and do a quick repair. O'Reilly was extremely surprised to find the treasure, since he does spring cleaning of his office each year. However, he never thought to look behind the old filing cabinet. The discovery is opportune, as now the school has resources to add music to their curriculum. You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Edward O'Reilly",
+        "options": [
+         {
+          "text": "rarely rearranges his office furniture."
+         },
+         {
+          "text": "often repairs his own furniture."
+         },
+         {
+          "text": "enjoys collecting watercolour artwork"
+         },
+         {
+          "text": "enjoys being surprised"
+         }
+        ],
+        "answer": 0,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The old filing cabinet",
+        "options": [
+         {
+          "text": "was preventing proper air ventilation."
+         },
+         {
+          "text": "was hiding a valuable work of art."
+         },
+         {
+          "text": "has been emptied by the janitor."
+         },
+         {
+          "text": "contained valuable documents."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The main reason for the press conference was to",
+        "options": [
+         {
+          "text": "invite the audience to solve a mystery."
+         },
+         {
+          "text": "appraise a piece of artwork at ten thousand dollars."
+         },
+         {
+          "text": "explain the origins of an old filing cabinet."
+         },
+         {
+          "text": "describe the circumstances of a remarkable event."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The best headline for this news story would be",
+        "options": [
+         {
+          "text": "\"Masterpiece Re-Emerges at a Local High School.\""
+         },
+         {
+          "text": "\"School Principal Paints Outstanding Artwork in Watercolour.\""
+         },
+         {
+          "text": "\"Filing Cabinets Pose Safety Hazard in School Offices.\""
+         },
+         {
+          "text": "\"Missing Painting Recovered Thanks to Joint Effort.\""
+         }
+        ],
+        "answer": 0,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The principal intends to",
+        "options": [
+         {
+          "text": "sell the painting."
+         },
+         {
+          "text": "offer art classes."
+         },
+         {
+          "text": "become a painter."
+         },
+         {
+          "text": "reward the janitor."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "You will watch a two-minute video, then eight questions will appear.",
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 160.8
+      },
+      "transcript": "You will watch a discussion among three people, two men and one woman at a gas station office. They are dealing with an issue at their workplace. This is Daniel. This is Jerry. This is Louise. Hey Jerry, the washrooms need to be cleaned. Do you mind doing it before you take your lunch break? Yeah sure thing. Just let me finish sending this text message. It hasn't been that busy so I'm sure they're not that bad. Don't worry Daniel. I did them a couple hours ago and only a few customers have used them since then. Besides, Jerry's making plans with his girlfriend. You don't want to mess up his weekend, do you? Sometimes I just don't understand your generation. All your texting and cell phones, you spend so much time with your faces buried in a screen that you don't even talk to the people who are standing right in front of you. When I was a teenager, I would call my girlfriend up, or talk to her face to face. This new age of technology is so impersonal. You and my mom would get along great, but times change. We save so much time by texting. We can get things done without wasting time chatting on the phone. That's why our generation is great at multitasking. Totally. With texting, I can make plans with my girlfriend and help customers at the same time. You cannot do that while you're talking on the phone. Well, let's not forget, I didn't hire you to socialize. I hired you to work. When your face is buried in your phone, you can't even see the customers. I know you guys aren't planning to stay here forever. You don't care about promotions, but if you want to get a decent letter of recommendation for me when you decide to move on, you'll put your phones away. Whoa. Sorry Daniel. I didn't realize I bothered you so much. Listen, I really need this reference for my university application. If I don't get into university, I don't stand much chance of getting my dream job. I'll save the texting from my breaks. I don't want to mess up my reference either, but I don't get the problem. We live in a digital world that keeps moving and changing. If you don't stay connected, it's hard to get caught up. I'm not just sending silly texts. I'm doing my banking, sending emails, researching information. I really don't see how it interferes with getting my work done, but if you insist I'll put my phone away. Thanks you too. I may be a little fashioned, but so are most of my customers, and I know that they don't appreciate getting served by somebody whose focus is more on their phone than on them.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What is the cause of this workplace conflict?",
+        "options": [
+         {
+          "text": "differing perspectives"
+         },
+         {
+          "text": "stringent rules"
+         },
+         {
+          "text": "technical difficulties"
+         },
+         {
+          "text": "customer complaints"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Why does Louise think the washrooms are clean enough?",
+        "options": [
+         {
+          "text": "She just went to check them."
+         },
+         {
+          "text": "Someone else just cleaned them."
+         },
+         {
+          "text": "No customers have used them."
+         },
+         {
+          "text": "She has cleaned them recently."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Why is Daniel upset?",
+        "options": [
+         {
+          "text": "His employees are not serving the customers."
+         },
+         {
+          "text": "His staff doesn't plan on working for him long-term."
+         },
+         {
+          "text": "His employees are providing poor customer service."
+         },
+         {
+          "text": "The bathrooms are being neglected by cleaning staff."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "How does Louise feel about texting?",
+        "options": [
+         {
+          "text": "It's efficient."
+         },
+         {
+          "text": "It's silly."
+         },
+         {
+          "text": "It's private."
+         },
+         {
+          "text": "It's changing"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "According to Louise, what are young people good at today?",
+        "options": [
+         {
+          "text": "managing their time"
+         },
+         {
+          "text": "finding out information"
+         },
+         {
+          "text": "communicating with others"
+         },
+         {
+          "text": "handling their banking"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Why does Jerry need a good reference?",
+        "options": [
+         {
+          "text": "for a promotion at work"
+         },
+         {
+          "text": "for a school application"
+         },
+         {
+          "text": "to apply for a scholarship"
+         },
+         {
+          "text": "to get a better job"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What will probably happen after this conversation?",
+        "options": [
+         {
+          "text": "Jerry will find a new reference."
+         },
+         {
+          "text": "Louise will do her banking in person."
+         },
+         {
+          "text": "Louise will finally clean the bathroom."
+         },
+         {
+          "text": "Jerry will be more attentive at work."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What is the biggest difference between Daniel and his two employees?",
+        "options": [
+         {
+          "text": "Willingness to work hard"
+         },
+         {
+          "text": "customer service skills"
+         },
+         {
+          "text": "communication preferences"
+         },
+         {
+          "text": "social life outside of work"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "It is about three minutes long.",
+     "Then, six questions will appear.",
+     "Here, choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 256.3
+      },
+      "transcript": "Calgary-based English as a second language teacher, Mark Dugard, has pledged to give up his intimate relationship with his ESL textbooks. books. Duggard has just embarked on an experiment with an radically outside-the-box language-teaching approach called Lexilurn English Language Teaching. Lexilurn-style lessons are based on spontaneous, free-flowing, and undirected student conversations. Publishers, textbooks, and workbooks are shunned, as are syllabi, course outlines, and even lesson plans. Instead, Instead, the learning objectives are inductively derived from whatever language naturally emerges from the students. Lexa-Learn isn't so much a teaching method as an anti-method. One Lexi-Learn devotee is Madison Chang, who teaches conversational English at Toronto's Interglobe Learning Center. She adopted the Lexi-Learn approach two years ago and hasn't looked back. In the past, she says, she would slavishly follow the dialogues, stories, and grammar in the textbook, but now she and her students collaboratively create these texts as they emerge from natural conversations. Chang says students are much more engaged with and take greater pride in texts they've authored and grammar they've produced themselves. With Lexi-Learn, Chang feels more attuned to her students, listening intently to everything everything they say, so that she can tease out narratives and extrapolate relevant grammatical structures. Chain says Lexalern has made her a more creative and engaged teacher. It forces her to think on her feet. But Regina College principal Evan Casowitz, derides the Lexalern approach as nothing more than a dignified term for winging it. Casawitz, who trains the school's ESL teachers, notes that the few and far between teachers who succeed with the approach tend to be unusually gifted at making up activities as they go along, even when preparation was obviously needed. Casawitz also charges that Lexi-Learn is elitist because its practitioners must be highly fluent native speakers of English, a rarity among ESL teachers worldwide. And even with an impeccable LexiLearn teacher, the approach still doesn't work with many students. Those wanting test preparation, those from cultures where textbooks are seen as giving credibility to the course, and finally, Kazuit says with an ominous tone, teenagers, don't ever try LexiLearn in a large classroom of of adolescence, Kazawitz warns. It will fail beyond your worst nightmare. Happily for Mark Dugard back in Calgary, his classroom is full of adults. Whether or not Lexi-Learn becomes a permanent fixture in his classroom, Dugard says the first 15 minutes of his class will always be what he calls, not true Lexi-Learn, but certainly Lexi-Learn-esque. Starting every class with undirected voluntary conversation, Dugard says, puts the students at ease and prepares them to learn. But that's not Lexi-Learn in Sis-Stuggard. It's just a good warm-up. You You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Chang and Dugard seem equally interested in",
+        "options": [
+         {
+          "text": "alternative approaches."
+         },
+         {
+          "text": "classroom textbooks."
+         },
+         {
+          "text": "grammar structures."
+         },
+         {
+          "text": "language assessment."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Lexilearn suits teachers who",
+        "options": [
+         {
+          "text": "like to plan their lessons in detail."
+         },
+         {
+          "text": "speak English as a second language."
+         },
+         {
+          "text": "succeed at spontaneous activities."
+         },
+         {
+          "text": "work in a school having final exams."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What makes Lexilearn different from other approaches?",
+        "options": [
+         {
+          "text": "Impromptu speeches are assigned."
+         },
+         {
+          "text": "Students generate learning materials."
+         },
+         {
+          "text": "Teachers listen more attentively"
+         },
+         {
+          "text": "Textbooks are culturally appropriate."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The person opposed to Lexilearn believes it is",
+        "options": [
+         {
+          "text": "simplistic."
+         },
+         {
+          "text": "confusing."
+         },
+         {
+          "text": "ineffective"
+         },
+         {
+          "text": "unethical."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Conversational English teacher Madison Chang would likely praise Mark Dugard for",
+        "options": [
+         {
+          "text": "following lesson plans."
+         },
+         {
+          "text": "encouraging chitchat."
+         },
+         {
+          "text": "revising his textbooks."
+         },
+         {
+          "text": "recording his warmup."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Regina College would probably attract students seeking",
+        "options": [
+         {
+          "text": "self-directed learning regimes."
+         },
+         {
+          "text": "level-headed school administration."
+         },
+         {
+          "text": "native English-speaking teachers."
+         },
+         {
+          "text": "structured classroom learning"
+         }
+        ],
+        "answer": 3,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "To: Senior Managers, Prairie West Credit Union",
+       "From: Richard Poole, President and CEO",
+       "Subject: MEMO - CONFIDENTIAL: Monitoring computer use",
+       "Dear Senior Managers,",
+       "Like all banks, Prairie West thinks that data security is absolutely necessary. As a result, last month we improved our computer network by dividing it into separate, secure sub-networks for each department. This will ensure that if there is a cyberattack, it will not affect the entire system. We have a very experienced Information Technology (IT) team that knows what to do if a cyberattack happens. However, we will be doing more in the upcoming months.",
+       "Studies show that over 64% of employees visit non-work-related websites and over 84% read and send personal emails while they are at work. When employees use our company's computer network for personal activities, they can negatively impact not only their productivity but also their personal security. Visiting certain websites or downloading attachments can lead to identity theft and put our network at risk. Our system could be infected by harmful programs such as spyware and viruses. The creators of these programs would then have access to sensitive information, such as customers' credit card and bank account numbers. As you know, our customers depend on that information not becoming public.",
+       "Like many organizations, we block certain websites, and we have rules against personal emailing. However, staff do not always follow these policies, and new websites appear more quickly than we can block them. Therefore, starting next month, we will monitor all employees' internet use. We hope that this will discourage employees from inappropriate online behaviour that puts our company's data at risk.",
+       "We know that monitoring employees can lead to low staff morale and feelings of distrust, especially if the company doesn't let the staff know about it first. Therefore, we have decided to inform employees that we will be doing this, even though it would be possible for us to monitor them secretly. Thus, I am asking all senior managers to present the new policy, in detail, to their staff at their next department meeting.",
+       "If any of you would like to speak with me about this request, please contact me. As always, I welcome your feedback and suggestions.",
+       "Regards,",
+       "Richard"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "What recently happened at this company?",
+        "options": [
+         "It suffered a cyberattack.",
+         "It expanded its IT department.",
+         "It experienced many threats.",
+         "It created several networks."
+        ],
+        "answer": 3,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Why is blocking websites ineffective?",
+        "options": [
+         "The company has too many networks.",
+         "The computer systems are too old",
+         "The internet is growing too quickly.",
+         "The IT team is too busy."
+        ],
+        "answer": 2,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The memo is quite",
+        "options": [
+         "formal.",
+         "casual.",
+         "entertaining",
+         "untriendly."
+        ],
+        "answer": 0,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The writer is concerned that his decision could lead to",
+        "options": [
+         "disorganized departments.",
+         "dissatisfied employees",
+         "untrustworthy managers.",
+         "worried customers."
+        ],
+        "answer": 1,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The writer thinks programs to watch employees should be",
+        "options": [
+         "avoided",
+         "explained.",
+         "optional.",
+         "free."
+        ],
+        "answer": 1,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "What does the writer ask the readers to do?",
+        "options": [
+         "speak to their staff",
+         "talk to their manager",
+         "forward this memo to staff",
+         "attend a meeting with him"
+        ],
+        "answer": 0,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks.",
+      "paragraphs": [
+       "Select the best choice for each blank from the drop-down menu ( ).",
+       "Hello Richard,",
+       "I'm writing regarding your memo about {{7}}. It's clear from what you've said that our IT department {{8}}, and security is obviously important for our business. I agree with you that some type of monitoring {{9}}, but I'm not sure that you're taking the best approach. As you've mentioned, studies show that many employees are currently {{10}}, and I'm not sure that your solution will change that. Your message suggests that only {{11}}. However, I think the problem has other causes and other possible solutions which I encourage you to consider. Perhaps you could meet with all the senior managers to discuss other alternatives.",
+       "Best,",
+       "Matt Lubin",
+       "Senior Manager, Operations"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "hiring new IT professionals",
+         "monitoring our staffs internet use",
+         "updating our virus software",
+         "protecting our customers accounts"
+        ],
+        "answer": 1,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "requires network security training",
+         "has made many mistakes in the past",
+         "needs to hire more qualified staff",
+         "is informed about how to respond"
+        ],
+        "answer": 3,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "might be a terrible mistake",
+         "would raise staff morale",
+         "is likely to gain acceptance",
+         "is essential in our business"
+        ],
+        "answer": 3,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "creating personal risks for themselves",
+         "reducing their personal intemet use",
+         "sharing private customer information",
+         "improving their productivity online"
+        ],
+        "answer": 0,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "banks are at risk of information theft",
+         "personal online activities are a problem",
+         "professionals are responsible for security",
+         "staff are trying to harm the network"
+        ],
+        "answer": 1,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Enter to win a FREE bicycle package!",
+       "Brought to you by Valley Bicycles",
+       "Tell us why you love biking for your chance to win a bicycle package which includes your choice of either a Conner 3.0 Mountain Bike or a Conner 2.0 Commuter Road Bike, and a variety of biking accessories including a long-distance backpack, filtered water bottle, and fitness wristband."
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_2.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "Conner 3.0 Mountain Bike Conner 2.0 Road Bike To enter, complete the following steps before June 30. 1) Sign up for our mailing list to receive exclusive information on new products, in- store promotions, and online offers. 2) Send us an email at valleybicycles@contestentry.ca explaining why bicycling is one of your favourite pastimes and what you intend to do if you win. Responses should be a maximum of 500 words. 3) Include a photograph of you participating in a bicycling activity. This could be anything from a photo of you and your family bicycling in the park or even a photo of you mountain biking in the Canadian Rockies! Please ensure that all photos are appropriate for younger viewers. 4) Make sure to include your name, address, and a phone number we can reach you at. To enter, you must be at least 18 years old. Contest only open to residents of Canada; proof of residency may be requested. Please note that by entering this contest, you give us permission to publish your name, photograph, and responses on our website."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu ( ).",
+      "paragraphs": [
+       "Subject: Contest Entry",
+       "To: Valley Bicycles < valleybicycles@contestentry.ca»",
+       "From: Mark Timmons <mtimmons@email.com>",
+       "Dear Valley Bicycles,",
+       "Please enter my name {{1}}. As requested, I have attached a photo of {{2}}. I cycle to work daily on an old Conner bike. I bike all year round, except in heavy snow. I'm not that brave! If I win, I'd choose the mountain bike. With it, I would take a vacation biking through the mountains and along the coastal roads. I'm hoping the {{3}} will include a bicycle tire pump, which would be very useful on such a trip. I really hope I win. I made a bet with my wife that, if I do, she has to come with me on the trip. She said she's not packing her bags any time soon! Could you tell me how the winners are chosen? Is it a random draw or will the best {{4}} be chosen? Also, is it really necessary to {{5}} on your website if I win? I'm quite a private person.",
+       "Best,",
+       "Mark Timmons"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "for your bike contest",
+         "in the lottery draw",
+         "in your bike race",
+         "beside the photograph"
+        ],
+        "answer": 0,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "my family at the Rockies",
+         "my daughter's new bike",
+         "me climbing a mountain",
+         "me biking with a friend"
+        ],
+        "answer": 3,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "new products",
+         "biking accessories",
+         "mountain bike",
+         "road bike"
+        ],
+        "answer": 1,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "new product idea",
+         "written response",
+         "bicycle review",
+         "photograph title"
+        ],
+        "answer": 1,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "print my name",
+         "publish my email",
+         "share my phone number",
+         "give out my address"
+        ],
+        "answer": 0,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Why does Mark describe his biking experiences?»",
+        "options": [
+         "to explain why he deserves a new bike",
+         "to enter for a discount on the bike",
+         "to fulfill the contest requirements",
+         "to describe the photo he sent in"
+        ],
+        "answer": 2,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Why does Mark want to win?",
+        "options": [
+         "to get a bike for his trip",
+         "to pay for his bike trip",
+         "to start biking to work",
+         "to get his wife a bike"
+        ],
+        "answer": 0,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "How would Mark's wife likely feel about his application?",
+        "options": [
+         "He will definitely win.",
+         "His picture is unsuitable.",
+         "He's the best contestant.",
+         "He's unlikely to win."
+        ],
+        "answer": 3,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. In 1951, a report commissioned by Canada's federal government indicated that professional theatre was moribund, music was present only in churches and schools, and English Canada produced only 14 works of fiction per year. Artistswhether writers, composers, or actors couldn't make enough money from their art to support themselves. This famous Massey Report recommended that the government create the Canada Council for the Encouragement of the Arts, Letters, Humanities, and Social Sciences, which was established in 1957. Twenty-one years later, the government divided the Council, making the Social Sciences and Humanities Research Council a separate entity to take over funding for research in the social sciences and humanities.",
+       "B. Using the name Canada Council for the Arts, or Canada Council, the organization provides funding for the arts in Canada: dance, media arts, music, theatre, visual arts, writing and publishing, and aboriginal arts. In addition, the Canada Council may provide funds to publishers, concert presenters, and theatres. Writers may apply for a grant to support themselves while they finish a novel; dancers and composers similarly may be awarded subsistence funds for a period of time devoted to the creation of new work. The Canada Council also awards several annual prizes to artists. Perhaps the most well-known are the Governor General's Literary Awards. Decisions about grants and prizes are made by juries comprised of artists and arts professionals from across the country, about 750 of whom serve on the Canada Council juries each year.",
+       "C. In 1986, the Canada Council established the Public Lending Right Commission (PLRC). Public Lending Right ensures that authors receive financial compensation when their books are borrowed through a public library system. The program is intended to offset the injustice of library patrons accessing books for free-that is, without a portion of equivalent purchase price going to the author. Close to $10 billion per year is now paid to about 17,000 Canadian writers. Although similar programs exist in over 30 other countries, the Canadian program is unique in that its focus is solely on Canadian authors.",
+       "D. The Canada Council also selectively collects contemporary Canadian art. Currently it has over 17,000 works of art by approximately 3,000 artists in its Art Bank. More than one-third of these paintings, prints, photographs, and sculptures are on exhibit in private and public spaces throughout Canada. The works can also be seen on the Canada Council Art Bank website and the Google Art Project website.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Decisions for Canada Council recipients are essentially democratic.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Government support for the arts in Canada extends back several decades.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Popular authors can enjoy a small income without relying on bookstore sales.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The Canada Council provides grants for authors to market their books.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The Canada Council partners with some other organizations in art displays.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The Canada Council awards provide basic financial assistance during the creative period",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "In the mid-twentieth century, theatre in Canada was virtually non-existent.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Non-Canadian authors with books in Canadian libraries do not receive payment.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "Artists who receive Canada Council grants exhibit their work in council-supported shows.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "As Metro Vancouver continues to struggle through a prolonged drought, water reservoirs are so low that officials have banned all lawn watering. Formerly lush neighbourhoods are now brown wastelands, except where residents either illegally water their lawn (as westside gardening enthusiast Darius Smith admits to doing) or replace them with the increasingly popular synthetic ones.",
+       "Vancouver homeowner, Annette Basi, recently installed artificial grass on her property and, except for the steep price tag, couldn't be happier. \"It's nylon, it's fake, but it rocks! It looks like the real deal, it's always green, and it's super low maintenance. It's totally eco-friendly. No sprinkling, no pesticides. Just a bit of vacuuming.\"",
+       "Across the border, homeowners in drought-ravaged California have begun installing artificial lawns as officials are now offering them cost rebates as a financial incentive for their installation. But in Vancouver, Nick Lorimer, a city engineer, recommends that a bylaw be passed requiring residents to purchase a permit before installing an artificial lawn or face a hefty fine. \"This is already the case in Toronto, and rightly so. Artificial grass has many advantages, but the fibre it's made from isn't highly permeable. It doesn't drain rainwater efficiently, especially if it's plastic rather than nylon. With heavy rains, these lawns could contribute to flooding,\" states Lorimer. The other issue is front lawn encroachments. \"On front yards, fake turf often encroaches on city-owned property, hampering street cleaning and snow removal, says Lorimer.",
+       "Ottawa resident Joanne Persky would prefer an outright ban on artificial lawns. \"They disrupt the ecosystem,\" she argues. \"Ground vegetation absorbs carbon dioxide and emits oxygen, which is essential for life. It also helps regulate atmospheric temperatures. Natural fibres breathe, synthetics don't. Also, grass is food, and soil is home to earthworms, insects, and other things birds eat. As for humans, we don't know, yet, if synthetic lawns are safe. Along with spray-on lawn dyes, artificial grass may prove carcinogenic,\" continues Persky.",
+       "The water-conscious alternative, says Persky, is neither artificial nor real grass. \"What you need is diverse and hardy natural ground cover,\" she insists. \"I've planted my whole yard with mosses, herbs, and perennial wildflowers. I never water it, and it's always thriving.\""
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Nick Lorimer would most likely advise Annette Basi tor",
+        "options": [
+         "drain the flood water from her property.",
+         "have nylon grass in her backyard only.",
+         "pay her fine for not having a lawn permit.",
+         "replace her nylon grass with plastic grass"
+        ],
+        "answer": 1,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "California's water conservation incentives would most likely be supported by",
+        "options": [
+         "Annette Basi.",
+         "Darius Smith",
+         "Joanne Persky.",
+         "Nick Lorimer."
+        ],
+        "answer": 0,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Joanne Persky's main point is that",
+        "options": [
+         "spray-on lawns may prove to be carcinogenic.",
+         "artificial grass is detrimental to the environment.",
+         "living ground cover regulates atmospheric heat.",
+         "real lawns are habitat and food for living things."
+        ],
+        "answer": 1,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Compared to Annette Basi, Joanne Persky is more",
+        "options": [
+         "casual.",
+         "ironic",
+         "upbeat.",
+         "formal."
+        ],
+        "answer": 3,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The best title for this article is:",
+        "options": [
+         "Brown is the New Green: Drought and Aesthetics.",
+         "Dry Lawn or Nylon: Not a Cut and Dried Choice.",
+         "Eco-Friendly Ground Cover: Just Say No to Grass.",
+         "The New Synthetic Lawns: Plastic and Fantastic."
+        ],
+        "answer": 1,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "It's cloudless for the eighth consecutive week, and there's still no rain in the forecast, so right now Mr. Lorimer's remarks appear to be {{6}}. But, actually, I read this article with considerable interest. {{7}}, most of my neighbours have artificial lawns. Aesthetically, they're perfect, but I'm still not convinced that synthetic is the way to go. Considering that their natural counterparts never truly require pesticides either, Ms. Basi's implication that fake ground coverings {{8}} is frankly bogus. {{9}}, I have serious concerns about the incentives in California. As Ms. Persky implies, when massive expanses of land are {{10}}, the world will surely be hotter, not better."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "rather ironic",
+         "on the money",
+         "underestimated",
+         "well-founded"
+        ],
+        "answer": 0,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "Much like in the state of California",
+         "Despite the city of Ottawa's ban",
+         "On account of Toronto's incentives",
+         "Because of Vancouver's rebates"
+        ],
+        "answer": 0,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "are more economical in the long run",
+         "repel both weeds and insects",
+         "contribute to sustaining the planet",
+         "reduce exposure to carcinogens"
+        ],
+        "answer": 2,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "In stark contrast to Mr. Smith",
+         "Based on Ms. Basi's comments",
+         "Not unlike Mr. Lorimer",
+         "As referred to by Ms. Persky"
+        ],
+        "answer": 2,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "turned into cities",
+         "choked with moss",
+         "sprayed with dye",
+         "unable to breathe"
+        ],
+        "answer": 3,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "You ordered a pair of glasses online. However, the glasses that the company sent you are too big and they give you headaches."
+    ],
+    "instruction": "Write an email to the customer service department in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Explain the problem with the order",
+     "Describe how you feel about the company's mistake",
+     "Suggest how they can correct the situation"
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "Dear sir/Madam i am writing to you to inform that last week I ordered a pair of glasses on your websites glassesorder.ca.my order was so big and not the size on your website that I actually order I was upset with your product and your company should check any order before they pack and send to your customer. I expect that my order is perfect for a gift to my son birthday on weekend thats way i order immediately on your online site I would suggest that should re fund my money for not giving the right item that i ordered and or I send back to your address and change it with the correct size. you sent also a gift card in exchange. I hope you make a further action on this issue above and make it sure that this not happen again in the future thank you and have a good day ahead.",
+       "sincerely,",
+       "Maurice"
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "Dear Customer Service,",
+       "On January 31, 2019 1 ordered a pair of glasses through your company. I was told by your optometrist that the glasses would be ready in about three to four weeks. I was very thrilled to receive the glasses within two weeks after placing my order.",
+       "Unfortunately, there are some issues with the glasses. The biggest issue is that your company send me the wrong size glasses. They are not the size I ordered and they are too big. The second issue is that these glasses give me severe headaches. I think that the glasses are not properly set to my eye correction.",
+       "At this moment, I am very disappointed because I am not able to enjoy my glasses. I am not looking for a refund, but would like to have the glasses redone. I will visit your optometrist again and make sure that my eyes are checked correctly and you send me new proper fitting glasses.",
+       "Awaiting your response."
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "To whom it may concern,",
+       "I recently purchased a pair of glasses from your online store. I filled out all the necessary details on your site, to which contained my exact measurements.",
+       "However, when I received the pair of glasses in the mail there was an issue with my order. The glasses I received are not the correct size. In fact they are too big and as a result give me excruciating headaches.",
+       "I understand mistakes can happen, but I have an English exam next week and require these glasses to accurately see the screen. I would like to add that these are very expensive glasses. Therefore, I expected better handling and care from such a reputable company as yourselves.",
+       "Please send me my exact original order as detailed in the attachment. Also, if you could send me paid postage and packaging, so that I may return the incorrect pair of glasses."
+      ]
+     }
+    ],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "Your office manager is considering a new work schedule. She is thinking about closing the office at 12:00 p.m. on Fridays. In order to replace lost work hours, however, all employees would have to start work at 8:00 a.m. instead of 9:00 a.m., Monday to Friday. Your manager is surveying all employees to see if they prefer the new work schedule or the old one."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I would prefer to continue working from 9:00 a.m. to 5:00 p.m., Monday to Friday.",
+     "Option B: I would prefer to start work at 8:00 a.m. and finish early on Fridays."
+    ],
+    "surveyTitle": "Work Schedule Survey",
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "TO WHOM IT MAY CONCERN",
+       "I prefer my old work time because it gives me time after work to have a time with my family. I love getting out at 5:pm to my son waiting on me to play football and hangout spending good time together. My son really love an I don't want to take that away from him. That is our best time together everyday.",
+       "Also I love having dinner with my family at right dinner time everyday and don't want to give that up either, they are the most important time for me so for the reason I would like to stay on the old office time it works form me the best and my family. i really love those moment with my boy and my family. I really hope we can keep the old office time as it works well for me and I hope this time works for you all too.",
+       "sincerely, Feodor Wojcik"
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "I would personally prefer to start one hour earlier for 5 days a week and leaving the office by noon on Fridays for many reasons. To start with, it is more convenient for the employees in our office, who are mostly parents that have to wake up early to prepare their kids before going to school at 7:30, to start early at 8:00 am Monday to Friday.",
+       "On another note, having Friday afternoon off would imitate the feeling of a long weekend. Whoever wants to go out of town for the weekend would arrive earlier, therefore would have more time to prepare for the activities they intend to do there. Some employees who fancy to party on Friday nights would benefit from having the luxury of couple of hours of sleep before going to the club. Moreover, it is true that we, humans, tend to appreciate time off coming in bulk rather than distributed over the course of the week.",
+       "I believe option B is the wisest choice to have the working hours during the week. After all, who wouldn't appreciate a long weekend like? and I am pretty sure that if the office was canvassed about the same, the majority would agree with what I have stated above."
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "I would like to propose that the office closes earlier on Fridays due to the following reasons. Many recent studies suggest that working longer hours per day on a shorter working week is extremely beneficial to a company and their employees. Microsoft recently tested a four day working week in their Japanese offices and recorded a 40% boost in productivity. While I recognise that the proposal is for a half day and not a full day off, I feel that this will still encourage a stronger work ethic among our staff.",
+       "Furthering my opinion, the prospect of getting a head start to the weekend will be a huge boost for morale in the office. A positive environment in the workplace is vital to maintaining employee welfare and low stress to our workers. It will give staff who are parents some flexibility on collecting their children from childcare.",
+       "While I do acknowledge that some people might not like the idea of getting out of bed an hour earlier, I strongly endorse closing at noon on a Friday as the superior option. I think they will see the positive effects quite quickly and we will all experience the shared benefits"
+      ]
+     }
+    ],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "People at your workplace often discuss events in the news. Your co-worker wants to join these discussions, but he doesn't know a lot about current events. Advise him on different ways he can learn about the news so he can participate in these discussions."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you did something with a friend while growing up. Maybe you can talk about going on a trip, attending a party together, or helping them prepare for their first date. What did you do, why did you do it, and how did it make you feel?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?",
+     "D"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "You and a co-worker, John, are going out for lunch. Another co-worker, Lisa, asked you to bring back a healthy lunch for her. You found two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade John that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "Your co-worker, John, is suggesting another lunch to bring back for Lisa. Persuade John that the lunch you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "You and two friends, Steven and Alison, see a teenager break the window of a neighbour's house and run away. Steven wants to tell the teenager's parents first Alison wants to tell the neighbour first."
+    ],
+    "choices": [
+     "Talk to Steven. Explain why you prefer to talk to the neighbour first.",
+     "Talk to Alison. Explain why you prefer to talk to the parents first."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think schoolteachers should still teach children how to write by hand, or should they only teach typing? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You are visiting your friend Mary at her house, and you really like her newly renovated kitchen shown in the picture. Your other friend, Saida, is currently looking for a new kitchen style for her house. Call Saida and describe in detail what Mary's kitchen looks like, and ask Saida if she would like to use the same style."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

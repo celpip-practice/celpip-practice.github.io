@@ -1,0 +1,1824 @@
+{
+ "id": "s09-t1",
+ "set": 9,
+ "test": 1,
+ "title": "Practice Test 9-1",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 40.9
+      },
+      "transcript": "Hi there. I was walking by and noticed your sign outside. It says that you do massage therapy here and you can build my health insurance for part of it. Is that correct? It certainly is. We do massage an acupuncture here. Would you like to book an appointment? Yes, but first I want to make sure it's covered through my health insurance plan at work. I'll come back once I find out. No problem, but just to let you know, in order In order to be covered for special therapies like massage or acupuncture, most health insurance companies require a referral note from a family physician. Oh, really? Okay, well, I actually have an appointment with my family doctor tomorrow. That's perfect. See you later then.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "the benefits of massage"
+         },
+         {
+          "text": "the prices of services"
+         },
+         {
+          "text": "paying for appointments"
+         },
+         {
+          "text": "finding a family doctor"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "What is the man inquiring about?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "get a document from his doctor"
+         },
+         {
+          "text": "sign up for a health insurance plan"
+         },
+         {
+          "text": "ask for time off from his work"
+         },
+         {
+          "text": "reschedule his doctor appointment"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "What is the next step or the man?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 68.3
+      },
+      "transcript": "Hi, I'm back and I have a referral form from my doctor. I've had this terrible pain in my shoulder for weeks, probably from playing basketball or baseball. Well, we have registered massage therapists that specialize in sports injuries. Would you prefer a full-body massage or just to treat that one specific area? I think I'd prefer to focus on my upper back. That's helped before. My arms, legs, and feet get a little achy after a game, but nothing too bothersome. Okay. We can book your massage for 30 minutes, 45 minutes, 60 minutes, or 75 minutes. Hmm. What do you suggest? I'd love a 75 minute massage, but maybe that's too much time to spend on one area. 30 minutes seems too short though. Well, since you're only treating one area, I'd probably recommend a 45 minute massage. Oh, I almost forgot. My girlfriend wants to come too. Do you have two appointments at the same time? She wants a 60 minute relaxation massage. Okay then, you're in luck. It looks like we've had a cancellation, and I can fit you both in Thursday at five o'clock.",
+      "questions": [
+       {
+        "num": 3,
+        "options": [
+         {
+          "image": "media/listening_p1_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_2.jpg"
+         },
+         {
+          "image": "media/listening_p2_3.jpg"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "What area of his body is bothering the man?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "75 minutes"
+         },
+         {
+          "text": "55 minutes"
+         },
+         {
+          "text": "45 minutes"
+         },
+         {
+          "text": "30 minutes"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "How long will the man's appointment be?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "He wants to try relaxation therapy."
+         },
+         {
+          "text": "He likes to play sports."
+         },
+         {
+          "text": "He has a stressful job."
+         },
+         {
+          "text": "He is upset about his appointment."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "life. What is likely true about the man? So how is your massage? Does your shoulder feel better?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 30.3
+      },
+      "transcript": "Yes, it really does. My therapist used just the right amount of pressure. Would it be possible to book monthly appointments with her? Of course. I'm glad you're pleased. How about your girlfriend? Did she have a positive experience? I'm not sure. She's not out yet. Okay then, so is there a day and time that would work best for you? Monday evenings would be good. After 5.30 when I get off from work, it'd be a great way to start the week, maybe the last Monday of each month.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "impressed"
+         },
+         {
+          "text": "indifferent"
+         },
+         {
+          "text": "disappointed"
+         },
+         {
+          "text": "surprised"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "6. How does the man feel about his massage?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "schedule regular appointments"
+         },
+         {
+          "text": "try a different massage therapist"
+         },
+         {
+          "text": "book his girlfriend an appointment"
+         },
+         {
+          "text": "take next Monday off from work"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "What does the man want to do?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "It will give him some time off from work."
+         },
+         {
+          "text": "He doesn't have to work on Mondays."
+         },
+         {
+          "text": "He doesn't want to have to wait long."
+         },
+         {
+          "text": "It will relax him for the upcoming week."
+         }
+        ],
+        "answer": 3,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "Why did the man want the time he chose?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 119.6
+      },
+      "transcript": "Tanya, you're back from camp. I thought you were gone until tomorrow. Did you get bored? No, camp was great, but the roads back were clear pretty much the whole way, so we made great time. Well, it's good to see you. We missed you guys at Card Games Night last Saturday. Ah, you mean you missed having someone to beat? I'm still not convinced you don't cheat somehow. somehow. No one can win every time without a few tricks up their sleeve. Anyways, so what's new? Not much. Same old, same old. Oh, but on Tuesday, when I was volunteering at the community center, I saw something posted that might interest you. Really? Were they advertising dog training classes by any chance? I don't know if it was just payback for taking him on his first long car ride, but Teddy was causing some serious trouble on our trip. Well, they might have those too, although Teddy always seems to be on perfect behavior when I'm around. But no, the pollster I saw was about a new circus school that just opened a few blocks away. In that grey building next to the grocery store? I was thinking, you're always saying about how much you wanted to be a circus performer growing up. Now's your chance. Are you serious? A circus school? I'd love that. I imagine it's just for kids though. though, there probably aren't many adults out there still dreaming of being circus stars. Actually, I checked it out, and the majority of classes are for adults. Apparently you aren't that strange after all. Samantha even found a class that she thought looked fun. Some sort of combination of yoga and acrobatics. Ah, acro yoga. I could see her liking that. Well, I'll definitely have to check it out. I hope they have classes in trapeze. That's what I've always wanted to try the most. They have one on Saturday nights and bright and early Sunday mornings. Yuck, I hate getting up early, especially on a Sunday. But I can't leave you without someone to beat at cards on Saturday night. So, I guess I'll be setting my alarm clock.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "a new activity available in the community"
+         },
+         {
+          "text": "a travelling circus that is coming to town"
+         },
+         {
+          "text": "things the woman did on her vacation"
+         },
+         {
+          "text": "places that have dog training courses"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "What is this conversation mainly about?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "Her dog was causing too much trouble."
+         },
+         {
+          "text": "There wasn't much traffic on the roads."
+         },
+         {
+          "text": "She wanted to get back before Saturday."
+         },
+         {
+          "text": "There wasn't much to do at camp."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "Why did the woman get back to town early?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "Her dog is used to taking long car rides."
+         },
+         {
+          "text": "Her children attend a local circus school."
+         },
+         {
+          "text": "She dislikes physical activity."
+         },
+         {
+          "text": "She often loses when playing cards."
+         }
+        ],
+        "answer": 3,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "What is probably true about the woman in the conversation?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "It's never too late to learn new skills."
+         },
+         {
+          "text": "Games are a waste of time for adults."
+         },
+         {
+          "text": "The woman's dog should be trained."
+         },
+         {
+          "text": "The woman's interests are strange."
+         }
+        ],
+        "answer": 0,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "Which statement would the man likely agree with?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "She will ask if another class time is available."
+         },
+         {
+          "text": "She will sign up for one of the classes."
+         },
+         {
+          "text": "She will cancel her usual Saturday plans."
+         },
+         {
+          "text": "She will purchase an alarm clock."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "What was the woman's decision at the end of the conversation?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 116.7
+      },
+      "transcript": "Hi, Alice. How are you? Still watching a different movie every night? Yes, Daniel. I am. I'm so glad you recommended that I subscribe to that International Movie channel. It doesn't add that much to my television bill every month, and I'm really enjoying it. I'll never have to go out to a theater to see a movie again. Have you considered writing reviews? Maybe you could get them posted online, on a movie I'm not sure. I've never written a movie review before. It's not that difficult. You had to write book reviews in school, didn't you? First, you should identify the genre. For example, is the movie a comedy or a romance, or an action movie? Then you can talk about the plot. What happens? But I don't want to spoil the movie for other people. Exactly. So either don't tell them how it ends, or tell them in advance that you're going to. It's called a spoiler alert. You can also talk about the characters and the dialogue. Are the people interesting? Is there conversation realistic? In book reviews, we also talked about theme and setting. I could do that for the movie as well. Yes, and then since a movie is not a book, you can talk about the acting, the costumes, the soundtrack, the special effects. Soundtrack? Special effects! The soundtrack is the music. Remember that Celine Dion song from that movie we watched together at my place, Titanic, and special effects. Remember that Star Trek movie I gave you? I love that song. And the Star Trek movie was full of spaceships and alien creatures. Oh, I see what you mean. Any other advice? Well, again, I encourage you to submit your reviews to a movie blog or something. I think that there's a great need for reviews about movies that are not your typical Hollywood productions that everybody sees and everybody knows about. Okay, thanks. I can't wait to show you my first attempt.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "how to do something somewhat new"
+         },
+         {
+          "text": "why one should learn a new skill"
+         },
+         {
+          "text": "how to skillfully compare dissimilar things"
+         },
+         {
+          "text": "why a particular endeavour is difficult"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "What is the conversation mainly about?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "She lives close to several movie theatres."
+         },
+         {
+          "text": "She has access to a television movie channel."
+         },
+         {
+          "text": "Her friend invites her to watch movies at his house."
+         },
+         {
+          "text": "Her friend has given her several movies to watch."
+         }
+        ],
+        "answer": 1,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "Why is the woman watching a lot of movies?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "Never reveal the ending."
+         },
+         {
+          "text": "Do so at the beginning of a review."
+         },
+         {
+          "text": "Warn readers before doing so."
+         },
+         {
+          "text": "Do so only for certain genres."
+         }
+        ],
+        "answer": 2,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "What does the man say about revealing the ending of a movie in a review?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "She wrote book reviews in school."
+         },
+         {
+          "text": "She used to be a teacher."
+         },
+         {
+          "text": "She has an online movie blog."
+         },
+         {
+          "text": "She used to be a singer."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "What is true of the woman?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "movies produced in Hollywood"
+         },
+         {
+          "text": "movies of one particular genre"
+         },
+         {
+          "text": "movies produced in different countries"
+         },
+         {
+          "text": "movies full of special effects"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "What kind of movies does the woman tend to watch?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "relieved"
+         },
+         {
+          "text": "frustrated"
+         },
+         {
+          "text": "annoyed"
+         },
+         {
+          "text": "enthusiastic"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "How does the woman feel about the man's overall suggestion?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "It is about one and a half minutes long.",
+     "Then, five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 95.3
+      },
+      "transcript": "A new daycare is set to open at May Fair Seniors Residence this month. The concept, although not new in Canada, is the first of its kind in Saskatchewan. In fact, the City of Toronto has been running combined facilities for over 25 years with tremendous success. The combined care centres are intended to foster intergenerational interaction among the children and the seniors. Psychologist Linda Rogers says there are benefits for both parties. On the one hand, seniors are encouraged to socialise and get moving by participating in activities with the children, which are supervised and organized by licensed professionals. Other potential health benefits for seniors include lower levels of depression and slower cognitive decline. For the children, Rogers says it's an opportunity to develop empathy and understanding towards others. It may even help reduce age discrimination. Some community members have expressed health concerns. However, manager of Toronto's early childhood education facilities, Mansoor Jalali, argues that their centers have not seen any significant increase in illnesses, because careful sanitation measures are taken. Participants must use hand sanitizers before and after activities, and the center has disinfectant protocols in place for the daycare and residential centers. Listening to...",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The news report is mainly about",
+        "options": [
+         {
+          "text": "creative ways for teaching children."
+         },
+         {
+          "text": "new research on seniors' health."
+         },
+         {
+          "text": "an innovative community program."
+         },
+         {
+          "text": "an uncommon psychological treatment."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The seniors at the Toronto facilities likely",
+        "options": [
+         {
+          "text": "play games with the children."
+         },
+         {
+          "text": "organize activities for the children."
+         },
+         {
+          "text": "supervise the children's playtime."
+         },
+         {
+          "text": "make the children's lunches."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "According to the news report, one benefit of the facility is a better",
+        "options": [
+         {
+          "text": "range of activities for children."
+         },
+         {
+          "text": "sense of respect toward elders."
+         },
+         {
+          "text": "life expectancy for seniors."
+         },
+         {
+          "text": "immune system for children."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Some people have worries about the",
+        "options": [
+         {
+          "text": "type of activities."
+         },
+         {
+          "text": "lack of research."
+         },
+         {
+          "text": "kind of interaction."
+         },
+         {
+          "text": "spread of germs."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "In the report, this new type of centre is supported by",
+        "options": [
+         {
+          "text": "parents of young children."
+         },
+         {
+          "text": "childhood development experts."
+         },
+         {
+          "text": "seniors' facility workers."
+         },
+         {
+          "text": "families of the resident seniors."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 150.4
+      },
+      "transcript": "You will watch a discussion among three people, two women and one man in a company's mailroom. They are talking about a problem in the company. This is Andrea. This is Bernard. This is Collette. Collette, we're not getting our mail fast enough. I got something today that was sent to me two days ago from someone up on the third floor. That's ridiculous. I was just coming to complain about external mail taking way too long to get on to work desk I know I know Debra not only has to deliver the mail. She also has to sort it. There's so much of it It often takes her all morning just to sort through it Well, I was gonna ask if maybe we could come down and get stuff ourselves if it's particularly urgent But I guess that wouldn't make a difference. I'm afraid not unless it's sorted already You would have to look through several bins just to find it. I don't think I could let you do that I've been trying to hire another person, but human resources says there's just not enough money. What's unfortunate? I guess one of those high-tech Android mail bots is out of the question then. Those what? Oh, at my friend's office, they have one of these automated carts. It's like a little robot. It goes from department to department all day long. When it shows up at your department, you take your incoming mail and put on your outgoing mail. It sounds so efficient. Well, that would be less expensive than hiring another person, but I heard they can stall. And if that happened somewhere in a hallway, it might take a while for someone to figure out what's happened and get it going again. What if we had a partitioned box at the elevator on each floor for internal mail? That way, we could pre-sort our outgoing mail by putting it in the right partition. Then all Deborah would have to do every hour or so is deliver it to us from those boxes. Well, that would help the movements of the internal mail, but the movement of the external mail would be much slower. And besides, I would hate to add that to Deborah's duties. Well, for that anxious about external mail, why don't we get up out of our chairs and go and do it ourselves? I mean, we're not that old, guys. And anyways, they're developing new software every single day. Maybe soon we won't even need physical mail. I mean, in the future, to send a document, maybe everyone will just simply share it online. line. Well, I think there will always be a need for some physical mail, supplies and packages, so we're back to where we started.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What is the problem with the company's mail?",
+        "options": [
+         {
+          "text": "It gets lost and misplaced in the system."
+         },
+         {
+          "text": "Its handling costs are too high to sustain."
+         },
+         {
+          "text": "It is often delivered to the wrong floor."
+         },
+         {
+          "text": "Its expected arrival time is often delayed."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What does Collette, the woman who works in the mail room, think Deborah needs?",
+        "options": [
+         {
+          "text": "a financial incentive"
+         },
+         {
+          "text": "a shared burden"
+         },
+         {
+          "text": "better organization"
+         },
+         {
+          "text": "updated technology"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Will Collette hire someone?",
+        "options": [
+         {
+          "text": "No, Human Resources refused for no reason."
+         },
+         {
+          "text": "No, the firm will automate mail handling instead."
+         },
+         {
+          "text": "Yes, if the personnel unit reverses its decision."
+         },
+         {
+          "text": "Yes, just to process the packages and parcels."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Why is an automated mail cart not a good solution?",
+        "options": [
+         {
+          "text": "They are not available yet."
+         },
+         {
+          "text": "They are too expensive."
+         },
+         {
+          "text": "They can get lost in big offices."
+         },
+         {
+          "text": "They sometimes stop working."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What would be the problem with the partitioned box solution?",
+        "options": [
+         {
+          "text": "Deborah would not agree to it."
+         },
+         {
+          "text": "It would cost too much."
+         },
+         {
+          "text": "It would have mixed results."
+         },
+         {
+          "text": "Staff would find it complicated."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "What does Bernard intend to suggest with his comment about the chair?",
+        "options": [
+         {
+          "text": "His colleagues are clumsy."
+         },
+         {
+          "text": "His colleagues are lazy."
+         },
+         {
+          "text": "The chairs are old."
+         },
+         {
+          "text": "The chairs are uncomfortable."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What is conveyed by Bernard's comment about new software programs?‹",
+        "options": [
+         {
+          "text": "optimism"
+         },
+         {
+          "text": "helplessness"
+         },
+         {
+          "text": "resignation"
+         },
+         {
+          "text": "surprise"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What solution do they agree on?",
+        "options": [
+         {
+          "text": "a solution for all mail"
+         },
+         {
+          "text": "a solution for external mail only"
+         },
+         {
+          "text": "a solution for internal mail only"
+         },
+         {
+          "text": "no solution at all"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "It is about three minutes long.",
+     "Then, six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 199.7
+      },
+      "transcript": "You've probably heard the theory. Firstborn children are reliable, middle children are sociable, lastborns crave the spotlight, and onlys are lonely. These notions, some would say stereotypes, arise from decades of research and form the backbone of hundreds of self-help and parenting books. The only problem? The notion that birth order affects personality is increasingly regarded by scientists as pure nonsense. One such expert is Dr. William Traeger of McGill University. He points to two recent international studies that turned up zero correlation between birth order and personality trait development. Traeger says past studies that posited a link between birth order and personality were fatally flawed. One blunder, says Traeger, was that researchers confounded their subject's birth order with their chronological age at the time of the study. For example, suppose an eldest child, 16-year-old Frank, was subjectively described by family members as reliable compared to his youngest sibling, 10-year-old Timmy. Research has concluded that Frank's reliability arose from the fact that he was first born. However, had the researchers come back six years later and repeated the questionnaire, Traeger says they probably would have found that Timmy, by then 16 years old himself, would be rated as equally reliable, despite being the youngest. For Traeger, continued belief in these theories theories is an indication of people's desires trumping their ability to reason. Despite these findings, Kirsten Grenville, CEO of Global Publishing, says books on birth order theory have propelled a raft of popular psychologists and parenting experts to the top of the best-seller charts. For Grenville, the issue isn't whether or not birth order theory is scientifically valid. The issue, rather, is whether or not it sells product and sell it does. Consumers seemingly insatiable appetite for these books, says Grenville, stems from the fact that almost everyone has an instinctive sense that birth order theories are true, whether or not they really are. People read these descriptions of sibling relationship dynamics and they think, yeah, that is true for me. Maybe the descriptions are like horoscopes. General enough that almost everyone can find something to agree with. Also, even if birth order doesn't scientifically correlate with personality trait development, there are certainly enough personal anecdotes, feelings, and hunches to suggest otherwise. So can we finally put to rest this notion that birth order matters from a scientific perspective? Dr. Traeger's response would be a qualified no. While personality may not be affected, birth order does appear to impact intelligence. Dr. Traeger says studies have proven that compared to their siblings, first-borns are smarter on average by a full IQ point.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Traditional theories claim attention-seeking is a trait of",
+        "options": [
+         {
+          "text": "first-born children."
+         },
+         {
+          "text": "middle children."
+         },
+         {
+          "text": "last-born children."
+         },
+         {
+          "text": "only children."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "2. Dr. William Trager would argue Timmy and Frank have",
+        "options": [
+         {
+          "text": "different personality traits due to their birth order."
+         },
+         {
+          "text": "characteristics that can be challenging for parents."
+         },
+         {
+          "text": "different reliability ratings due to different IQ scores."
+         },
+         {
+          "text": "personality traits that develop throughout childhood"
+         }
+        ],
+        "answer": 3,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "CEO Kirsten Grenville believes birth order personality theories are",
+        "options": [
+         {
+          "text": "evolving."
+         },
+         {
+          "text": "declining."
+         },
+         {
+          "text": "profitable."
+         },
+         {
+          "text": "scientific."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "CEO Kirsten Grenville thinks people want books that",
+        "options": [
+         {
+          "text": "explore theories of intelligence."
+         },
+         {
+          "text": "foretell events using astrology."
+         },
+         {
+          "text": "present proven scientific facts."
+         },
+         {
+          "text": "validate their own intuitions."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Dr. Trager and CEO Grenville both suggest there",
+        "options": [
+         {
+          "text": "needs to be more scientific research on this topic."
+         },
+         {
+          "text": "is something people find appealing about this topic."
+         },
+         {
+          "text": "are more parents gaining interest in this topic."
+         },
+         {
+          "text": "are better books coming out about this topic."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The reporter thinks birth order personality theories have",
+        "options": [
+         {
+          "text": "limited scientific foundations."
+         },
+         {
+          "text": "never been scientifically investigated."
+         },
+         {
+          "text": "never been explained by folklore."
+         },
+         {
+          "text": "links with major marketing scams."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "Dear Ara,",
+       "Thank you for submitting your insurance claim to our office. I have finished reviewing it, including your photos of the water-damaged items and the original purchase receipts for them. I appreciated the itemized spreadsheet you included.",
+       "You have claimed the cost of replacing your desktop computer, which was for personal use only and damaged in the flood. The computer cannot be repaired, so the cost of replacing it is approved. However, your spreadsheet also itemizes the cost of a 3-year extended warranty, purchased along with the computer. Since the computer is 7 years old, the warranty coverage has expired. We cannot pay for the expired warranty portion of your computer costs.",
+       "You have also claimed the cost of the goods and services tax (GST) on the original purchase price of items that were damaged. Unfortunately, we pay this cost only on items that have been purchased as replacements. Therefore, for any replacement item you purchase, please submit the receipt to us. Note that interest on credit card purchases is not covered.",
+       "Regarding the wool carpet samples, you indicated that these are the property of the flooring company you work for. Our policy covers only property owned and used by you personally, so, I'm sorry, but we cannot cover the cost of the damaged carpet samples.",
+       "When it's time for you to renew your policy with us next spring, we recommend that you purchase additional insurance for items stored in your home but owned by or used in your business. This would protect you not only against the type of loss you recently experienced, but also against other risks such as fire.",
+       "Your adjusted total is $16,400. Our accounting department will issue you a cheque on the 15th of this month. If you would prefer to pick it up rather than receive it by mail, please let me know by this Wednesday at the latest.",
+       "As a valued long-time client, please accept warmest wishes from our family of companies. We wish you every success in recovering from your losses this past August, and we are pleased to have been able to assist you.",
+       "Regards,",
+       "Nelson Lowe"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "What caused Ara's situation?",
+        "options": [
+         "an accident at home",
+         "an error on a tax form",
+         "an expired insurance policy",
+         "an incorrect charge at a store"
+        ],
+        "answer": 0,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Nelson approved",
+        "options": [
+         "interest fees on credit card purchases.",
+         "the remaining warranty on the computer.",
+         "replacement costs for the carpet samples.",
+         "the cost of a new desktop computer."
+        ],
+        "answer": 3,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What is Ara most likely to do next?",
+        "options": [
+         "have her damaged personal computer repaired",
+         "decide whether to call Nelson about the cheque",
+         "use the gift card that Nelson enclosed",
+         "send Nelson the full amount owing on the bill"
+        ],
+        "answer": 1,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Nelson wants Ara to",
+        "options": [
+         "insure business items separately.",
+         "purchase a longer computer warranty.",
+         "eliminate household fire hazards.",
+         "remove her water-damaged carpeting."
+        ],
+        "answer": 0,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Nelson probably works",
+        "options": [
+         "for a furniture repair shop.",
+         "for a large corporation.",
+         "as a small business owner.",
+         "as Ara's business partner."
+        ],
+        "answer": 1,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Nelson wrote this message mainly to",
+        "options": [
+         "apologize to Ara.",
+         "collect money from Ara.",
+         "explain changes to Ara.",
+         "send good wishes to Ara."
+        ],
+        "answer": 2,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the best choice for each blank from the drop-down menu ( ).",
+      "paragraphs": [
+       "Dear Nelson,",
+       "Thank you for your message.",
+       "I'm glad to hear that you {{7}}. I didn't realize that the warranty on my computer had expired; {{8}} that in my claim.",
+       "I have two questions. First, before the flood happened, I brought the carpet samples home {{9}} because we're redecorating our living room and wanted to choose new carpeting. I'm not actually using the house for business purposes or to store business supplies. Regarding the samples, does this new information affect {{10}}?",
+       "Second, would I get a discount on car insurance if I switched from my current company to you, since I already have house insurance with you? I realize this question is {{11}} the claim at hand, but I would appreciate your response when convenient.",
+       "Sincerely,",
+       "Ara"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "aim to improve client service",
+         "can make sense of what I owe",
+         "found my spreadsheet helpful",
+         "have put the cheque in the mail"
+        ],
+        "answer": 2,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "my apologies for including",
+         "thank you for including",
+         "I was correct to include",
+         "it was too late to include"
+        ],
+        "answer": 0,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "secretly",
+         "temporarily",
+         "reluctantly",
+         "accidentally"
+        ],
+        "answer": 1,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "their goods and services tax rate for the year",
+         "my household possessions insurance expiry date",
+         "our costs for having them installed in our house",
+         "your decision to classify them as business items"
+        ],
+        "answer": 3,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "critical to",
+         "unrelated to",
+         "part of",
+         "complicating"
+        ],
+        "answer": 1,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Custom Chocolates Menu All confections except truffles and fudge come in nine different shapes: cube, cone, triangle, rose, leaf, daisy, star, crescent, and swirling spiral."
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "PRALINE PERFECTION Go nuts over praline! Price Range: $$$ (high) A blend of finely chopped hazelnuts, almonds, and pecans smothered in dark or light milk chocolate MARZIPAN MARVELS"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_2.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "An almond-lover's delight! Price Range: $ (low) A delightfully smooth paste of finely ground almonds and confectioners' sugar, enrobed in light milk chocolate GANACHE GOODIES"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_3.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "Ganache any way you like it! Price Range: $$$ (high) A creamy blend of 85% chocolate mixed with rich cream that comes in plain, raspberry, coconut, mint, and coffee flavours Option of light or dark chocolate FUDGE FANTASIES A traditional favourite!"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_4.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "Price Range: $$ (moderate) A cube or slice of melt-in-your-mouth sugar candy that comes in maple, butter pecan, walnut, pistachio, and nut-free vanilla options-ask about our sugar-free option Available in cube shape only TRUFFLE TREASURES A treat that's also a treasure!"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_5.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "Price Range: $$$$ (very high) A sphere of light or dark chocolate, filled with ganache or liquor and lightly dusted with chocolate cocoa powder Centre options are coffee-flavoured liqueur, orange-flavoured liqueur, or fruit-flavoured brandy Available in sphere shape only"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu ().",
+      "paragraphs": [
+       "Subject: Chocolates",
+       "To: Roger Neufeld <rogerneufeld@burdys.com>",
+       "From: Vincent Mathijs <vmathijs@burdys.com>",
+       "Good morning Roger,",
+       "Hope you had a great weekend. As promised, here's my draft of the concept for our next product line. The concept is to simplify and logically group our range of chocolate confections.",
+       "Customers still have plenty of options-but there won't be any {{1}} Informal market research showed that the most popular item among the available options was the marzipan in the {{2}} shape.",
+       "One strategy behind the product range is to stand out from our competitors by {{3}}. Another strategy was to follow the consumer trend toward healthier options that limit the intake of particular ingredients. The {{4}} products are specifically designed to fill this need.",
+       "Well, those are my ponderings on this concept. What are yours? If I could have your feedback before next Friday, I'd really appreciate it.",
+       "Thanks in advance for your input.",
+       "Vincent Mathijs, {{5}}"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "leaf-shaped marzipan",
+         "praline rose blossoms",
+         "globe-shaped truffles",
+         "star-shaped fudge"
+        ],
+        "answer": 3,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "long rectangle",
+         "swirling spiral",
+         "ringed planet",
+         "tulip blossom"
+        ],
+        "answer": 1,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "focusing just on rich dark chocolate",
+         "having a clearly organized collection",
+         "lightly dusting all the treats with sugar",
+         "offering twenty different kinds of nuts"
+        ],
+        "answer": 1,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "fudge",
+         "ganache",
+         "praline",
+         "trutile"
+        ],
+        "answer": 0,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "Accounts Receivable Officer",
+         "Founder and International CEO",
+         "Product Development Specialist",
+         "Shipping and Receiving Manager"
+        ],
+        "answer": 2,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "If you want to avoid almonds, what are your only options?",
+        "options": [
+         "chocolates in geometric shapes",
+         "dark milk chocolate products",
+         "just the costliest products",
+         "truffles, ganache, and fudge"
+        ],
+        "answer": 3,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What do we know for sure about Vincent and Roger?",
+        "options": [
+         "Vincent and Roger work in the same department.",
+         "Roger must receive the chocolates before Friday.",
+         "Vincent is Roger's supervisor at a chocolate factory.",
+         "Roger had been expecting Vincent's message."
+        ],
+        "answer": 3,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What should Roger do after he reads the message?",
+        "options": [
+         "acknowledge the merits and suggest improvements",
+         "draft a proposal for a different chocolate collection",
+         "send the requested market research results data",
+         "taste and critique the various sample chocolates"
+        ],
+        "answer": 0,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. Photographs of spectacular rainbows are a dime a dozen, but a similar event seldom witnessed is the occurrence of moonbows. While rainbows are caused by beams of sunlight refracting through water droplets in the atmosphere, moonbows, as their name suggests, are created by beams of moonlight refracting through moisture in the air. However, this is where the similarity to rainbows ends. These nighttime bows, also referred to as lunar rainbows, are a much rarer phenomenon, occurring only at particular times of the year and limited by geographic requirements.",
+       "B. A distinct combination of astronomical and meteorological conditions is required in order for a moonbow to occur. For one, the moon must be bright, such as during a full or nearly full moon. Moreover, the moon must be low in the sky, no more than 42 degrees above the horizon. The lower the elevation of the moon, the fuller the lunar rainbow. Finally, there must be water droplets present in the atmosphere. The optimal conditions occur on nights during which there are rain showers falling opposite the moon and the sky is clear. Mist from waterfalls can also create the appropriate amount of moisture in the atmosphere. Under these precise conditions, a viewer standing with his or her back to the moon could potentially observe a moonbow.",
+       "C. Although multicoloured, the bands of the are of a moonbow appear as various shades of grey to the naked eye. This can be attributed to physiological factors. Because it is difficult for the human eye to discern colours at low levels of illumination, such as in the darkness of night, the multihued bow appears white or grey. Nonetheless, the magnificent colours of lunar bows can be picked up in long-exposure photographs, even though the are appears monochrome to the photographer.",
+       "D. Because of the specific combination of conditions required, moonbows are more prevalent in certain locations around the world, particularly those that have waterfalls. Such moonbows form fairly regularly at Yosemite Falls in California, Cumberland Falls in Kentucky, and Victoria Falls on the border of Zambia and Zimbabwe in Africa. In fact, moonbow predictions at some of these locations can be found on various websites. The appearance of lunar rainbows is also common in the cloud forests of Costa Rica and in certain areas of Hawaii. If you are fortunate enough to be at the right place at the right time, you may be able to catch a glimpse of this magnificent phenomenon.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "The orientation of the moon in relation to the earth impacts the intensity of the bow.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Moonbows occur less frequently than their daytime counterparts.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Specific circumstances must occur simultaneously in order to create a moonbow.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Images of rainbows are much more common than images of moonbows.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Moonbows are often seen on nights when the moon is high in the sky.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Specific geographical sites are more suitable for lunar rainbows.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "It is possible to obtain forecasts for some moonbow occurrences.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Perception of moonbow colours is hindered by lack of light.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "Observers have claimed to see moonbows during crescent moon phases.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "Smartphones and other technological paraphernalia have invaded our lives. We are now surrounded by people eschewing social etiquette by compulsively checking their phones, drawn automatically to the incessant \"ding\" of their notifications. The ubiquity and nature of this modern technology have made concentrating on anything for more than a moment feel like a Herculean task. Young children are particularly at risk, since their neurological development is not yet complete.",
+       "The impression that children are negatively affected by personal computing devices is reflected in anecdotal evidence from classrooms, where teachers increasingly report shortened attention spans in pupils. Lisa Cranberg, a veteran elementary school teacher, believes that \"exposure to technology is rewiring our kids' brains.\" For her, \"children spending extended periods of time interacting solely with their smartphones is showing diminished self-awareness, emotional intelligence, and focus.\" In essence, she believes that overstimulation is making it difficult for students to concentrate in a traditional lecture-centric classroom.",
+       "Not everyone is as anxious, however, about technological advances. Dr. Clara Hughes of the University of Waterloo agrees that shifts in stimuli are resulting in cerebral rewiring, with ramifications that might include shorter attention spans. However, she claims that developing these mechanisms that allow us to partake in rapid-fire attention shifting is actually \"beneficial to creative types whose job is to amalgamate disparate ideas.\" She surmises that our brains are simply adapting to the level of stimulation inherent to our environment.",
+       "In fact, while technology can be harmful to concentration, a new wave of research is unearthing a whole slew of unforeseen beneficial effects. \"Modern technology is bettering our ability to multitask and concentrate in short bursts,\" according to neuropsychologist Dr. Mark Levinson. This means that \"we get a better sense of what deserves our attention, and there is an improved selection of the information we commit to memory.\"",
+       "Dr. Hughes is more moderate in her analysis, saying that \"overexposure and gadget addiction do have a demonstrably negative effect on many cognitive behaviours.\" Nevertheless, she concurs with Dr. Levinson's overall beneficial assessment of the neurological side-effects of our interactions with digital technologies."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "The intent of the first paragraph is to",
+        "options": [
+         "complain about a technology-linked decline in social skills.",
+         "describe recent advances in digital communication technology.",
+         "criticize the detrimental overuse of communication devices.",
+         "warn about how smartphones may impact children's brains."
+        ],
+        "answer": 2,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Ms. Cranberg's opinion stems from her",
+        "options": [
+         "experiences with her own children.",
+         "observations over the years.",
+         "research on emotional intelligence.",
+         "use of traditional lectures."
+        ],
+        "answer": 1,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Dr. Hughes' main point is that our",
+        "options": [
+         "behaviour indicates shortened attention spans.",
+         "brains are benefiting by becoming more creative.",
+         "behaviours are being negatively affected",
+         "brains are adapting to new technologies."
+        ],
+        "answer": 3,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Dr. Hughes and Ms. Cranberg would agree that",
+        "options": [
+         "communication technology overuse may lower emotional intelligence.",
+         "smartphones may contribute to higher academic achievement.",
+         "electronic devices can foster creativity in young people.",
+         "children can better multi-task thanks to electronic devices."
+        ],
+        "answer": 0,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Dr. Levinson would likely agree that",
+        "options": [
+         "children can benefit from using technological devices.",
+         "the impacts of digital devices deserve more attention.",
+         "our brains need stimulation from digital devices.",
+         "technological devices can harm our memory processes."
+        ],
+        "answer": 0,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "I've never really thought about the effect of emerging technologies on neurological development, but as a parent of four youngsters, this piece certainly piqued my interest! After reading the various viewpoints, I felt that {{6}} neglected to mention the potentially negative consequences of diminishing attention spans. {{7}} numerous valuable effects of human-computer interactions, such as improvements in the ability to simultaneously execute multiple activities, assemble contrasting information, and sort out facts. Meanwhile, I was disappointed by the alarmist views on {{8}} expressed by Ms. Cranberg. {{9}} should be a blessing for teachers and classrooms. {{10}} traditional educational methods, as Ms. Cranberg insinuates, then these methods need to be adapted to the way children consume information in their daily lives."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "the author",
+         "Dr. Hughes",
+         "Ms. Cranberg",
+         "Dr. Levinson"
+        ],
+        "answer": 3,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "This article also disparages the",
+         "Additionally, the stakeholders ignore",
+         "But I agree that there are",
+         "Only the teacher appreciates the"
+        ],
+        "answer": 2,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "the declining quality of homework",
+         "disorderly student behaviours",
+         "teachers' reporting practices",
+         "students and electronic devices"
+        ],
+        "answer": 3,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "New informational inputs",
+         "Modified cognitive behaviours",
+         "Children's improved curiosity",
+         "Tried-and-true teaching methods"
+        ],
+        "answer": 0,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "When teachers are tired of",
+         "If children are not engaged by",
+         "Since technology has improved",
+         "Unless students prefer"
+        ],
+        "answer": 1,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "You recently graduated from university. You have just been interviewed for a new job. The interviewers liked you and they are interested in hiring you. First, however, you need a letter of reference from a teacher at your university that explains your strengths."
+    ],
+    "instruction": "Write an email of about 150-200 words to your university teacher and ask for a reference letter. Your email should do the following things:",
+    "bullets": [
+     "remind the teacher about who you are",
+     "provide information about your interview",
+     "ask for a reference"
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "February 28",
+       "To whom it might concern,",
+       "I, Launny K. Duarte, I would like to a request for a reference letter, that provide my strengths and knowledge, because I had interview last week and they willing to hire me for the position that, I know better but before there hire me to there company they want me to provide some important requirements like the letter that indicate my strengths, as a new graduate, I, am willing to share my knowledge and ideas that i had learned to this university and I so excited to work. I hope that you will granted my request because this is for future of my family and also for my self. I, hope that when the days come, Il be one of the successful employee that our school will be proud of me as a good student of this school and i proud to be a part of it. I hope for your kindly considerations.",
+       "thank you and more power, Launny K. Duarte"
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "Dear Mrs. Swanson,",
+       "First let me introduced myself to you. I am Mamadou Tolo, i just graduated from your class. Im one of your most trusted and honest student in your computer programming class. And as a computer programming graduate under your class you know well what i'm capable of. I could do all kinds of big programming multi-tasking, Auto-cading and all sort of risky programming.",
+       "Recently i applied for a computer programming job in one of the big company downtown. They called me for an interview, and luckily i got the job but they require me to submit a reference letter from one of my teacher when i was in university. Instantly your name came to my mind. I knew that you could help me land this job, and i promise that i will do my best in this job that you will be proud of me someday.",
+       "Thank you so much, i appreciate it so much.",
+       "Respectfully,",
+       "Mamadou Tolo"
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Dear Professor Lee,",
+       "I hope that you remember me from last year; I took your course in Applied Engineering, you assessed my project on Renewable Energy Systems and you sponsored my year in industry.",
+       "Since graduating, things have gone well. I have recently applied for a job at a small company developing sustainable power supplies for remote communities. The interview went well and they seemed very interested in my final year project as it represents the most cutting-edge technology.",
+       "However, they they expressed some concern about my ability to translate my academic knowledge into a workable, commercial product. They have therefore asked for a reference from you to support my application.",
+       "So, I am writing to ask if you would be willing to write me a reference letter. If you are happy to do so, the letter would need to confirm that you felt that my project was technically viable and that I have the engineering skills to develop it into a workable product. It would also be helpful if you could describe my ability to work in a team and my 'soft-skills', such as negotiating and communicating.",
+       "Many thanks in advance,",
+       "Jose Ford"
+      ]
+     }
+    ],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "Your apartment manager is surveying your opinion about the swimming pool in your building. Currently, your building has a swimming pool, but it is really old and needs to be renovated. Some tenants prefer to have a small gym instead of a pool. The apartment manager has asked you to complete an opinion survey."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I would like to keep the swimming pool.",
+     "Option B: I would like to have a gym."
+    ],
+    "surveyTitle": "Apartment Swimming Pool Survey",
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "To: Manager",
+       "For me, I would prefer to have the gym instead of swimming pool cause especially during winter time a pool is not useful. The gym is better cause every of us needs some exercise when done in work and most of all it can be relaxing for the health of the tenants. I love biking in the gym and use lots apparatus of the gym. And I make leisure time of myself its because whole weekend I'm busy of work. The good thing is it lesser the time than we go in other fitness center. I'm hoping lots of tenants wants the gym instead of swimming pool. I know there's a lot of lovers of fitness especially the weather is so cold. And later we you can build a good relationship to your tenant. Make sure that what your tenants want you must support the opinion."
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "Hi,",
+       "So here are my reasons for keeping the swimming pool. First of all, I use this pool every day, along with a number of other residents. We also have parties here and swimming lesions for the young children in the building. I think that swimming is a better way to get exercise, as it is easier on your joints and bones because it is a low impact activity. We also have water aerobics every morning and evening for all ages. The pool just needs a little TLC but a gym would need to have a new space and new equipment and would be very costly. It would be very easy for someone that does not know what they are doing to get badly hurt in the gym on some of the heavy equipment. Another point about the swimming pool is that it's so great to help cool down in the summer. Also, there is a brand new gym only three blocks from here and they have great new starter deals that I think the residence might be very happy with. I hope this helps.",
+       "Filipe"
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Dear Apartment Manager,",
+       "Thank you for your invitation to complete a survey regarding the issue of the swimming pool in the building.",
+       "As a long-time resident of this building, I feel that the swimming pool is out dated and in much need of repair. In the time I have been a resident here, I have never used the pool facility and consider it to be unnecessary. It is my opinion that it would be far more beneficial to residents of the building if you were to consider installing a small gym instead of renovating the swimming pool.",
+       "After speaking with a number of my neighbours, it seems that many would favour the gym instead of the swimming pool particularly due to the cold weather in Calgary often making the idea of swimming unappealing. I know that a number of residents would prefer to have gym here in the building so it would enable them to exercise at various times of the day and also cut down on the additional expense of an outside gym membership.",
+       "I would like to thank you for your time and hope that you will consider my opinion when making your decision.",
+       "Regards,",
+       "Elizabeth"
+      ]
+     }
+    ],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "One of your friends will soon be taking her first university exam. Give her advice about what to do before, during, and after the exam."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you visited a popular tourist attraction, either in your country or in a different country. Maybe you can talk about a famous monument, a beautiful park, or a museum. Where did you go, what did you do there, and what made the experience memorable?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "You work at a community development office, and you are in charge of choosing playground equipment for a new park. You found two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade your co-worker that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "Your co-worker is suggesting another piece of equipment. Persuade your co-worker that the option you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "Your boss hired a new employee, Alistair, and asked you and your co-workers, Eun-Jung and Chuni, to train him. After one month, Alistair keeps making mistakes and is not listening to your feedback. Eun-Jung thinks that you should explain to your boss why Alistair should be fired. Chuni thinks that you should try talking to Alistair again and tell him why he needs to do better."
+    ],
+    "choices": [
+     "EITHE Talk to Eun-Jung. Explain why you should talk to Alistair one more time.",
+     "Talk to Chuni. Explain why Alistair needs to be fired."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think all high school students should be required to participate in physical education classes? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You are at a shopping mall and see a matching set of shoes, socks, and a bag on display. Your friend, Helen, has been looking for a new pair of shoes recently. Call Helen and describe in detail what the set looks like, and ask if she would be interested in buying the set."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

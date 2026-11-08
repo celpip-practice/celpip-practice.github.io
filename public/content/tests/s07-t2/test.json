@@ -1,0 +1,1728 @@
+{
+ "id": "s07-t2",
+ "set": 7,
+ "test": 2,
+ "title": "Practice Test 7-2",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 57.0
+      },
+      "transcript": "Hello, is this where I can book a dog sled ride? It is. Are you looking to ride as a passenger or would you like to drive your own? I can drive my own dog sled, but I don't know how. Our dogs are very well trained. I'll tell you everything you need to know. Okay, sign me up for the drive, not the ride that is. And would you like the hour-long trip or the overnight trip? The hour-long trip please. That'll be 75 dollars then. Will you be paying by credit card? Yes, just give me a second to find it. It always gets lost at the bottom of my purse. Ah, here it is. Thanks. Now we just need you to read and sign this waiver. I'm afraid your credit card has been declined. Oh, I'm sorry. I Try this card instead.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "to schedule dog training lessons"
+         },
+         {
+          "text": "to purchase some souvenirs"
+         },
+         {
+          "text": "to arrange for an overnight trip"
+         },
+         {
+          "text": "to pay for a dogsled excursion"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "What is the main purpose of this interaction?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "Her card is refused"
+         },
+         {
+          "text": "She used a debit card."
+         },
+         {
+          "text": "They don't accept credit cards."
+         },
+         {
+          "text": "Her credit card expired."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "What is the problem with her payment?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 60.3
+      },
+      "transcript": "Wow. The dogs are big. Are they friendly? Absolutely. They're real people pleasers. Okay. Now step onto the sled. Yeah, like that. And hold onto the handles. Good. Now bend Bend your knees a little bit. Move from side to side, that's right. That's what the ride will be like. How do I tell the dogs where to go? You won't need to. They're trained to run on the track around the lake. Around the lake? What if they run onto the lake? I don't want to fall through the ice. Don't worry. Even if the dogs did run onto the lake, it is frozen solid. I don't know. Even if ice looks frozen, there can still be thin patches. Well, yes, but on this lake, heavy trucks regularly drive over even the thinnest areas, so I'm pretty sure it's safe enough for you and a few dogs. Okay. But if you're ever nervous and want to stop or slow down, just step with both feet onto the brake.",
+      "questions": [
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "falling into the lake"
+         },
+         {
+          "text": "knowing where to go"
+         },
+         {
+          "text": "going too fast"
+         },
+         {
+          "text": "paying for the drive"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "What does the woman's main concern?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "She moves from side to side."
+         },
+         {
+          "text": "She steps on the brake."
+         },
+         {
+          "text": "She tells the dogs to stop."
+         },
+         {
+          "text": "She pulls the reigns."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "How does she stop the dog sled?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "to scare the woman"
+         },
+         {
+          "text": "to confuse the woman"
+         },
+         {
+          "text": "to amuse the woman"
+         },
+         {
+          "text": "to reassure the woman"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "Why does the man joke about thin ice?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 42.0
+      },
+      "transcript": "Wow, that was amazing, but someone on a snowmobile followed me around the whole time. It was loud. That was me. Me, we do that for the drive your own rides, just in case. Oh, I guess I should say thank you then, but, well, the noise. Yes, the noise really does carry. If you come back again, maybe you would prefer the dog sled ride. Without the snowmobile, it's a lot more peaceful. Yes, I'll definitely consider that. Do you, by any chance, have a special rate for groups? My daughter's eighth birthday is coming up. She and her friends would love this. Of course, come inside and we can discuss the prices.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "for safety reasons"
+         },
+         {
+          "text": "to give directions"
+         },
+         {
+          "text": "the woman asked him to"
+         },
+         {
+          "text": "to help the woman stop"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "Why did the man follow her?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "She wanted to thank the driver."
+         },
+         {
+          "text": "It was very annoying."
+         },
+         {
+          "text": "She was interested in driving one."
+         },
+         {
+          "text": "It frightened the dogs."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "Why did the woman mention the snowmobile?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "Try it only if you can get a special rate."
+         },
+         {
+          "text": "It is great for adventurous people."
+         },
+         {
+          "text": "Consider riding the sled as a passenger."
+         },
+         {
+          "text": "It is more suited to children than adults."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "What would the woman likely tell others about her experience?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 130.0
+      },
+      "transcript": "Hello, may I please speak to Manaz? Manaz isn't home at the moment. Can I take a message? I'm calling from the Gazette. Manaz was a subscriber last year, and we're now offering a special promotion for our former customers. Oh, I see. Well, Manaz will be home later this afternoon. It is a very good deal we're offering. Perhaps you would also be interested. Can I tell you a little bit more about it? Well, I'm a little bit, um, busy, but... It will only take a few minutes. Sure, I guess so. So, wonderful, what we're offering is daily delivery of the Gazette for the price of the weekend papers only. What that means is you'll get seven days of delivery for the price of just two days. So today, for a limited time only, it's a weekly cost of only $3.75. That's a 50% discount off our normal price of $7.50. sense. But that does sound like a good deal and I do enjoy reading the free gazette articles available online. It might be nice to have access to the whole newspaper though instead of just one article from each section. But I'm always wary of promotions that are for a limited time only. When will the price go up and can I cancel when it does? I understand your concerns. The price will go up after three months but you can cancel at any time. You've really got nothing to lose by trying it out. You've almost convinced me. But I'd like to talk to Minaz first and we'll decide together. Can you call us back later this week? Absolutely. I will call later this week. And who should I ask for when I call? You can ask for either me or Minaz. I don't know your name. Of course, yeah. My name is Amir. Thank you Amir. I will be in touch later this week. What does the woman want to sell?",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "a newspaper subscription"
+         },
+         {
+          "text": "a book series"
+         },
+         {
+          "text": "a gym membership"
+         },
+         {
+          "text": "a telephone plan"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": ""
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "Manaz was a customer in the past."
+         },
+         {
+          "text": "He is a regular customer."
+         },
+         {
+          "text": "His name was on her list."
+         },
+         {
+          "text": "Manaz filled out an application form."
+         }
+        ],
+        "answer": 0,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "Why is the woman offering a mirror this promotion?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "interested"
+         },
+         {
+          "text": "suspicious"
+         },
+         {
+          "text": "pleased"
+         },
+         {
+          "text": "upset"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "How does a mere feel about limited time promotions?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "She has never heard the name \"Amir\" before."
+         },
+         {
+          "text": "She is interested in the meanings of names."
+         },
+         {
+          "text": "She is going to write him an email."
+         },
+         {
+          "text": "She would like to call him by his name."
+         }
+        ],
+        "answer": 3,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "Why does the woman say, I don't know your name?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "the entire newspaper"
+         },
+         {
+          "text": "only local news stories"
+         },
+         {
+          "text": "a selection of articles"
+         },
+         {
+          "text": "the sports highlights"
+         }
+        ],
+        "answer": 2,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "What content does the Gazette publish online?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 114.0
+      },
+      "transcript": "Cheryl, do you have a minute? You might not have heard, but the university has decided to rent out its classrooms to the public when not in use by a course. We're hoping to raise funds for some much needed renovations. Diann will continue to book the rooms for our courses, but I'd like you to handle queries from the community. Sure. What's involved? I'm not familiar with the booking software. I've only used it once. No worries. First, open the booking form. See? Just ask for their information and fill it in. The person's name, address, phone number, et cetera. That's easy enough. Will they already know which room they want to book? No. You'll have to help them figure that out. Just open up the rooms list here. It lists all the rooms indicating size, location, and so on. I think I'll print that list and go check out the rooms around campus. It'll give me a better idea of what to recommend. Good idea. For example, if they're going to give a lecture, they'll want one of the auditoriums. If they're holding a workshop, one of the classrooms, and of course, some classrooms have tables and chairs that can be moved, others have desks bolted into the floor. So let's say someone is holding a first aid certification course. They'd probably want a medium-sized classroom and to be able to move the tables and chairs. I think I got it. When I walk around later, I'll also make note of which rooms are near washrooms and which ones are near a main entrance. You never know what people will want. Excellent. Now the price list is here. Do they send the payment to us? No. Once the booking form is complete, send a copy to them and a copy to Michael in finance. He'll send them an invoice and follow up if they don't pay on time. Okay, anything else? If what they want isn't available, shall I suggest they contact the Community Center? No, tell them you'll get back to them then call Diane. She may be able to reschedule the class using the requested room. We really need the revenue, so I'd like to pursue that option first. Okay, no problem.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "He wants her to replace another employee."
+         },
+         {
+          "text": "He wants her to organize the classroom renovations."
+         },
+         {
+          "text": "He wants her to bring a package to someone in Finance."
+         },
+         {
+          "text": "He wants her to add a new task to her duties"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "Why does the man come speak to the woman?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "It is currently having financial difficulties."
+         },
+         {
+          "text": "It makes a lot of money renting rooms."
+         },
+         {
+          "text": "It recently purchased new booking software."
+         },
+         {
+          "text": "It holds regular first aid courses for students."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "What is likely true about the University?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "a request for more than one room"
+         },
+         {
+          "text": "a refusal to pay the rental fee"
+         },
+         {
+          "text": "a request for a room near a washroom"
+         },
+         {
+          "text": "a complaint about the room sizes"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "What does the woman think might occur?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "so he can prepare the room"
+         },
+         {
+          "text": "so he can reschedule the classes"
+         },
+         {
+          "text": "so he can confirm the booking"
+         },
+         {
+          "text": "so he can send an invoice"
+         }
+        ],
+        "answer": 3,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "Why will she send a copy of the booking form to Michael?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "contact her co-worker"
+         },
+         {
+          "text": "call the Community Centre"
+         },
+         {
+          "text": "offer an alternate date"
+         },
+         {
+          "text": "decline the booking request"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "If a room is already booked, what will the woman do?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "confused"
+         },
+         {
+          "text": "confident"
+         },
+         {
+          "text": "angry"
+         },
+         {
+          "text": "surprised"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "How does the woman feel about the man's request?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "It is about one and a half minutes long.",
+     "Then five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 247.3
+      },
+      "transcript": "Street magician Carson Witt has been arrested and charged with stealing from his audiences. The 26-year-old performer has been traveling around Canada for the last four months, amazing people with his sleight of hand. one of his best known tricks is to ask an audience member for a $20 bill, rip it into shreds, then pull the same bill unharmed out of an orange. Whit was performing at the Winnipeg Folk Festival when he got caught. Twelve year old Patricia Wu had the insight to take a picture of the serial number of her $20 bill with her dad's cell phone before she handed it over to Whit. When he returned it to Patricia, she announced it wasn't the same tracking number. She'd been doing a school project on counterfeit bills and noted that the new $20 bill didn't have raised ink on the large number of the bill, like it should have. She told her father, who alerted security, what was found with a stack of fake 20s in his possession. Although this does not happen regularly, police warned festival goers to be careful with their money. . You You You You You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "One of the magician's tricks involved",
+        "options": [
+         {
+          "text": "giving away a $20 bill."
+         },
+         {
+          "text": "copying a $20 bill."
+         },
+         {
+          "text": "making a $20 bill disappear."
+         },
+         {
+          "text": "tearing up a $20 bill."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Before giving the magician money, Patricia",
+        "options": [
+         {
+          "text": "asked her father for another $20 bill."
+         },
+         {
+          "text": "took a picture of her $20 bill."
+         },
+         {
+          "text": "took a picture of the magician."
+         },
+         {
+          "text": "wrote down the serial number."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Patricia noticed that the new bill",
+        "options": [
+         {
+          "text": "had different numbers."
+         },
+         {
+          "text": "had bigger numbers."
+         },
+         {
+          "text": "had a serial number."
+         },
+         {
+          "text": "had the same number."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Patricia knew about counterfeit from",
+        "options": [
+         {
+          "text": "a course on currency."
+         },
+         {
+          "text": "a museum tour."
+         },
+         {
+          "text": "a school project."
+         },
+         {
+          "text": "training in fake money."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The magician was in trouble because he",
+        "options": [
+         {
+          "text": "stole money from the bank."
+         },
+         {
+          "text": "stole money from his audience."
+         },
+         {
+          "text": "tore a $20 bill into pieces."
+         },
+         {
+          "text": "used Patricia's $20 bill in his show."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 160.3
+      },
+      "transcript": "You will watch a discussion among three colleagues. There are two women and one man. They are in a meeting room at their workplace. This is Eric. This is Marie. This is Isabella. Hey Isabella, Marie. Sorry I'm late. A Euro company is thinking about having a fundraiser for the Children's Hospital. I hope so as it's a great cause. I'm ready to get cracking. I'm glad to hear your the fundraiser. Our manager thinks a worthy recipient is a children's hospital because some of their wards need refurbishing. Hmm, that's interesting. My wife's a nurse there and she mentioned up-to-date equipment is a priority but I'm not sure what equipment that is. I could check and find out. Okay, why don't we see about changing the purpose and aim at raising money for the children's hospital but they can use it according to their priorities list. Is that better? Yes, much better Isabella, as that gives us more flexibility. Are we going to have a silent auction? What's a silent auction? Well, it's a lot less confrontational than a regular auction. Each item is numbered and displayed, and there's a starting price for each bid. If you're interested in the item, you put an amount down on a piece of paper, plus your name and phone number, and then fold the piece of paper in half and put it into the bidding jar. The highest bid at the end wins. But, I was thinking maybe we could change the bidding system. We could assign bidders a personal code number. They write their number and their bid on a chart next to the item that they want. Everyone would see the charts and the bidding amounts but no name. The traditional assignment auction drives me crazy because I never know how much to bid. Although, I wonder if people would be inclined to bid less because they can see what everybody else is bidding. What I really like about a traditional auction is that if you're really interested in an item you just bid really high to ensure that you get it. On the other hand, if two or three people want it, they can keep bidding higher and higher if they know the amount already bid. Exactly, and the revised system would save everyone a lot of time too. We wouldn't have to sort through all the bid papers. The highest bid would be crystal clear because we can identify the winning bidder by checking our personal codes list. The buyers pay for the item at the end of the evening and they take it with them. Well, do we have to make this decision ourselves or could we consult the manager? I think we need to buy in from everyone in order to make such a big change. I'll talk to the manager this afternoon. Let's meet at the same time tomorrow to start planning the details. Okay.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What aspect of the fundraiser are the three colleagues debating?",
+        "options": [
+         {
+          "text": "the recipient of the funds"
+         },
+         {
+          "text": "the format of the event"
+         },
+         {
+          "text": "the schedule of the auction"
+         },
+         {
+          "text": "the purpose of the fundraiser"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Why are the three colleagues planning a fundraiser?",
+        "options": [
+         {
+          "text": "Eric's wife asked the company for help."
+         },
+         {
+          "text": "The hospital wards are in bad condition."
+         },
+         {
+          "text": "Their company regularly organizes fundraisers."
+         },
+         {
+          "text": "The employees enjoy participating in silent auctions."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What stage are the three colleagues at in their planning?",
+        "options": [
+         {
+          "text": "generating ideas"
+         },
+         {
+          "text": "finalizing details"
+         },
+         {
+          "text": "distributing tasks"
+         },
+         {
+          "text": "awaiting approval"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What is Eric pleased about?",
+        "options": [
+         {
+          "text": "the new fundraising strategy"
+         },
+         {
+          "text": "the chosen recipient of the funds"
+         },
+         {
+          "text": "the postponed meeting time"
+         },
+         {
+          "text": "the traditional auction system"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Which statement is true about a traditional silent auction?",
+        "options": [
+         {
+          "text": "Bidders know how much each person bids."
+         },
+         {
+          "text": "The highest bidders are notified immediately."
+         },
+         {
+          "text": "It requires choosing an identification number."
+         },
+         {
+          "text": "Bidders can make high bids for items they want."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Why does Marie dislike the change that Isabella suggested?",
+        "options": [
+         {
+          "text": "It will make the auction longer."
+         },
+         {
+          "text": "It will confuse experienced bidders."
+         },
+         {
+          "text": "It will encourage bidders to bid low."
+         },
+         {
+          "text": "It will make the auction less efficient."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Why does Isabella dislike traditional silent auctions?",
+        "options": [
+         {
+          "text": "The system is difficult to understand"
+         },
+         {
+          "text": "The bidding is too competitive."
+         },
+         {
+          "text": "Bidders' names are made public."
+         },
+         {
+          "text": "It takes too long to process the results."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "How will the group's indecision be resolved?",
+        "options": [
+         {
+          "text": "They will do further research."
+         },
+         {
+          "text": "They will vote on the matter."
+         },
+         {
+          "text": "They will request outside input."
+         },
+         {
+          "text": "They will continue the debate later."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "It is about three minutes long.",
+     "Then, six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 175.2
+      },
+      "transcript": "Good morning and welcome to Monday's edition of the Daily Buzz. This is Nathan Cooper reporting. Calgary City Council is currently negotiating a controversial proposal in relation to the developer George Nelson of Nelson Development Company feels that the area has significant economic potential and has put forward a proposal to develop several apartment buildings and retail shops on the newly cleared land. Accordingly, he has requested that the area be rezoned for residential and retail space. However, not all members of the community are happy with this request. Eleanor Wentworth, a high school teacher and mother of two, has spearheaded a campaign against further development in the area, stating that community, rather than economic interests, should take precedence. She argues that the area is primarily composed of families with children who need a safe place to play, and that as it is, there is already insufficient green space. Furthermore, she emphasizes that they live in a tight-knit community and fears that a more densely populated neighborhood could put this at risk, since living in a highly populated area often makes it less likely that one will know their neighbors. As such, Wentworth and her supporters would instead like to see the old car factory replaced by a large park. Nelson has countered such criticisms by stating that his proposal does in fact leave adequate room for green space. Included in the proposal is the cleaning up of Stanley Creek, a abilitated creek would then be turned into a nature walkway for residents. Additionally, Nelson points out that the development of high-density apartment buildings actually helps preserve green space by preventing urban sprawl. Furthermore, with regards to retail operations, he plans for no more than four or five small family-owned shops. This he insists would actually help to build community by maintaining a localized economy. City Council member Emma Orr wonders if there is the potential for compromise within the opposing camps. She believes the factory area is large enough to hold both a medium-sized park as well as several apartment buildings or shops. Since the creek runs in a fairly straight line along the north side of the factory, she suggests that the park be built alongside the creek. This would maintain adequate green space for both a walking trail as well as a play area for children and youth. The rest of the land could then be rezoned for residential and retail purposes. She is currently discussing her proposal with both parties.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Nelson has requested that city council",
+        "options": [
+         {
+          "text": "approve a plan to redevelop the vacant land."
+         },
+         {
+          "text": "maintain the zoning bylaw for an area of land."
+         },
+         {
+          "text": "work to reduce urban sprawl."
+         },
+         {
+          "text": "clean up a polluted local creek."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "According to the mother of two, high-density apartment buildings",
+        "options": [
+         {
+          "text": "are a good option for families with children."
+         },
+         {
+          "text": "can help to preserve green space."
+         },
+         {
+          "text": "could be built in addition to a park."
+         },
+         {
+          "text": "could put her community at risk."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Stanley Creek",
+        "options": [
+         {
+          "text": "has been rehabilitated by the surrounding community."
+         },
+         {
+          "text": "is an obstacle to development in the area."
+         },
+         {
+          "text": "is endangered by the development proposal."
+         },
+         {
+          "text": "may be developed into a nature walkway."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Nelson Development Company envisions a",
+        "options": [
+         {
+          "text": "business community with several large retail chain stores."
+         },
+         {
+          "text": "compact community with a vibrant local economy."
+         },
+         {
+          "text": "mixed community combining high-rise offices and apartments."
+         },
+         {
+          "text": "sprawling residential community for families with children."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The city councillor believes that",
+        "options": [
+         {
+          "text": "both economic and community interests can be satisfied."
+         },
+         {
+          "text": "development of the area may lead to greenland expansion."
+         },
+         {
+          "text": "more rezoning should be done along the north bank of the river."
+         },
+         {
+          "text": "Stanley Creek is a problematic location for a park."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "If city council approves Nelson's current proposal,",
+        "options": [
+         {
+          "text": "Mother of two, Eleanor Wentworth, will be disappointed"
+         },
+         {
+          "text": "City Councillor, Emma Orr, will feel the need for more negotiations."
+         },
+         {
+          "text": "Developer Nelson will worry about the building costs."
+         },
+         {
+          "text": "The children will be happy with their new play area."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "Dear Scott,",
+       "Has everyone adjusted to their new city yet? I know moving to Vancouver might have been difficult on your family, but you made the right choice. You would have been crazy to pass up such an amazing opportunity. That being said, the office sure isn't the same without you!",
+       "Anyways, you'd been asking if I had plans for the \"big anniversary,\" so I had to write and tell what happened. Since Kelly loves the outdoors, I had the brilliant idea of hiking in Algonquin Park. I say \"brilliant\" because, as you know, I'm not a nature guy-a fact which might explain why my romantic gesture went so wrong.",
+       "We decided to bring Sparky, figuring he'd love running around off-leash. Big mistake! We'd been hiking for about 2 hours when Sparky, having spotted something interesting, suddenly tore off into the bush. Worried he'd get lost, we went chasing after him. Apparently, however, we should've been more worried about ourselves getting lost. By the time we'd caught up with him, the trail was nowhere in sight and we had no idea where we were. While Sparky sat wagging his tail, thinking this was the best game ever, Kelly and I panicked. Since we hadn't told anyone where we were going, it made no sense to stay put and wait for help. So we decided to keep walking, hoping we'd picked the right direction. Five hours later, with no sight of the trail and a darkening sky, we had our doubts. Amazingly, just as we started to think all was lost, we stumbled across an abandoned ranger cabin. There wasn't much inside, but it had the essentials: a map, a compass, a few cans of beans, and a bed. Having eaten the last of our food hours ago, we quickly dug into the beans. Then, exhausted, we collapsed into bed. The next morning we used the map and compass to lead us out of the woods. It turns out we'd only been a few kilometres from our car!",
+       "Needless to say, I have no intention of venturing back into the woods any time soon. Make sure to be careful if you do any hiking out there. It's easier to get lost than you think!",
+       "Cheers,",
+       "Jim"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Scott and his family",
+        "options": [
+         "have lived in Vancouver for many years.",
+         "will soon be moving to Vancouver.",
+         "no longer live in Vancouver",
+         "recently moved to Vancouver."
+        ],
+        "answer": 3,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Jim and Kelly went hiking because",
+        "options": [
+         "they both love the outdoors.",
+         "it is something Kelly enjoys.",
+         "Sparky likes to run off-leash.",
+         "Jim loves spending time in nature."
+        ],
+        "answer": 1,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Jim wrote Scott to",
+        "options": [
+         "ask about his new job in Vancouver.",
+         "warn him about hiking around Vancouver.",
+         "answer a question about his anniversary.",
+         "tell how Sparky saved a bad hiking trip."
+        ],
+        "answer": 2,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Jim and Kelly's recent anniversary",
+        "options": [
+         "included staying at a cabin they had reserved",
+         "did not turn out as they had planned.",
+         "was one of their favourite anniversaries ever.",
+         "involved a lot of driving in the car."
+        ],
+        "answer": 1,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The trouble began when Jim and Kelly",
+        "options": [
+         "realized they had forgotten their map.",
+         "ran out of all their food and water.",
+         "went running into the woods after Sparky.",
+         "decided to bring Sparky to the park."
+        ],
+        "answer": 2,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "It was lucky that Jim and Kelly",
+        "options": [
+         "had brought a compass with them.",
+         "found shelter before it got dark out.",
+         "had a good sleep the night before.",
+         "parked their car close to the trailhead."
+        ],
+        "answer": 1,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks.",
+      "paragraphs": [
+       "Select the best choice for each blank from the drop-down menu (). Dear Jim,",
+       "It's great to hear from you! I've been wondering what my {{7}} has been up to without me around. However, I am sorry to hear that you did not {{8}}",
+       "on your anniversary. I can only imagine how {{9}} that must have been! As to things here, you are right, {{10}}. However, it seems like my family is really starting to like it here. The kids have already made a list of trails and mountains they want to explore. Although, after hearing your story I think we might all take an outdoor education course first. I sure don't want to end up {{11}} like you!",
+       "Take care,",
+       "Scott"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "best employee",
+         "next-door neighbour",
+         "favorite brother",
+         "old roommate"
+        ],
+        "answer": 0,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "find your car",
+         "find Sparky",
+         "eat dinner",
+         "have a great time"
+        ],
+        "answer": 3,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "annoying",
+         "scary",
+         "relieving",
+         "reassuring"
+        ],
+        "answer": 1,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "it was challenging at first",
+         "this may have been a mistake",
+         "the transition went smoothly",
+         "the job is harder than expected"
+        ],
+        "answer": 0,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "chasing Sparky",
+         "eating canned vegetables",
+         "locked up in a cabin",
+         "lost in the woods"
+        ],
+        "answer": 3,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "Alpaca Education Centre Your Premier Choice for Language Training and Education",
+       "Location: #110 - 1215 West Burrard Avenue Hours: Monday to Friday, 8:30 a.m. to 9:30 p.m. Phone: 604-555-0123 Email: courseinfo@aec.ca",
+       "Courses available commencing the week of August 3rd to August 9th Introduction to Beginner French - Beginner German - American Sign Level II, Intensive Level l Language August 4th to August 4th to August 4th to August 29th* September 12th September 26th•",
+       "Immerse yourself in our Learn practical Learn the predominant most intensive course. knowledge and German sign language in Canada With frequent classes, speaking skills with our and the USA with this your skills will improve most popular beginner course. rapidly! introductory course! 32 hours of instruction 60 hours of instruction • 27 hours of instruction • Maximum 20 students Maximum 10 students • Maximum 16 students • Focus on engaging in Native speaking • Target practice for simple conversations instructors vocabulary and Focus on conversation grammar skills"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_2.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "Mon, Tues, Wed,",
+       "AM Thurs, Fri 9:30 - 12:30 Mon, Tues, Wed,",
+       "PM Thurs 3:00 - 6:45 Course availability is subject to change based on enrolment."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu ().",
+      "paragraphs": [
+       "Subject: Language Courses",
+       "To: Charlie Veui <cveui@tmscollg.com>",
+       "From: Gerry Nalen <Grnal@tmscollg.com>",
+       "Hi Charlie,",
+       "Remember how we always wanted to learn another language? Well, today I picked up a brochure for the language school down the street from our place. Let's take a course and travel at the end of the semester! The courses offered are all for learners with {{1}}. The French course {{2}} than the others, but they promise that our language will get better fast. Or perhaps you'd prefer German? You've always wanted to see Germany, and this course {{3}} According to the brochure, {{4}}. Or we could think about future job opportunities and take American Sign Language. If we took it in the evening, it wouldn't affect our summer jobs. But when the fall semester starts, {{5}} On second thought, I'd rather take something useful for traveling. Oh, I just noticed that the brochure doesn't mention the price of the courses. I'll call them.",
+       "Talk soon,",
+       "Gerry"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "little experience",
+         "intermediate abilities",
+         "strong speaking skills",
+         "cultural knowledge"
+        ],
+        "answer": 0,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "seems more demanding",
+         "has larger class sizes",
+         "focuses on more skills",
+         "requires less time"
+        ],
+        "answer": 0,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "is the most intensive option",
+         "includes cultural activities",
+         "has the most frequent classes",
+         "teaches functional language"
+        ],
+        "answer": 3,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "it has the smallest classes",
+         "many people like it",
+         "it requires a lot of study",
+         "enrollment is quite low"
+        ],
+        "answer": 1,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "there are only morning classes",
+         "it may be too much work",
+         "the course will be finished",
+         "there is a final assessment"
+        ],
+        "answer": 1,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (), choose th e b est option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "What is Gerry's relationship to Charlie?",
+        "options": [
+         "roommate",
+         "employee",
+         "teacher",
+         "counselor"
+        ],
+        "answer": 0,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What are Gerry and Charlie doing in September?",
+        "options": [
+         "getting part-time jobs",
+         "returning to school",
+         "traveling to visit a friend",
+         "taking a trip to Europe"
+        ],
+        "answer": 1,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Why does Gerry want to learn a language?",
+        "options": [
+         "to get a university credit",
+         "to get a job promotion",
+         "to prepare for a trip abroad",
+         "to talk to his German friends"
+        ],
+        "answer": 2,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. On May 8, 1987, Canada introduced the one-dollar coin now known as the \"loonie.\" It is eleven-sided and gold-coloured (it's actually bronze-plated nickel). The coin features a design by Ontario wildlife artist Robert Ralph Carmichael-a loon on one side and Queen Elizabeth II on the other. Canada is, after all, still a member of the British Commonwealth. The loon is a water bird common across Canada, known for its ability to swim great distances under water and for its beautiful, haunting call.",
+       "B. The loonie wasn't Canada's first one-dollar coin. A silver dollar was introduced in 1935, featuring an image of two voyageurs paddling a canoe on one side and, to display Canada's British connections, an image of Britain's King George on the other. But the silver dollar-which was made of nickel by 1967-wasn't used much because of its size and weight (about 23 grams). What was in common use was a green-and-white paper bill. However, the paper bills wore out within a year, which is why the loonie was introduced. It was expected to last twenty years, saving taxpayers $175-250 million.",
+       "C. In fact, the Royal Canadian Mint intended to use the same voyageur design for the new coin, but the master dies were lost somewhere between Ottawa and the Winnipeg production facility. The dies were entrusted to a courier service instead of to a high-security service. Worse, apparently no one asked the courier representative who showed up to take possession of the dies for identification. Worse still, designs for both sides of the coin went in the same package instead of in separate packages. For these reasons, the Mint suspected foul play and, fearing counterfeits, decided to go with a new design, that by Carmichael. An investigation by the Royal Canadian Mounted Police concluded, however, that the dies were simply lost in transit.",
+       "D. In 1996, the orange-brown two-dollar paper bill was also replaced with a coin. Called a \"toonie,\" the silver coin has a gold center (actually nickel and bronze) featuring another Canadian animal, a polar bear on an ice floe. Already light, at 7.3 grams, a lighter version was introduced in 2012 by replacing the nickel with steel. A lighter version of the loonie was also introduced. Unfortunately, the lighter coins didn't work in coin-operated machines, such as vending machines, parking meters, and washers and dryers in laundromats. As a result, many business owners have had to pay thousands of dollars to replace and upgrade their equipment.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Government officials were afraid that someone would make unauthorized coins.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "By the end of the 20th century, coins replaced two paper bills in Canada.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Replacing paper bills every year was expensive.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "People preferred to carry the lighter silver dollar.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The animal depicted on a loonie is found throughout Canada.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The individual who picked up the dies had forgotten to bring identification.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Shopkeepers were unhappy to have paper bills replaced with coins.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Canada's connection to Britain is depicted on one side of the loonie.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "A change in raw materials reduced the weight of the coins.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "A recent visit to Canada by Turks and Caicos Premier, Rufus Ewing, resparked interest in Canada's annexation of the country. Turks and Caicos, a Caribbean archipelago of 40 islands, has been a point of interest in Canada's history. This most recent debate marks the third time in the last century that Ottawa politicians have pushed to make the territory Canada's eleventh province. With over 300 kilometres of beaches, the tropical paradise would certainly be a welcome asset.",
+       "Ewing hailed Canada as a role model of fiscal responsibility from which his country could learn, accolades that resounded in Ottawa on the foreign leader's recent diplomatic junket to spur bilateral trade and tourism. When asked about the possibility of Turks and Caicos becoming a Canadian province, the Premier skirted the issue. He said he would not dismiss the idea completely, but he also offered us a glimmer of hope with the tantalizing observation that \"there is no marriage without some kind of relationship first.\"",
+       "Liberal politician Peter Goldring is spearheading the latest campaign for the annexation and feels that much of the legwork has already been done. According to Goldring, \"Canada has the greatest proportion of foreign investment in Turks and Caicos, and the second highest number of tourists to the country. Annexation would permit further growth in these areas.\" Goldring also argues that the island could serve as a gateway to Latin America. \"The location would be ideal for military support from Ottawa and particularly for disaster relief,\" he adds.",
+       "Disappointingly, Conservative politician Janice Bloom calls the whole idea a pipe dream. \"Canada is not in the business of annexing tropical islands,\" she claims. \"Annexation would be extremely complicated since it would involve changes to the islands' tax and health care systems.\" Bloom contends that the government has more pressing matters.",
+       "Yet, according to a recent poll, the majority of the islands' residents support the proposal. Cab driver Ron Douglas says he'd love the opportunity to work in Alberta's oil industry. However, he admits the primary concern of many locals is that Canada's rules are too strict. \"They go against the laid-back attitude of us islanders.\""
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Ewing visited Ottawa to",
+        "options": [
+         "strengthen economic ties.",
+         "discuss joining Canada.",
+         "study financial policies.",
+         "boost investment in Canada."
+        ],
+        "answer": 0,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Arguments presented in favour of annexation suggest",
+        "options": [
+         "improved regulations for both countries.",
+         "increased opportunities for both parties.",
+         "increased tourism in both countries.",
+         "improved health care for both parties."
+        ],
+        "answer": 1,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Janice Bloom believes that annexing Turks and Caicos is",
+        "options": [
+         "a shared Canadian dream.",
+         "a pointless proposition.",
+         "a worthy cause to pursue.",
+         "a pressing government issue."
+        ],
+        "answer": 1,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Inhabitants of Turks and Caicos",
+        "options": [
+         "lead a different lifestyle than Canadians.",
+         "want to speed up the process of joining Canada.",
+         "have high rates of unemployment.",
+         "value their independence from foreign powers."
+        ],
+        "answer": 0,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The author of the article is",
+        "options": [
+         "in favour of the proposal.",
+         "skeptical about the prospect.",
+         "opposed to the annexation.",
+         "surprised by the reactions."
+        ],
+        "answer": 0,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "I have to admit, reading that Canada could potentially {{6}} made my day. To be honest, however, I am not at all surprised that {{7}}. Turks and Caicos officials have approached the Canadian government before regarding the issue, and were rejected each time. As Ewing insinuates, they likely {{8}} Canada now. I am, however, shocked by the {{9}} You'd think if there was any financial gain to be had, they would be the first on board. However, I do agree with Bloom's sentiment that at present, it is perhaps {{10}}"
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "enter into business with a Caribbean paradise",
+         "forge new diplomatic ties with Turks and Caicos",
+         "incorporate a group of sunny southern islands",
+         "promote low-cost travel throughout the Caribbean"
+        ],
+        "answer": 2,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "Ewing remained largely silent on the matter",
+         "Goldring felt he has done all that he can",
+         "Bloom thought Ewing has better things to do",
+         "Douglas feared a Canadian job might be too hard"
+        ],
+        "answer": 0,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "feel resentment toward",
+         "desire compensation from",
+         "need an incentive from",
+         "want to avoid relations with"
+        ],
+        "answer": 2,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "arrogantly overconfident Liberal position",
+         "evidently guileful Turks and Caicos Premier",
+         "highly reluctant Turks and Caicos resident",
+         "tersely dismissive Conservative position"
+        ],
+        "answer": 3,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "too late to implement",
+         "an urgent political matter",
+         "an unfeasible scheme",
+         "too burdensome for businesses"
+        ],
+        "answer": 2,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "ly Materials Selected Product: CELPIP-General Practice Tests, Set 7 -",
+     "Read the following information.",
+     "At your workplace, recyclable materials, such as juice boxes, are not separated from the regular garbage. You would like the company to start a recycling program, at least in the cafeteria."
+    ],
+    "instruction": "Write an email to the company in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Explain the problem.",
+     "Suggest ways to solve the problem.",
+     "Offer to volunteer and help."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "Your manager is surveying employees' opinions about commuting preferences. It is the company's 10th year anniversary and your manager would like to offer a gift to all employees. She would like to know if the staff would prefer to receive a free underground parking pass for one year or a free public transit pass for one year."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I would like the one-year underground parking pass.",
+     "Option B: I would like the one-year public transit pass."
+    ],
+    "surveyTitle": "Workplace Commuter Survey",
+    "samples": [],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your friend Lauren and her roommate had planned to go on vacation together. However, they had an argument about what activities to do together. Give Lauren advice on what she should do to solve the problem with her roommate."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you helped someone. Maybe you can talk about helping a friend, a family member, or a co-worker. Who did you help, how did you help them, what was the result, and how did they react to your kindness?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p1_2.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "You work for a technology company that makes environmentally friendly home appliances, and your boss wants to create a new logo for the company. You find two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade your co-worker that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "Your co-worker is suggesting another logo. Persuade her that the option you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "Your cousin, Julia, is a scholarship student who has no work experience. To obtain work experience, she needs to drop one of her courses to make time for a part-time job. Her brother, Matt, says that Julia should focus completely on her studies because she needs to complete ten courses per term in order to keep her scholarship."
+    ],
+    "choices": [
+     "Talk to Julia. Explain why she should focus completely on her studies.",
+     "Talk to Matt. Explain why Julia should drop a course to make time for a part-time job."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think junk food should be banned from college campuses? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You are at an amusement park with your nephew. You are inside an interesting bus, touring the park. Call your niece Beca and describe in detail what the bus looks like, and ask if she would like to come to the park next weekend."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

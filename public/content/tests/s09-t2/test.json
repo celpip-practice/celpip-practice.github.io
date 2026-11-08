@@ -1,0 +1,1739 @@
+{
+ "id": "s09-t2",
+ "set": 9,
+ "test": 2,
+ "title": "Practice Test 9-2",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 51.5
+      },
+      "transcript": "Well, that'd be all today. Yes, that's it, thanks. Actually, do you sell transit tickets? Sure. Do you need them for local transit or the rapid system? I'm not sure. I live here, but I always drive. My car is in the shop today, though. Well, rapid system tickets are only good on commuter trains and buses. Those are the ones that travel to more distant communities, like Terriville, Well, I'm taking the bus to visit a friend who lives downtown, so I suppose that's local. That's right. How many tickets would you like? We sell them in strips of 10 or 20. I can't buy single tickets? I only need two. Sorry. You can buy single tickets at the station, but only multiples here. That'll be $26 for 10 plus your other items. Well, okay then. If that's the only way you sell them.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "a local bus"
+         },
+         {
+          "text": "a rapid train"
+         },
+         {
+          "text": "a commuter train"
+         },
+         {
+          "text": "a long-distance bus"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "what type of transit does the woman plan to take?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "She lives outside of town."
+         },
+         {
+          "text": "She plans to take the bus more often."
+         },
+         {
+          "text": "She rarely travels on public transit."
+         },
+         {
+          "text": "She needs many tickets."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "what is true about the woman?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "ask for a discount"
+         },
+         {
+          "text": "visit another store"
+         },
+         {
+          "text": "return home"
+         },
+         {
+          "text": "purchase tickets"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "what will the woman probably do next?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 57.4
+      },
+      "transcript": "Hi. I was just here a few minutes ago. I took a look at those transit tickets when I left the store and they have an S on them. Doesn't that mean they're for seniors? Actually, the transit company issues the same tickets for both seniors and students to use. The S stands for both. Oh. The thing is, I don't actually fit into either of those categories. Oh, I'm so sorry. You have a backpack on, and you look like a lot of the university students who shop here. A lot of people tell me that. I just have this because I'm bringing a few novels over to lend to my friend. We can never agree on what music is best, but we both like the same authors. I see. Well, it's easy enough to exchange the tickets. Unfortunately, I'll have to charge you an extra four dollars. I'm very sorry. I understand and do you know where I can catch the number 53 bus? Sure, when you leave the store make a right. The stop is right there on Division Street. You can't miss it",
+      "questions": [
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "She likes to read."
+         },
+         {
+          "text": "She might miss the bus."
+         },
+         {
+          "text": "She looks young."
+         },
+         {
+          "text": "She made a mistake."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "what does the man believe about the woman?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "image": "media/listening_p2_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_2.jpg"
+         },
+         {
+          "image": "media/listening_p2_3.jpg"
+         },
+         {
+          "image": "media/listening_p2_4.jpg"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "what does the woman say she is bringing for her friend?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "take the woman to the bus stop"
+         },
+         {
+          "text": "offer the woman a refund"
+         },
+         {
+          "text": "give the woman the correct tickets"
+         },
+         {
+          "text": "confirm the woman's age"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "What does the man suggest he will do?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 31.8
+      },
+      "transcript": "Hello? Hey, you look familiar. Would you like a plastic bag for the loaf of bread? No, I've got a reusable cloth one with me. You remember me? I was here last week. Yes, the customer with the school bag who I thought was a student. Did you find the bus stop? Yes, thank you. Your directions were very helpful, and the local tickets worked out fine, though with the traffic, it sure took a long time to get there from here. I know what you mean. I take the bus downtown sometimes, too, and it always feels like rush hour.",
+      "questions": [
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "She needs more transit tickets."
+         },
+         {
+          "text": "She wants to thank the man."
+         },
+         {
+          "text": "She has a new transit problem."
+         },
+         {
+          "text": "She is buying something else."
+         }
+        ],
+        "answer": 3,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "Why does the woman return to the store?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "plastic bags"
+         },
+         {
+          "text": "a fabric bag"
+         },
+         {
+          "text": "her unused tickets"
+         },
+         {
+          "text": "a school backpack"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "What did the woman bring with her into the store?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 110.7
+      },
+      "transcript": "Hi Janice. Are you waiting for your daughter? For some reason the teacher always keeps the class late on Thursdays, doesn't she? Yeah, I don't know why. Your daughter Marie is in the same class, right? Maybe the class is planning a surprise closing event for the parents. Could be? Hey, talking about events. Are you taking your kids to the Canada Day celebrations celebrations next week. We aren't planning on it. July 1st is usually too hot, so we prefer to spend the day at the beach. We watch the fireworks in the evening though. You can go to the beach any day. The Canada Day events are special and just once a year. Our kids love everything about it, especially the parade, so we go every year. Really? Every year? Doesn't it get boring? It's different every year. There are beautiful floats. You platforms that make up much of the parade? Last year there was a cool one with kids from the elementary school dressed up as movie characters. What do they do to make the event especially Canadian? Well, there are lots of red and white costumes to represent the colors of the flag. There's usually a Canadian military band and the Royal Canadian Mounted Police on their horses. It's awesome. Isn't it hot and crowded though? And parking downtown must be a nightmare. Yeah, but everyone's having fun, especially the kids. There's some free parking if you go early. Oh, and another great part is the food stalls at the football field, where you can get delicious food at great prices. Plus, there are lots of kids' activities, like bouncy castles and ring toss, not to mention clowns and jugglers everywhere. Your enthusiasm is contagious. I'll talk about it with my husband and the kids, and check out the event schedule on the city's website.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "His kids are preparing a Canada Day surprise."
+         },
+         {
+          "text": "He and his family enjoy attending the events."
+         },
+         {
+          "text": "He wants to know what events are happening."
+         },
+         {
+          "text": "His family has just moved to Canada recently."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "Why does the man talk about Canada Day celebrations?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "They should include more activities for kids."
+         },
+         {
+          "text": "They are more interesting on TV."
+         },
+         {
+          "text": "They should include more Canadian themes."
+         },
+         {
+          "text": "They take place when it is too hot."
+         }
+        ],
+        "answer": 3,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "What is the woman's opinion of Canada Day celebrations?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "watching the entertainment"
+         },
+         {
+          "text": "being outside in warm weather"
+         },
+         {
+          "text": "seeing the Canadian animals"
+         },
+         {
+          "text": "getting free parking downtown"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "What part of the Canada Day celebrations Does the man most enjoy?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "She asked him for Canada Day suggestions for her kids."
+         },
+         {
+          "text": "He thinks she should take her kids to the Canada Day events."
+         },
+         {
+          "text": "She believes Canada Day events are mainly for adults."
+         },
+         {
+          "text": "He would like their families to celebrate Canada Day together."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "Why does the man mention so many kids' activities to the woman?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "She takes her kids to the parade."
+         },
+         {
+          "text": "She visits a new place each year."
+         },
+         {
+          "text": "She spends the day by the water."
+         },
+         {
+          "text": "She eats downtown with her family."
+         }
+        ],
+        "answer": 2,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "How does the woman usually spend Canada Day?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 108.4
+      },
+      "transcript": "Excuse me, Priya. I'd like to speak with you about Divo's progress. I know you've been tutoring him for a few weeks now, but he's still doing poorly in math at school. He failed another test this week. Yes, I'm afraid he's missed more than we thought. It may take until the end of the year for him to catch up. Oh, that's discouraging news. Do you have any ideas about how we can move things along more quickly? Sure. How about increasing his number of sessions? I could schedule him for twice a week, for example, or even three times. Well, that will be much more expensive, aren't it? We usually give a discount to families that register for multiple sessions. I'll talk to my manager. That would be great, thanks. I was also concerned about Devo not doing all of the homework work you assign. I'm sure you must have noticed. Yes, that was the next point I was going to mention. I have a new technique I'd like to try with him. I've read that it is useful for developing stronger work habits. Sure, anything. How will it work? Well first, I'll do part of his homework with him during our session. Then I'd like you to do the next part of his homework with him at home. Finally, he can do the last part by himself. Eventually, we can decrease the amount you and I do with him until he is doing all of it on his own. Thanks, Priya. That sounds like a good place to start. It's just that I hate to say this, but he thinks the exercise sheets you have him working on are a little boring. Well, we can use games or songs to help learn science or language, but math is something that that just takes self-discipline. One thing that sometimes helps kids is a reward chart. You know, where he gets a sticker to put on the chart each time he does his homework. I like that idea. Thanks for your help, Priya.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "Devo attends his sessions infrequently."
+         },
+         {
+          "text": "Devo is not interested in learning math."
+         },
+         {
+          "text": "Devo finds his tutoring sessions boring."
+         },
+         {
+          "text": "Devo is not learning math very quickly."
+         }
+        ],
+        "answer": 3,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "What is the man mainly concerned about?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "once a week"
+         },
+         {
+          "text": "twice a week"
+         },
+         {
+          "text": "three times a week"
+         },
+         {
+          "text": "a few times a week"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "How often does Devo receive tutoring right now?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "to move Devo to a different day"
+         },
+         {
+          "text": "to check available tutoring times"
+         },
+         {
+          "text": "to request a lower price for them"
+         },
+         {
+          "text": "to get advice about tutoring Devo"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "Why does the woman say she will talk to her manager?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "to improve Devo's math homework habits"
+         },
+         {
+          "text": "to ensure Devo gets higher math grades"
+         },
+         {
+          "text": "to help Devo's parents monitor his homework"
+         },
+         {
+          "text": "to reduce Devo's need for tutoring sessions"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "What is the purpose of the new homework strategy?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "learning games"
+         },
+         {
+          "text": "Devo's father"
+         },
+         {
+          "text": "educational songs"
+         },
+         {
+          "text": "Devo's math teacher"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "Which of the following is part of the new homework strategy?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "play learning games with Devo"
+         },
+         {
+          "text": "give Devo a reward chart"
+         },
+         {
+          "text": "have Devo write a test each session"
+         },
+         {
+          "text": "create new exercise sheets for Devo"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "What will the woman most likely do next?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "It is about one and a half minutes long.",
+     "Then, five questions will appear.",
+     "Here, choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 78.0
+      },
+      "transcript": "A new houseboat in Clearwater Harbor has been attracting the attention of tourists and locals. The architect and creator of the vessel, Antonia Moretti, appropriately refers to it as the floating rectangle, and people who have seen it describe it as a shipping container on skis. It has taken Ms. Moretti two years to plan and build the houseboat, which is now moored in one of the most coveted areas of the city, surrounded by luxury apartments. Building her houseboat allowed the 24-year-old graduate to apply her skills in marine architecture, a field she had been studying in both London, England, and Shanghai, China. Although her degree can lead to jobs around the world that require this specialized realized skill set, she says her future goals are still vague. Miss Moretti can often be seen fishing from the deck of her houseboat or chatting with enchanted passersby. Not everyone is enamored by the harbor's new addition, though. Mike McDonald, a resident of a nearby apartment building, recently informed Miss Moretti that she was ruining his view. She",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The houseboat seems to be attracting attention because of its",
+        "options": [
+         {
+          "text": "owner."
+         },
+         {
+          "text": "location."
+         },
+         {
+          "text": "design."
+         },
+         {
+          "text": "purpose."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Before she built her houseboat, Ms. Moretti had recently",
+        "options": [
+         {
+          "text": "built a houseboat in London."
+         },
+         {
+          "text": "studied marine biology abroad."
+         },
+         {
+          "text": "obtained a university degree."
+         },
+         {
+          "text": "lived in a nearby apartment."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Ms. Moretti is",
+        "options": [
+         {
+          "text": "unsure of her plans for the future."
+         },
+         {
+          "text": "unable to find work at the moment."
+         },
+         {
+          "text": "planning to travel the world using her boat."
+         },
+         {
+          "text": "trying to find a roommate to move in with her."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Mike MacDonald, a neighbourhood resident, likely",
+        "options": [
+         {
+          "text": "wants to own a houseboat."
+         },
+         {
+          "text": "visits the houseboat regularly."
+         },
+         {
+          "text": "fishes in Clearwater Harbour."
+         },
+         {
+          "text": "wants Ms. Moretti to leave."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The news item mainly describes a",
+        "options": [
+         {
+          "text": "dispute in a neighbourhood"
+         },
+         {
+          "text": "person who built a unique residence."
+         },
+         {
+          "text": "houseboat that has traveled the world."
+         },
+         {
+          "text": "beautiful harbour in a city."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 180.2
+      },
+      "transcript": "You will watch a conversation between three friends, one woman and two men. They are in a coffee shop discussing different educational options for Grace. This is Josh. This is Grace. This is Luke. So Grace, what do you intend to study? Marketing. I think that I need a formal education to supplement my hands-on experience. experience. My work doesn't know yet, but I think that we support it. I have three programs on my short list, but I'm still having trouble deciding which one. Well, we're here to help. What are your options? Well, I'm deciding between an evening program at the community college, a full-time program at a private marketing school, or a weekend program at the university. According to their websites, all of them offer certificates upon completion, but they differ for in cost and schedule. Where to start? Well, as you know, I'm not an ordinary student. I've been out of school for many years. I have a family and I work part time as a marketing assistant. Well, those all sound like advantages to me. I mean, you already have tons of experience in the field and you'll be way more motivated as a student. Yes, but I need a program that will fit my busy schedule and offer results. From what I know, evening classes are very popular with busy adult learners. Right, but the more I think about it, the more I realize I'm not willing to give up my evening family time for anything. Well, that's one thing off the list. How concerned are you about tuition, Grace? Good question. I'm not particularly rich, but I think I would rather pay more for an excellent education than save a little money for little in return. Well, what do you know about the private marketing school you mentioned? It's a full-time program, right? Yes. The curriculum looks great. It has all the latest trends, digital marketing, online advertising. The only thing is it's basically brand new. It only opened about six months ago. Yeah, you may want to wait and see how their first graduates are doing after they finish next year. Or, you could just take weekend classes at the university now. Yeah, I wish I could sit in on a class. It's a well-respected program that's been offered for over a decade. It's widely recognized in the industry. On the flip side, it's kind of pricey. But didn't you say that you're ready to invest in your future? I did. I think I'm leaning towards the university. University. It works well with Saturday and Sunday, being good for my family, and my husband says I can't go wrong with that one. I think I made my decision. We're so proud of you, Grace. Good luck.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Why does Grace want to go to school?",
+        "options": [
+         {
+          "text": "to finish a program she quit"
+         },
+         {
+          "text": "to study her current profession"
+         },
+         {
+          "text": "to prepare for a new career"
+         },
+         {
+          "text": "to renew her outdated credentials"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What are Grace's top priorities at the moment?",
+        "options": [
+         {
+          "text": "parental responsibilities and solid educational credentials"
+         },
+         {
+          "text": "industry-recognized certification and higher income"
+         },
+         {
+          "text": "marketing career success and popularity at work"
+         },
+         {
+          "text": "cost-effective programs and financial stability"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "How did Grace likely create her short list?",
+        "options": [
+         {
+          "text": "by attending a class at each school"
+         },
+         {
+          "text": "by doing a lot of online research"
+         },
+         {
+          "text": "by speaking to recent graduates"
+         },
+         {
+          "text": "by getting advice from her boss"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Why is the community college taken off the list?",
+        "options": [
+         {
+          "text": "Its tuition fees are too expensive."
+         },
+         {
+          "text": "Its relative standing is not yet known."
+         },
+         {
+          "text": "Its timetable is unsuitable."
+         },
+         {
+          "text": "Its certificates are of lower value."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What is Grace willing to pay more for?",
+        "options": [
+         {
+          "text": "a quality team of highly experienced educators"
+         },
+         {
+          "text": "a program that guarantees employment upon completion"
+         },
+         {
+          "text": "a course schedule that fits with her personal life"
+         },
+         {
+          "text": "a curriculum based on marketing industry consultation"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Why might the private marketing school be a risky choice?",
+        "options": [
+         {
+          "text": "The cost of tuition is quite high."
+         },
+         {
+          "text": "The school has not opened yet."
+         },
+         {
+          "text": "Its curriculum may be too traditional."
+         },
+         {
+          "text": "Its reputation is not yet established."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What does Grace's husband think about the university course?",
+        "options": [
+         {
+          "text": "It's the most suitable option."
+         },
+         {
+          "text": "It's the wrong program for her."
+         },
+         {
+          "text": "It's as good as the college course."
+         },
+         {
+          "text": "It's scheduled at inconvenient times."
+         }
+        ],
+        "answer": 0,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Why is Grace discussing program options with her friends?",
+        "options": [
+         {
+          "text": "Her husband's advice was not very helpful."
+         },
+         {
+          "text": "They also work in the marketing industry."
+         },
+         {
+          "text": "She wants other outlooks on the programs."
+         },
+         {
+          "text": "They have taken adult education programs."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 168.7
+      },
+      "transcript": "On the agenda for yesterday's City Council meeting was yet another discussion of the public transit dilemma. Over the past 15 years, this city has experienced a significant growth in population, a trend expected to continue well into the future. As a result of this growth, the public transit system, designed with a much smaller population in mind, has been operating beyond its capacity. As an example, Thomas Findley commutes from Glenfield to downtown on a daily basis. While a year ago, it took him 35 minutes to arrive at work by bus, the time frame today is more in the realm of one hour and 35 minutes. For Findley, this is unacceptable. He contends that the delays stem from an increase in public transit users without a corresponding increase in the number of buses. The result? Buses are often full to capacity and riders must wait long periods before one with space will stop for more passengers. As a solution, Findley has suggested doubling the number of buses in operation. However, transit planner Rita Cummings argues that this would only be a temporary fix. she insists that increasing the number of buses would lead to significantly more traffic, something which, in the long run, could cause both greater delays as well as an increase in air pollution. Instead, comings has proposed the construction of a subway system. Since subways run underground, a large number of commuters can be moved without a corresponding increase in traffic. Consequently, comings Things feels that for growing cities, a subway system is almost always the most efficient and environmentally sound choice. She noted that subways in Toronto and Montreal have successfully fulfilled their roles for decades, each now carrying more than a million passengers every day. In contrast, while City Councilor Scott Dresden agrees a subway is a nice idea, he questions whether the need truly justifies the expense. According to Dresden, the cost of developing a subway system could easily run into the billions. Although the city's population is growing, it is unlikely to ever reach the numbers to warrant such an expense. As an alternative, Dresden has suggested the purchase of modern, efficiently designed buses which have the capacity to carry double the number of passengers. This option, Dresden asserts, would lead to neither an increase in traffic nor a breaking of the bank. In the days to come, Council will need to find a solution, be it subway, bigger buses, or maintaining the status quo, its election year, so it's anyone's guess what Council will do to curry favor.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The public transit problem is a result of",
+        "options": [
+         {
+          "text": "mistakes by the transit planner."
+         },
+         {
+          "text": "a decrease in functioning buses."
+         },
+         {
+          "text": "a big rise in transit ridership."
+         },
+         {
+          "text": "the city's small transit budget."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Commuter Thomas Findley is upset because his bus",
+        "options": [
+         {
+          "text": "now takes a longer route."
+         },
+         {
+          "text": "is often too full to get on."
+         },
+         {
+          "text": "runs less frequently."
+         },
+         {
+          "text": "gets stuck in traffic jams."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Transit planner Rita Cummings believes",
+        "options": [
+         {
+          "text": "an underground system is a long-term solution."
+         },
+         {
+          "text": "increasing bus routes would improve efficiency."
+         },
+         {
+          "text": "building a subway system is not worth the cost."
+         },
+         {
+          "text": "large buses are more practical than subways."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "City councillor Scott Dresden would agree that",
+        "options": [
+         {
+          "text": "the situation can be fixed with larger buses."
+         },
+         {
+          "text": "an environmental choice might be the cheapest."
+         },
+         {
+          "text": "subways are a good choice for smaller urban areas."
+         },
+         {
+          "text": "purchasing modern buses is a short-term solution."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "All solutions proposed are concerned with",
+        "options": [
+         {
+          "text": "reducing the number of buses."
+         },
+         {
+          "text": "limiting environmental impact."
+         },
+         {
+          "text": "keeping costs to a minimum."
+         },
+         {
+          "text": "carrying more passengers."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The city council will probably",
+        "options": [
+         {
+          "text": "implement a commuter bus service."
+         },
+         {
+          "text": "hire a subway system planner."
+         },
+         {
+          "text": "initiate a transportation study."
+         },
+         {
+          "text": "raise taxes for transit changes."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Dear Mr. Casio,",
+       "I am writing in response to the letter I received this morning. First of all, I would like to tell you that I've enjoyed living in Minto Heights this past year and would like to stay another year. However, your letter says the new rent will be $1,500 a month. This is a big increase from the $1,100 I have been paying. Could we come to an agreement that both of us can accept?",
+       "My online research tells me that the rent increase is legal, but the price is unusual. A similar apartment (two bedrooms, 1,300 square feet, 5 years old, one underground parking spot) typically rents for $1,000 per month. This is less than what I'm paying now. In fact, most similar apartments include air conditioning, but mine doesn't.",
+       "I read in the newspaper that 4.1% of city apartments are empty this year and 4.4% will be vacant next year. This isn't surprising, as there are currently 200 new condominium buildings under construction in the city. Good tenants are valuable and hard to find. That's why I think you should charge the same rent next year. If you raise the rent, you might find someone willing to pay $400 more. However, it is equally possible that you will have an empty apartment earning zero income.",
+       "I feel that I am the type of tenant you would like to keep. I have always paid my rent on time. I haven't damaged the apartment. I don't smoke or play loud music, and I follow the \"no pets\" rule. I have always shovelled the snow off my balcony, as required in the lease. In addition, I have shovelled the front walkway, even though I'm not required to. This has helped to keep your other tenants safe.",
+       "If you agree to renew my lease at the current monthly rate, I will pay the first 3 months' rent in cash right away and the remainder in postdated cheques. Could you kindly let me know before May 1st if this is acceptable?",
+       "Sincerely,",
+       "Deborah Perrault"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Why did Deborah write this letter?",
+        "options": [
+         "to defend herself against legal action",
+         "to request a cheaper unit in her building",
+         "to get permission to pay her rent late",
+         "to ask her landlord to change his decision"
+        ],
+        "answer": 3,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What does Deborah currently pay for her apartment each month?",
+        "options": [
+         "one thousand dollars",
+         "eleven hundred dollars",
+         "four hundred dollars",
+         "fifteen hundred dollars"
+        ],
+        "answer": 1,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What does Deborah suggest about her situation?",
+        "options": [
+         "Her landlord is unlikely to find another tenant like her.",
+         "She would like to live permanently in Minto Heights.",
+         "Her rental apartment requires a new air conditioner.",
+         "She feels the neighbourhood is becoming too crowded."
+        ],
+        "answer": 0,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What does Deborah say about the city's rental housing?",
+        "options": [
+         "There are some buildings offering rental discounts.",
+         "There is a lack of available apartments.",
+         "There will be many new apartment renters soon.",
+         "There are many apartments that are available."
+        ],
+        "answer": 3,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What does Deborah offer to do?",
+        "options": [
+         "pay part of her rent in cash immediately",
+         "pay her rent in cash every three months",
+         "pay three months' rent by cheque right now",
+         "pay the full year's rent by postdated cheques"
+        ],
+        "answer": 0,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Deborah believes that",
+        "options": [
+         "she is a good person to rent to.",
+         "tenants should be more considerate.",
+         "she should move into a condominium.",
+         "rental prices are high in the city."
+        ],
+        "answer": 0,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the best choice for each blank from the drop-down menu ().",
+      "paragraphs": [
+       "Dear Ms. Perrault,",
+       "Subject: {{7}}",
+       "Thank you for your letter. It certainly isn't every day that an experienced {{8}} like me receives {{9}} such as you have written. I am impressed by your level of detail.",
+       "I agree with your suggestion in part; however, I will request that you provide {{10}} now and the balance in postdated cheques. This higher amount will help me feel more secure in the arrangement. If this is OK with you, then I will {{11}} everything else you mention in your letter and provide you with a new lease.",
+       "Please let me know as soon as possible. I look forward to your prompt reply.",
+       "Sincerely,",
+       "Antonio P. Casio"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "Payment for Maintenance and Repairs",
+         "Termination of Lease - Unit 508",
+         "Residential Tenancy Agreement No. 2093",
+         "New Condo Development in Minto Heights"
+        ],
+        "answer": 2,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "landlord",
+         "superintendent",
+         "condo developer",
+         "real estate agent"
+        ],
+        "answer": 0,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "an order",
+         "a compliment",
+         "a request",
+         "an opinion"
+        ],
+        "answer": 2,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "one rent cheque",
+         "4 months' rent",
+         "2 months' rent",
+         "your overdue rent"
+        ],
+        "answer": 1,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "repair",
+         "return",
+         "discuss",
+         "approve"
+        ],
+        "answer": 3,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "Tips for Prospective Pet Owners"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_2.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "from Bedford's Best Pet Store angie@bedfordbestpets.com Did you know that 57% of Canadian households have pets, and that a few households even have more than one pet? Are you wondering what pet would bring the most joy to your family? Check out our guide below!",
+       "Dogs Dogs are favoured by 32% of Canadians, because they"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_3.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "become part of the family, often joining in walks, drives, meals, gardening, and more. Many are attracted to dogs for their friendliness."
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_4.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "Dogs usually have large appetites require walks 3-5 times a day need lots of love and attention require frequent brushing and baths respond well to training programs need annual veterinary appointments"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu ( ).",
+      "paragraphs": [
+       "To: Angie Mills < angie@bedfordbestpets.com>",
+       "From: Bob Graves <bob.graves@emailcanada.ca>",
+       "Subject: Your Flyer Tips",
+       "Hello Angie,",
+       "I received your flyer in my mailbox and the timing was perfect. Now that our kids are old enough for pet maintenance, we'd like to add a furry four-legged member to our family.",
+       "Most pet owners seem to prefer having {{1}} However, our kids, as usual, want to do things differently! With the category \"other pets,\" I'm wondering {{2}} It would be great to have more details about this group, like your points about cats and dogs, especially regarding their {{3}}.",
+       "I guess dogs are popular because, as you've mentioned, they {{4}} My best friends say spending time playing and walking with them relieves stress from work too. However, as you suggest, even a rabbit or a ferret can be {{5}}, and I think either of those would be great for beginner pet-owners.",
+       "Do you have any additional information about those that you could share with us? Thanks,",
+       "Bob"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "cats",
+         "dogs",
+         "multiple pets",
+         "pets in cages"
+        ],
+        "answer": 0,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "whether they need special food",
+         "whether any can be trained",
+         "why they are not as popular",
+         "why there are no positive points"
+        ],
+        "answer": 2,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "training ability",
+         "medical needs",
+         "food requirements",
+         "overall popularity"
+        ],
+        "answer": 1,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "share their affection",
+         "can run in the wild",
+         "can adapt to indoor living",
+         "look very attractive"
+        ],
+        "answer": 0,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "easily trained",
+         "very hard",
+         "easily fed",
+         "very affectionate"
+        ],
+        "answer": 3,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "What does Bob mainly want advice about?",
+        "options": [
+         "adding a second pet to his family",
+         "the most suitable dog breed for kids",
+         "the benefits of fish and birds as pets",
+         "caring for pet rabbits and ferrets"
+        ],
+        "answer": 3,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What does Bob suggest about his kids?",
+        "options": [
+         "They need to get more exercise.",
+         "They prefer not to follow traditions.",
+         "They are very young children.",
+         "They are not very responsible."
+        ],
+        "answer": 1,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What do Bob's friends say about dogs?",
+        "options": [
+         "They are the best pets.",
+         "They require a lot of work.",
+         "They benefit mental health.",
+         "They help people stay fit."
+        ],
+        "answer": 2,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. 2015 was a big year for all of Canada. Toronto hosted both the Pan American and the Parapan American Games. The Games are one of the largest multi-sport events in the world, along with the Olympic Summer Games and the Asian Games. The Pan American Games (also known as the Pan Am Games) offer opportunities for thousands of top-notch athletes from North, Central, and South America and the Caribbean to compete in a variety of summer sports. The Parapan American Games welcome athletes with physical disabilities. The Games offer great pageantry, excitement, and sportsmanship to sports fans and residents alike.",
+       "B. The Pan Am Games started in 1951 in Buenos Aires, Argentina. The first Parapan Am Games were held in Mexico City in 1999. The Games have grown in size with each passing year: participation has increased from 2,500 athletes representing 14 nations at the first competition to over 6,000 contenders from 41 countries at the last games. Both the Pan Am and Parapan Am Games take place every four years, in the year before the Summer Olympics and Paralympic Games. Thirty-six sports (eight more than the official Olympic sports) are now featured at the Games. Pan Am sports not found at the Olympics include bowling, karate, baseball, and squash.",
+       "C. The celebration of the Pan American Games features such rituals and emblems as its own flag, torch, and anthem, in addition to opening and closing ceremonies. Each event also has a mascotan animal or human figure representing the cultural heritage of the host country. This helps to create a distinct identity and promote the Games. The official mascot of the Toronto Games was Pachi the Porcupine, an animal native to Canada. His depiction was created by a group of eighth grade students from Markham, Ontario. Four friends put their heads together, spent two months perfecting their porcupine, and won the highly competitive Mascot Creation Challenge.",
+       "D. The 2015 Games were not the first for Canada; Winnipeg, Manitoba, has welcomed renowned athletes from the Americas twice in the past. The most recent Pan Am and Parapan Am Games brought in over 10,000 athletes, coaches, and delegates, along with as many as 250,000 visitors who came to cheer them on. This major international event created immense opportunities for all Canadians, helping to showcase Toronto and Ontario to an international audience, as well as attracting tourists, developing jobs, and encouraging new business investment. Beyond 2015, the Games will provide housing, transportation, educational, and recreational legacies for decades to come.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "The Games are as much a parade of athleticism as they are an opportunity to have fun.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Athletes from the Americas must compete in the Pan Am Games in order to qualify for the Summer Olympics.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The scope of the Pan American Games has been widening steadily.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Large-scale international competitions augment the host country's infrastructure.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The Pan Am Games feature more sports, so they are more important than the Olympics.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The Parapan Am Games are a more recent addition to the international sports arena.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "The design competition for the Games was open to the public.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Host countries select befitting symbols to publicize their culture throughout the Games.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "The Pan Am Games provide a fiscal boost to th le host region.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "A Performance Improvement Plan (PIP) is a constructive means for an employer to provide an underperforming employee with the opportunity to regain good standing in the company. A PIP outlines measurable criteria for improved performance and sets deadlines for meeting said criteria. It also presents actions the employer will take to support the employee in reaching the PIP targets.",
+       "Nonetheless, not everyone views PIPs as well-intentioned. According to David Brown, HR manager at a leading recruiting agency, \"PIPs might as well be called 'first step toward firing plans.' Employers use PIPs as a tool to initiate an employee's dismissal. In effect, companies shield themselves from liability by creating a paper trail of evidence that can be used against an employee in the case of termination. If you have been given a PIP, the company has made up its mind. It's time to polish your resumé and start job hunting.\"",
+       "Jane Doris, a seasoned corporate manager, disagrees, emphasizing that PIPs clearly demonstrate a company's commitment to an employee. \"If your management has grounds for terminating your contract, they usually simply carry out that decision. If instead they invest their time in a PIP, they likely want to give you a chance.\" In some cases, the problem is caused by the individual's lack of training or by a lack of transparency regarding the employer's expectations. Doris goes on to say that this is where the solution lies. \"By simply clarifying performance requirements, employees on PIPs are given time to prove themselves.\"",
+       "Those who are determined to succeed after a PIP may want to heed the advice of Demi Vazquez, CEO of KC Hiring Solutions: \"At the outset, you should make sure your PIP goals are transparent and free of any ambiguity. Then, ask about resources like coaching or literature that could help you achieve your PIP goals. You might also consider asking your overachieving colleagues about their secrets for acing their daily responsibilities. Finally, track your progress daily and share it with your manager in regularly scheduled meetings.\""
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "What is the main topic of this article?",
+        "options": [
+         "a convenient tool to assess employees",
+         "a productivity monitor for companies",
+         "a collaborative way to train workers",
+         "a controversial human resources tool"
+        ],
+        "answer": 3,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "David Brown believes PIPs are",
+        "options": [
+         "unjustified.",
+         "uninformative.",
+         "ineffective.",
+         "insincere."
+        ],
+        "answer": 3,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What is probably true about Jane Doris?",
+        "options": [
+         "She doesn't use any PIPs at her company.",
+         "She has little experience in managing staff.",
+         "She only uses PIPs for promising staff.",
+         "She doesn't believe in additional training."
+        ],
+        "answer": 2,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What would Jane Doris probably agree with?",
+        "options": [
+         "PIPs can rectify gaps in an employee's understanding.",
+         "Employees should write the objectives of their own PIPs.",
+         "PIPs help employers to improve their business procedures.",
+         "Employers should make quick decisions about employees."
+        ],
+        "answer": 0,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What does Demi Vasquez seem to suggest?",
+        "options": [
+         "Employees need PIPs for their daily work.",
+         "Employees should show initiative.",
+         "Employers should set ambitious goals.",
+         "Employers need outside resources."
+        ],
+        "answer": 1,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "Unlike David Brown, I firmly believe that employees should look at PIPs as a {{6}}. While a PIP might just seem like a pretext for dismissal, employees can also draw valuable {{7}} from them. I once naively believed what Jane Doris said about companies {{8}} by implementing PIPs. Having been on the receiving end, however, I have to side with Brown. As Brown suggests, after receiving a PIP, I was {{9}}. This ended up being the best thing for my career. So here's my advice: if you're ever given a PIP, forget about Vazquez's {{10}} Your dream job could be just around the corner! Jesse Donovan"
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "way forward in their career",
+         "path to their termination",
+         "legal tool to benefit them",
+         "company's final decision"
+        ],
+        "answer": 0,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "information about their abilities",
+         "details about new job opportunities",
+         "protection from liability",
+         "support from their peers"
+        ],
+        "answer": 0,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "investing in their workers",
+         "delaying difficult decisions",
+         "establishing grounds for firing",
+         "improving training programs"
+        ],
+        "answer": 0,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "provided with training",
+         "demoted at work",
+         "let go from my job",
+         "given a second chance"
+        ],
+        "answer": 2,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "advice on actions you can take against it",
+         "justifications for employers' policies",
+         "resources for creating workplace transparency",
+         "suggestions for improving performance"
+        ],
+        "answer": 3,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "You are a college student. Your school is offering $2,000 to one student: this money will be used to pay college fees. The school is inviting all students to explain why they should get this award."
+    ],
+    "instruction": "Write an email of about 150-200 words to the college. Your email must include the following points:",
+    "bullets": [
+     "a description of what you are studying at college",
+     "why you are interested in your studies",
+     "a statement of how well you are doing at college",
+     "your future plans"
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "Your college is surveying your opinion about evening class schedules. Currently, evening classes are offered once per week, 3 hours each class. The college is considering changing the schedule to two evenings per week, 1.5 hours each class. The college has asked you to complete an opinion survey."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I want to keep my current schedule of 3-hour classes, once per week.",
+     "Option B: I want to change my schedule to 1.5-hour classes, twice per week."
+    ],
+    "surveyTitle": "Class Schedule Survey",
+    "samples": [],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your friend has to work with a classmate on a school project. The classmate doesn't do any work, so your friend does everything. Your friend feels upset and angry. Advise your friend about what he should do to solve this problem."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time you participated in a program. Maybe you can talk about a time you participated in a language program, an art workshop, or a summer camp. What was the program, what did you do, and why did you want to participate?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most likely happen next?"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "You and your friend Daniel are looking for a place to sit down and enjoy a drink. You found two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade Daniel that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "Daniel is suggesting a nearby lemonade stand. Persuade him that the location you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "You have recently started a new job. An employee at your new workplace is retiring and a colleague, Ming, has asked everyone to chip in $30 for a retirement gift. However, you do not know the person who is retiring and your spouse believes that you should not spend this much money on a gift for a stranger."
+    ],
+    "choices": [
+     "Talk to Ming. Explain why you should not have to chip in any money for a retirement gift.",
+     "Talk to your spouse. Explain why you should chip in the money for a retirement gift."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Answer the following question and give reasons for your answer. Question: Do you think high school graduates should work for a while before going to university? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You are at a festival downtown, and you see an interesting parade. Your friend Gloria likes parades. Call Gloria, describe in detail what the parade looks like, and ask her if she would like to come and see it."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

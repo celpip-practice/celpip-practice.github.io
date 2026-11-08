@@ -1,0 +1,1778 @@
+{
+ "id": "s08-t1",
+ "set": 8,
+ "test": 1,
+ "title": "Practice Test 8-1",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 43.3
+      },
+      "transcript": "Hi, how can I help you? Hi, I bought a table from your online store last week and it seems like it got a bit damaged during the delivery. Okay, is that the table there? Yeah, we got a great deal and it's of excellent quality. But when my husband started to assemble it, he noticed the damage. I really liked the table, so I'd actually just like to exchange it. Here's a copy of the invoice. All right, let's have a look here. I can see the scratch on the top. Were you home when it was delivered? My husband was home. But he only noticed the damage after the truck had left. I tried to do an online return, but the instructions were confusing. I'm sorry about that. Let me just open your file on the computer. The system's a little slow, so it might take a moment.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "to return her table"
+         },
+         {
+          "text": "to get a discount on a new table"
+         },
+         {
+          "text": "to trade her table for a new one"
+         },
+         {
+          "text": "to follow up on a complaint"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "Why does the woman go to the store?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "It is easy to assemble."
+         },
+         {
+          "text": "It was a good price."
+         },
+         {
+          "text": "It is poorly made."
+         },
+         {
+          "text": "It was bought in store."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "Which statement is true about the table?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "the woman's husband"
+         },
+         {
+          "text": "the man at the store"
+         },
+         {
+          "text": "the woman"
+         },
+         {
+          "text": "the delivery staff"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "Who is likely responsible for the damage to the table?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 41.9
+      },
+      "transcript": "Alright, I just need a few more details from you. Did you pay with our store credit card? No, I paid with my debit card. Ah, that's too bad. If you'd used our credit card, you could have received a 15% discount. We also offer an extended warranty on all items purchased with this card, which includes free delivery on your replacement table. The standard warranty doesn't cover that. that sounds great can I apply for a store credit card here I'm afraid you can only apply online when you go to our home page you'll see an image of a credit card and next to it there's a button that says apply just click on that and fill out the details all right how long before the card arrives you'll get it in the mail in about 10 business days",
+      "questions": [
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "interested"
+         },
+         {
+          "text": "doubtful"
+         },
+         {
+          "text": "surprised"
+         },
+         {
+          "text": "regretful"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "How does the woman feel about the store credit card?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "It can be picked up in the store."
+         },
+         {
+          "text": "It offers a cheaper warranty."
+         },
+         {
+          "text": "It reduces prices on purchases."
+         },
+         {
+          "text": "It provides faster delivery times."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "What is true about the store credit card?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "request her 15% discount"
+         },
+         {
+          "text": "fill out an online application"
+         },
+         {
+          "text": "order a replacement card"
+         },
+         {
+          "text": "put her application in the mail"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "What will the woman likely do about the credit card?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 44.8
+      },
+      "transcript": "Okay, I checked and it seems like we don't have the exact same table in stock, my apologies. We have this circular one, which is easy to assemble. Another option is this brown one. It's more of an office desk, but solid wood. The brown one is nice, but it's not really what I need. How much is that glass one? It's almost the same price as the one you bought. It's a very popular style. Yeah, it's pretty nice, but I still prefer the table I got. It's a nice rectangular wooden table with a drawer. I'm going to shop around. If I can't find the one I originally bought anywhere else, I'll come back for this glass one. No problem. I will hold it for you until the end of today. Sounds good. Thank you.",
+      "questions": [
+       {
+        "num": 7,
+        "options": [
+         {
+          "image": "media/listening_p2_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_2.jpg"
+         },
+         {
+          "image": "media/listening_p2_3.jpg"
+         },
+         {
+          "image": "media/listening_p3_1.jpg"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "Which one does the woman like most?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "go to a different store"
+         },
+         {
+          "text": "purchase the glass table"
+         },
+         {
+          "text": "purchase the office desk"
+         },
+         {
+          "text": "ask the man to order a table"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "What will the woman likely do next?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 117.5
+      },
+      "transcript": "Welcome to the Ocean Breeze Hotel. How may I help you? Hi. Can I please get two rooms together for tonight? Side by side, together with a connecting door. My name is Hank Gruber. Let me see what we have available. We don't have rooms with connecting doors, but we do have a suite that includes two bedrooms. It also has two bathrooms and a kitchen. That's probably your best bet. That might be convenient, but we don't need a kitchen. How much does the suite cost? It's $350 for one night plus taxes. I do have two separate rooms on the sixth floor. Each of these rooms would be $150 plus taxes. Would you prefer these? Well, the kids are young teenagers, so we want them where we can see them. Would the four of us fit in one of those rooms? There are two queen-size beds in each room, and the bathroom is quite large. For two additional people, it would be $25 extra per person. Well, we may as well go for the suite then. It's not much more than we can keep an eye on our kids. What about restaurants? Is there something in the hotel? We have complimentary breakfast every morning. For dinner this evening, you should try the breeze bar and grill, which serves a variety of food, including burgers and fries. I'm sure everyone will find what they like on the menu. Oh, yeah, that sounds great. What about parking? Oh, and I think you have a pool, right? The kids would love to play around in the pool for a while. Here's a parking pass to put on your vehicle dashboard. The parking area is behind the hotel. Actually I'm sorry but the pool is closed this week for repairs. Instead I can provide free movies and internet games on your TV if you'd like. Your children might like that. Well the pool would tire them out more but we'll accept your offer anyway. Sign us in for one night in that suite.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "to request a parking pass"
+         },
+         {
+          "text": "to ask for directions to the hotel"
+         },
+         {
+          "text": "to check into the hotel"
+         },
+         {
+          "text": "to make a reservation for next week"
+         }
+        ],
+        "answer": 2,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "Why is the man talking to the woman?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "to give his children space to play"
+         },
+         {
+          "text": "to have space for four people"
+         },
+         {
+          "text": "to have two separate bathrooms"
+         },
+         {
+          "text": "to keep watch on his children"
+         }
+        ],
+        "answer": 3,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "1. Question 2. Why does the man want two rooms together?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "a set of rooms with a kitchen"
+         },
+         {
+          "text": "one large room with room service"
+         },
+         {
+          "text": "two rooms with a connecting door"
+         },
+         {
+          "text": "two separate rooms with free internet"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "together. Question 3. What kind of room does the woman suggest?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "eat dinner in the restaurant"
+         },
+         {
+          "text": "exercise in the pool"
+         },
+         {
+          "text": "play free internet games"
+         },
+         {
+          "text": "rest in their own room"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "suggest question for what was the man wishing his children could do question"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "impressed with the services"
+         },
+         {
+          "text": "satisfied with the arrangements"
+         },
+         {
+          "text": "unhappy with the room sizes"
+         },
+         {
+          "text": "worried that it's too expensive"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "How does the man feel about the hotel?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 117.9
+      },
+      "transcript": "Hi, I just moved to this neighborhood and I'm excited there's a City Aquatic Center right here. I've never learned how to swim and I'd like to take lessons. Great. My name is Matt. I'm a lifeguard here and I teach swimming lessons. What's your name? I'm Andrea. Nice to meet you. How do I begin swimming lessons? I'm a bit nervous. Nice to meet you too. Don't worry, everyone is nervous at first. What level of class you start in will depend on your comfort level. Let me ask you a few questions. Are you comfortable putting your face underwater and holding your breath? Yes, I'm pretty comfortable doing that. I can hold my breath underwater in the bathtub. Great, that's a good first step. Can you blow bubbles with your face in the water without getting water up your nose? Yes, I can do that. Perfect. Are you comfortable floating in the water? No, definitely not. I fell out of a boat when I was a child and was a bit traumatized. That's why I've always been scared of water, but I've always wanted to learn how to swim and now is as good a time as any to base my fear. I agree. Swimming can be really fun if you feel safe in the water. I'm going to recommend you start an adult beginner They run on Monday, Wednesday, and Saturday evenings. You can do anywhere from one to three classes a week for 45 minutes each. I teach the Saturday evening classes. I can do Wednesdays and Saturdays, so that works perfectly. What will I need to bring? You'll need a swimsuit that you can move comfortably in, a towel, and 25 cents for the lockers in the change room. I'd also recommend swim goggles, which we sell here. If you want to protect your hair from the chlorine, we also sell swim caps. Great! I don't have a swim suit yet, but I'll go buy one. Excellent. Let's get you signed up for classes.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "public pool"
+         },
+         {
+          "text": "private pool"
+         },
+         {
+          "text": "ocean beach club"
+         },
+         {
+          "text": "lakesıde boating club"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "Where do the swimming lessons take place?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "The swimming lessons are free."
+         },
+         {
+          "text": "The lessons fit her schedule."
+         },
+         {
+          "text": "She says it's a good time to learn."
+         },
+         {
+          "text": "She heard good reviews of their lessons."
+         }
+        ],
+        "answer": 2,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "Why does the woman want to learn to swim?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "She cannot hold her breath under water."
+         },
+         {
+          "text": "She has never taken swimming lessons."
+         },
+         {
+          "text": "She can only float in the water."
+         },
+         {
+          "text": "She is new to the community."
+         }
+        ],
+        "answer": 1,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "Why is the woman nervous?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "to place her in the appropriate class"
+         },
+         {
+          "text": "to learn more about her physical health"
+         },
+         {
+          "text": "to discover why she wants lessons"
+         },
+         {
+          "text": "to find out why she cannot swim"
+         }
+        ],
+        "answer": 0,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "Why does the man ask the woman so many questions?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "Her parents passed on their fear of water."
+         },
+         {
+          "text": "She had a frightening experience on a boat."
+         },
+         {
+          "text": "She saw a child have a swimming accident."
+         },
+         {
+          "text": "She once suffered an injury while swimming."
+         }
+        ],
+        "answer": 1,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "Why is the woman afraid to swim?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "two mornings a week"
+         },
+         {
+          "text": "two evenings a week"
+         },
+         {
+          "text": "three evenings a week"
+         },
+         {
+          "text": "weekend mornings"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "When will the woman take classes?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "It is about one and a half minutes long.",
+     "Then, five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 80.0
+      },
+      "transcript": "Last Friday night, a Kelowna couple found a surprise while clearing the attic of their heritage house. Alex and Rebecca Castillo found a paper wasp nest in the attic. The nest was built by stinging insects that chew on wood fiber, mix it with their saliva, and spew out a substance they use as a building material. But this was no ordinary wasp nest. It was bright red, blue, and yellow, looking more like a piñata or party balloon than a nest. To solve the mystery, the Castillos didn't have to look far. In another room of the attic, they found four dusty boxes of old superhero comic books, books, which the wasps had used as raw material. Most of the comics had been chewed to shreds, but several were still sealed in their original plastic packaging. The Castillos brought the unharmed items to a collector shop and were told that one, a rare 1952 Superman comic in mint condition, is worth $1,600. Resolve to continue working on their house, the Castillos are now deciding whether to keep the item or sell it on eBay. You will watch a two-minute video, then eight questions will appear. Choose the best way to answer each question.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The Kelowna couple were",
+        "options": [
+         {
+          "text": "cleaning out their attic."
+         },
+         {
+          "text": "moving boxes into the attic."
+         },
+         {
+          "text": "removing a wasp nest."
+         },
+         {
+          "text": "watching the wasps."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The surprise they found was",
+        "options": [
+         {
+          "text": "constructed from old paper."
+         },
+         {
+          "text": "discarded near the nest."
+         },
+         {
+          "text": "owned by a collector."
+         },
+         {
+          "text": "used as a party decoration."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "While solving the mystery, they discovered",
+        "options": [
+         {
+          "text": "more wasp nests."
+         },
+         {
+          "text": "some old books."
+         },
+         {
+          "text": "a large pinata."
+         },
+         {
+          "text": "party balloons."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The collector",
+        "options": [
+         {
+          "text": "offered to sell the item."
+         },
+         {
+          "text": "refused to look at the item."
+         },
+         {
+          "text": "wanted to buy the item."
+         },
+         {
+          "text": "gave a value for the item."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The couple decided to",
+        "options": [
+         {
+          "text": "delay renovations to their house."
+         },
+         {
+          "text": "sell the item to pay for renovations."
+         },
+         {
+          "text": "think more about their options."
+         },
+         {
+          "text": "look for more items in their attic."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 179.7
+      },
+      "transcript": "You will watch a discussion among three business associates, two women and one man. They work at a bookstore. The discussion takes place at the bookstore. This is Naomi. This is Tasha. This is Nathan. So the first item on the agenda is the storefront window. The two of you have some concerns? Yes, we've been concerned about the message we're sending. For six of the last eight weeks we've been featuring a romance title, but we carry many other genres of fiction. We also carry nonfiction. Not only that, but we had 50 copies of the same title in the window. I mean, if we want to feature romance, we should have 50 different titles, one copy of each. Otherwise it's psychological manipulation. Yes, but the publisher of Love Wins paid us for exclusive use of that window. That's why we displayed only that title. You've been using our window for advertising? Since when? Oh, I don't like that at all. No, I agree with Nathan. I mean, what's in our window should represent what's on our shelves? Alternatively, we should put all our best books in our window. Isn't it our ultimate goal to stay in business? By attracting new customers? I mean, sure, by increasing advertising on one title, we will increase the sales of that title. You need the advertising revenue. It's as simple as that. No, I don't think it is. I mean, if you are selling our storefront display to the highest bidder, I'm afraid that we're heading in a really bad direction. People will start thinking of us as the romance bookstore, and they won't think of us when they want to buy literary fiction or nonfiction. We'll start losing customers, and then, therefore, we are going to start losing revenue. Couldn't we say have three different bookshelf levels in the window? We could have one for literary fiction, one for genre fiction, and on the last one we could put on fiction. Why can't we do that? Because no one will pay to have one copy of a book in a window. Yeah, but that's my point. Our storefront window shouldn't be for sale. The people who come to this mall do a lot of window browsing, and we should be using it to draw them into the store by showing them what's inside. Would you be willing to try my idea for two months? Just to compare statistics, we could look at how many people come in, we could look at sales and so on, and then we can come back and revisit the issue. Keep in mind that we're competing with other bookstores. I mean, there are two others right here in this mall, and people expect the stock in the window to represent the stock in the store. But publishers pay so much money. Okay, let's try it for a couple of months and then we'll see.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What does the store's collection consist of?",
+        "options": [
+         {
+          "text": "largely romance novels"
+         },
+         {
+          "text": "various non-fiction books"
+         },
+         {
+          "text": "primarily bestselling books"
+         },
+         {
+          "text": "numerous book genres"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "How was the book \"Love Wins\" displayed in the window?",
+        "options": [
+         {
+          "text": "Fifty copies of that book only were displayed"
+         },
+         {
+          "text": "The book was displayed only on the top shelf."
+         },
+         {
+          "text": "The book was displayed with other romance titles."
+         },
+         {
+          "text": "Ten copies were displayed with other genre titles."
+         }
+        ],
+        "answer": 0,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What do Nathan and Tasha agree about?",
+        "options": [
+         {
+          "text": "The bookstore is not doing well financially."
+         },
+         {
+          "text": "The storefront window should display one genre at a time."
+         },
+         {
+          "text": "The bookstore is known for its range of titles."
+         },
+         {
+          "text": "The storefront window should not be advertising space."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What is Naomi most concerned about?",
+        "options": [
+         {
+          "text": "pleasing publishers"
+         },
+         {
+          "text": "beautifying the display"
+         },
+         {
+          "text": "generating revenue"
+         },
+         {
+          "text": "satisfying customers"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What is Tasha most concerned about?",
+        "options": [
+         {
+          "text": "representing the store accurately"
+         },
+         {
+          "text": "remaining loyal to customers"
+         },
+         {
+          "text": "staying up-to-date on bestsellers"
+         },
+         {
+          "text": "designing creative storefront displays"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "What is likely true of the store's staff?",
+        "options": [
+         {
+          "text": "They would rather work at another bookstore."
+         },
+         {
+          "text": "They routinely compile customer statistics."
+         },
+         {
+          "text": "They receive sales bonuses from publishers."
+         },
+         {
+          "text": "They have a good relationship with authors."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What happens at the end of the discussion?",
+        "options": [
+         {
+          "text": "They collaborate on a new solution."
+         },
+         {
+          "text": "An agreement is reluctantly made."
+         },
+         {
+          "text": "They postpone their decision."
+         },
+         {
+          "text": "Statistics are used to make a decision"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What is the discussion mainly about?",
+        "options": [
+         {
+          "text": "advertising opportunities in the store"
+         },
+         {
+          "text": "creating an attractive window display"
+         },
+         {
+          "text": "methods for attracting new customers"
+         },
+         {
+          "text": "appropriate uses of the storefront"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "It is about three minutes long.",
+     "Then, six questions will appear.",
+     "Here, choose the best way to answer each question from the drop down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 169.7
+      },
+      "transcript": "As video gaming rises in popularity, the debate about its benefits and risks rages on, reviled by some as a cause of poor grades and aggressive behavior in children, video gaming is now just as likely to be touted as a way to develop important skills and facilitate learning. 6. Psychologist Thomas Moro sees a link between lower grades and frequent, unrestricted recreational video gaming. In his study of 1,500 students ages 8 to 18, those who devoted less time to video gaming boasted consistently higher academic achievement. Moro is quick to add that these findings should be interpreted cautiously since academic underachievement and the inclination to play video games could both stem from an unknown cause. Moro applies similar reasoning to his previous research correlating video gaming and aggression. Moro can't say that one causes the other. Both might be attributable to a third factor. Thus, for Moro, it's too soon to say that video games pose a risk to children's thoughts and emotions. But he does note that 85% of video games include violence, and children tend to mimic what they see. 40 year old Mike Hornveldt is no child, but he's an avid gamer. A University of Toronto professor specializing in the history of Canadian education, Dr. Hornveldt believes video games teach people how to learn. Hornveldt says video games engage players in a problem-solving cycle, hypothesis, experimentation, and eventual deduction are involved as players try different different options in an effort to solve a challenging problem. Horvelt says he enjoys collaborative multiplayer games, especially entrepreneurial business startup and management simulations, and he insists that they've helped him develop skills such as teamwork, mediation, and self-assessment. Where Moro and Horvelt see eye to eye is the claim that video gaming can become habit-forming. Moro points out that the average North American student plays nearly 10,000 hours of video games by the time they graduate college. Even Hornveld admits that he himself has fallen prey to the lure of interactive technology. The former compulsive 25-hour-a-week gamer now observes a strict weekly limit. Four hours, weekends only. A similar ability to self-regulate would be hard to find among children morrow notes, arguing that it is mostly up to parents to curb or even stop their child's video game playing before it gets out of hand. Children's brains are highly plastic, says Moro, and excessive game playing at a young age could have lifelong impacts. He recommends that parents not let children under five play video games at all, and says a limit of two hours a week is enough for everyone else.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What did Moreau conclude about poor school performance?",
+        "options": [
+         {
+          "text": "It is worsened by playing violent video games."
+         },
+         {
+          "text": "It is correlated to time spent video game playing."
+         },
+         {
+          "text": "It is caused by frequent unrestricted video gaming."
+         },
+         {
+          "text": "It is improved if students stop playing video games."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What can we conclude from Moreau's study on video gaming and aggression?",
+        "options": [
+         {
+          "text": "Aggressive traits lead students to play video games."
+         },
+         {
+          "text": "Video gaming and aggressive behaviour are not correlated."
+         },
+         {
+          "text": "What prompts video gaming may also cause aggression."
+         },
+         {
+          "text": "Playing video games makes adults more aggressive."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What do both experts agree gaming does?",
+        "options": [
+         {
+          "text": "It has unknowable effects."
+         },
+         {
+          "text": "It builds interpersonal skills."
+         },
+         {
+          "text": "It tends to become addictive."
+         },
+         {
+          "text": "It impedes learning outcomes."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Which statement would Moreau likely agree with?",
+        "options": [
+         {
+          "text": "Teenagers are becoming more self-disciplined in video gaming."
+         },
+         {
+          "text": "More research into children and video gaming is needed."
+         },
+         {
+          "text": "Those over eighteen are less affected by video games."
+         },
+         {
+          "text": "Parents are well informed about the impact of video gaming."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What does Hornvelt believe about video gaming?",
+        "options": [
+         {
+          "text": "It helps people break the ice and become friends."
+         },
+         {
+          "text": "It strengthens one's ability to self-discipline."
+         },
+         {
+          "text": "It promotes youths' academic performances."
+         },
+         {
+          "text": "It supplies practice in reasoning skills."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "What advice would Moreau have for the general public?",
+        "options": [
+         {
+          "text": "Spend less time playing video games."
+         },
+         {
+          "text": "Try to select less violent video games."
+         },
+         {
+          "text": "Play more educational video games."
+         },
+         {
+          "text": "Don't let your child play video games."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "To whom it may concern,",
+       "My name is Janet White and I am a tenant at your residential rental property, Garden Plaza, at 257 Pine Street, Apartment 502. I am writing to bring your attention to an ongoing issue regarding a broken heater in my rental unit. Unfortunately, even after numerous complaints, the problem has yet to be solved. As you can imagine, I am feeling very frustrated by the whole ordeal.",
+       "To recap, the heater in the living room of my apartment is broken. The average temperature in this room is between 15-17°C during the day and even lower at night. This is unacceptable as the local bylaw states that the landlord must keep the heat in rental apartments at a minimum of 20°C from October to April. I often work from home and find it hard to accomplish anything when I am freezing cold. I have had to purchase a small electric heater to keep myself warm which costs me money on my electricity bill. This is unfair because heat is supposed to be included in the rent I pay. In addition to my frustration with insufficient heat, there has been a lack of communication on your end about what has been done to solve the issue. The superintendent has never contacted me to let me know whether anyone has come to check out the heater. I had to call the head office on Tuesday, January 3rd, to find if there had been any attempt to rectify the problem. I was upset to find out that nothing had been done, even after submitting three complaint forms and leaving multiple voicemail messages about the issue.",
+       "At this point I am extremely disgruntled with the situation and the poor service I have received from your company. It has been over 3 weeks that I've been trying to deal with this problem. I feel that the manner in which this issue is being handled is completely unacceptable. I would like this situation to be resolved as soon as possible. I would also like to be contacted by your manager or supervisor at Johnson Realty Management to discuss what can be done to make up for the time, money, and frustration this issue has caused me.",
+       "Sincerely,",
+       "Janet White"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Janet wrote this letter because",
+        "options": [
+         "her apartment doesn't have heat.",
+         "her heater hasn't been fixed",
+         "she had to buy a small heater.",
+         "her apartment is overheated."
+        ],
+        "answer": 1,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Janet mentions the local bylaw to",
+        "options": [
+         "show that she's a lawyer.",
+         "prove that her rent is too high.",
+         "get paid for her heater purchase.",
+         "support her complaint."
+        ],
+        "answer": 3,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "How does Janet feel?",
+        "options": [
+         "annoyed",
+         "worried",
+         "relieved",
+         "sad"
+        ],
+        "answer": 0,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Janet wrote this letter to",
+        "options": [
+         "someone at Johnson Realty Management.",
+         "someone at Garden Plaza.",
+         "the superintendent of Garden Plaza.",
+         "the supervisor of Jefferson Realty Management."
+        ],
+        "answer": 0,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "After Janet's earlier complaints, the superintendent",
+        "options": [
+         "called management.",
+         "left messages on Janet's phone.",
+         "tried to make repairs.",
+         "did nothing."
+        ],
+        "answer": 3,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Janet expects Johnson Realty to",
+        "options": [
+         "fix her heat today.",
+         "pay for her portable heater.",
+         "get in touch with her.",
+         "move her to a new apartment."
+        ],
+        "answer": 2,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks.",
+      "paragraphs": [
+       "Select the best choice for each blank from the drop-down menu ().",
+       "Dear Ms. White,",
+       "My staff passed on to me your message regarding {{7}}. Steps have already been taken to solve the problem, and a replacement heater is on order. Immediately after it arrives, we will make arrangements with you to {{8}} it.",
+       "There are several broken heater units in Garden Plaza apartments. Your superintendent has reported these and requested replacements. Our usually {{9}} staff have been laid low with the flu. Hence, we are not completing work at our usual fast pace. I apologize for the inconvenience.",
+       "I can meet with you any afternoon next week to {{10}}. Please telephone to make an appointment.",
+       "Alice Jefferson",
+       "{{11}}",
+       "Johnson Realty Management"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "the temperature in your apartment",
+         "the complaint about your electricity bill",
+         "your purchased electric heater",
+         "your reference to the local bylaw"
+        ],
+        "answer": 0,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "return",
+         "repair",
+         "install",
+         "purchase"
+        ],
+        "answer": 2,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "considerate",
+         "efficient",
+         "talkative",
+         "over-worked"
+        ],
+        "answer": 1,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "make an apology",
+         "receive compensation",
+         "discuss the situation",
+         "review the bylaw"
+        ],
+        "answer": 2,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "Secretary",
+         "Janitor",
+         "Technician",
+         "Manager"
+        ],
+        "answer": 3,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Hours Mon: CLOSED Visit us on the web! T-F: 10 a.m.-12 midnight Earth Crust Pizza Sat: 11 a.m. -2 a.m. www.ecpizza.com Sun: 11 a.m. -10 p.m. This week's special promotions! SPECIALTY PIZZAS • FOUR CORNERS PIZZA",
+       "Choose from: For those who can't decide! One pizza divided into four corners, each with its own topping: - Vegetarian (tomatoes, green peppers, mushrooms)"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "- Greek (mushrooms, onions, green onions, feta - Pepperoni and Mushroom cheese) - Ham and Pineapple - Cheeseburger (ground beef, onions, extra cheese) - Sausage and Green Pepper - Greek ANY TWO LARGE PIZZAS FOR $30 ONLY $16 PIZZA BY THE SLICE FAMILY COMBO",
+       "Choose from: Includes: - Pepperoni - Hot and Spicy - 2 large 3-topping pizzas - Ham and Pineapple - BBQ Chicken - 12L bottle of a soft drink - Vegetarian - Greek - 1 side of Caesar salad - Meat Lovers - Three Cheeses - 1 side of garlic bread ONLY $3.99 PER SLICE (PICK UP ONLY) ONLY $38 PASS THE PASTA! SIDE ORDERS",
+       "Available at the Woodland location only. Choose from: Choose from: - Caesar Salad - BBQ Ribs - Green Salad - Bread Sticks - Spaghetti with Meatballs - Garlic Bread - Vegetable Plate - Lasagna (Meat or Vegetarian) - Chicken Wings - Baked Ravioli - Seafood Linguini $2 EACH WITH PURCHASE OF LARGE PIZZA $7 EACH OR 3 FOR $18 Free delivery after 5 p.m. within a 5-kilometre radius on all orders over $20! 10% off all pickup orders! Pacific Centre Oakridge Brampton Woodland #37-1527 Ocean St. #12-3820 Woodruff Ave. #50-17603 Oswald St. 3620 Redwood Ave. (779) 555-1321 (779) 555-2412 (779) 555-4218 (779) 555-6350"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu ().",
+      "paragraphs": [
+       "Subject: Mary's Party",
+       "To: Jenny Smith <jsmith@treswell.bc.ca>",
+       "From: Darrell Smith <dsmith@sterlings.ca>",
+       "Hi Jenny,",
+       "Mary's birthday party is this Saturday evening. I think that ordering Earth Crust Pizza will save a lot of running around as there is {{1}}. All we need to do is order. They also offer some good deals, and their pizza is cheap and tasty.",
+       "Mary has a friend who doesn't eat meat, so we need to include a {{2}} or Vegetarian pizza. Earth Crust Pizza also sells pasta and we can order {{3}} without meat. Alternatively, we can order a {{4}} and ensure that it's one-quarter Greek. I'11 give them a call and find out. Finally, for each large pizza we buy, we can also get {{5}} delivered to us for two bucks.",
+       "Let me know what you think.",
+       "Darrell"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "pick up until 2 a.m.",
+         "free delivery after 5",
+         "pizza by the slice",
+         "a great discount"
+        ],
+        "answer": 1,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "Greek",
+         "linguini",
+         "pepperoni",
+         "sausage"
+        ],
+        "answer": 0,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "spaghetti",
+         "cheeseburgers",
+         "lasagna",
+         "ribs"
+        ],
+        "answer": 2,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "family combo",
+         "side order of salad",
+         "Four Corners Pizza",
+         "Meat Lovers Pizza"
+        ],
+        "answer": 2,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "a side of spaghetti",
+         "a bottle of pop",
+         "extra meat toppings",
+         "any sıde order"
+        ],
+        "answer": 3,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (), choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Earth Crust Pizza",
+        "options": [
+         "offers free delivery to any location in the city.",
+         "does not deliver from the Woodland location.",
+         "offers free delivery after 10 a.m. on weekdays.",
+         "only offers free delivery to some locations."
+        ],
+        "answer": 3,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "The advertised prices",
+        "options": [
+         "might change next week.",
+         "do not include vegetarian items.",
+         "may be different at some locations.",
+         "are not applicable for pickup orders."
+        ],
+        "answer": 0,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Darrell wants the food for Mary's party to be",
+        "options": [
+         "top quality Italian food",
+         "inexpensive and convenient.",
+         "special and memorable.",
+         "pizza and burgers."
+        ],
+        "answer": 1,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": null,
+      "paragraphs": [
+       "A. Despite the increasing prevalence of purchasing and banking through electronic means, Canadian banknotes-commonly referred to as \"carrying cash\"-remain an important part of Canadian society. However, with the convenience of carrying cash also comes the risk of counterfeiting, or producing imitation currency without authorization from the government. Counterfeiting accounts for millions of dollars of losses to Canadian businesses and individuals each year. To combat this problem, the Bank of Canada introduced new polymer bills in 2013. These durable new bills are considered to be some of the most secure banknotes in the world.",
+       "B. The new series of polymer notes is designed in a way which is meant to portray the Canadian spirit of innovation and to celebrate Canada's national and international achievements. Each bill depicts a different innovation or event that has been a crucial aspect of Canadian history. The five-dollar bill, for example, illustrates the Canadarm2-an important contribution made to the International Space Station in April, 2001. The twenty-dollar bill depicts the Canadian National Vimy Memorial in honour of the sacrifices made by Canadians during the First World War. The one-hundred-dollar bill shows an insulin bottle to commemorate the 1922 discovery of insulin as a treatment for diabetes by Canadian researchers.",
+       "C. In addition to visually representing Canada, the new polymer bills are also designed to be more functional and environmentally friendly. The bills are able to withstand temperatures ranging from -75 to 140 degrees Celsius, are harder to tear, and do not absorb moisture, thereby allowing them to be wiped clean with a damp cloth. These improvements mean that, when properly handled, the new bills last up to 2.5 times longer than their paper predecessors. This increased lifespan and ability to be recycled means that polymer notes accomplish the important goal of reducing environmental impact.",
+       "D. Most importantly, the new polymer bills include a wide range of security features that are easy to verify and difficult to counterfeit. These features include raised ink located in various places on the surface of the bill, visual details such as transparent text and metallic features, and hidden numbers that can only be detected using an incandescent light. However, in spite of these innovative features, the best security against counterfeiting is still education. This is why front-line employees in Canadian businesses are taught to be both diligent and cautious when dealing in cash transactions.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "The new bills display visual representations of important accomplishments.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Polymer notes contain features that make them more durable than paper bills.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Banks are unable to reimburse businesses for losses caused by counterfeiting.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Polymer bills contain improvements that help prevent illegal imitations.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Canadians use multiple forms of payment in their daily lives.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The features on polymer bills took several years to design and develop.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Polymer bills were developed in response to security concerns.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Surveillance by individuals is also important to combat counterfeiting.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "Paper bills only have half of polymer bills' security features.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "In our digitally mediated age, many people seeking direct communion with fellow human beings have joined outdoor running groups, yours truly among them. Interestingly, it seems that the type of running terrain has an impact on fostering genuine human fellowship, among other benefits.",
+       "The Canadian Association of Sports and Movement claims the choice of terrain, be it dirt trail or hard pavement, is immaterial. But sports trainer David Rogers points out that hip and knee joints that routinely pound on dirt trails sustain less compression and, therefore, fewer injuries than those routinely subjected to unyielding asphalt. Granted, habitual pavement pounders may, on their first mountain trail runs, be humbled by the agility and concentration required to navigate around rocks and tree roots. Trail running has its challenges, but it is a healthier pursuit than road running. Away from urban automobile exhaust, a trail's lush greenery, stunning scenery, and boosted oxygen levels are exhilarating and psychologically restorative. I'm partial to what's known as the biophilia hypothesis: the desire to affiliate with nature is innate.",
+       "I think we need to tell that to search and rescue coordinator Simon Erholz, who is on public record as wishing more runners had an affinity for pavement. Erholz has publicly castigated the many novice trail runners who've fallen or lost their way and called for rescue. In this regard, it's understandable why so many marathoners opt to train on asphalt. \"It's not that I don't want to admire Mother Nature while I'm running; I just want to put in my daily 10 kilometres with minimal chance of a face plant,\" says marathoner Nita Gill. \"Also, running near my downtown condo gives me a sense I'm being monitored in a good way.\"",
+       "Memo to Nita: Safety, like beauty, is in the eye of the beholder. If you fall in a road race, participants will hop over you, single-mindedly fixated on the finish line. But in a trail race, they'll stop and carry you to the nearest first aid station. To me, if that's not soul-restoring communion with humanity, I don't know what is."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "What is the main purpose of this article?",
+        "options": [
+         "to challenge expert opinions",
+         "to show the dangers of marathons",
+         "to promote the writer's hobby",
+         "to describe a new fitness trend"
+        ],
+        "answer": 2,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "According to the article, why is running popular nowadays?",
+        "options": [
+         "It can be tracked with technology.",
+         "It encourages social interaction.",
+         "It can be done in various locations.",
+         "It fosters better overall health."
+        ],
+        "answer": 1,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Which theory does the author state agreement with?",
+        "options": [
+         "Most people prefer running in outdoor settings.",
+         "People require human affiliations for survival.",
+         "People instinctively crave natural surroundings.",
+         "Most people enjoy the solitude of the forest."
+        ],
+        "answer": 2,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What is true about Nita Gill?",
+        "options": [
+         "She considers trail running a tedious exercise.",
+         "She prioritizes track predictability over scenery.",
+         "She calls for increased surveillance for runners.",
+         "She strives to surpass her daily running target."
+        ],
+        "answer": 1,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What does the author suggest?",
+        "options": [
+         "Road racing fosters real human fellowship.",
+         "Trail runners are stronger competitors.",
+         "Race winning is paramount for trail runners.",
+         "Higher safety for road runners is a myth."
+        ],
+        "answer": 3,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "I'm a sidewalk jogger, and my interest was certainly piqued by this article. In general, I had mixed reactions to what was said. Provided one brings the proper equipment and takes appropriate precautions, it is, as one of the author's sources points out, {{6}}. I've hit the trails on several occasions, where, as the author implies, the {{7}} is constantly changing, forcing you to stay in the moment. I do agree with Rogers that {{8}} However, Nita Gill serves to remind me that I would still be {{9}} Finally, I do want to address the author's uncharitable comments about road runners. I feel that it's presumptuous of the author to characterize them as {{10}} when other competitors are injured."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "irrelevant where someone chooses to run",
+         "important to run without digital devices",
+         "clear that running leads to emotional health",
+         "safest to alternate walking with running"
+        ],
+        "answer": 0,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "weather",
+         "air quality",
+         "group composition",
+         "ground underfoot"
+        ],
+        "answer": 3,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "runners need to enjoy the scenery",
+         "trail running is easier on the body",
+         "people need to assess the risks",
+         "all running can be monotonous"
+        ],
+        "answer": 1,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "less agile on the road",
+         "more confident on the trails",
+         "less lonely on the road",
+         "more vulnerable on the trails"
+        ],
+        "answer": 3,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "aggressive",
+         "indifferent",
+         "uninformed",
+         "judgmental"
+        ],
+        "answer": 1,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "You have borrowed money from your bank. Now your income has changed."
+    ],
+    "instruction": "Write an email of about 150-200 words to the bank and explain the change in your finances. Make a request to change the amount of money you pay back each month. Your email should include the following things:",
+    "bullets": [
+     "the amount of money you borrowed and the current repayment schedule",
+     "why you borrowed the money",
+     "how your income has changed and why it has changed",
+     "how you would like to change the amount of money you pay each month"
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "Dear sir / madam,",
+       "hello, i am a customer in your bank. actually, 3 years ago i borrowed about $20000,00 from your bank of kingsway branch and recently i got a E-mail about repayment schedule. totally i know that on 15th May. because often i checked up. if you check my information, you already know that why i borrowed the money. few years ago, i just entered the university. i was pretty happy about it, however, i was not enough financial to myself. now i am going to last semester. so i will take a just 10 credits! therefore i can get a part time job and make a money $1000.00 in a month. so i would like to change the amount of my each month pay money. how about $800 every month. i know it will be take about two and half years, although i want to change it",
+       "thank you for"
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "Dear the bank manager,",
+       "I am Ken Hoang who has borrowed 6000 dollars two months ago and I am currently repaying 600 dollars each month on a one-year contract. The money was very important and helpful for me because I have spent all of them in my university tuition of this year and also buying some useful textbooks.",
+       "I used to work at the restaurant as a part-time waitress and the small salary was insufficient for me to afford my life expense and more repayment at that time. Fortunately, I am so glad that I have been offered a new part-time job in an IT company recently where I can earn as double as before now, which means I am able to return more money to your bank every month. I am planning to repay 800 dollars each month and as a result the new contract length will be reduced to 6 months.",
+       "I hope that you can approve my new repayment application and look forward to your reply. Your faithfully,",
+       "Ken Hoang"
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "To whom it may concern, During the fall of 2010, I successfully applied for a small business loan from the Greater National Bank. With the $100,000 I received, I was able to open a shop that creates custom shoes for the elderly. As part of the condition of the loan, my monthly payments were to be in instalments of $500.",
+       "Due to the ever changing global economy, my small shoe shop has become quite the popular online shopping experience. The yearly gross profits have increased by over %250 over the last 4 years. Now that the business has become highly profitable, I wish to increase the payment size of my business loan. I feel that a monthly payment of $1,000 is now financially feasible and responsible for the longevity of the business. I have calculated that if the profit margins continue at this pace, the business will be able to pay off the entirety of the loan by 2025.",
+       "Please contact me at your earliest convenience so that we may adjust the details of the loan. I look forward to our continued business and appreciate all the help that your bank has provided. Thank you for your time.",
+       "Sincerely,",
+       "Cherise Conway CEO, Grandma's Shoes"
+      ]
+     }
+    ],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "Your manager is surveying your opinion about a scent-free workplace where perfumes and strong smells are not allowed. Many other workplaces in the city already have this policy."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: The workplace should have a scent-free policy.",
+     "Option B: The workplace should allow people to wear scents."
+    ],
+    "surveyTitle": "Scent-Free Workplace Survey",
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "Hello Sir/Madam,",
+       "I strongly disagree to let people to wear or put a scent at our workplace, however I am also kind of not agree with other policy a scent -free policy because people still could put a scent.",
+       "In my opinion all the workplaces should not allowed people to wear perfumes or any other strong smells as many other workplaces in the city already decided.",
+       "Why I am choosing the first option due to the following points:",
+       "First, most of the workers in our place they do not like strong smells as I know Secondly, I watched last weekend on the television a pregame which was talking about the risks and illness in the workplaces. I have found a lot of illness vou could get because if smelling a strong perfumes.",
+       "To be honest, I have got an illness once from smelled a strong scent.",
+       "Finally, thank you to giving my a chance to give my opinion to the really important topic in the life.",
+       "All the best,",
+       "Al Hassan"
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "Scent-free working policy is a debatable issue in different companies around Canada. In my opinion, this policy should be applied by all companies in the country. Every one of us would like to have a good smell all the time. However, this good smell might negatively affect the health of other people. As an example, a friend of mine is too sensitive to the strong smells and perfumes and his doctor told him to avoid them. Many other people are such as my friend and we should all respect this special need for them since our freedom ends when it hurts others.",
+       "In our daily work, we can not limit the people that we will meet everyday, so it is really hard to know if anyone will be negatively affected by the smell of your perfume. Applying a scent-free policy by our company will not insult any employee in the company but it will protect some people who are sensitive to such smells."
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Hello Phil,",
+       "I have recently become aware that our workplace is considering adopting a scent-free environment policy. I strongly support this policy change. I believe that the other businesses in this city who have already adopted this policy are setting the standard for how the workplace environment should be.",
+       "I am of the opinion that people should be free to do whatever they wish so long as their actions do not harm others. There are various groups of people who are extremely sensitive to strong scents and can often suffer from serious health issues after exposure. For some people, strong scents like perfumes or colognes can trigger severe migraine headaches and can sometimes induce temporary blindness. For others, strong smells can trigger respiratory distresses like an asthmatic attack. By allowing workers to wear strong scents in the workplace, the company would be promoting an environment that compromises the health and safety of workers who are susceptible to these smells.",
+       "Thank you for giving me the opportunity to voice my opinion on this matter. Best regards,",
+       "Levla"
+      ]
+     }
+    ],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your friend is not sure what to get his mother for her birthday. Give him some advice about what kind of gift he should get her."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you created something you liked. Maybe it was a beautiful piece of artwork,",
+     "a delicious meal, or a craft project. What did you create, why did you create it, and what was it like to create it?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "Your friends want to do something fun together on the weekend, and they asked you to choose an activity. You found two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade a friend that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "Another friend is suggesting a different activity. Persuade her that the option you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "You have become friends with one of your co-workers, Tina. You and two other co-workers, David and Anya, recently overheard your boss saying that Tina will be fired if she does not start working harder. Anya says that you should tell Tina what you heard, but David says that you should not tell Tina what you heard."
+    ],
+    "choices": [
+     "Talk to Anya. Explain why you will not tell Tina what you heard.",
+     "Talk to David. Explain why you will tell Tina what you heard."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think city governments should provide free wireless internet access to any citizen who needs it? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You visit a landfill on a field trip with your school. Your friend Sam couldn't make it. Call her, describe what you see, and ask her if she would like you to take notes for her."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

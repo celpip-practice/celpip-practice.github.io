@@ -1,0 +1,1764 @@
+{
+ "id": "s11-t1",
+ "set": 11,
+ "test": 1,
+ "title": "Practice Test 11-1",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 51.2
+      },
+      "transcript": "Hi! How can I help you? Hi! I've just moved into the area. The house I bought is a beautiful old home-maybe built about a century ago-but the tiles have probably been there for a few decades at least! Ah yes. .. these old houses! Is it the tiles in the bathroom, or the kitchen tiles? Well, the ones in the bathroom need work right away-several of them are cracked or broken. The ones in the kitchen just have a very old-fashioned style, so maybe I'll do those later. OK. So, it sounds like we know which room to start with then. Do you have the measurements? It's about-well-it's a small bathroom. Maybe average-sized. Well, could you come back, maybe tomorrow, with the precise details? Those will help us narrow down our options. We're open from 9:00 a.m. to 5:00 p.m. every day.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "Try to find more kitchen tiles."
+         },
+         {
+          "text": "Perform a repair in his bathroom."
+         },
+         {
+          "text": "Update his kitchen appliances."
+         },
+         {
+          "text": "Expand his small bathroom."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-1",
+        "stem": "What is the man planning to do?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "She is unfamiliar with older homes."
+         },
+         {
+          "text": "She doesn't have the right tiles."
+         },
+         {
+          "text": "She is closing the store for the day."
+         },
+         {
+          "text": "She doesn't have enough information."
+         }
+        ],
+        "answer": 3,
+        "id": "L1-2",
+        "stem": "Why is the woman unable to help the man right now?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 54.2
+      },
+      "transcript": "Hi again! Here are the measurements. Great! These will help us choose the right sizes and quantities. So, over here, we have wall tiles, and on the other side of the store, we have our selection of floor tiles Well, I'd like my whole bathroom to look the same. Why don't I try these white tiles? They look nice and plain. I could just use them for everything. Well, those are nice, but many people would be worried about safety. Floor tiles-in the kitchen, and especially in the bathroom-generally have a rough, bumpy texture. You know, so you don't slip on a wet floor. How about those ones over there? Whoa! I don't like that pattern on the tiles at all! Right. Well, how about those flowered ones? You know, if I'm using these white ones for the wall, probably those ones-below the flowered ones-will be best for the floor. Those will give me a similar look throughout the room.",
+      "questions": [
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "Buy the same tiles for his bathroom floor and walls."
+         },
+         {
+          "text": "Put the same tiles in his kitchen and bathroom."
+         },
+         {
+          "text": "Use tiles with a flowered pattern in his bathroom."
+         },
+         {
+          "text": "Get a few different tiles to try out at home."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-3",
+        "stem": "What did the man want to do?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "The tile colour may be too dark."
+         },
+         {
+          "text": "The tile texture may be too smooth."
+         },
+         {
+          "text": "The tile size may not be correct."
+         },
+         {
+          "text": "The tile pattern may not look nice."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-4",
+        "stem": "What problem does the woman see with the man's tile choice?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "image": "media/listening_p2_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_2.jpg"
+         },
+         {
+          "image": "media/listening_p2_3.jpg"
+         },
+         {
+          "image": "media/listening_p2_4.jpg"
+         }
+        ],
+        "answer": 2,
+        "id": "L1-5",
+        "stem": "Which floor tiles will the man probably buy?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 37.5
+      },
+      "transcript": "Hello again! How are the white tiles working out? Are you happy with them? They look great so far! I really appreciate your advice. But I seem to have run out. Oh no! In the middle of your project! That's too bad. Yes. It's completely my fault-I must have made a mistake when measuring. OK. I'm just gonna look up the inventory in our database. Hmm. .. it looks like we are out of stock for both. Should I order them from the manufacturer for you? Yes, please put in the order. Since I'm here, I'll take a look at the kitchen tile section That's right! You said the kitchen is your next project!",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "To complain about the look of the tiles."
+         },
+         {
+          "text": "To thank the woman for her help."
+         },
+         {
+          "text": "To purchase more bathroom tiles."
+         },
+         {
+          "text": "To order the same tiles for his kitchen."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-6",
+        "stem": "Why has the man returned to the store?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "She is sorry about her mistake."
+         },
+         {
+          "text": "She feels badly about the man's problem."
+         },
+         {
+          "text": "She is confused about the man's problem."
+         },
+         {
+          "text": "She gives advice about measuring tiles."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-7",
+        "stem": "How does the woman respond to the man?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "More tile styles in the store."
+         },
+         {
+          "text": "The same tiles in current stock."
+         },
+         {
+          "text": "Similar tiles in their other location."
+         },
+         {
+          "text": "Some tiles for the man's kitchen."
+         }
+        ],
+        "answer": 1,
+        "id": "L1-8",
+        "stem": "What does the woman look for?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "You will hear the conversation only once.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 90.9
+      },
+      "transcript": "You will hear a conversation between two people, a brother and a sister, who are at a mall. Okay, so you have a bunch of stuff you want to buy, and I have a bunch of stuff I want to buy. .. Shall we just split up and meet back at the food court for lunch? In, say, an hour? Actually, I was hoping you might come with me at least to the framing store. You have a much better eye for that kind of thing. I know what sort of poster I want to buy for Michael, but I have no idea what kind of frame it will look good in. But the person at the store should be able to help you with that. \"Should\" is the key word. I've noticed more and more that the people who work in stores don't have any special expertise about the stuff sold in that store. I tried to buy a pair of shoes the other day, and I swear the person didn't know a shoelace from a buckle. You know, you're right: I had the same experience when I tried to buy a toaster. So okay, I'll come with you to the framing store, but I'd really like to go to my favourite store first. They have a sale on sweatshirts, and I want to get there before they're sold out of the colour and size I want. Fair enough. But since I'm not thrilled about going into clothing stores, I'll just wait outside, okay? No problem. Actually, I think that's where the fountain is, with all the benches. Perfect. After that, I don't mind splitting up. Will it really take you just an hour? It's Saturday- this place is crowded! Good point. Better make it two hours. Maybe by then, the food court won't be as busy. That would be nice. I hate being jostled when I've got a full tray of food. And I'm planning to get exactly that at the new Thai restaurant that's opened up. They have a buffet. Really? I didn't know that. Guess who else will be getting a full tray of food!",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "Who goes where, and when."
+         },
+         {
+          "text": "Where to have lunch."
+         },
+         {
+          "text": "Where to meet Michael."
+         },
+         {
+          "text": "What they will buy, and where."
+         }
+        ],
+        "answer": 0,
+        "id": "L2-1",
+        "stem": "What are they trying to figure out?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "He doesn't know where the framing store is."
+         },
+         {
+          "text": "He values her judgement about picture frames."
+         },
+         {
+          "text": "He wants to show her the poster he purchased."
+         },
+         {
+          "text": "He wants her to meet his friend Michael."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-2",
+        "stem": "Why does the man want the woman to come with him to the framing store?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "They were out of the kind she wanted."
+         },
+         {
+          "text": "The one she wanted was no longer on sale."
+         },
+         {
+          "text": "She was unable to get informed advice."
+         },
+         {
+          "text": "There was no one in the store to help."
+         }
+        ],
+        "answer": 2,
+        "id": "L2-3",
+        "stem": "What likely happened when the woman tried to buy a toaster?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "Show off her new sweatshirt."
+         },
+         {
+          "text": "Sit down for 2 full hours."
+         },
+         {
+          "text": "Wait for her brother at the fountain."
+         },
+         {
+          "text": "Buy a lot of food from a new restaurant."
+         }
+        ],
+        "answer": 3,
+        "id": "L2-4",
+        "stem": "What does the woman plan to do at the food court?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "busy"
+         },
+         {
+          "text": "dirty"
+         },
+         {
+          "text": "small"
+         },
+         {
+          "text": "new"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-5",
+        "stem": "What word best describes the mall?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "You will hear the conversation only once.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 118.9
+      },
+      "transcript": "You will hear a conversation between a man and a woman. Good morning. Northwest Hydro. Constance speaking. How can I help you? You can help me feel less confused, I hope. I live at 743 Rosemount Avenue, Apartment 5. OK. One moment please while I bring up your account. Perfect. How can I help you today, sir? I've been living here almost four months, since December. Yesterday my landlord told me I should've phoned you to set up my hydro account and arrange to make payments. Here it is late March. I haven't received a single hydro bill, and I haven't paid Northwest Hydro one cent. The electricity bill for this apartment must be three months overdue. Well. .. actually, it appears that someone's been paying the costs for you. Seriously? Who? I'm afraid I'm not allowed to disclose that information. Was it the last tenant who lived here? I know she moved to Beijing. Didn't she notify you that she'd moved out and cancelled her hydro account? I'm afraid I can't disclose that personal information. But I can tell you that we will register you as responsible for this account, and we'll send you a hydro bill for a total of $240, covering December 1st through March 31st. Any person or organization who was paying your hydro bill will be reimbursed. No problem. I'm responsible for the bill, and I want to pay. I was worried that my electricity would be cut off for nonpayment. Actually, Northwest Hydro has a policy of not cutting off people's electricity during the winter months. It's 20 below zero outside. People. .. well, they depend on us to survive. But. .. if an account goes unpaid for three months in the summer, then we do cut off the power. That's a good policy! Not that I'm the type of person who doesn't pay my bills, but it's good to know., sounds good! Would you be able to show me where I could get all these things? Well, we're happy to help. Thank goodness it's winter! I LOVE winter!",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "To cancel his hydro account."
+         },
+         {
+          "text": "To have his power turned on."
+         },
+         {
+          "text": "To pay his summer power bill."
+         },
+         {
+          "text": "To start a new power account."
+         }
+        ],
+        "answer": 3,
+        "id": "L3-1",
+        "stem": "Why did the man call the woman?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "His landlord explained his responsibility."
+         },
+         {
+          "text": "He wants to move into a new apartment."
+         },
+         {
+          "text": "His power has been cut off in the winter."
+         },
+         {
+          "text": "He received his first electricity bill."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-2",
+        "stem": "Why is the man asking about the situation now?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "He is curious about the payment."
+         },
+         {
+          "text": "He wants to be reimbursed."
+         },
+         {
+          "text": "He wants her to cancel the power."
+         },
+         {
+          "text": "He wants to thank her in person."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-3",
+        "stem": "Why does the man want information about the former tenant?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "It is included in his rent."
+         },
+         {
+          "text": "Someone else is paying for him."
+         },
+         {
+          "text": "Payment is not due until April."
+         },
+         {
+          "text": "Power is free in the winter. |"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-4",
+        "stem": "Why does the man now have power in his apartment?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "People can be reimbursed for payments."
+         },
+         {
+          "text": "Personal information is kept confidential."
+         },
+         {
+          "text": "Power is kept on during the winter."
+         },
+         {
+          "text": "Others can pay his hydro bill."
+         }
+        ],
+        "answer": 2,
+        "id": "L3-5",
+        "stem": "Which power company policy is the man happy with?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "Bill him for this month only."
+         },
+         {
+          "text": "Contact the landlord for payment."
+         },
+         {
+          "text": "Send him a four-month power bill."
+         },
+         {
+          "text": "Tell him who was paying his power."
+         }
+        ],
+        "answer": 2,
+        "id": "L3-6",
+        "stem": "What will the woman do after the phone call?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "Then five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 70.7
+      },
+      "transcript": "7-year-old Dustin Sanovall got both a scolding and a hero's applause earlier this week when his mischievous antics led him to save another child's life. Dustin, who loves leaving prank messages on his home answering machine, pocketed his mother's cell phone without her knowledge and went to play at the park in their townhouse complex. He intended to make another prank call while his mother was gardening in the yard. This time, however, Dustin's antics saved the day. In the park, he saw a child lying on the ground unconscious. Dustin immediately called 911 with his mother's cell phone, and an ambulance arrived within minutes. Paramedics discovered that the nine-year-old victim, James Song, had been stung by a bee and needed treatment for anaphylaxis, a potentially fatal allergic reaction. The boy recovered quickly in the hospital. Dustin's mother was exasperated to discover her son had taken her phone and sternly warned him not to do so again. However, she was happy to learn something positive came out of it. James' father presented Dustin with a cell phone as a thank you for saving his son. Since the incident, Dustin's mother hasn't received any more prank calls.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Dustin's mother was",
+        "options": [
+         {
+          "text": "delighted by Dustin."
+         },
+         {
+          "text": "relieved to get her phone."
+         },
+         {
+          "text": "annoyed with James."
+         },
+         {
+          "text": "frustrated with Dustin."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Dustin took the phone in order to",
+        "options": [
+         {
+          "text": "call his friend."
+         },
+         {
+          "text": "do a good deed."
+         },
+         {
+          "text": "play a trick."
+         },
+         {
+          "text": "call an ambulance."
+         }
+        ],
+        "answer": 2,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Dustin called 911 because",
+        "options": [
+         {
+          "text": "he had an allergic reaction."
+         },
+         {
+          "text": "his friend was badly hurt."
+         },
+         {
+          "text": "he saw an accident occur."
+         },
+         {
+          "text": "he found someone in danger."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Dustin's own phone was",
+        "options": [
+         {
+          "text": "found by paramedics."
+         },
+         {
+          "text": "given to him as a gift."
+         },
+         {
+          "text": "loaned to his mother."
+         },
+         {
+          "text": "borrowed by James."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "James",
+        "options": [
+         {
+          "text": "was in hospital for a long time."
+         },
+         {
+          "text": "nearly died in the playground."
+         },
+         {
+          "text": "called Dustin's mother immediately."
+         },
+         {
+          "text": "loved to play tricks on Dustin."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 136.5
+      },
+      "transcript": "You will watch a conversation among three people. There are two men and one woman. They are friends who have run into each other in a neighborhood coffee shop. This is Ryan. This is Nadine. This is Josh. That's a great idea. Let's do that. Hey, Josh. Hey, Nadine. Hey, Ryan. You didn't see you guys there. What are you up to? We're going to get ice coffees. It's so warm out today. What are you up to? I was just doing some reading waiting for the bus to take me up to the campus. Did you guys see this article on the the new program they're making for the homeless in our neighborhood? Apparently they're going to be creating an extreme weather center for when the temperature drops below minus 2. Oh, I heard about this somebody at work was talking about it. It's that church up the street They offer a variety of services But the main one is they have a place for up to 15 people to sleep when it's cold outside. I think that's fantastic. You do? Yeah, oh, I don't know. I mean, it kind of scares me to have all those people so close to our house and They're always leaving trash everywhere. You know when they put that homeless center next to my brother's house He got his car broken into really that's awful. I mean, I don't see this really causing a spike in crime I think it's mainly just for the people that are already living on the street in the neighborhood Like you know that guy Clarence who comes in here all the time for coffee I think I'd feel better knowing that he has a place to sleep at night. I agree. I've been thinking about volunteering at this place. I mean, they need help making dinner sometimes. What do you think, Nadine? I don't know. To be honest, Clarence kind of scares me. I mean, he can be really loud when he comes in here sometimes. But I know he needs a place to sleep when it's cold out, and he's not the only one. Maybe I should volunteer too. I think so. I mean, it would be a great opportunity for us to learn more about the neighborhood. I just don't know what we do to sign up. Well, it says here that there's an information meeting on volunteering tomorrow night at the church at six o'clock. If you guys are going, I'll come too. Maybe I could even invite some of my classmates. Well, I have wanted to do some more work with the community. I mean, I've just never volunteered for anything before. It would be fun if you two were there. Okay, let's do it. Sounds great.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What is the main purpose of the new program?",
+        "options": [
+         {
+          "text": "to provide safe shelter in the community"
+         },
+         {
+          "text": "to encourage residents to volunteer"
+         },
+         {
+          "text": "to predict extreme weather conditions"
+         },
+         {
+          "text": "to prepare meals for people in need"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "When will the shelter be open?",
+        "options": [
+         {
+          "text": "after dinner time"
+         },
+         {
+          "text": "when it's freezing outdoors"
+         },
+         {
+          "text": "tomorrow at 6 p.m."
+         },
+         {
+          "text": "when the new church opens"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What does the program need volunteers to do?",
+        "options": [
+         {
+          "text": "make coffee"
+         },
+         {
+          "text": "prepare meals"
+         },
+         {
+          "text": "clean streets"
+         },
+         {
+          "text": "make beds"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Why is the woman (Nadine) unsure about the new program?",
+        "options": [
+         {
+          "text": "She is worried that it will be poorly organized."
+         },
+         {
+          "text": "She is anxious about her brother's car."
+         },
+         {
+          "text": "She is concerned about personal safety."
+         },
+         {
+          "text": "She has never volunteered before."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What is the younger man's (Josh's) attitude toward the program?",
+        "options": [
+         {
+          "text": "concerned"
+         },
+         {
+          "text": "critical"
+         },
+         {
+          "text": "excited"
+         },
+         {
+          "text": "approving"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Who is the man, Clarence, whom they are discussing?",
+        "options": [
+         {
+          "text": "a man without a residence"
+         },
+         {
+          "text": "a volunteer from the church"
+         },
+         {
+          "text": "an employee of the coffee shop"
+         },
+         {
+          "text": "a coordinator for the shelter"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What is Josh's occupation?",
+        "options": [
+         {
+          "text": "social worker"
+         },
+         {
+          "text": "college student"
+         },
+         {
+          "text": "newspaper reporter"
+         },
+         {
+          "text": "coffee shop employee"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Why are the three speakers meeting tomorrow?",
+        "options": [
+         {
+          "text": "to prepare meals together"
+         },
+         {
+          "text": "to volunteer for the shelter"
+         },
+         {
+          "text": "to join the information session"
+         },
+         {
+          "text": "to meet Josh's classmates"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "Then six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 179.4
+      },
+      "transcript": "The addition of bike lanes in densely populated urban areas throughout major Canadian cities is on the rise, creating tension between cyclists and car drivers. Shannon Toulou, an avid biker and campaigner for city cycling in Toronto, says that bike lanes have been absent for too long in city planning. She believes it is the long weight that has created a culture of car drivers that are are now irrationally annoyed at having to accommodate for different modes of transport. The municipal government, meanwhile, is hesitant to support cyclists over drivers. And yet, had major bike lanes been around twenty years ago, Tulu suggests, the bike culture would have grown since then, and no one would be batting an eye now. She points to cities such as Amsterdam, where forty percent of commuting is done by bike, bike, and the infrastructure has been in place for decades. For Tulu, the main need for bike lanes is safety. Having been in two serious bike accidents in which no bike lane was available, Tulu understands the need for a designated cyclist roadway. Tulu says statistics show that less bike accidents occur when cyclists have their own lane. Fred Morris is the chair of the Provincial Mountain Biking Association. His passion for cycling does not, however, place him in the same camp as Tulu. On the contrary, Morris counters that while recreational bicycling is wonderful, bikes have no place in city traffic. Five years ago, he was in an accident in which he was cycling in a designated lane. Morus argues bike lanes create the illusion of safety because cyclists assume drivers are looking out for them. He says bike lanes actually increase the chance of car drivers hitting cyclists when they accidentally turn in front of them. Morus criticized cyclists for being aggressive. They don't want to lose their momentum and come to a full stop at intersections, and so they take chances to maintain speed. speed. Morris agrees with Tulu that if more city bike lanes had been built in Toronto decades ago, things would be much different. More bike lanes then would have meant a much stronger bike culture now, and car drivers would be more accepting and aware. But Morris says it's much too late to try and add bike lanes into already dense populated areas. is. Doing so, he says, will just cause more aggression on both sides. Tulu disagrees. In a time when cities are trying to reduce fossil fuel emissions and encourage environmentally friendly ways of living, she argues, developing a generation of bicycle commuters is crucial crucial to the health of our cities and our planet.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Why are some cities better for cyclists?",
+        "options": [
+         {
+          "text": "They have more public transportation options."
+         },
+         {
+          "text": "Cycling traffic had been integrated decades ago."
+         },
+         {
+          "text": "They have wider roads and more bike lanes."
+         },
+         {
+          "text": "The cyclists are better educated and trained."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Tulu differs from Morris because she believes",
+        "options": [
+         {
+          "text": "cyclists are much more careful than car drivers."
+         },
+         {
+          "text": "cycling is good exercise for all ages."
+         },
+         {
+          "text": "it's too late to promote city cycling in many cities."
+         },
+         {
+          "text": "bike lanes improve the safety of city cyclists."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Morris and Tulu are both",
+        "options": [
+         {
+          "text": "advocates for cyclists' interests."
+         },
+         {
+          "text": "optimistic about city cycling."
+         },
+         {
+          "text": "campaigners for city cycling."
+         },
+         {
+          "text": "worried about government policy."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Morris would recommend that cyclists",
+        "options": [
+         {
+          "text": "be more assertive when cycling in city traffic."
+         },
+         {
+          "text": "cycle in parks or sparsely populated areas."
+         },
+         {
+          "text": "demand city planning that accommodates cycling."
+         },
+         {
+          "text": "only cycle on roads with properly built bike lanes."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "In Toronto,",
+        "options": [
+         {
+          "text": "there is resistance to integrating bicycle traffic."
+         },
+         {
+          "text": "car drivers tend to be more aggressive than cyclists."
+         },
+         {
+          "text": "cyclists are a politically influential group."
+         },
+         {
+          "text": "there's been a compromise between cyclists and drivers."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Morris criticizes cyclists for",
+        "options": [
+         {
+          "text": "cycling on roads without bike lanes."
+         },
+         {
+          "text": "ignoring traffic rules when cycling."
+         },
+         {
+          "text": "cycling on the sidewalks of busy streets."
+         },
+         {
+          "text": "being too timid when cycling in cities."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Dear Joan,",
+       "I enjoyed receiving your postcards with the glowing descriptions of your recent trip to Europe. Of course, when I told Benny about your trip, he wanted to revisit Paris immediately, especially after an unusual dining experience we had here last week. Being the food critic for the Winnipeg Daily News for ten years now, Benny thought that he'd seen and tasted everything. Well, that was until last Friday night.",
+       "We went to a new restaurant called Le French, on the corner of Davis Street and Park Avenue. Imagine our surprise when we discovered that this restaurant specializes in Italian cuisine. When Benny asked the waiter why the owners decided to name an Italian restaurant Le French, he simply said, \"Don't ask me!\" Then a little while later, this same waiter knocked over Benny's wine glass, spilling red wine onto Benny's pants. The waiter merely said, \"Oops, sorry!\" and left us to fend for ourselves. After finding some extra napkins and cleaning up the wine, Benny fleetingly thought of leaving, but, being a consummate professional reviewer and hoping that the food might surpass the service, we stayed. Was that ever a mistake!",
+       "I ordered spaghetti with tomato sauce-that's about as simple a meal as you can get-and Benny decided to try the restaurant specialty, lasagna. Well, my spaghetti was not fully cooked, and the tomato sauce tasted like the canned sauces you would find on a supermarket shelf. Benny's lasagna was inedible-full of dry cheese and very little sauce. Fortunately, the fresh bread eased our hunger somewhat, although the butter was cold and much too hard to spread, which didn't improve our mood.",
+       "As we were about to leave, the restaurant owner apologized for ruining Benny's pants and said that Benny didn't have to pay for his meal. However, he did not offer to compensate Benny for his ruined trousers. Benny wants to give Le French a special award for the worst culinary experience he's ever had, but I'm trying to calm him down a bit before he writes a highly critical review.",
+       "Give us a call before you come to town next month and we'll arrange to go somewhere special to celebrate your birthday-but rest assured that it won't be Le French.",
+       "Cheers,",
+       "Tracy"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Benny",
+        "options": [
+         {
+          "text": "is a professional chef."
+         },
+         {
+          "text": "writes reports on restaurants."
+         },
+         {
+          "text": "was in Paris last week."
+         },
+         {
+          "text": "dislikes Italian food."
+         }
+        ],
+        "answer": 1,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Benny went with Tracy to a local restaurant which",
+        "options": [
+         {
+          "text": "they had seen advertised in the newspaper."
+         },
+         {
+          "text": "had been recommended by a friend."
+         },
+         {
+          "text": "they both soon regretted visiting."
+         },
+         {
+          "text": "was well established in the neighborhood."
+         }
+        ],
+        "answer": 2,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Having spilled wine on Benny's pants,",
+        "options": [
+         {
+          "text": "the waiter didn't apologize."
+         },
+         {
+          "text": "the owner offered to pay for the cleaning costs."
+         },
+         {
+          "text": "the waiter brought Benny an extra napkin."
+         },
+         {
+          "text": "the waiter didn't help to clean up."
+         }
+        ],
+        "answer": 3,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Tracy's spaghetti",
+        "options": [
+         {
+          "text": "was much better than Benny's lasagna."
+         },
+         {
+          "text": "was much worse than Benny's lasagna."
+         },
+         {
+          "text": "was no better than Benny's lasagna."
+         },
+         {
+          "text": "was almost as good as Benny's lasagna."
+         }
+        ],
+        "answer": 2,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Benny would like to",
+        "options": [
+         {
+          "text": "write a negative review of Le French."
+         },
+         {
+          "text": "write to the owner asking for compensation."
+         },
+         {
+          "text": "write to the owner and suggest an award."
+         },
+         {
+          "text": "write to Joan about visiting Paris for her birthday."
+         }
+        ],
+        "answer": 0,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Tracy and Benny would like to",
+        "options": [
+         {
+          "text": "celebrate Joan's birthday at Le French."
+         },
+         {
+          "text": "see Joan when she gets back from France."
+         },
+         {
+          "text": "take Joan to a French restaurant."
+         },
+         {
+          "text": "visit Joan before she comes home."
+         }
+        ],
+        "answer": 1,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the best choice for each blank from the drop-down menu.",
+      "paragraphs": [
+       "Hi Tracy,",
+       "It sounds like you had a really {{7}} experience at Le French. I understand why Benny would love to visit France again; both the French and Italian food here {{8}} Le French and probably anything you would find in Winnipeg. Even so, remember that Le French is a new restaurant, so maybe you should go there one more time before Benny {{9}}. I know that the {{10}} was really bad, but it may be that this was not the regular waiter. Having said that, I think we should {{11}}, when we meet next month.",
+       "Take care,",
+       "Joan"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         {
+          "text": "disappointing"
+         },
+         {
+          "text": "awesome"
+         },
+         {
+          "text": "delightful"
+         },
+         {
+          "text": "terrifying"
+         }
+        ],
+        "answer": 0,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         {
+          "text": "fall short of"
+         },
+         {
+          "text": "are better than"
+         },
+         {
+          "text": "are comparable to"
+         },
+         {
+          "text": "are for more expensive than"
+         }
+        ],
+        "answer": 1,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         {
+          "text": "takes me there for my birthday"
+         },
+         {
+          "text": "calls the owner about his pants"
+         },
+         {
+          "text": "writes a really bad review"
+         },
+         {
+          "text": "visits Paris"
+         }
+        ],
+        "answer": 2,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         {
+          "text": "owner"
+         },
+         {
+          "text": "spagetti"
+         },
+         {
+          "text": "wine"
+         },
+         {
+          "text": "service"
+         }
+        ],
+        "answer": 3,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         {
+          "text": "go to a different restaurant"
+         },
+         {
+          "text": "eat in my Paris apartment"
+         },
+         {
+          "text": "avoid drinking the wine"
+         },
+         {
+          "text": "try Le French again"
+         }
+        ],
+        "answer": 0,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "image",
+      "src": "media/reading_1.png"
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu.",
+      "paragraphs": [
+       "Subject: To Customer Service",
+       "To: Fort Robinson Customer Service <fortrobinsoncustomerservice@amail.com>",
+       "From: Richard Pascal <richardpascal@amail.com>",
+       "Dear Fort Robinson Customer Service,",
+       "I went to Fort Robinson last week, on August 30th. As an avid hunter, I was looking forward to the chance to {{1}}. However, I was disappointed to find that option unavailable due to the {{2}}. That was the primary purpose of my visit, and I had already paid the full price of {{3}} to enter the grounds. Because of this, I was hoping your organization could grant me free admission in the spring so that I would have another opportunity. By the way, while onsite I noticed children running around excitedly {{4}}. I commend you on getting them so excited about history! I am an elementary school French teacher; are such game materials offered in French? How many people are needed for a group discount? Given that {{5}}, a visit to the Fort could be a suitable field trip for my students. I look forward to hearing from you.",
+       "Best,",
+       "Richard Pascal"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         {
+          "text": "cook traditional food"
+         },
+         {
+          "text": "use a traditional rifle"
+         },
+         {
+          "text": "learn local history"
+         },
+         {
+          "text": "wear historical clothing"
+         }
+        ],
+        "answer": 1,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         {
+          "text": "birthday event"
+         },
+         {
+          "text": "cooking workshop"
+         },
+         {
+          "text": "age restriction"
+         },
+         {
+          "text": "site renovations"
+         }
+        ],
+        "answer": 3,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         {
+          "text": "$6"
+         },
+         {
+          "text": "$10"
+         },
+         {
+          "text": "$20"
+         },
+         {
+          "text": "$30"
+         }
+        ],
+        "answer": 1,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         {
+          "text": "without supervision"
+         },
+         {
+          "text": "on self-guided tours"
+         },
+         {
+          "text": "following the Fort Escape! clues"
+         },
+         {
+          "text": "eating cookies and picnic food"
+         }
+        ],
+        "answer": 2,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         {
+          "text": "students can enter for free"
+         },
+         {
+          "text": "the grounds have reopened"
+         },
+         {
+          "text": "the Fort has bilingual guides"
+         },
+         {
+          "text": "workshops occur every hour"
+         }
+        ],
+        "answer": 2,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given in the diagram and email.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "What is the main purpose of this email?",
+        "options": [
+         {
+          "text": "to complain about a guided tour"
+         },
+         {
+          "text": "to suggest a program change"
+         },
+         {
+          "text": "to make a group reservation"
+         },
+         {
+          "text": "to request free entry to the Fort"
+         }
+        ],
+        "answer": 3,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What can visitors to the Fort do at no extra cost?",
+        "options": [
+         {
+          "text": "try on traditional clothing"
+         },
+         {
+          "text": "prepare traditional bread"
+         },
+         {
+          "text": "listen to a scary story"
+         },
+         {
+          "text": "visit on their birthday"
+         }
+        ],
+        "answer": 2,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What does the Fort offer school teachers?",
+        "options": [
+         {
+          "text": "study materials for their class level"
+         },
+         {
+          "text": "free admission to Fort Robinson"
+         },
+         {
+          "text": "a discount on instructor admission"
+         },
+         {
+          "text": "worksheets in French and English"
+         }
+        ],
+        "answer": 0,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. Although crying is universal to almost all human beings, this natural bodily function has received little attention from researchers, who know much more about how and in what ways we cry than why we cry. As a bodily process, crying involves the secretion of a salty, protein-rich fluid that is produced by both the tarsal and the lachrymal glands, located on the underside of our eyelids. Together these glands are responsible for the tear production process.",
+       "B. The tarsal glands constantly produce oily, nutrient-rich basal tears-up to 10 ounces a day-in order to lubricate and nourish our eyes during both our waking and sleeping hours. In contrast, reflex tears are produced by the lachrymal glands, primarily in order to flush out foreign particles in the eyes and to protect our eyes from irritants such as chemicals, allergens, or even vapours from raw onions. The glands that produce reflex tears are also responsible for emotional tears.",
+       "C. Of the three types of tears that humans produce, emotional tears puzzle scientists the most. Human beings seem to be the only animals that shed emotional tears. What mystifies experts is the question of whether or not there is a biological benefit to these tears and, if there isn't, why they were not weeded out in the process of evolution. As infants, it is advantageous for us to cry so that we will get fed or receive care if we are in pain. Why, though, do we continue to cry as adults? Some researchers argue that crying might be a sort of vestigial behaviour, persisting after infancy because it still serves to manipulate others into giving us what we want. Yet this theory does not account for why we cry in situations where we apparently have nothing to gain by doing so, such as at sad movies.",
+       "D. It is possible that emotional tears are a communication method of last resort-the only thing left when words fail us. Whether or not this is the case, emotional tears are associated with certain health advantages. Studies have shown that those who weep from time to time seem to have lower rates of ulcers, migraine headaches, heart problems, and other diseases. Perhaps, then, tears are the body's way of ridding itself of emotional toxins. Whether or not this is true, it seems reason enough to let go once in a while and have a \"good cry.\"",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Researchers are unable to explain the purpose of tears in some contexts.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Crying rinses dust and dirt from the eyes.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Scientists know a lot about tear production.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Adults cry less when they are sick.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Salt and protein intake may have an effect on tear production.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Crying may actually have positive health benefits.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "The connection between tears and feelings is uniquely human.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Eye-cleansing tears have the same biological origin as emotion-purging tears.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "In non-human, primate species, crying serves a communicative purpose.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "A recent study of 500 Canadian companies having 50 or more employees found that firms with predominantly female senior management have a higher return on investment than companies whose top tier is comprised of less than 45% women. Yet, overall, women occupy only 24% of the upper echelons. The study, says its author Peyton Zoldy, raises the question of why workplace gender imbalance still exists and how it's best addressed. \"It's significant,\" says Zoldy, \"because in twenty-first century Canada, people tend to believe, rightly or wrongly, that advancement is based on achievements, not chromosomes.\"",
+       "Lesley Ortlieb, who teaches organizational behaviour at the University of Manitoba, thinks the imbalance stems from women's reluctance to lobby for promotion. While men tend to jump at the chance to advance to senior positions, says Ortlieb, women hold back until they're sure they're ready. \"Women often view self-promotion as somehow distasteful or dicey,\" Ortlieb says. \"Risk aversion often holds them back. Ironically, this is a quality needed in upper management roles.\"",
+       "Dalhousie University business professor Cassidy Novak believes that breaking through the so-called glass ceiling into top management roles is up to women, who should promote themselves more. \"Women are usually better educated than men,\" Novak says, \"yet they're less able to visualize themselves in senior positions. Historically, business culture has stereotypically represented male talent, not female talent. It's up to women themselves to aspire to top positions and be more strategic about how to get there.\"",
+       "Nevertheless, Kris Starowitz, human resources professional at consulting firm Taylor Moreau, thinks gender diversity isn't the responsibility of women. \"Women have lofty goals, but many companies don't recognize them. Senior managers need to take an active role in achieving workplace gender balance.\" For Starowitz, striving for gender balance is part of a good business strategy. \"Companies must actively create an environment where women feel comfortable discussing their accomplishments and goals, because, ultimately, what's good for women is good for the company. In successful companies, what you see at all levels, including the top, is diversity. Talent is genderless.\""
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Choose the best option according to the information given in the article.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Cassidy Novak says women need more",
+        "options": [
+         {
+          "text": "training."
+         },
+         {
+          "text": "expertise."
+         },
+         {
+          "text": "boldness."
+         },
+         {
+          "text": "seniority."
+         }
+        ],
+        "answer": 2,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Which two experts have opposing views?",
+        "options": [
+         {
+          "text": "Zoldy and Ortlieb"
+         },
+         {
+          "text": "Novak and Starowitz"
+         },
+         {
+          "text": "Ortlieb and Novak"
+         },
+         {
+          "text": "Starowitz and Zoldy"
+         }
+        ],
+        "answer": 1,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Novak and Starowitz would likely agree that companies should",
+        "options": [
+         {
+          "text": "consider other types of diversity."
+         },
+         {
+          "text": "minimize workplace competition."
+         },
+         {
+          "text": "encourage tactful self-promotion."
+         },
+         {
+          "text": "promote the most educated employees."
+         }
+        ],
+        "answer": 2,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What would Starowitz most likely support?",
+        "options": [
+         {
+          "text": "transparent decision making"
+         },
+         {
+          "text": "increased autocratic management"
+         },
+         {
+          "text": "leadership workshops for women"
+         },
+         {
+          "text": "gender-based hiring quotas"
+         }
+        ],
+        "answer": 3,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "A good title for this article would be \"Workplace Gender Diversity:",
+        "options": [
+         {
+          "text": "Historic Perspectives\""
+         },
+         {
+          "text": "An Even Playing Field At Last\""
+         },
+         {
+          "text": "The Origin of Stereotypes\""
+         },
+         {
+          "text": "Causes and Solutions\""
+         }
+        ],
+        "answer": 3,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "I own a highly successful Toronto engineering company. My entire senior management team has XY chromosomes and facial hair but ranges in age from 28 to 80 and represents twelve countries of origin, nine ethnicities, and five first-language groups. So it's understandable that I {{6}} the study's findings. Nonetheless, as Starowitz acknowledges at the end, {{7}}. Companies value decisiveness, so surely the hesitation that holds anyone back from applying for promotion is sufficient reason to {{8}}. Hence, I am not convinced by Ortlieb's suggestion that companies benefit from {{9}} senior managers. However, I agree with what Ortlieb says about the traits of female executives and, in fact, think companies should give them {{10}}."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         {
+          "text": "am skeptical of"
+         },
+         {
+          "text": "can acknowledge"
+         },
+         {
+          "text": "felt validated by"
+         },
+         {
+          "text": "took offense at"
+         }
+        ],
+        "answer": 0,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         {
+          "text": "women may be more talented"
+         },
+         {
+          "text": "equity is valuable for organizations"
+         },
+         {
+          "text": "all people need a goal at work"
+         },
+         {
+          "text": "gender determines a person's success"
+         }
+        ],
+        "answer": 1,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         {
+          "text": "support further education"
+         },
+         {
+          "text": "discourage their promotion"
+         },
+         {
+          "text": "consider changing positions"
+         },
+         {
+          "text": "deny public acknowledgement"
+         }
+        ],
+        "answer": 1,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         {
+          "text": "skeptical"
+         },
+         {
+          "text": "introverted"
+         },
+         {
+          "text": "cautious"
+         },
+         {
+          "text": "fearless"
+         }
+        ],
+        "answer": 2,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         {
+          "text": "pre-hiring personality profiling"
+         },
+         {
+          "text": "gender discrimination counselling"
+         },
+         {
+          "text": "mentoring by top executives"
+         },
+         {
+          "text": "ongoing assertiveness training"
+         }
+        ],
+        "answer": 3,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "warnings": [
+  "writing: source missing",
+  "speaking: source missing"
+ ]
+}

@@ -1,0 +1,1787 @@
+{
+ "id": "s06-t1",
+ "set": 6,
+ "test": 1,
+ "title": "Practice Test 6-1",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 47.3
+      },
+      "transcript": "Hello, may I help you? Well, I have a problem with these tickets. I got them for my birthday and they're for tomorrow evening, but I can't come tomorrow. Is there any way I can exchange them? Of course, that'll only take a few minutes. On which day would you like to see the show? Tuesday or Wednesday of next week would be best. Unfortunately, the show isn't being performed on either of those days. It plays the rest of that week and then it closes. Darn, that doesn't work for me. Too bad. My friend saw the show a few weeks ago and said it was amazing. Could I get a refund then? I'm sorry, we have a policy of no refunds, only exchanges. Isn't there anything you can do? Well, let me speak to my manager. I'll be right back. Thanks.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "She wants to purchase tickets."
+         },
+         {
+          "text": "She is interested in what shows are on."
+         },
+         {
+          "text": "She is unable to use her ticket."
+         },
+         {
+          "text": "She wants to complain to the manager."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "Why is the woman speaking to the ticket seller?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "It has been playing for several weeks."
+         },
+         {
+          "text": "It just started playing this week."
+         },
+         {
+          "text": "It only plays Tuesdays and Wednesdays."
+         },
+         {
+          "text": "It will be playing for several more weeks."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "What is most likely true about the show?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "to confirm he can exchange the tickets"
+         },
+         {
+          "text": "to double-check the show's last day"
+         },
+         {
+          "text": "to request the manager speak to the woman"
+         },
+         {
+          "text": "to ask permission to give a refund"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "Why does the man go speak with his manager?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 38.8
+      },
+      "transcript": "Sorry, that took so long. Unfortunately, my manager says we can't offer you a refund, but you can exchange these tickets for another show in our season regardless of the price. Would that be okay? I guess so. What other shows are playing this year? Our next play is Macbeth. Hmm. A tragedy? No, I wouldn't like that. We also have Blythe Spirit, which is a comedy, and Beauty and the Beast, a musical. I love musicals. I'd like to see that one. On which day would you like to see the show? It runs the entire month of February. I'll need a minute. Why don't you help the next person in line?",
+      "questions": [
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "to explain which shows are the best"
+         },
+         {
+          "text": "to tell what is playing in February"
+         },
+         {
+          "text": "to explain which shows are musicals"
+         },
+         {
+          "text": "to tell what is playing that season"
+         }
+        ],
+        "answer": 3,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "Why does the man give the names of several shows?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "to figure out when she'd like to see the show"
+         },
+         {
+          "text": "to figure out which show she'd like to see"
+         },
+         {
+          "text": "to see if she has enough money for the ticket"
+         },
+         {
+          "text": "to assist someone in line behind her"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "Why does the woman need a minute?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 59.2
+      },
+      "transcript": "Hi. I'm back. I'd like tickets for the February 4th performance. Alright. Let me turn my screen around so you can see there. This is our online seating chart. All of the seats in green are currently available. The ones in red are taken. Unfortunately, our balcony will be closed for renovations during February. Let's see. I'd like those two in the fifth row in the middle. No, sorry. I mean at the end. The two at the end. Okay. Done. Now, just a reminder that you aren't allowed to bring cameras into the theater. Food and drink are also prohibited but can be enjoyed outside in the lobby. cell phones are allowed but must be turned off. Anything else I can do for you? Actually, now that I think of it, I'd like to get a third ticket for the same performance. My daughter would love to see it. No problem. That'll be $68 then. Here you go. Thanks. Enjoy the show.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "in the green section"
+         },
+         {
+          "text": "in the balcony section"
+         },
+         {
+          "text": "in the red section"
+         },
+         {
+          "text": "in the middle of a row"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "Where does the woman choose to sit?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "image": "media/listening_p2_1.jpg"
+         },
+         {
+          "image": "media/listening_p2_2.jpg"
+         },
+         {
+          "image": "media/listening_p2_3.jpg"
+         },
+         {
+          "image": "media/listening_p2_4.jpg"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "What can the woman bring into the theater?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "tell her daughter about the show"
+         },
+         {
+          "text": "give the extra ticket to her friend"
+         },
+         {
+          "text": "turn off the sound on her cellphone"
+         },
+         {
+          "text": "purchase a camera for the show"
+         }
+        ],
+        "answer": 0,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "What is the woman likely to do next?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 125.2
+      },
+      "transcript": "Hey, honey. I'm back. The wine was on sale, so I bought two bottles instead of one. How's the pizza coming? I just ruined it. I put the oven temperature way too high by accident. The crust is all black and burnt. It's totally inadable. And Judy and Paul are supposed to arrive any minute now. Don't worry, it's not the end of the world. Do we have anything else to prepare for dinner? Is there any pizza dough left? Maybe we can make the pizza again. I used up all the dough. There's no more tomato sauce or cheese either. All we have is salad and a whole frozen chicken, but that won't fall fast enough. Well, we could always go out for pizza. There's that place a few blocks down the road, golden pizza house. Ugh, not that place. We went there before, remember? The pizza was soggy and the sauce was too salty. Yeah, you're right. It wasn't very good. Well, there aren't that many other restaurants around here except for sushi. But we have chocolate cheesecake for dessert. Cheesecake doesn't go really well with sushi. Hmm. We still have vegetables, right? Yeah, there were plenty of vegetables. Isn't that a bit boring, though? It'll be fine. Judy used to be a vegetarian when I first met her in college. In fact, she taught me how to cook quite a few dishes. All I ever ate was beef pasta and canned soup before we became friends. Anyways, let's see. We can make stuffed zucchini and cream of mushroom soup. That would go nicely with dessert. Really? You're such a good cook now. Well, I bet you wouldn't have burned the pizza, but you're right. Let's make the best of it. Stuffed zucchini sounds yummy, and we still have the salad too. Exactly, and we have two bottles of wine. See, dinner isn't ruined. It's going to be delicious. Let's start on the vegetables before Judy and Paul get here.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "because she dıdn't cook dinner"
+         },
+         {
+          "text": "because she didn't buy the right ingredients"
+         },
+         {
+          "text": "because her guests will no longer come"
+         },
+         {
+          "text": "because dinner didn't turn out as expected"
+         }
+        ],
+        "answer": 3,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "why is the woman troubled?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "Order some food in."
+         },
+         {
+          "text": "Make some sushi."
+         },
+         {
+          "text": "Make another pizza."
+         },
+         {
+          "text": "Have chicken and salad"
+         }
+        ],
+        "answer": 2,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": ""
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "because the food wasn't good"
+         },
+         {
+          "text": "because it's too far away"
+         },
+         {
+          "text": "because they don't deliver"
+         },
+         {
+          "text": "because it's far too late"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "Why do they decide against Golden Pizza House?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "Bake a frozen pizza."
+         },
+         {
+          "text": "Cook a vegetarian meal."
+         },
+         {
+          "text": "Have sushi and cheesecake."
+         },
+         {
+          "text": "Have beef pasta and soup."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "What do the couple decide to do?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "They were cooks at a restaurant."
+         },
+         {
+          "text": "They went to college together."
+         },
+         {
+          "text": "They are co-workers."
+         },
+         {
+          "text": "They are roommates."
+         }
+        ],
+        "answer": 1,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "How did the men meet one of the guests?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 125.6
+      },
+      "transcript": "Hello, Juicy Apple Orchards. This is Michael speaking. I'll me I help you. Hi there. My name is Anna Howard. I've been backpacking in Canada for the past three months, and I really wanted to experience working on an organic farm this summer. I met another traveler who told me about your farm and that you take volunteers, is that right? That's right. We've been offering free accommodation and food in exchange for fruit picking for the last 10 years. It's a great way to have fun, experience what life is like in the Canadian countryside and meet amazing people from around the world. I would love to do that. How many hours a week is it and what are the duties to be done? We ask our volunteers to work four to five hours a day, and we schedule rotating shifts for people. As we're primarily in Orchard, every shift will involve apple picking. The early morning shift workers also feed the chickens. The noon workers also turn the compost, and the evening workers also feed the goats. That sounds really fun. So how do I start? You could start anytime. We've got a few volunteers right now. Still, there are five rooms left in our volunteer guest house. But I have to ask you first, are you over the age of 18 and are you a Canadian resident? I'm 23 and I'm from the States. I'm on a holiday visa. Is that acceptable or do I need a working visa? Great. No, you don't need don't stay longer than four weeks. That works perfectly. As I'm going back home in three weeks anyways. Your farm is in Peachland, right? I'm in Castlegar right now visiting a friend. It's Tuesday today. Would I be able to arrive on Friday? Yes, we're in Peachland. Friday sounds good. We'll prepare a room for you. See you",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "on an organic fruit farm."
+         },
+         {
+          "text": "in a food research centre."
+         },
+         {
+          "text": "in a countryside guest house."
+         },
+         {
+          "text": "in Canadian forest lands."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "Where does the woman want to volunteer?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "three months of fun work"
+         },
+         {
+          "text": "a visa and free accommodation."
+         },
+         {
+          "text": "meals and a place to sleep."
+         },
+         {
+          "text": "an opportunity to develop skills."
+         }
+        ],
+        "answer": 2,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "what does the man offer the woman?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "She is studying organic agriculture."
+         },
+         {
+          "text": "She is travelling and visiting friends."
+         },
+         {
+          "text": "She is studying and doing research."
+         },
+         {
+          "text": "She is finding a place to live."
+         }
+        ],
+        "answer": 1,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "Why is the woman in Canada?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "She will start work in the early morning."
+         },
+         {
+          "text": "She will start work at midday."
+         },
+         {
+          "text": "She will start work at different times."
+         },
+         {
+          "text": "She will start work after feeding the goats."
+         }
+        ],
+        "answer": 2,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "What time will the woman start work each day?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "a big city."
+         },
+         {
+          "text": "the United States."
+         },
+         {
+          "text": "a small town."
+         },
+         {
+          "text": "Castlegar."
+         }
+        ],
+        "answer": 1,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "Where does the woman come from?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "She thinks it will be a fun experience."
+         },
+         {
+          "text": "The work experience will help her career"
+         },
+         {
+          "text": "She wants to be with her friend."
+         },
+         {
+          "text": "She wants to apply for a work visa."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "why does the woman want to volunteer?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "It is about one and a half minutes long.",
+     "Then, five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 254.7
+      },
+      "transcript": "Residents living on the outskirts of Chapel Hill are being asked to put a tight lid on their garbage because of an increase in black bear sightings. Parks and wildlife official Gary Hampton explains that the recent heatwave has dried up several of the black bears natural food sources such as buried bushes and fishing streams, and has forced the bears to seek food near urban areas. Hampton warns residents of Chapel Hill that garbage provides a variety of appetizing foods for a hungry bear, and the best way to avoid problems with bears in the backyard is to keep garbage cans in the garage or in the house until they can be collected by city workers. A local resident Sandra Nelson complains that keeping her garbage in the house is not an acceptable solution. Yet, what smells bad to most people can be very appetizing to a hungry bear. The aroma of garbage can attract bears from far away, so if residents must put their garbage outside, Hampton advises people to purchase the animal-proof garbage cans. These cans have lids that are difficult for animals to remove. Not only do the cans keep the animals away from the garbage, but they also keep the garbage smells from attracting the animals. You You You You You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Black bears are",
+        "options": [
+         {
+          "text": "disrupting traffic in town"
+         },
+         {
+          "text": "threatening people in parks"
+         },
+         {
+          "text": "being seen closer to town"
+         },
+         {
+          "text": "hiding in urban areas"
+         }
+        ],
+        "answer": 2,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The current problem is due to",
+        "options": [
+         {
+          "text": "bears being harassed by people"
+         },
+         {
+          "text": "bears suffering from garbage poisoning"
+         },
+         {
+          "text": "heat and lack of food in bear habitat"
+         },
+         {
+          "text": "city construction in bear habitat"
+         }
+        ],
+        "answer": 2,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "According to the wildlife official, residents should",
+        "options": [
+         {
+          "text": "stay indoors as much as possible."
+         },
+         {
+          "text": "keep their garbage indoors or locked."
+         },
+         {
+          "text": "attract bears away from their homes."
+         },
+         {
+          "text": "call the city to collect their garbage."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "A local resident, Ms. Nelson",
+        "options": [
+         {
+          "text": "is worried about bear attacks."
+         },
+         {
+          "text": "found a novel way to help the bears."
+         },
+         {
+          "text": "is concerned about damages to the city."
+         },
+         {
+          "text": "is annoyed by the smell of garbage."
+         }
+        ],
+        "answer": 3,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "The city is providing residents with",
+        "options": [
+         {
+          "text": "new animal-proof garbage cans"
+         },
+         {
+          "text": "more frequent garbage collection services"
+         },
+         {
+          "text": "individual consultations with wildlife officials"
+         },
+         {
+          "text": "information about how to keep bears away"
+         }
+        ],
+        "answer": 3,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 139.9
+      },
+      "transcript": "You will watch a discussion among three people. There are two women and one man. They are at their office. This is Lynn. This is Ivan. This is Rina. Hello, you must be Ivan. I'm Lynn. Chemistry. Hello, Lynn. Yes, Ivan. Math. And I'm Rina. Biology. Sorry that I'm late. I had a little trouble finding the room. So, we're the new part-time instructors. Congratulations to us. You're here. I think we should all go out and celebrate. Once we get this, I'll figure it out. I can understand why the human resources person wanted us to meet. It's awfully tight in here, isn't it? I don't even think there's room enough for three desks. At least there's a window, though. I don't even think there's enough room for two desks. Let's hope that our schedules work out and one person wants to use the office in the mornings, another in the afternoons and a third in the evenings. This carpet is ancient. I love it. Let's ask for a desk that at least has drawers on both sides. I could use the ones on the left. And Rina could hit the drawers on the right, and I'll take one of the drawers and filing cabinet. That still leaves one drawer for each of us for our files. I think that should be enough. I would imagine most of us use our laptops for our files. Sounds good. Do you think, then, that means we could have three bookcases, one for each of us? Yes. I'd like that. I don't mind sharing a desk or a filing cabinet, but I want my own bookcase. Me too. If we move the filing cabinet over here and the table over there, maybe there's room on that wall for three bookcases. We'll also need a chair for the desk and one for students, for office hours, to go over papers, answer questions, and a whiteboard over there. So much better than a blackboard. I hate getting chalk all over your fingers and then all over your clothes. Well I guess I can get used to a whiteboard. I also think that we should have a bulletin board for above the desk for notices, schedules, meetings, what have you. And we're gonna need some whiteboard markers and thumbtacks. Good idea. I could bring a coffee maker, a tin of biscuits. That table is pretty small but I think it'll do. I hope your coffee maker is not too big. I'd like to bring in a tea kettle and I'm sure we'll all have mugs we want to put there.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "What is most probably true of all three people?",
+        "options": [
+         {
+          "text": "They will be teaching science courses."
+         },
+         {
+          "text": "They will be using the same office chair."
+         },
+         {
+          "text": "They will meet with Human Resources next."
+         },
+         {
+          "text": "They will go out to celebrate afterwards."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Why are they meeting?",
+        "options": [
+         {
+          "text": "to choose who will get which piece of office furniture"
+         },
+         {
+          "text": "to coordinate their schedules so as to share the office"
+         },
+         {
+          "text": "to decide how best to rearrange the office furniture"
+         },
+         {
+          "text": "to determine how to share the available office space"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "What is good about the room?",
+        "options": [
+         {
+          "text": "the carpet colour"
+         },
+         {
+          "text": "the floor layout"
+         },
+         {
+          "text": "the location"
+         },
+         {
+          "text": "the natural light"
+         }
+        ],
+        "answer": 3,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Where will Ivan put his personal belongings?",
+        "options": [
+         {
+          "text": "in the desk drawer"
+         },
+         {
+          "text": "in a filing cabinet"
+         },
+         {
+          "text": "on a bookcase shelf"
+         },
+         {
+          "text": "on the table"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What item would they like to avoid sharing?",
+        "options": [
+         {
+          "text": "the desk"
+         },
+         {
+          "text": "the filing cabinet"
+         },
+         {
+          "text": "the bookcase"
+         },
+         {
+          "text": "the table"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "How does Ivan feel about having a whiteboard?",
+        "options": [
+         {
+          "text": "He has no real desire for a whiteboard"
+         },
+         {
+          "text": "He instead wants only a bulletin board."
+         },
+         {
+          "text": "He'd like to start using a whiteboard."
+         },
+         {
+          "text": "He'd prefer a traditional blackboard."
+         }
+        ],
+        "answer": 0,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What do the women intend to use the small table for?",
+        "options": [
+         {
+          "text": "refreshments"
+         },
+         {
+          "text": "office supplies"
+         },
+         {
+          "text": "books and files"
+         },
+         {
+          "text": "student visits"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What is most likely true of Reena?",
+        "options": [
+         {
+          "text": "She collects antique carpets."
+         },
+         {
+          "text": "She is allergic to chalk dust."
+         },
+         {
+          "text": "She gets lost in large buildings."
+         },
+         {
+          "text": "She prefers tea over coffee."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "You will hear a report once.",
+     "It is about three minutes long.",
+     "Then six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 200.0
+      },
+      "transcript": "Multicultural societies are more prevalent around the globe than ever before. Canada is often credited for instigating this movement back in 1971 when Prime Minister Pierre Pierre Elliott Trudeau declared Canada to be a multicultural nation. Trudeau envisioned a country which recognized and respected the contribution by various ethnic groups to the cultural enrichment of Canada. And he implemented policies to safeguard that contribution. However, the German Chancellor, Angela Merkel, recently declared the policy of multiculturalism a failure. failure. There have been significant demographic changes in many countries over the last decades. Unfortunately, in some nations, this has resulted in intercultural tensions. Thus, other European countries have also condemned multiculturalism as a passing fad that does not actually promote unity in today's diverse societies. Sociologist Arlene Brandon argues argues that these countries cannot condemn a practice that they've never really attempted to properly implement. Brandon's research on the success of multiculturalism has shown a strong correlation between citizenship and multiculturalism. The nations that have most successfully adopted a policy of multiculturalism are those that have allowed immigrants to eventually become citizens, thus creating a strong sense of unity and inclusion. And because of their policies, their demographic changes have generally occurred peacefully and positively. France, Norway, and Germany, on the other hand, have failed to truly adopt multiculturalism, since they treat foreigners as temporary labor and not as future citizens. Brandon says these countries should not blame multiculturalism for their problems, but rather, they're poorly designed policies. However, not everyone agrees that Canada's multiculturalism has been successful. According to controversial author Nora Alqabar, present-day multiculturalism, as practiced in Canada, encourages segregation and hyper-political correctness. Alqabar argues that multiculturalism and diversity are not the same thing. She says that diversity refers to differences in thoughts, opinions, and viewpoints, whereas multiculturalism involves equality and mutual respect among a population's cultural groups. She maintains that multiculturalism should mean engaging with others in a meaningful way about their assumptions and goals. Alcobar says that Canadians today are so worried about offending or saying the wrong thing that they don't engage with other cultures or ask questions they may have, which she finds disrespectful. Alcabar claims that a true multicultural society is built on mutual respect and hopes that the next generations engage with each other more honestly. What do you think, Canada? Is it time to have a frank and honest conversation about multiculturalism in our nation? We'd love to hear from you after this commercial break.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "According to the passage, the movement toward creating multicultural societies",
+        "options": [
+         {
+          "text": "has reached an unprecedented level worldwide."
+         },
+         {
+          "text": "is growing in popularity in Germany and France."
+         },
+         {
+          "text": "has been rather unsuccessful in North America."
+         },
+         {
+          "text": "is a newly adopted trend in Canadian politics."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "German Chancellor Merkel seems to feel that multiculturalism",
+        "options": [
+         {
+          "text": "has led to improved demographics."
+         },
+         {
+          "text": "should be improved upon as a policy."
+         },
+         {
+          "text": "will help grow the European population."
+         },
+         {
+          "text": "has created more problems than benefits."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Sociologist Arlene Brandon believes multiculturalism is failing in nations that",
+        "options": [
+         {
+          "text": "have neglected to implement truly inclusive policies."
+         },
+         {
+          "text": "are experiencing the greatest demographic changes."
+         },
+         {
+          "text": "have opened their doors to new permanent residents."
+         },
+         {
+          "text": "are excessively concerned with political correctness."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The passage implies that in Australia",
+        "options": [
+         {
+          "text": "there have been few demographic changes."
+         },
+         {
+          "text": "immigrants can eventually become citizens."
+         },
+         {
+          "text": "multicultural policies resemble those of France."
+         },
+         {
+          "text": "there is very little need for temporary labour."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Nora Alkabar would likely encourage people to",
+        "options": [
+         {
+          "text": "focus more on political correctness than multiculturalism."
+         },
+         {
+          "text": "ask honest questions of people from different backgrounds."
+         },
+         {
+          "text": "be cautious with words when discussing cultural differences."
+         },
+         {
+          "text": "consider immigrants to Europe as potential future citizens."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "The passage was likely part of a",
+        "options": [
+         {
+          "text": "business person's speech."
+         },
+         {
+          "text": "college professor's lecture."
+         },
+         {
+          "text": "public radio call-in show."
+         },
+         {
+          "text": "documentary-style television show."
+         }
+        ],
+        "answer": 2,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "Dear Mr. Stevens,",
+       "I am writing in response to your article that appeared in the April 22nd edition of the Vancouver Sun. In your article, you suggested that people do not take public transit to get to work because of infrequent service. You used the example of how, recently, you had to wait 25 minutes for a bus to the downtown area. As a transit operator, I can assure you that incidents such as yours are rarely the fault of the bus service. Perhaps the focus of your frustration should be directed to city planning officials and residents' commuting habits.",
+       "Buses depart from their first station at a particular time, and the schedule of stops along the route is approximately calculated to be correct. However, various factors can interfere with the schedule. The bus may be delayed because of exceptionally heavy roadway congestion or accidents.",
+       "I have been working for the Regional Transit System for 10 years. When I first started, there were not enough buses operating to meet commuter needs. However, things have improved greatly in the past few years. They have increased the number of buses and the frequency of service. As well, they have introduced new bus routes from several Vancouver suburbs into the downtown core. During peak hours (Monday to Friday from 7:30 a.m. to 9:30 a.m. and 4:30 p.m. to 7:00 p.m.), we double the number of buses in operation. In fact, in Greater Vancouver, the typical waiting time for a bus commuter during peak hours now averages 4 to 8 minutes, much lower than other cities such as Calgary and Edmonton.",
+       "I assure you that the main problem in public transit today is that we are severely outnumbered by single-passengers' privately-owned vehicles. Despite incentives to encourage public transport, such as affordable prices and free parking lots at the stations, the number of cars on the road suggests the public still finds it more convenient to drive to work. However, if they considered the financial costs of driving, as well as the effect of car exhaust on the environment, they would find that public transit offers a practical and worthwhile alternative, not to mention that it would allow you to arrive to work on time.",
+       "Sincerely,",
+       "Ed Hooper"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu ( ), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Mr. Stevens' opinion was based on",
+        "options": [
+         "expert opinions.",
+         "a personal experience.",
+         "public interviews.",
+         "a city planning study."
+        ],
+        "answer": 1,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Mr. Stevens received this letter because he",
+        "options": [
+         "wrote an article for a local paper.",
+         "works in the city planning department.",
+         "wrote a letter of complaint to Mr. Hooper.",
+         "is one of the city's transit system experts."
+        ],
+        "answer": 0,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Ed Hooper believes late buses are caused by",
+        "options": [
+         "too much traffic.",
+         "mistakes in bus schedules.",
+         "bad route planning.",
+         "poorly trained bus drivers."
+        ],
+        "answer": 0,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "According to Ed, transit services",
+        "options": [
+         "improved only in suburban areas.",
+         "are learning from other cities.",
+         "are less popular than private cars.",
+         "need more routes to the downtown core."
+        ],
+        "answer": 2,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Mr. Hooper thinks public transport is better because",
+        "options": [
+         "it is safer than driving in the winter.",
+         "buses connect the city with the countryside.",
+         "it's more environmentally friendly.",
+         "the number of commuters has increased greatly."
+        ],
+        "answer": 2,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "How does Regional Transit Services try to keep buses on time?",
+        "options": [
+         "reducing the number of bus stops on the route",
+         "making sure buses start the route on time",
+         "reducing the number of cars on the road",
+         "improving the transit service computer systems"
+        ],
+        "answer": 1,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks.",
+      "paragraphs": [
+       "Select the best choice for each blank from the drop-down menu ().",
+       "I completely agree with Mr. Hooper that bus drivers and other transit workers {{7}}. I also agree that bus services {{8}} at least in some places. However, Mr. Hooper needs to appreciate this problem from the passenger's point of view. Although it is true that there are a lot more {{9}} now, there are a lot more people, too. Sometimes I can't even get on because it is full. It's nice to see recent improvements such as {{10}}. However, more needs to be done, as in some areas, service still needs improvement.",
+       "I don't blame the bus drivers, but the Regional Transit System is unreliable. Although I agree with Mr. Hooper that taking a bus may be {{11}} than driving, I think that many people likely prefer comfort. Driving might be the only option."
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "should take charge",
+         "are often unreliable",
+         "show great promise",
+         "aim to be on time"
+        ],
+        "answer": 3,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "have deteriorated",
+         "are inconvenient",
+         "have gotten better",
+         "are too slow"
+        ],
+        "answer": 2,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "roads",
+         "buses",
+         "accidents",
+         "trains"
+        ],
+        "answer": 1,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "bigger buses",
+         "discounted bus tickets",
+         "car pool programs",
+         "expanded services"
+        ],
+        "answer": 3,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "much more interesting",
+         "less time consuming",
+         "far less costly",
+         "much more convenient"
+        ],
+        "answer": 2,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "CHEF LEE'S COOKING CLASSES",
+       "Delights of Morocco Inspired by a recent culinary tour of Morocco, I have put together a cooking class showcasing the highlights of this region. Full meal and recipe booklet included. Classes Available: Sun, Feb 16, 5:00 p.m. - 8:00 p.m. ($60) A Allergy Alert: almonds, cashews (can be left out of individual portions)",
+       "Unlock the flavours of truly authentic Indian Classes Available: Mon, Apr 7, 6:00 p.m. - 9:00 p.m. Tue, Feb 11, 6:00 p.m. - 9:00 p.m. Authentic Indian Cuisine I that make aromatic Indian food. cooking! I will focus on the key techniques ($90) ($90) as we explore some of the highlights of Spanish cuisine. authentic seafood paella, mouthwatering Full meal and recipe booklet included. Spanish Cuisine vegetables, and desserts will be on the menu By popular demand! Delicious Spanish tapas, Mon, Apr 14, 6:00 p.m. - 9:00 p.m. ($75) A Allergy Alert: This meal contains shrimp Classes Available: Mon, Jan 27, 6:00 p.m. - 9:00 p.m. ($90) Authentic Indian Cuisine I, Vegetarian This class is perfect for those who love curry but don't eat meat. Highlights of tonight's all-vegetarian menu include fragrant tomato curry with basmati rice. Full meal included. V Classes Available: Tue, Feb 11, 6:00 p.m. - 9:00 p.m. ($70) Mon, Apr 7, 6:00 p.m. - 9:30 p.m. ($90)",
+       "Location: All classes take place at Gesicki Recreation Centre, 3421 Edmond St., Burnaby, V5H 5V3 Go to my website www.chefleecooking.ca to enter a contest and WIN a meal for two at The Bombay Curry House. You will also find more recipes and cooking tips.",
+       "A Possible risk of allergic reaction from ingredients V Only uses vegetarian ingredients"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu ().",
+      "paragraphs": [
+       "To: <john@worldmail.com>",
+       "From: <gjenson@worldmail.com>",
+       "Subject: Cooking Classes",
+       "Hi Johanna,",
+       "Here's a link to the info on those classes by the chef who's just been to {{1}}. I thought it would be fun if we took a class together. If it doesn't matter to you which one, maybe we should just pick {{2}} because we both love cooking with nuts! Of course, I could take the meat curry class while you take the vegetarian version, although the scheduling of these two classes makes me wonder if Chef Lee is actually {{3}}. In any case, if we went with this plan on February 11th, your class and mine would end {{4}} If we wanted something earlier in the year, though, there's the {{5}} cooking class which starts a week or two earlier than the others.",
+       "Over to you,",
+       "Gina"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "Morocco",
+         "Mexico",
+         "Spain",
+         "India"
+        ],
+        "answer": 0,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "Vegetarian Indian Cuisine",
+         "Authentic Indian Cuisine",
+         "Delights of Morocco",
+         "Spanish Cuisine"
+        ],
+        "answer": 2,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "going to end the class on time",
+         "planning to cancel April 14th",
+         "using quality ingredients",
+         "teaching both of them"
+        ],
+        "answer": 3,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "in a delicious full course meal",
+         "at pretty much the same time",
+         "up costing us the same amount",
+         "within half an hour of each other"
+        ],
+        "answer": 1,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "Moroccan",
+         "Indian",
+         "Spanish",
+         "Vegetarian"
+        ],
+        "answer": 2,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (), choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Gina seeks Johanna's",
+        "options": [
+         "assistance.",
+         "permission.",
+         "advice.",
+         "input."
+        ],
+        "answer": 3,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "The overall goal of the message is to",
+        "options": [
+         "communicate a decision.",
+         "schedule an appointment.",
+         "discuss a possibility.",
+         "express a preference."
+        ],
+        "answer": 2,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Gina appears to be",
+        "options": [
+         "serious.",
+         "demanding.",
+         "interested",
+         "reluctant."
+        ],
+        "answer": 2,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following passage.",
+      "paragraphs": [
+       "A. \"Snowbirds\" are characteristic of, and perhaps even unique to, Canada. The term refers not only to birds who prefer to avoid the frigid weather by migrating south, but to people, most typically retirees, who do the same. Since Canadian citizens are allowed to reside in the United States for a maximum of 182 days during a 12-month period, many take advantage of this every November by heading south until spring. Florida is perhaps the most popular US destination for snowbirds, but others choose to spend the winter months in South Carolina, Georgia, or Arizona.",
+       "B. Though seemingly ideal to most Canadians, the main drawback of this lifestyle is the expense of being a snowbird. First, there is the cost of the trip. Snowbirds who drive to sunny US destinations each year must consider the cost of fuel and, due to the distance involved, typically the cost of at least one night in a hotel. Some snowbirds travel by motorhome to avoid hotels, though what is saved in accommodation costs is often made up for in higher gas spending. Snowbirds who prefer to fly must consider the cost of the plane ticket, as well as the added expense of renting a vehicle for the duration of their stay.",
+       "C. The second and most considerable expense related to going south is the price of owning or renting a second home. Some snowbirds choose to invest in a motorhome. This is a huge strain on the budget initially, but believed by some to be more economical over the long term. However, most snowbirds either rent or own a condo or house in the United States. Many people believe that this expense will be offset by not using their home back in Canada for the winter, but they still have to pay property taxes during their absence. Furthermore, many need to continue paying for gas and other utilities. Further still, although services such as phone, television, and internet can be suspended, there is often a fee involved.",
+       "D. Other expenses, while comparatively nominal, are nonetheless vital. These can include monthly insurance and home-maintenance fees. As Canadian provincial medical coverage does not apply to medical expenses incurred in the United States, snowbirds need to purchase adequate medical coverage on their own. A snowbird's home-maintenance costs usually include paying someone in Canada to shovel their driveway and periodically check on their property (required to keep up home-insurance coverage), forwarding mail, and so on.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "The United States is often chosen by Canadians as a winter travel destination.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The highest cost for snowbirds is paying for a place to live in the United States.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "In general, Canadians start to prepare for a snowbird lifestyle in their 40s.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Canada has a special arrangement with the United States concerning temporary residence.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Housing options in the United States can be called expensive overall.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "When in Canada, most snowbirds reside in houses rather than apartments.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "The Canadian post office charges a fee to forward mail to the United States.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "It is not unusual for retired Canadians to spend the winter in the United States.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "The increasing strata fees may make being a snowbird less appealing nowadays.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following article from a website.",
+      "paragraphs": [
+       "Online social media has become the most popular form of communication amongst students in North America. Students communicate online for as much as 8 hours a day. While the debate continues whether this is a milestone in communication, or a step-back in real human interaction, many are left wondering about the changes in social protocol. Nick Thompson, a science teacher at Grayson Secondary School, recently received \"friend requests\" on his personal Facebook and Twitter pages from several students. Unsure how to proceed, Thompson addressed the issue in a staff meeting and found other teachers to be facing the same dilemma. Consequently, the school's staff are conferring about whether to implement a policy that prohibits educators connecting with their students online.",
+       "Annette Curtis, the school's principal, consulted two experts to facilitate a verdict. Gregory King, educational researcher at Bostwick College, maintains that online relationships with students increase the risk of teacher misconduct. \"The surest way to prevent inappropriate conduct is to forbid casual contact on online platforms,\" King advises. \"Student-teacher relationships after-hours is hardly a requisite for learning, and social media is simply a distraction.\"",
+       "Despite such concerns, other experts contend that such restrictive policies are retrogressive and limit the potential for education outside the classroom. Marissa Lang, professor of instructional technology at Sherman Institute for Technology, argues for the positive contributions that social media can make. \"School is a limited geographic space,\" Lang explains. \"Education, on the other hand, is boundless. Websites generate an important sense of communal learning that continues far beyond classroom walls, allowing students to collaborate with both peers and teachers.\"",
+       "While there is always the risk of misconduct in any school situation, guidelines can prevent such issues. Lang advises that educators use a professional account that is altogether separate from their personal social network. Teachers should get permission from parents to proceed with online communications, and use privacy settings to protect their personal information. \"Using these protocols, along with monitoring what students post, will go a long way to preventing inappropriate behaviour while concurrently utilizing social media to enhance education,\" Lang says. \"We live in an age of technology; why not use it to its best advantage?\""
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Online social media",
+        "options": [
+         "decreased the amount of time students spent studying.",
+         "has diminished social interaction in the student population.",
+         "has become a popular theme in school debate activities.",
+         "has raised questions about acceptable social conduct."
+        ],
+        "answer": 3,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Teachers are",
+        "options": [
+         "concerned about the use of social media in the classrooms.",
+         "worried that social media may cross a professional boundary.",
+         "unwilling to befriend their students in social media.",
+         "confused by the proliferation of complex technological innovations."
+        ],
+        "answer": 1,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "The school's principal",
+        "options": [
+         "has called on specialists to help advise on the teachers' conundrum.",
+         "has prohibited after-school interactions between teachers and students.",
+         "considers online social media to be a distraction that should be avoided.",
+         "will consider student-teacher interactions after-hours as misconduct."
+        ],
+        "answer": 0,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Both experts agree that teachers conduct should be restricted to",
+        "options": [
+         "interactions that have been given formal parental consent.",
+         "distributing and explaining educational material.",
+         "interactions occurring on school premises.",
+         "educational and counselling activities approved by the principal."
+        ],
+        "answer": 1,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Marissa Lang believes social media",
+        "options": [
+         "broadens educational avenues for learning.",
+         "makes students more socially aware.",
+         "encourages students to study more.",
+         "promotes technological education."
+        ],
+        "answer": 0,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "I think it is {{6}} to have teachers connecting with students on social media. Email is about as far as it should go, and no further. Really, {{7}} on social networks is no different to going into the students' living rooms after school. Certainly, I can see {{8}} students online. For example, students could easily get help with assignments and teachers could post additional course material. But maybe the advantages come at an inappropriate price. For example, there are benefits to the teacher going into a student's living room and giving them a free lesson. It doesn't mean that {{9}}. By way of analogy, it would be nice to hang with my psychologist or my doctor online, but psychologists and doctors {{10}} and so should teachers."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "educationally sound",
+         "entirely inappropriate",
+         "an injustice",
+         "certainly ethical"
+        ],
+        "answer": 1,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "teachers issuing online assignments",
+         "collaboration among students",
+         "teachers liaising with students",
+         "a restrictive educational forum"
+        ],
+        "answer": 2,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "benefits from connecting with",
+         "severe risks being created for",
+         "severe risks being created for",
+         "possibilities for corruption of"
+        ],
+        "answer": 0,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "teachers are acting inappropriately",
+         "it's an educational opportunity",
+         "it's a sensible thing to do",
+         "students require additional tuition"
+        ],
+        "answer": 1,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "socialize with their clients",
+         "always charge for services",
+         "fraternize with clients",
+         "set limits to their practice"
+        ],
+        "answer": 3,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "You were searching on the internet for a used car, and found one that looks like it is in good condition. The seller has posted a photo of the car, but has not provided any other details."
+    ],
+    "instruction": "Write an email to the seller in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Tell the seller how you found out about the car.",
+     "Ask about some specific details about the car.",
+     "Explain how much you are willing to pay for the car.",
+     "Request that the seller meet you so that you can test drive the car."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": []
+     },
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "Dear Sir,",
+       "As i was browsing on internet, in a search for a used car in Edmonton city area location i came to know about Honda city in Black, Picture that i have came across as seen on internet, on www.downtown car.com.",
+       "well i found out, that you have posted a Advertisement about your car, which looks similar like Honda city Black, but there was no information given about your car and contact details, as i cannot contact you for further details or any query about the car. which are as follow: car price, car mileage, year, car record and maintenance report and ownership.",
+       "I am really interested in car and curious to know about car details and price that you will be asking for,",
+       "well while looking at your car it looks in pretty good condition, but i would like to know much about car details before paying any price for it.",
+       "Can you please let me know about your time, place, date and your contact details, i really appreciate for your precious time.",
+       "Below is my contact details, i will be waiting for your reply.",
+       "Sincerely,",
+       "John Doe",
+       "123-456-7890",
+       "Johndoe@email.com"
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "Dear Seller,",
+       "I am looking for a new car right now and I found your post about your car on Kijijji.",
+       "I would like to know some things about the car, because I am thinking of buying it from you.",
+       "When was the last oil change? How old is the car? Was it driven a lot?",
+       "How is the timing belt? Are the wheel bearings still good?",
+       "Was the car in an accident before?",
+       "If so, was the damage repaired correctly?",
+       "I would be willing to give you a good price on the car, I was thinking about $ 6.000. If the car is in good condition and does not have to many km on it. Unfortunately I cannot go higher than the price I have suggested.",
+       "Also, I could live with a little bit of rust on the body.",
+       "It would be very good if we could meet up so that I can have a look at the car and test drive it. We could discuss everything else than.",
+       "Sincerely"
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "Good morning",
+       "I saw your car for sale on the internet and I am interested in purchasing it. I see that you have included a photo of the car and I would like more information about it. Could you please tell me more about the car? What is the model and year? What is the mileage? Are there any extras included such as winter tires? Is the car still under the manufacturer's warrantee?",
+       "If it is indeed the car that I am looking for, I would be willing to pay a market related price in cash. Currently that make is selling for about $15000. This clearly depends on the condition of the car.",
+       "If you are interested, I would like to test drive it. Please let me know when and where I can meet you. I am generally free in the afternoons. My contact details are listed below.",
+       "Thank you",
+       "Rowan",
+       "789-123-2222",
+       "me@email.com"
+      ]
+     }
+    ],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "A builder wants to buy a popular park in your city. He wants to build two apartment buildings for seniors on the land. You use the park a lot, and your children like the playground and basketball court. The city is asking residents to respond to an opinion survey."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: I think the builder should buy the park.",
+     "Option B: I think the park should stay as it is."
+    ],
+    "surveyTitle": "Park Sale",
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": []
+     },
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "In my opinion builder should be allowed to purchase the park land to be replaced with building firstly the park is property of local government and builder must be getting it with very low rate then the market,it will be great help for the senior citizen to obtain the apartment in a lower cost secondly they are old and most of them are already retied and may be not having enough savings to pay and and Finally it will make them happy and bring them close to the society because normally houses for senior citizen are far and in lonely places. and addition to this they will also have facility to easy excess to hospitals in an any emergencies, and even day to day activities in the malls since this area is in the center of the city.",
+       "Other then that what community should recommend to the builder some area to be designate for the children to play and also sit and walk ,since it going to be a home for retired people they also will get interacted with children and can meet and walk which certainly help them to improve their health and solve both purposes."
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "To The City of Calgary",
+       "The park should be left for the following reasons-",
+       "These park have served as a place that promotes social networking between families- Families within the community have benefited from the park as l am one of the candidates who met my life partner in this park and currently enjoyed companies and love of other families members in this community",
+       "Secondly the park also has been used for picnics and hosting community events like soccer, basketball, volley ball and other sport events in the summer. The park has served as an excellent place of community event that promotes peace and healthy living amongst members of the community.",
+       "Lastly, our community park has a very good aesthetic nature and serves as an excellent place for inspiration. While"
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "I would like to place on record that I am strongly in favour of keeping the park as it is. The park is one of the few free recreational spaces available for children in our city as so many other areas of open land have had apartments built on them. We complain that our children spend too much time indoors playing on computers whilst we destroy the few places that remain for them to play outdoors and engage in physical activities and sport. The park has a playground and basketball court where children can exercise and socialise safely and close to their home, without having to travel further and cross increasingly busy streets. I prefer to retain open spaces for recreation to encourage health lifestyles in our children.",
+       "If the land is developed for apartments for seniors, the pressure on the infrastructure will increase as these people, understandably, are reliant on cars for getting around. The traffic is already busy and has become problematic throughout the day, which is when seniors will increase traffic, as well as in the rush hour periods. There have also been a number of accidents due to the high volume of traffic."
+      ]
+     }
+    ],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your friend is travelling to a different country for the first time. Give her advice on what she should do before, during, and after her trip."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a time when you accomplished a goal. Maybe you can talk about when you graduated from school, participated in a competition, or got a new job. What did you do, why did you do it, and how did you feel?"
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most probably happen next?"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "You work at a toy store. Your boss wants employees to start wearing uniforms. There are two choices. Using the pictures and information, choose the option that you prefer. In the next part, you will need to persuade your boss that this is the best choice.",
+     "If you do not choose, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "Your boss is suggesting another uniform. Persuade her that the option you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "You recently borrowed your neighbour's barbecue and she needs it back today. You cannot access the barbecue on your balcony because you have lost the key to the balcony door. The only way to get it is to go through the backyard and up the fire escape stairs, but your landlord has a strict rule against doing so."
+    ],
+    "choices": [
+     "Talk to your landlord. Tell him why you have to break the rule.",
+     "Talk to your neighbour. Tell her why you can't return her barbecue today."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "What kind of problems might occur when grandparents, parents, and children all live together? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You work at the Lost and Found desk. A passenger called in asking about a lost blue sweater. You have three similar blue sweaters. Describe the differences in detail and help the passenger identify which one is his."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}

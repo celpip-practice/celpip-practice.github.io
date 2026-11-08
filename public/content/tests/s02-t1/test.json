@@ -1,0 +1,1847 @@
+{
+ "id": "s02-t1",
+ "set": 2,
+ "test": 1,
+ "title": "Practice Test 2-1",
+ "listening": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Listening to Problem Solving",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation in three sections.",
+     "You will hear each section only once.",
+     "After each section, you will hear two or three questions.",
+     "You will hear the questions only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s1.mp3",
+       "duration": 69.4
+      },
+      "transcript": "Hi, Dr. Anderson. This is my cat, Tiger. Tiger, meet Dr. Anderson. Hello, Tiger. Aren't you a lovely cat? I'm really worried about her. She's usually so playful, but this past week all she's been doing is scratching herself. Her claws are sharp and she's hurting herself. Look here. I see what you mean. Is Tiger an indoor or an outdoor cat? Mostly outdoors. I let her stay outside at night. These marks look like flea bites. If Tiger's going outdoors, it's almost certain that she's picked up fleas. I'll give you some medication to kill them. Apply it to her skin right here, once a month for three months. Okay, will the fleas get into my house? Well, fleas only live on animals. After tiger receives the medication, they can't live on her anymore. So they'll die. But you should vacuum and clean every day to get rid of any flea eggs. If need be, I can always give you a product to apply to your rugs and furniture.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "Tiger has been going outside."
+         },
+         {
+          "text": "Tiger's not playful anymore."
+         },
+         {
+          "text": "Tiger has a lot of insect bites."
+         },
+         {
+          "text": "Tiger's claws are too sharp."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-1",
+        "audio": "media/l1_q1.mp3",
+        "stem": "What is the main problem with Tiger?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "Avoid picking Tiger up."
+         },
+         {
+          "text": "Clean Tiger's fur."
+         },
+         {
+          "text": "Give Tiger medication."
+         },
+         {
+          "text": "Keep Tiger indoors."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-2",
+        "audio": "media/l1_q2.mp3",
+        "stem": "What advice did the veterinarian give the man?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s2.mp3",
+       "duration": 55.0
+      },
+      "transcript": "We're back. So I used the medication, but Tiger's still been scratching a lot since her last appointment. At first, she started getting better, but now she's getting worse. Hmm. Oh, yes. I see what you mean. That must hurt. Did you give her the medication once a month for three months? Yes. Well, okay. Maybe I missed the last dose. It just slipped my mind, and I guess I only got around to vacuuming once. You really have to give her three doses of the medication over three months, and you need to vacuum every day. Here are another three doses. You can pay the receptionist. Okay, thanks. I promise I'll be more on top of things this time. Sorry about that. Okay. And think about keeping her inside at night.",
+      "questions": [
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "The vet prescribed the wrong drug."
+         },
+         {
+          "text": "The drug made the problem worse."
+         },
+         {
+          "text": "The cat got only two skin treatments."
+         },
+         {
+          "text": "The man lost the cat's medication."
+         }
+        ],
+        "answer": 2,
+        "id": "L1-3",
+        "audio": "media/l1_q3.mp3",
+        "stem": "Why did the man have to come back?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "He tends to be disorganized"
+         },
+         {
+          "text": "He has other pets at home."
+         },
+         {
+          "text": "He keeps his house clean."
+         },
+         {
+          "text": "He stays out late at night."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-4",
+        "audio": "media/l1_q4.mp3",
+        "stem": "Which statement best describes Tiger's owner?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "He didn't follow the instructions."
+         },
+         {
+          "text": "He forgot to pay for his last visit."
+         },
+         {
+          "text": "Tiger scratched the vet."
+         },
+         {
+          "text": "Tiger got outside at night."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-5",
+        "audio": "media/l1_q5.mp3",
+        "stem": "Why did the owner apologize to the vet?"
+       }
+      ]
+     },
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l1_s3.mp3",
+       "duration": 48.8
+      },
+      "transcript": "How's Tiger today? Still scratching? I see you trimmed her claws. No more fleas, but it's weird. She's gaining a lot of weight even though she's eating more or less the same amount as usual. Hmm, she hasn't been spayed yet, has she? Right. No surgery yet. She's too young to get pregnant. Where do you hear that? Actually, cats can get pregnant even at six months of age. From the way her abdomen feels, I'd say Tiger's going to be a mother soon. You're kidding. That's the last thing I expected. If she's going to keep going outdoors, you really need to get her spade. It's a simple operation. I can do it after she gives birth. In the meantime, you have some things to do.",
+      "questions": [
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "Her skin problem needs follow-up."
+         },
+         {
+          "text": "She needs her claws trimmed."
+         },
+         {
+          "text": "Her eating habits have changed."
+         },
+         {
+          "text": "She seems to be getting heavier."
+         }
+        ],
+        "answer": 3,
+        "id": "L1-6",
+        "audio": "media/l1_q6.mp3",
+        "stem": "Why did the man bring Tiger back?"
+       },
+       {
+        "num": 7,
+        "options": [
+         {
+          "text": "confused"
+         },
+         {
+          "text": "surprise"
+         },
+         {
+          "text": "relief"
+         },
+         {
+          "text": "worry"
+         }
+        ],
+        "answer": 1,
+        "id": "L1-7",
+        "audio": "media/l1_q7.mp3",
+        "stem": "How did the man react to the vet's new information?"
+       },
+       {
+        "num": 8,
+        "options": [
+         {
+          "text": "Find people who want to adopt cats."
+         },
+         {
+          "text": "Keep giving Tiger the flea medication."
+         },
+         {
+          "text": "Locate a vet who can do the surgery."
+         },
+         {
+          "text": "Stop letting Tiger eat too much food."
+         }
+        ],
+        "answer": 0,
+        "id": "L1-8",
+        "audio": "media/l1_q8.mp3",
+        "stem": "What should the man do next?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Listening to a Daily Life Conversation",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by five questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l2_s1.mp3",
+       "duration": 112.5
+      },
+      "transcript": "Julie, is that you? We're going to be late to Susan and Anthony's housewarming party. Yes, it's me. Who else would it be? I was just getting groceries on the way home. You sound upset. Is something wrong? I can't find my favorite gray shirt, the one with the stripes. Did you put it somewhere? It's not in the laundry or the closet. Uh-oh. I think I donated that one to the thrift store last week. You said you didn't wear it anymore. No, that was the solid gray one with the stained collar that I don't wear anymore. The one with the stripes I just bought recently. And it was on sale, too. I'm sorry. We should make an agreement to always check with each other before we give things away or sell them. Remember last fall when you sold my tennis rackets at the garage sale and didn't tell me? Well, you never played tennis. You haven't played tennis since Mary was born. That striped shirt I've been wearing all the time. That's not true. I played tennis at least three times last summer. Thank you very much. I played with your sister when she came to visit from London. You're right. Fighting gets us nowhere. Okay, it's a deal. We'll make an effort to ask each other from now on. I guess I'll just wear a different shirt today. I'll wear my old blue one. That blue one looks great on you anyways. You look so handsome. Well, you have to say that since you gave the other one away. No, it really does bring out the color of your eyes. Anyways, I need to have a shower and get ready. Were we supposed to be there at seven? That doesn't leave me much time. Do you mind unpacking the groceries while I shower? Yes, of course. Here, pass me the bags. You go get ready.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "classmates"
+         },
+         {
+          "text": "husband and wife"
+         },
+         {
+          "text": "brother and sister"
+         },
+         {
+          "text": "friends"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-1",
+        "audio": "media/l2_q1.mp3",
+        "stem": "What is the relationship of the speakers?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "afraid"
+         },
+         {
+          "text": "annoyed"
+         },
+         {
+          "text": "happy"
+         },
+         {
+          "text": "interested"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-2",
+        "audio": "media/l2_q2.mp3",
+        "stem": "How is the man feeling at the start of the conversation?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "visit friends"
+         },
+         {
+          "text": "visit the thrift store"
+         },
+         {
+          "text": "see a movie"
+         },
+         {
+          "text": "eat at a restaurant"
+         }
+        ],
+        "answer": 0,
+        "id": "L2-3",
+        "audio": "media/l2_q3.mp3",
+        "stem": "What are they going to do that evening?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "buying a new shirt"
+         },
+         {
+          "text": "giving away their belongings"
+         },
+         {
+          "text": "visiting the woman's sister in London"
+         },
+         {
+          "text": "what to wear for a party"
+         }
+        ],
+        "answer": 1,
+        "id": "L2-4",
+        "audio": "media/l2_q4.mp3",
+        "stem": "What were the speakers talking about?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "He looks good in it."
+         },
+         {
+          "text": "It was on sale."
+         },
+         {
+          "text": "It's fashionable."
+         },
+         {
+          "text": "It's her favourite colour."
+         }
+        ],
+        "answer": 0,
+        "id": "L2-5",
+        "audio": "media/l2_q5.mp3",
+        "stem": "Why does the woman like the man's shirt?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Listening for Information",
+    "kind": "qa",
+    "intro": [
+     "You will hear a conversation followed by six questions.",
+     "Listen to each question.",
+     "You will hear the question only once.",
+     "Choose the best answer to each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l3_s1.mp3",
+       "duration": 120.5
+      },
+      "transcript": "Oh, hello. I saw a sign on the front door about apartments available in this building. Uh-huh. It's said to speak to the building manager in the administration office. The front door was open, so I thought I'd just come in and ask. Well, you're talking to the right person. Which one are you interested in? I'm not sure which would be better. The sign said apartments one and two are both 850 square feet, but one's a one bedroom and the other's a two bedroom, so I'm a bit confused. Apartment two has two separate bedrooms each with its own door, a sort of closed floor plan if you will. Apartment one is what we call an open floor plan. The living room and one big bedroom were adjoined like they're one big room. That type of layout sounds like a bachelor apartment to me. Yeah, except that the bedroom area is really big and there's sort of an archway between the living room area and the bedroom area. It's easy to separate them with a curtain or room divider. I see. Well, the apartment is just for me. And I like open spaces I can use in a flexible way. However, having a second bedroom might also be useful. useful. And the move-in date would be July 1st with a one-year lease. Yep. Everything's newly renovated. New carpets, new paint, and all the appliances, fridge, stove, washer, dryer are brand new. But it's a walk-up. There's no elevator. Apartment 1 is on the ground floor, and department 2 is on the top floor. I think I'd prefer to be on the ground floor. As long as there aren't any tap dance rehearsals going on right above me. Who's the upstairs tenant? The lady in the apartment above you is retired, really quiet and is hardly ever home. I can show you apartment 1 around 3 p.m. if you like. Can you wait an hour? Sure. I'll go for coffee and come back. See you at 3.",
+      "questions": [
+       {
+        "num": 1,
+        "options": [
+         {
+          "text": "in an apartment"
+         },
+         {
+          "text": "in an office"
+         },
+         {
+          "text": "in a lobby"
+         },
+         {
+          "text": "in a coffee shop"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-1",
+        "audio": "media/l3_q1.mp3",
+        "stem": "Where does the conversation occur?"
+       },
+       {
+        "num": 2,
+        "options": [
+         {
+          "text": "a tenant of an apartment building"
+         },
+         {
+          "text": "a local real estate agent"
+         },
+         {
+          "text": "an apartment building manager"
+         },
+         {
+          "text": "a renovation contractor"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-2",
+        "audio": "media/l3_q2.mp3",
+        "stem": "Who is the woman talking to?"
+       },
+       {
+        "num": 3,
+        "options": [
+         {
+          "text": "renovate it"
+         },
+         {
+          "text": "sell it"
+         },
+         {
+          "text": "lease it"
+         },
+         {
+          "text": "buy it"
+         }
+        ],
+        "answer": 2,
+        "id": "L3-3",
+        "audio": "media/l3_q3.mp3",
+        "stem": "What is the man's plan for the apartment?"
+       },
+       {
+        "num": 4,
+        "options": [
+         {
+          "text": "One is much larger than the other."
+         },
+         {
+          "text": "The space is arranged differently."
+         },
+         {
+          "text": "One is more expensive than the other."
+         },
+         {
+          "text": "The lease is shorter for one apartment."
+         }
+        ],
+        "answer": 1,
+        "id": "L3-4",
+        "audio": "media/l3_q4.mp3",
+        "stem": "What is the difference between the two apartments?"
+       },
+       {
+        "num": 5,
+        "options": [
+         {
+          "text": "She's often away."
+         },
+         {
+          "text": "She's a student."
+         },
+         {
+          "text": "She works nearby."
+         },
+         {
+          "text": "She has a dog."
+         }
+        ],
+        "answer": 0,
+        "id": "L3-5",
+        "audio": "media/l3_q5.mp3",
+        "stem": "What does the man say about the upstairs tenant?"
+       },
+       {
+        "num": 6,
+        "options": [
+         {
+          "text": "layout"
+         },
+         {
+          "text": "elevation"
+         },
+         {
+          "text": "move-in date"
+         },
+         {
+          "text": "square footage"
+         }
+        ],
+        "answer": 1,
+        "id": "L3-6",
+        "audio": "media/l3_q6.mp3",
+        "stem": "On what basis does the woman make her choice?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Listening to a News Item",
+    "kind": "passage",
+    "intro": [
+     "You will hear a news item once.",
+     "months.",
+     "It is about one and a half minutes long.",
+     "Then, five questions will appear.",
+     "Choose the best way to complete each statement from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l4_passage.mp3",
+       "duration": 128.5
+      },
+      "transcript": "A tourist in downtown Vancouver got the last laugh yesterday when pickpockets stole his wallet. Gregory Willis was about to rent bikes to tour Stanley Park with his wife when he noticed his wallet was missing. He recalled he'd been in a jostling crowd earlier that day watching a street magician performance when someone had bumped into him, but he'd taken little notice of the incident. Undaunted, Mr. Willis headed to the nearest police station and said he knew exactly where his wallet was. He'd attached a GPS chip, a small tracking device that uses the global positioning system to pinpoint location on the inside of the wallet. Willis explained he had initially bought the chip to track their dog on their 20-acre ranch in Washington state but had decided to take it on vacation as a precautionary measure against loss or theft. The GPS chip certainly did come in handy as the Willis is in the company of two policemen were able to locate the wallet 30 blocks away where a group of teenagers were loitering at a park. The young thief was more than surprised when the officers showed up to arrest him. You",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Willis",
+        "options": [
+         {
+          "text": "went for a walk near his home."
+         },
+         {
+          "text": "watched a magic show."
+         },
+         {
+          "text": "couldn't find his dog."
+         },
+         {
+          "text": "got lost in an unfamiliar city."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "He remembered that earlier he",
+        "options": [
+         {
+          "text": "was in a crowd."
+         },
+         {
+          "text": "spent all his money."
+         },
+         {
+          "text": "was on a busy street."
+         },
+         {
+          "text": "was biking in the park."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "He used the tracking device to",
+        "options": [
+         {
+          "text": "ensure that he didn't get lost."
+         },
+         {
+          "text": "find out where his wallet was."
+         },
+         {
+          "text": "train his dog to return home."
+         },
+         {
+          "text": "find the nearest police station."
+         }
+        ],
+        "answer": 1,
+        "id": "L4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The police quickly",
+        "options": [
+         {
+          "text": "found the wallet."
+         },
+         {
+          "text": "recorded the details."
+         },
+         {
+          "text": "contacted other stations."
+         },
+         {
+          "text": "used dogs to find the wallet."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Willis was delighted that the",
+        "options": [
+         {
+          "text": "precaution worked so well."
+         },
+         {
+          "text": "police were so efficient."
+         },
+         {
+          "text": "magician helped them."
+         },
+         {
+          "text": "police located the thief."
+         }
+        ],
+        "answer": 0,
+        "id": "L4-5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Listening to a Discussion",
+    "kind": "video",
+    "intro": [
+     "You will watch a two-minute video, then eight questions will appear.",
+     "Choose the best way to answer each question."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "video",
+       "src": "media/l5_video.mp4",
+       "duration": 128.9
+      },
+      "transcript": "So, Jeanette, looks like you bought yourself a nice present. It's a pretty shiny new set of wheels in your parking spot. Is that a custom paint job? Yeah, I love my new car. But I hate what's happening to it in the parking lot. You know that tree that hangs over my parking space? It's dropping this weird, sticky stuff all over the hood of my car. That's an ash tree. I could tell by the shape of the leaves. There's these little bugs called aphids. They suck the nectar from the leaves and produce this sticky stuff. It's called honeydew Those things are so gross It dries and hardens in the Sun and it's almost impossible to get off my car. It's wrecking the paint job I'm gonna ask the maintenance crew if they can just get rid of that tree. Yeah, they would need a permit first though Or else the city can find you up to ten thousand dollars It's actually illegal to remove a tree unless it poses a hazard. It could fall in a house or a power line. The city says, usually just treat it with insecticides. If I were you, I wouldn't want to park where they're spraying chemicals. If it's toxic for the aphids, it's probably toxic for you too, not to mention ladybugs, birds, fish. Maybe we could just find a way to kill the tree. Then at least they could chop it down. Whoa, that's extreme. All they need to do is wash the aphids off the leaves. They just need a hose that shoots a powerful stream of water. The aphids will fall off onto the ground and die. There's no food for them on the lawn. Yeah, but that tree looks a little tall for a garden hose. It's got to be at least 50 feet. And I don't think the maintenance department usually deals with that kind of stuff. They probably want to call in a tree care company. They can decide what to do. Well, I've thought about parking on the street, but I'd have to come in at like 6 a.m. Look, just send an email to Charlie in the maintenance department. He's very accommodating. Maybe he can arrange for an eco-friendly contractor to deal with the aphids. In the meantime, I'm sure he can find you in a different parking space.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "Why does the younger man mention his co-worker's car?",
+        "options": [
+         {
+          "text": "to acknowledge her car has new wheels"
+         },
+         {
+          "text": "to compliment her on her new purchase"
+         },
+         {
+          "text": "to imply she has spent too much money"
+         },
+         {
+          "text": "to tease her about how shiny her car is"
+         }
+        ],
+        "answer": 1,
+        "id": "L5-1"
+       },
+       {
+        "num": 2,
+        "prompt": "What is the woman's main complaint?",
+        "options": [
+         {
+          "text": "She is bothered by toxic chemicals."
+         },
+         {
+          "text": "She isn't able to get her car clean."
+         },
+         {
+          "text": "She hasn't got a parking space."
+         },
+         {
+          "text": "She has to pay a fine to the city."
+         }
+        ],
+        "answer": 1,
+        "id": "L5-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Which statement is true of the younger man?",
+        "options": [
+         {
+          "text": "He gave a co-worker a nice gift."
+         },
+         {
+          "text": "He has an ash tree in his yard."
+         },
+         {
+          "text": "He knows some facts about aphids."
+         },
+         {
+          "text": "He likes eating sweet honeydew."
+         }
+        ],
+        "answer": 2,
+        "id": "L5-3"
+       },
+       {
+        "num": 4,
+        "prompt": "What is there a law against?",
+        "options": [
+         {
+          "text": "cutting down healthy trees"
+         },
+         {
+          "text": "parking overnight on the street"
+         },
+         {
+          "text": "spraying chemicals on plants"
+         },
+         {
+          "text": "wasting tap water on city lawns"
+         }
+        ],
+        "answer": 0,
+        "id": "L5-4"
+       },
+       {
+        "num": 5,
+        "prompt": "What is most likely true of the ash tree?",
+        "options": [
+         {
+          "text": "People don't relax underneath it."
+         },
+         {
+          "text": "It needs more water to survive."
+         },
+         {
+          "text": "The city won't bother to save it."
+         },
+         {
+          "text": "It may fall onto a nearby roof."
+         }
+        ],
+        "answer": 0,
+        "id": "L5-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Why does the man wearing glasses talk about water?",
+        "options": [
+         {
+          "text": "to accept the other woman's idea"
+         },
+         {
+          "text": "to expand on the previous point"
+         },
+         {
+          "text": "to suggest an alternate solution"
+         },
+         {
+          "text": "to warn about a possible danger"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-6"
+       },
+       {
+        "num": 7,
+        "prompt": "What can we tell from the conversation?",
+        "options": [
+         {
+          "text": "The company has a city tree removal permit."
+         },
+         {
+          "text": "The man has insects in his ash tree at home."
+         },
+         {
+          "text": "The company wants to help the environment."
+         },
+         {
+          "text": "The man appreciates attractive automobiles."
+         }
+        ],
+        "answer": 3,
+        "id": "L5-7"
+       },
+       {
+        "num": 8,
+        "prompt": "What is the best subject line for the woman's email?",
+        "options": [
+         {
+          "text": "cutting down a diseased ash tree"
+         },
+         {
+          "text": "seeking advice on car paint job"
+         },
+         {
+          "text": "requesting alternate parking spot"
+         },
+         {
+          "text": "spraying trees near my vehicle"
+         }
+        ],
+        "answer": 2,
+        "id": "L5-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "title": "Listening for Viewpoints",
+    "kind": "passage",
+    "intro": [
+     "points.",
+     "You will hear a report once.",
+     "It is about three minutes long.",
+     "Then six questions will appear.",
+     "Choose the best way to answer each question from the drop-down menu."
+    ],
+    "sections": [
+     {
+      "media": {
+       "type": "audio",
+       "src": "media/l6_passage.mp3",
+       "duration": 179.3
+      },
+      "transcript": "Welcome and thank you for attending this week's lunchtime lecture. I am Professor Menendez and our discussion today will be exploring the use of electronic textbooks within post-secondary institutions. To start, I will present the views of three professors at River Bridge University. Law professor Maria Bloomfield is one of several professors who has decided to completely eliminate print textbooks from her courses, arguing that their exorbitant cost adds an unnecessary financial burden on students who are already under heavy financial strain. While Bloomfield recognizes that certain Certain costs, such as those associated with copyright, are unavoidable, she asserts that there are ways to cut corners. She proposes that professors create their own electronic textbooks, a move which, by avoiding the intermediary of a publishing company, could significantly reduce costs. Currently, she is collaborating with several colleagues in order to create an e-textbook for an introductory course in law, something which she contends will save students thousands thousands of dollars. However, Ellen Bowler, a sociology professor at River Bridge, has stated that she has no intention of tossing her print textbooks any time soon. She argues that although Bloomfield's motives are honorable, requesting professors to produce their own textbooks is unrealistic. Between teaching, research, and administrative obligations, the workload of any university professor is already extremely demanding. To request that professors develop a course textbook in addition to their regular duties is simply not feasible. The development of a textbook, albeit digital, involves extensive research, writing and reviewing, tasks which are time consuming and should result in compensation. However, Bowler does not expect that professors would see any increase in salary if they developed their own textbooks. books. While Bloomfield acknowledges that her proposal would lead to extra work, she asserts that the effort is worth it. In this digital age, the manner in which knowledge is communicated is rapidly changing, and universities, she argues, must keep up. Publishing a print textbook takes a significant amount of time from start to finish, often resulting in in inclusions of out-of-date information. However, with the speed in which information can be updated In an electronic text, professors are better able to provide students with current and accurate information. Although history professor Marty Brown sees the potential of e-textbooks, he disagrees with professors teaching from texts that they have written themselves, arguing that by doing such, there is a risk of students not being exposed to the multitude of perspectives in their field. Furthermore, he insists that many students actually prefer printed textbooks to electronic ones. Accordingly, he suggests that professors assign course readings that are available in both print and electronic form, leaving the choice to the students.",
+      "questions": [
+       {
+        "num": 1,
+        "prompt": "The professor in favour of e-textbooks wants to",
+        "options": [
+         {
+          "text": "relieve some of the financial pressure that students face."
+         },
+         {
+          "text": "cut corners in order to streamline administrative procedures."
+         },
+         {
+          "text": "request compensation for any extra work performed."
+         },
+         {
+          "text": "expose students to a variety of viewpoints."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The professor who is writing an e-textbook",
+        "options": [
+         {
+          "text": "is also writing senior level law course textbooks"
+         },
+         {
+          "text": "is working with several other professors."
+         },
+         {
+          "text": "has written print textbooks in the past."
+         },
+         {
+          "text": "will receive financial compensation for her work."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-2"
+       },
+       {
+        "num": 3,
+        "prompt": "One professor believes that if professors wrote e-textbooks, then",
+        "options": [
+         {
+          "text": "students would appreciate the traditional textbooks more."
+         },
+         {
+          "text": "there would be concern about the additional work."
+         },
+         {
+          "text": "the compensation demanded by professors would be costly."
+         },
+         {
+          "text": "keeping the texts up-to-date would be time consuming."
+         }
+        ],
+        "answer": 1,
+        "id": "L6-3"
+       },
+       {
+        "num": 4,
+        "prompt": "The professor who prefers print textbooks believes that",
+        "options": [
+         {
+          "text": "the role of a professor is quite challenging."
+         },
+         {
+          "text": "publishing companies charge too much for textbooks."
+         },
+         {
+          "text": "discounts should be provided to students in need"
+         },
+         {
+          "text": "a professor's job involves writing textbooks."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-4"
+       },
+       {
+        "num": 5,
+        "prompt": "According to the lecture, publishing companies",
+        "options": [
+         {
+          "text": "are publishing more textbooks in electronic form."
+         },
+         {
+          "text": "provide discounts for bulk purchases of textbooks."
+         },
+         {
+          "text": "ensure up-to-date information by publishing new editions."
+         },
+         {
+          "text": "require a long period of time to publish a print text."
+         }
+        ],
+        "answer": 3,
+        "id": "L6-5"
+       },
+       {
+        "num": 6,
+        "prompt": "According to the history professor, students",
+        "options": [
+         {
+          "text": "may choose either print or electronic textbooks."
+         },
+         {
+          "text": "can download electronic textbook updates in class."
+         },
+         {
+          "text": "should apply for bursaries to cover textbook costs."
+         },
+         {
+          "text": "can choose not to purchase their textbooks."
+         }
+        ],
+        "answer": 0,
+        "id": "L6-6"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "reading": {
+  "parts": [
+   {
+    "n": 1,
+    "title": "Reading Correspondence",
+    "intro": "Read the following message.",
+    "left": [
+     {
+      "type": "text",
+      "intro": "Read the following message.",
+      "paragraphs": [
+       "Dear Mr. Meyer,",
+       "I am writing about the new driving restrictions your government department is suggesting for new drivers in the province. I definitely agree that certain restrictions are necessary to ensure road safety. However, I disagree with one major point.",
+       "Your department is proposing a \"single passenger\" restriction that allows a novice driver to have one passenger, unless the passengers are immediate family members. Your logic is simply that novice drivers are usually teenagers, and a car full of teenagers is distracting to the driver. You state that this rule has done much to reduce the incidence of crashes in other provinces.",
+       "There is simply no conclusive evidence to support this claim. In fact, there's a major reason why the \"one-passenger\" rule might actually lead to more accidents on the road. Take for example a situation that happened last Saturday. My 16-year-old son, John, who recently got his novice driver's license, needed to work on a school project with five of his classmates. They were making a short film for their history class, which required them to drive around the city visiting various museums. John has use of my van, which seats six people. Under the current law, he can drive his friends. He is a safe driver and no accidents happened. Under the proposed restriction, John would be legally allowed to drive only one passenger. His friends, who are also new drivers, would then have to take two other vehicles. Therefore, the \"one-passenger\" rule would actually triple the possibility of a crash by requiring the use of three cars, when only one was needed! Where's the safety in that?",
+       "Because most novice drivers are teenagers, the proposal for the \"one-passenger\" rule will lead to more inexperienced teenage drivers being on the road at one time. Where two or three teenagers are following each other in separate cars, they may act foolishly by driving too fast or passing dangerously. I recognize the good intention behind your proposal, but I wonder if it will actually be effective.",
+       "Sincerely,",
+       "James Brandt"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (* ), choose the best option according to the information given in the message.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "James Brandt is a",
+        "options": [
+         "teenage driver.",
+         "driving instructor.",
+         "new driver's parent.",
+         "novice driver."
+        ],
+        "answer": 2,
+        "id": "R1-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The proposed rule will prohibit new drivers from carrying",
+        "options": [
+         "more than one non-family passenger.",
+         "teenagers as passengers.",
+         "non-family members as passengers.",
+         "other new drivers as passengers."
+        ],
+        "answer": 0,
+        "id": "R1-2"
+       },
+       {
+        "num": 3,
+        "prompt": "According to James, the proposed rule",
+        "options": [
+         "may reduce accidents by new drivers.",
+         "is based on a careful study of the facts.",
+         "is unfair for the parents of new drivers.",
+         "may increase the risk of accidents."
+        ],
+        "answer": 3,
+        "id": "R1-3"
+       },
+       {
+        "num": 4,
+        "prompt": "If the proposed rule becomes law, John",
+        "options": [
+         "can't drive his 5 classmates.",
+         "can drive a van with 5 passengers.",
+         "can drive without his parent's knowledge.",
+         "can't drive his family members."
+        ],
+        "answer": 0,
+        "id": "R1-4"
+       },
+       {
+        "num": 5,
+        "prompt": "John",
+        "options": [
+         "acted irresponsibly with his passengers.",
+         "didn't take any passengers.",
+         "knows his responsibilities as a driver.",
+         "was pressured to drive foolishly and dangerously."
+        ],
+        "answer": 2,
+        "id": "R1-5"
+       },
+       {
+        "num": 6,
+        "prompt": "James Brandt believes the proposed rule",
+        "options": [
+         "might stop new drivers from practicing.",
+         "will put more new drivers on the road.",
+         "may prevent young people from getting around",
+         "will make parents of new drivers more responsible."
+        ],
+        "answer": 1,
+        "id": "R1-6"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "Here is a response to the message. Complete the response by filling in the blanks. Select the best choice for each blank from the drop-down menu (* )",
+      "paragraphs": [
+       "Dear Mr. Brandt,",
+       "On behalt of Gerry Meyer, I would like to thank you for {{7}} You argued that the \"single passenger\" restriction {{8}}",
+       "We understand your concerns. In fact, we initially shared your concerns about this issue. However, research has shown us that our proposed rule will work. We found that the highest risk of accidents occurs when young drivers are driving {{9}} In addition, research shows that parents often discourage their teenagers from driving with their friends, so the proposed rule actually {{10}} majority opinion.",
+       "Clearly, we both {{11}} Respectfully yours,",
+       "Mariel Singh"
+      ],
+      "items": [
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "sharing your opinions.",
+         "supporting our policies.",
+         "explaining the rules to your son.",
+         "suggesting the \"single passenger\" rule."
+        ],
+        "answer": 0,
+        "id": "R1-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "will stop young drivers from helping their families.",
+         "is a very good way to increase road safety.",
+         "may increase the risk of accident and injury.",
+         "will teach young drivers to be more responsible."
+        ],
+        "answer": 2,
+        "id": "R1-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "in separate cars.",
+         "family members.",
+         "their parents.",
+         "several teenagers."
+        ],
+        "answer": 3,
+        "id": "R1-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "disagrees with",
+         "supports",
+         "results from",
+         ": contradicts"
+        ],
+        "answer": 1,
+        "id": "R1-10"
+       },
+       {
+        "num": 11,
+        "prompt": "",
+        "options": [
+         "agree with the new proposal.",
+         "care about the safety of young drivers",
+         "have concerns about the new proposal.",
+         "disagree with Mr. Brandt's ideas."
+        ],
+        "answer": 1,
+        "id": "R1-11"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "title": "Reading to Apply a Diagram",
+    "intro": "Read the following diagram and email message.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "Thurs., July 12 Fri., July 13 Sat., July 14 Sun., July 15",
+       "8:30 Wake Up 8:30 Wake Up 8:30 Wake Up 8:30 Wake Up 9:00 Breakfast 9:00 Breakfast 9:00 Breakfast 9:00 Breakfast",
+       "9:35 - 10:45 9:35 - 10:15 9:35 - 10:45 9:35 - 10:45 English Lesson I English Lesson I English Lesson I English Lesson I",
+       "10:45 - 11:55 10:15 - 11:00 10:45 - 11:55 10:45 - 11:55 English Lesson II English Lesson II English Lesson II English Lesson II 12:00 Lunch 11:00 - 11:45 12:00 Lunch 12:00 Lunch English Lesson III 1:00 - 2:10 1:00 - 2:10 1:00 - 2:10"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_1.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "English Lesson III English Lesson III English Lesson III 2:30 Vancouver 3:00 Rock Climbing 2:30 Museum of Aquarium Marine Anthropology &"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_2.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "Science Centre Botanical Garden at UBZ"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_3.jpg"
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_4.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "7:00 Supper",
+       "4:00 Vancouver Harbour Centre 8:00 Talent Night: A Spoof of Reality 7:00 Supper"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_5.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "Shows"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_6.jpg"
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_7.jpg"
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_8.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "8:00 Pack and get ready for the camping trip"
+      ]
+     },
+     {
+      "type": "image",
+      "src": "media/reading_p5_9.jpg"
+     },
+     {
+      "type": "text",
+      "paragraphs": [
+       "6:30 Supper 7:00 Supper 7:00 Games and Tent 9:00 Return to campus Practice Night residence"
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "cloze",
+      "intro": "Read the following email message about the diagram on the left. Complete the email by filling in the blanks. Select the best choice for each blank from the drop-down menu (\" ).",
+      "paragraphs": [
+       "Subject: English as a Second Language Summer Camp",
+       "To: Ray Carly <r.carly@ubz.ca>",
+       "From: Aries Singler <a.singler@ubz.ca>",
+       "Hi Ray,",
+       "Sarah and I met this morning to finalize the Summer Camp schedule but we need your input before we make it official, and inform the teachers about their {{1}} Last year, a couple of teachers had to rush through the material, do you think that {{2}} would resolve the problem?",
+       "You will see that this year {{3}} dedicated the afternoons for sightseeing instead. How do you feel about that?",
+       "Also, neither of us knows whether we are providing all meals or just breakfast and supper like last year. We only know that the {{4}} are included in the tuition under social activities. Finally, we need to make a final decision about {{5}} the campsite after the ferry ride to Victoria Island. Sarah suggested we charter a bus to pick us up at the ferry station but I thought this year's campsite was only accessible by boat.",
+       "Please let us know,",
+       "Aries"
+      ],
+      "items": [
+       {
+        "num": 1,
+        "prompt": "",
+        "options": [
+         "class times.",
+         "students' names.",
+         "schedule changes.",
+         "work benefits."
+        ],
+        "answer": 0,
+        "id": "R2-1"
+       },
+       {
+        "num": 2,
+        "prompt": "",
+        "options": [
+         "allowing students to get more sleep in the morning",
+         "giving students opportunities to socialize outside campus",
+         "making the material more appealing for teachers",
+         "starting the day at 9 a.m. instead of 9:35 a.m."
+        ],
+        "answer": 3,
+        "id": "R2-2"
+       },
+       {
+        "num": 3,
+        "prompt": "",
+        "options": [
+         "there is only one social activity per day.",
+         "all classes are concentrated before lunch",
+         "there are no social activities in the morning.",
+         "students will not leave the campus everyday."
+        ],
+        "answer": 2,
+        "id": "R2-3"
+       },
+       {
+        "num": 4,
+        "prompt": "",
+        "options": [
+         "outings",
+         "lessons",
+         "books",
+         "accommodation"
+        ],
+        "answer": 0,
+        "id": "R2-4"
+       },
+       {
+        "num": 5,
+        "prompt": "",
+        "options": [
+         "who's chaperoning the students to",
+         "the transportation to and from",
+         "how long we'll be staying at",
+         "the facilities we'll have access to at"
+        ],
+        "answer": 1,
+        "id": "R2-5"
+       }
+      ]
+     },
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (* ), choose the best option.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 6,
+        "prompt": "Aries is emailing Ray",
+        "options": [
+         "to make a complaint.",
+         "to ask for advice.",
+         "to request changes.",
+         "to relieve him of duties."
+        ],
+        "answer": 1,
+        "id": "R2-6"
+       },
+       {
+        "num": 7,
+        "prompt": "Last year's camp",
+        "options": [
+         "did not take students on a camping trip.",
+         "provided students with all meals.",
+         "focused exclusively on academic activities.",
+         "featured social activities in the morning."
+        ],
+        "answer": 3,
+        "id": "R2-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Aries",
+        "options": [
+         "needs Ray to authorize the proposal before presenting it to the teachers.",
+         "created the schedule for this year's camp all by herself.",
+         "will be joining the students on the camping trip.",
+         "hasn't made any changes to the previous schedule."
+        ],
+        "answer": 2,
+        "id": "R2-8"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "title": "Reading for Information",
+    "intro": "Read the following passage.",
+    "left": [
+     {
+      "type": "text",
+      "intro": null,
+      "paragraphs": [
+       "A. Anyone who has ever lived in a city or suburb has likely encountered crows. Over 31 species can be found worldwide, with the exception of South America and Antarctica. Historically, these creatures were synonymous with death and the afterlife in many cultures. Nowadays, most people regard crows as a nuisance since they are loud and messy, especially in large groups. Recent research, however, has revealed that these birds are actually far more remarkable than previously thought. In fact, crow behavior has striking similarities to that of humans.",
+       "B. Like people, crows are highly social creatures. Their lives revolve around the family. Crow families generally consist of two parents and anywhere from two to fifteen offspring, though the average family size is four. Most species of crows do not breed until approximately four years old, and only about half of their offspring survive the first year of life. During the phase prior to reproduction, young crows help their parents rear their siblings. Groups of crows, often referred to as a \"murder,\" also cooperate to guard their territory from predators.",
+       "C. Although classified as songbirds, crows lack melodic voices. Their call is often perceived as a coarse \"caw\" to the human ear. Nonetheless, these creatures have an intricate communication system consisting of over 250 distinct cries that convey a variety of messages such as alarm, feeding, assembly, and fighting. Their language comprises two dialects, one for interacting with neighbouring crows and another quieter dialect reserved for relatives. Crows are also able to imitate the sounds of other species, including some elements of human speech. Because crows in different geographical areas may not use or comprehend the same calls, it makes deciphering the language difficult for researchers.",
+       "D. Scientists have only recently begun studying crows and have been astonished by the extent of their intelligence. One study has revealed that crows can both use and make tools. This is a significant discovery as only two other species of animals can do so - elephants and chimpanzees. In another study, crows discovered and taught others how to get nuts from a vending machine by inserting coins that were scattered on the ground. Crows are also very adaptable creatures that thrive in cities. In Tokyo, where many people hang their laundry outside to dry, crows gather metal hangers to build nests since they are more readily available than the proper size twigs. Scientists now realize that crows have the intellectual capacity to plan, solve problems, and teach new behaviours to others.",
+       "E. Not given in any of the above paragraphs."
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Decide which paragraph, A to D, has the information given in each statement below. Select E if the information is not given in any of the paragraphs.",
+      "style": "paragraph",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Crows have demonstrated construction skills that are rare among animals.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-1"
+       },
+       {
+        "num": 2,
+        "prompt": "The life expectancy of crows is approximately 15 years.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Crows can copy the tones made by other beings.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Crows manage particularly well in urban environments.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Crows have demonstrated the ability to creatively overcome challenges.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 3,
+        "id": "R3-5"
+       },
+       {
+        "num": 6,
+        "prompt": "Young crows assist in raising the offspring of neighbours.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 4,
+        "id": "R3-6"
+       },
+       {
+        "num": 7,
+        "prompt": "At least one variety of crows exists in most continents.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 0,
+        "id": "R3-7"
+       },
+       {
+        "num": 8,
+        "prompt": "Different voices are used by crows for different social connections.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 2,
+        "id": "R3-8"
+       },
+       {
+        "num": 9,
+        "prompt": "Crows work collaboratively to protect each other from threats.",
+        "options": [
+         "A",
+         "B",
+         "C",
+         "D",
+         "E"
+        ],
+        "answer": 1,
+        "id": "R3-9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Reading for Viewpoints",
+    "intro": "Read the following article.",
+    "left": [
+     {
+      "type": "text",
+      "paragraphs": [
+       "BC's Annual School Report released today has officials, teachers, parents, and students lined up on both sides of the debate over province-wide standardized testing of grade 4 and 7 students. No one was surprised to hear students slander the five-hour battery of reading, writing, and math exams, but most interviewed parents supported the yearly assessment, whose results are used to publicly rank schools based on students' overall scores. Sophie Bloom, mother of a Whitesands Elementary School kindergartener, applauds the testand heeds the rankings. \"As a taxpayer and parent, I expect access to this kind of information. I want my child at the top school. Whitesands doesn't measure up. I'm considering Oceanview.\"",
+       "Oceanview School principal Christine Shelley admits she has mixed feelings about compelling teachers to administer the provincially mandated tests but agrees parents have every right to expect statistics on school outcomes, provided they don't use them to unfairly compare public and private schools. \"Standardized tests hold teachers and schools appropriately answerable to their stakeholders. Without statistics on learning outcomes, how could we ensure schools are doing what they're publicly funded and mandated to do?\"",
+       "Adam Birch, who teaches Grade Four at Forestgrove Elementary, is skeptical of the assessments but grudgingly complies. \"Standardized testing reinforces the social myth that if we're not competing, we're unproductive,\" says Birch. \"It overlooks many forms of intelligence and mostly rewards test-taking ability. Many gifted students fail these tests. And the tests are like a snapshot; they tell us nothing about a student's improvement.\"",
+       "At Valleyside Middle School, grade seven teacher Gilles Legault is on the brink of mutiny. \"Every classroom hour I spend on 'test prep' is one hour stolen from an actually beneficial learning activity.\" Legault, whose school outperformed both Oceanview and Forestgrove, concedes the tests provide relevant comparative data but thinks such comparisons merely confirm what we already know: schools in affluent neighborhoods do better. \"For this common knowledge,\" Legault says, \"standardized testing squanders 15 million dollars of provincial funds annually. Instead, why not hire more teachers, reduce class sizes, improve services?\""
+      ]
+     }
+    ],
+    "right": [
+     {
+      "type": "questions",
+      "intro": "Using the drop-down menu (* ), choose the best option according to the information given on the website.",
+      "style": "dropdown",
+      "items": [
+       {
+        "num": 1,
+        "prompt": "Birch says that standardized testing",
+        "options": [
+         "makes schools less productive.",
+         "doesn't measure student progress.",
+         "undermines healthy competition.",
+         "overlooks genuine intelligence."
+        ],
+        "answer": 1,
+        "id": "R4-1"
+       },
+       {
+        "num": 2,
+        "prompt": "Bloom would be most satisfied with",
+        "options": [
+         "Forestgrove.",
+         "Oceanview.",
+         "Valleyside.",
+         "Whitesands."
+        ],
+        "answer": 2,
+        "id": "R4-2"
+       },
+       {
+        "num": 3,
+        "prompt": "Legault and Shelley agree standardized testing offers an opportunity to",
+        "options": [
+         "gather statistical data.",
+         "improve study skills.",
+         "negotiate class sizes.",
+         "clarify school mandates."
+        ],
+        "answer": 0,
+        "id": "R4-3"
+       },
+       {
+        "num": 4,
+        "prompt": "Both teachers would be happier if the scope of standardized testing was",
+        "options": [
+         "much broader.",
+         "more limited.",
+         "applied to public schools only.",
+         "used to intensify competition."
+        ],
+        "answer": 1,
+        "id": "R4-4"
+       },
+       {
+        "num": 5,
+        "prompt": "Overall, the article implies that standardized testing is",
+        "options": [
+         "outdated.",
+         "jeopardized.",
+         "invaluable.",
+         "divisive."
+        ],
+        "answer": 3,
+        "id": "R4-5"
+       }
+      ]
+     },
+     {
+      "type": "cloze",
+      "intro": "The following is a comment by a visitor to the website page. Complete the comment by choosing the best option to fill in each blank.",
+      "paragraphs": [
+       "While I have genuine sympathy for the teachers' opinions, I hope none chooses to {{6}} their boss's orders anytime soon. School teachers may be right in saying that standardized testing is {{7}} but as long as they are collecting salaries, they need to follow the procedures set out in their job descriptions. After all, as was implied in the article, school teachers are civil servants answerable to {{8}} stakeholders. The issue of whether or not these stakeholders' agendas have children's best interests at heart was {{9}} in Legault's comments. But that's a separate issue. The way to stop standardized testing in schools, if that's what is wanted, is to remove from power the {{10}} that mandate them."
+      ],
+      "items": [
+       {
+        "num": 6,
+        "prompt": "",
+        "options": [
+         "defy",
+         "accept",
+         "mock",
+         "forget"
+        ],
+        "answer": 0,
+        "id": "R4-6"
+       },
+       {
+        "num": 7,
+        "prompt": "",
+        "options": [
+         "outdated and inefficient,",
+         "gaining in popularity,",
+         "of limited value,",
+         "targeting private schools,"
+        ],
+        "answer": 2,
+        "id": "R4-7"
+       },
+       {
+        "num": 8,
+        "prompt": "",
+        "options": [
+         "public",
+         "provincial",
+         "powerful",
+         "community"
+        ],
+        "answer": 0,
+        "id": "R4-8"
+       },
+       {
+        "num": 9,
+        "prompt": "",
+        "options": [
+         "glossed over",
+         "touched on",
+         "brushed off",
+         "pointed out"
+        ],
+        "answer": 1,
+        "id": "R4-9"
+       },
+       {
+        "num": 10,
+        "prompt": "",
+        "options": [
+         "provincial governments",
+         "boards of education",
+         "parent committees",
+         "school principals"
+        ],
+        "answer": 0,
+        "id": "R4-10"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "n": 1,
+    "title": "Writing an Email",
+    "scenario": [
+     "You live in a house near a park. Recently, a lot of teenagers have been meeting in the park at night. They are very noisy."
+    ],
+    "instruction": "Write an email to the local government in about 150-200 words. Your email should do the following things:",
+    "bullets": [
+     "Provide information about where you live.",
+     "Explain the problem and how it affects your life.",
+     "Suggest a way to solve the problem."
+    ],
+    "options": [],
+    "surveyTitle": null,
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "Dear Sir/madam,",
+       "I am Simon Fielding, living at 17A North Railroad St. Red River, Ab, Z1S 1G9. And its near to the park.Have a pleasant day. Last night around 11pm in a park near to our house, theres a lot of teenagers having their meeting. Their talking to loud and loughing and some of them throwing their things to their friends.",
+       "They give us problem at night especially right now we have a new born baby and my wife still in ways of sore. Our baby is just only 2 weeks old and she woke up when she hears some noises and when our baby crying because of them our neighbor wake too. So we dont want to happen that situation. And of I have work early morning..",
+       "I would rather suggest that come in our place at the night time around 11pm. The time they alll there while having noisy then they dont have excuse that they didnt do that. And please talk to them that they gave us some problems.Thank You and Godbless.",
+       "Sincerely Yours,",
+       "Simon Fielding"
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "To whom it may concern at the government department,",
+       "This letter is regarding to the noise issue that I have been experiencing lately.",
+       "I am living at an apartment building next to MacDonald Park in Kingston Ontario. Since April, a lot of teenagers have been meeting in MacDonald Park every night to skateboard. They usually turn up the music and I can hear it at my apartment at level twelve. Occasionally, I hear fireworks too. The noise they produced has been seriously affecting the quality of my sleep. I have not been able to get a good sleep for a month and I had to take sleeping pills. The lack of sleep not only negatively affects my work performance during the day, but also my health and stress level.",
+       "I strongly recommend the local government to consider restricting the opening hours of MacDonald Park. The park should be closed by nine at night. This will provide the neighbourhood better living environment and avoid unnecessary noise complaints.",
+       "Thank you.",
+       "Best regards,",
+       "Ben J. Fontaine"
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "To whom it may concern,",
+       "I would like to register a complaint. I currently live in Whistler, a small 3 bedroom house overlooking the village green. We moved here in the fall of 2013 however since then some of the local kids have started meeting up in the park at night and causing a lot of noise.",
+       "While I feel this would be fine in the early evening, it becomes a problem when it carries on until midnight. Sometimes even later than that!",
+       "My job requires me to work early mornings, I need to be alert and friendly throughout the day. Being woken up several times throughout the night is definitely having a negative impact on my work performance. While I have tried to ask them to keep the noise down on numerous occasions it has been to no avail. I feel I have no recourse but to contact you now in the hopes that you could enforce some form of curfew on the park. I would suggest no loud noises after maybe 9pm or 10pm. The local residents and myself would much appreciate your consideration on this matter.",
+       "Regards Gwen T. Alderidge"
+      ]
+     }
+    ],
+    "minutes": 27
+   },
+   {
+    "n": 2,
+    "title": "Responding to Survey Questions",
+    "scenario": [
+     "Your children's grade 5 class teacher likes to take the children on field trips to museums or parks. Sometimes the teacher takes the children on public buses. Some parents are unhappy. They say the school should always use school buses even though it is more expensive. You have been asked to respond to an opinion survey."
+    ],
+    "instruction": "Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.",
+    "bullets": [],
+    "options": [
+     "Option A: Public Transit: I think it's okay for children to travel on public transit.",
+     "Option B: School Buses: I would prefer children only travel on school buses."
+    ],
+    "surveyTitle": "Field Trip Transportation",
+    "samples": [
+     {
+      "level": "4-5",
+      "paragraphs": [
+       "My opinion is the children should not be use the public transportation.",
+       "I agree with the field trip and the museums, parks plans because the children need to learn something new things out of the school.",
+       "I hope the parents will be choose the school buses option, because our kids have to be safety.",
+       "The public transportation not really safety for the classes or groups.",
+       "Every kid is different, for example my son many time loose him staff, so if they use the public buses we cannot found. If we will use the school bus all the kids staff can leave it on the bus, and after the trip every parents can helping out packing the kids staff, and nothing loose. Secondly the children are interested for everything, and I worry about. My kid start talking with other people from the public bus...l think, my son not really know who is the bad or good person.",
+       "Hopefully the parents understand this and we will choose the school buses options"
+      ]
+     },
+     {
+      "level": "7-8",
+      "paragraphs": [
+       "It has come to my notice that some parents whom their kids attend schools where public transportation has been used in conveying their kids for field trips to different parks and museums across the city have echoed their displeasure on such practices.",
+       "In my own opinion, i strongly support the use of school buses for such trips as it puts the safety of those kids in the hands of the school authorities. Looking at the issue from my own point of view, assuming an accident occurs during one of such road trips, the school management will blame the driver of the public transit or the company that provided the bus for neglect, without taking any of the blame.",
+       "By using the school bus in lifting those kids, the safety and the drivers skill will never be questioned. It will be the duty for the schools management in ensuring that their drivers are well trained to handle any situation that might cause road accident during any road trip. This will also save money for the school by using their own transportation. At the long run, the school will benefit from such policy."
+      ]
+     },
+     {
+      "level": "10-12",
+      "paragraphs": [
+       "I personally think that it is alright for children to travel on the public transit, since there are always teachers who accompany them for field trips. They will hence be monitored at all times. I think that an education system is not there only for the academic development of a child. An education system is meant to be a complete education package that helps in getting a child ready to step in the world after the school years are done. I believe that when taking the children out for a field trip by taking the public transit, the teachers also get a chance to teach them what to be careful about, for example, they will be taught not to accept gifts from strangers, or not to follow a stranger. These are important life lessons that a child should be taught.",
+       "Unfortunately, I think that if the children always travel on school buses, they will be over-protected. In the long run, it only makes life harder for themselves when it's time for them to step in the real world, after school days."
+      ]
+     }
+    ],
+    "minutes": 26
+   }
+  ]
+ },
+ "speaking": {
+  "tasks": [
+   {
+    "n": 0,
+    "title": "Practice Task",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about one of your best friends."
+    ],
+    "images": []
+   },
+   {
+    "n": 1,
+    "title": "Giving Advice",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Your friend is moving away from home. He is interested in learning to cook. Advise your friend on how to prepare a simple meal."
+    ],
+    "images": []
+   },
+   {
+    "n": 2,
+    "title": "Talking about a Personal Experience",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Talk about a child that you have been close to. Maybe you can talk about your own child, a friend's child, a nephew or niece, or any other child that you have known well."
+    ],
+    "images": []
+   },
+   {
+    "n": 3,
+    "title": "Describing a Scene",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture."
+    ],
+    "images": [
+     "media/speaking_p1_1.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "title": "Making Predictions",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "In this picture, what do you think will most likely happen next?"
+    ],
+    "images": [
+     "media/speaking_p2_1.jpg"
+    ]
+   },
+   {
+    "n": 5,
+    "title": "Comparing and Persuading",
+    "prep": 60,
+    "speak": 60,
+    "selectPrompt": [
+     "Your boss has asked you to buy new cellphones for some staff in your company. You found two suitable options. Using the pictures and information below, choose the option that you prefer. In the next section, you will need to persuade your boss that your choice is the better choice.",
+     "If you do not choose an option, the computer will choose one for you. You do not need to speak for this part."
+    ],
+    "options": [
+     "media/speaking_t5_1a.jpg",
+     "media/speaking_t5_1b.jpg"
+    ],
+    "prompt": [
+     "Your boss is suggesting another cellphone. Persuade your boss that what you chose is more suitable by comparing the two."
+    ],
+    "otherOption": "media/speaking_t5_2a.jpg",
+    "choose": 60
+   },
+   {
+    "n": 6,
+    "title": "Dealing with a Difficult Situation",
+    "prep": 60,
+    "speak": 60,
+    "prompt": [
+     "Your co-worker, John, has invited you to his birthday party. You agreed to go to his party weeks ago. However, you just found out that your cousin, Lily, is graduating university the same day and your family is having a graduation party for her."
+    ],
+    "choices": [
+     "Talk to John. Explain why you cannot go to his birthday party.",
+     "Talk to Lily. Explain why you cannot go to her graduation party."
+    ],
+    "images": []
+   },
+   {
+    "n": 7,
+    "title": "Expressing Opinions",
+    "prep": 30,
+    "speak": 90,
+    "prompt": [
+     "Do you think people should be forced to retire (leave work) at age 65? Explain your reasons."
+    ],
+    "images": []
+   },
+   {
+    "n": 8,
+    "title": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "prompt": [
+     "You recently bought a cup, but a problem occurred the first time you used it. Phone the store from which you bought the cup. Provide a full and clear description of the cup you bought and explain the problem to the store assistant."
+    ],
+    "images": [
+     "media/speaking_p4_1.jpg"
+    ]
+   }
+  ]
+ },
+ "warnings": []
+}
