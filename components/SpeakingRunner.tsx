@@ -2,6 +2,7 @@
 import { useEffect, useRef, useState } from "react";
 import ExamFrame, { Info } from "./ExamFrame";
 import { mediaUrl } from "@/lib/content";
+import { useT } from "@/lib/i18n";
 import { recordingKey, saveRecording } from "@/lib/recordings";
 import { useCountdown } from "@/lib/useCountdown";
 import type { STask, Test } from "@/lib/types";
@@ -48,6 +49,7 @@ export function TimerBox({ label, seconds, total, recording }: { label: string; 
 }
 
 export default function SpeakingRunner({ test, tasks, mode, attemptId, onFinish }: Props) {
+  const t = useT();
   const [idx, setIdx] = useState(0);
   const task = tasks[idx];
   const [phase, setPhase] = useState<Phase>(task?.n === 5 ? "choose" : "prep");
@@ -84,7 +86,7 @@ export default function SpeakingRunner({ test, tasks, mode, attemptId, onFinish 
           setMicError(String(e?.message ?? e));
           return null;
         });
-    } else setMicError("此浏览器不支持录音（需要 localhost 或 https）");
+    } else setMicError(t("runner.micUnsupported"));
     return () => {
       alive = false;
       recorder.current?.state === "recording" && recorder.current.stop();
@@ -97,13 +99,13 @@ export default function SpeakingRunner({ test, tasks, mode, attemptId, onFinish 
   const startRecording = () => {
     beep();
     const n = task.n;
-    const t = (take.current = { stopped: false });
+    const current = (take.current = { stopped: false });
     saves.current.push(
       // the microphone may still be opening when the first task's recording starts
       mic.current.then(
         (s) =>
           new Promise<void>((resolve) => {
-            if (!s || t.stopped || typeof MediaRecorder === "undefined") return resolve();
+            if (!s || current.stopped || typeof MediaRecorder === "undefined") return resolve();
             const chunks: Blob[] = [];
             const rec = new MediaRecorder(s);
             rec.ondataavailable = (e) => e.data.size && chunks.push(e.data);
@@ -237,16 +239,16 @@ export default function SpeakingRunner({ test, tasks, mode, attemptId, onFinish 
       {body}
       {micError && (
         <p className="warn-box" style={{ marginTop: 16 }}>
-          麦克风不可用：{micError}。计时照常进行，但不会保存录音。
+          {t("runner.micError", { error: micError })}
         </p>
       )}
       {!exam && lastUrl && phase === "prep" && (
         <div style={{ marginTop: 16 }}>
-          <span className="muted">上一题录音：</span>
+          <span className="muted">{t("runner.lastRecording")}</span>
           <audio src={lastUrl} controls style={{ verticalAlign: "middle" }} />
         </div>
       )}
-      {phase === "record" && <p className="note">Start speaking now. 正在录音…</p>}
+      {phase === "record" && <p className="note">Start speaking now. {t("runner.recording")}</p>}
     </ExamFrame>
   );
 }

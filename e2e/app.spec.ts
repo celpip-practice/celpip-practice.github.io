@@ -116,6 +116,18 @@ test("practice: speaking task 3 shows the picture, records and plays back", asyn
   await expect(page.getByTestId("practice-results").locator("audio")).toHaveCount(1);
 });
 
+test("language toggle switches the site chrome and is remembered", async ({ page }) => {
+  await page.goto("/");
+  await expect(page.locator(".site-header nav")).toContainText("模拟考试");
+  await page.getByTestId("lang-toggle").click();
+  await expect(page.locator(".site-header nav")).toContainText("Mock Exam");
+  await expect(page.getByTestId(`test-${firstId}`)).toContainText("Set 1 · Test 1");
+  await page.goto("/practice/");
+  await expect(page.getByTestId("tab-listening")).toContainText("Listening");
+  await page.getByTestId("lang-toggle").click();
+  await expect(page.getByTestId("tab-listening")).toContainText("听力");
+});
+
 test("history keeps finished attempts", async ({ page }) => {
   await page.goto(`/practice/run/?test=${firstId}&skill=reading&part=3`);
   await answerReadingPart(page, 3);

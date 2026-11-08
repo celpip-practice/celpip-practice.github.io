@@ -1,12 +1,5 @@
 export type Skill = "listening" | "reading" | "writing" | "speaking";
 export const SKILLS: Skill[] = ["listening", "reading", "writing", "speaking"];
-export const SKILL_LABEL: Record<Skill, string> = {
-  listening: "听力 Listening",
-  reading: "阅读 Reading",
-  writing: "写作 Writing",
-  speaking: "口语 Speaking",
-};
-
 export interface Media {
   type: "audio" | "video";
   src: string;

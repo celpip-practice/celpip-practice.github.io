@@ -1,6 +1,7 @@
 "use client";
 import { useRef, useState } from "react";
 import ExamFrame, { Info, TimeRemaining } from "./ExamFrame";
+import { useT } from "@/lib/i18n";
 import { countWords } from "@/lib/scoring";
 import { useCountdown } from "@/lib/useCountdown";
 import type { Test, WSample, WTask } from "@/lib/types";
@@ -13,9 +14,10 @@ interface Props {
 }
 
 export function Samples({ samples, words = true }: { samples: WSample[]; words?: boolean }) {
+  const t = useT();
   const [level, setLevel] = useState(samples[0]?.level);
   const s = samples.find((x) => x.level === level);
-  if (!samples.length) return <p className="muted">本题没有提供范文。</p>;
+  if (!samples.length) return <p className="muted">{t("result.noSamples")}</p>;
   return (
     <div data-testid="samples">
       <div className="level-tabs">
@@ -52,6 +54,7 @@ export function TaskPrompt({ task }: { task: WTask }) {
 }
 
 export default function WritingRunner({ test, tasks, mode, onFinish }: Props) {
+  const t = useT();
   const [idx, setIdx] = useState(0);
   const [texts, setTexts] = useState<Record<number, string>>({});
   const [showSamples, setShowSamples] = useState(false);
@@ -129,7 +132,7 @@ export default function WritingRunner({ test, tasks, mode, onFinish }: Props) {
               data-testid="writing-area"
             />
             {words > 0 && (words < 150 || words > 200) && (
-              <span className="note">建议字数 150-200 words（当前 {words}）</span>
+              <span className="note">{t("runner.wordHint", { n: words })}</span>
             )}
           </div>
         )}

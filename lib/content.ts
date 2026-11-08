@@ -38,7 +38,3 @@ export function listeningQuestions(part: LPart) {
 export function readingQuestions(part: RPart) {
   return part.right.flatMap((b) => ("items" in b ? b.items : []));
 }
-
-export function displayTitle(t: { set: number; test: number; label?: string }) {
-  return t.label ?? `真题 ${t.set} · Test ${t.test}`;
-}

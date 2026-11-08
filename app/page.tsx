@@ -1,40 +1,96 @@
 "use client";
 import Link from "next/link";
+import { Arrow, SkillIcon, Target, Timer } from "@/components/Icons";
 import { useIndex } from "@/components/useTests";
-import { displayTitle } from "@/lib/content";
+import { skillName, testTitle, useT } from "@/lib/i18n";
+import { SKILLS, type TestSummary } from "@/lib/types";
+
+const QUESTIONS_PER_SKILL = 38;
+
+function groupBySet(tests: TestSummary[]) {
+  const groups = new Map<number, TestSummary[]>();
+  for (const t of tests) groups.set(t.set, [...(groups.get(t.set) ?? []), t]);
+  return [...groups.entries()];
+}
 
 export default function Home() {
   const { tests, error } = useIndex();
+  const t = useT();
+  const questions = (tests ?? []).reduce(
+    (n, x) => n + (x.skills.includes("listening") ? QUESTIONS_PER_SKILL : 0) + (x.skills.includes("reading") ? QUESTIONS_PER_SKILL : 0), 0);
   return (
-    <main className="page">
-      <h1>CELPIP Open Practice</h1>
-      <p className="lead">官方真题 · 还原真实考试界面的在线模考 + 听说读写分项练习（本地版）</p>
-      <div className="grid two">
-        <Link href="/exam/" className="card mode-card" data-testid="mode-exam">
-          <h2>📝 模拟考试</h2>
-          <p>完全按真实考试流程：听力 → 阅读 → 写作 → 口语。限时、录音只播放一次、不能返回，结束后出成绩和逐题解析。</p>
-        </Link>
-        <Link href="/practice/" className="card mode-card" data-testid="mode-practice">
-          <h2>🎯 分项练习</h2>
-          <p>按听、说、读、写分开，逐个 Part 练习。可以重听、显示播放条、随时看答案和听力原文、写作范文。</p>
-        </Link>
-      </div>
-
-      <h2 style={{ marginTop: 32 }}>题库</h2>
-      {error && <p className="warn-box">无法加载题库：{error}。请先运行 <code>npm run content:build</code>。</p>}
-      {!tests && !error && <p className="muted">加载中…</p>}
-      <div className="grid tests">
-        {tests?.map((t) => (
-          <div className="card" key={t.id} data-testid={`test-${t.id}`}>
-            <b>{displayTitle(t)}</b>
-            <div className="muted" style={{ fontSize: 13, margin: "4px 0 10px" }}>{t.title}</div>
-            <div className="row">
-              <Link className="btn primary small" href={`/exam/?test=${t.id}`}>模考</Link>
-              <Link className="btn small" href={`/practice/?test=${t.id}`}>分项练习</Link>
-              {t.warnings > 0 && <span className="pill warn">{t.warnings} 条提示</span>}
-            </div>
+    <main>
+      <section className="hero">
+        <div className="hero-inner">
+          <span className="badge">{t("home.badge")}</span>
+          <h1>{t("home.title")}</h1>
+          <p>{t("home.lead")}</p>
+          <div className="row hero-cta">
+            <Link href="/exam/" className="btn primary lg">{t("home.startExam")} <Arrow size={18} /></Link>
+            <Link href="/practice/" className="btn ghost lg">{t("home.startPractice")}</Link>
           </div>
-        ))}
+          <div className="stats">
+            <div><b>{tests?.length ?? "–"}</b><span>{t("home.statTests")}</span></div>
+            <div><b>{tests ? questions.toLocaleString() : "–"}</b><span>{t("home.statQuestions")}</span></div>
+            <div><b>4</b><span>{t("home.statSkills")}</span></div>
+          </div>
+        </div>
+      </section>
+
+      <div className="page">
+        <div className="grid two modes">
+          <Link href="/exam/" className="card mode-card" data-testid="mode-exam">
+            <span className="icon-tile blue"><Timer size={22} /></span>
+            <div>
+              <h2>{t("home.examTitle")}</h2>
+              <p>{t("home.examDesc")}</p>
+            </div>
+            <Arrow size={18} className="go" />
+          </Link>
+          <Link href="/practice/" className="card mode-card" data-testid="mode-practice">
+            <span className="icon-tile red"><Target size={22} /></span>
+            <div>
+              <h2>{t("home.practiceTitle")}</h2>
+              <p>{t("home.practiceDesc")}</p>
+            </div>
+            <Arrow size={18} className="go" />
+          </Link>
+        </div>
+
+        <div className="section-head">
+          <h2>{t("home.library")}</h2>
+          {tests && <p className="muted">{t("home.libraryLead", { n: tests.length })}</p>}
+        </div>
+        {error && <p className="warn-box">{t("home.loadError", { error })}</p>}
+        {!tests && !error && <p className="muted">{t("common.loading")}</p>}
+        <div className="grid sets">
+          {tests && groupBySet(tests).map(([set, xs]) => (
+            <div className="card set-card" key={set}>
+              <div className="set-head">
+                <span className="set-no">{xs[0].label ? "★" : set}</span>
+                <b>{xs[0].label ? t("title.extraGroup") : t("title.setGroup", { set })}</b>
+              </div>
+              {xs.map((x) => (
+                <div className="test-row" key={x.id} data-testid={`test-${x.id}`}>
+                  <div>
+                    <div className="test-name">{testTitle(t, x)}</div>
+                    <div className="skill-dots">
+                      {SKILLS.map((s) => (
+                        <span key={s} className={x.skills.includes(s) ? "on" : ""} title={skillName(t, s)}>
+                          <SkillIcon skill={s} size={13} />
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                  <div className="row tight">
+                    <Link className="btn primary small" href={`/exam/?test=${x.id}`}>{t("home.exam")}</Link>
+                    <Link className="btn small" href={`/practice/?test=${x.id}`}>{t("home.practice")}</Link>
+                  </div>
+                </div>
+              ))}
+            </div>
+          ))}
+        </div>
       </div>
     </main>
   );

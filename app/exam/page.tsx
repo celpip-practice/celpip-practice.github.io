@@ -3,18 +3,19 @@ import Link from "next/link";
 import { Suspense, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import ExamFrame from "@/components/ExamFrame";
+import { Arrow, Back, Clock, SkillIcon, Timer } from "@/components/Icons";
 import { AttemptResult, SkillRunner } from "@/components/Session";
 import { useIndex, useTest } from "@/components/useTests";
-import { displayTitle } from "@/lib/content";
+import { skillName, testTitle, useT } from "@/lib/i18n";
 import type { Attempt } from "@/lib/store";
-import { SKILLS, SKILL_LABEL, type Skill } from "@/lib/types";
+import { SKILLS, type Skill } from "@/lib/types";
 
-const DURATION: Record<Skill, string> = { listening: "约 47 分钟", reading: "约 55 分钟", writing: "53 分钟", speaking: "约 20 分钟" };
 const EN: Record<Skill, string> = { listening: "Listening", reading: "Reading", writing: "Writing", speaking: "Speaking" };
 
 function ExamInner() {
   const params = useSearchParams();
   const router = useRouter();
+  const t = useT();
   const testId = params.get("test");
   const run = params.get("run") === "1";
   const skills = (params.get("skills") ?? "").split(",").filter((s): s is Skill => (SKILLS as string[]).includes(s));
@@ -27,13 +28,18 @@ function ExamInner() {
   if (!testId) {
     return (
       <main className="page">
-        <h1>模拟考试</h1>
-        <p className="lead">选择一套真题开始完整模考。</p>
-        <div className="grid tests">
-          {tests?.map((t) => (
-            <Link key={t.id} href={`/exam/?test=${t.id}`} className="card mode-card" data-testid={`exam-pick-${t.id}`}>
-              <b>{displayTitle(t)}</b>
-              <div className="muted">{t.title}</div>
+        <div className="page-head">
+          <h1>{t("exam.title")}</h1>
+          <p className="lead">{t("exam.lead")}</p>
+        </div>
+        <div className="grid picks">
+          {tests?.map((x) => (
+            <Link key={x.id} href={`/exam/?test=${x.id}`} className="card pick-card" data-testid={`exam-pick-${x.id}`}>
+              <div>
+                <b>{testTitle(t, x)}</b>
+                <div className="muted small">{x.title}</div>
+              </div>
+              <Arrow size={18} className="go" />
             </Link>
           ))}
         </div>
@@ -41,7 +47,7 @@ function ExamInner() {
     );
   }
   if (error) return <main className="page"><p className="warn-box">{error}</p></main>;
-  if (!test) return <main className="page"><p className="muted">加载中…</p></main>;
+  if (!test) return <main className="page"><p className="muted">{t("common.loading")}</p></main>;
 
   const available = SKILLS.filter((s) => test[s]);
   const start = (list: Skill[]) => router.push(`/exam/?test=${test.id}&skills=${list.join(",")}&run=1`);
@@ -49,28 +55,35 @@ function ExamInner() {
   if (!run || !skills.length) {
     return (
       <main className="page">
-        <h1>{displayTitle(test)} · 模拟考试</h1>
-        <p className="lead">考试顺序与真实 CELPIP-General 相同。考试中录音只播放一次、计时结束自动进入下一部分、不能返回上一页。</p>
-        <div className="card" style={{ marginBottom: 16 }}>
-          <div className="row" style={{ justifyContent: "space-between" }}>
-            <div>
-              <b>完整模考</b>（听力 → 阅读 → 写作 → 口语，约 3 小时）
-              <div className="muted" style={{ fontSize: 13 }}>口语部分需要允许浏览器使用麦克风；请戴上耳机。</div>
-            </div>
-            <button className="btn primary" onClick={() => start(available)} data-testid="start-full">开始完整模考</button>
-          </div>
+        <Link href="/exam/" className="back-link"><Back size={16} /> {t("exam.back")}</Link>
+        <div className="page-head">
+          <h1>{testTitle(t, test)} · {t("exam.detailTitle")}</h1>
+          <p className="lead">{t("exam.rules")}</p>
         </div>
-        <div className="grid two">
+        <div className="card full-exam">
+          <span className="icon-tile blue lg"><Timer size={26} /></span>
+          <div className="grow">
+            <h2>{t("exam.full")}</h2>
+            <p className="muted">{t("exam.fullDesc")}</p>
+            <p className="muted small">{t("exam.fullHint")}</p>
+          </div>
+          <button className="btn primary lg" onClick={() => start(available)} data-testid="start-full">
+            {t("exam.startFull")} <Arrow size={18} />
+          </button>
+        </div>
+        <div className="grid four">
           {available.map((s) => (
-            <div className="card row" key={s} style={{ justifyContent: "space-between" }}>
-              <div><b>{SKILL_LABEL[s]}</b> <span className="muted">{DURATION[s]}</span></div>
-              <button className="btn" onClick={() => start([s])} data-testid={`start-${s}`}>只考这一科</button>
+            <div className="card skill-card" key={s}>
+              <span className={`icon-tile skill-${s}`}><SkillIcon skill={s} size={22} /></span>
+              <h3>{skillName(t, s)}</h3>
+              <p className="muted small"><Clock size={14} /> {t(`exam.duration.${s}` as const)}</p>
+              <button className="btn" onClick={() => start([s])} data-testid={`start-${s}`}>{t("exam.onlyThis")}</button>
             </div>
           ))}
         </div>
         {test.warnings.length > 0 && (
-          <details style={{ marginTop: 20 }}>
-            <summary>本套题目转换提示（{test.warnings.length}）</summary>
+          <details style={{ marginTop: 24 }}>
+            <summary>{t("exam.warnings", { n: test.warnings.length })}</summary>
             <ul className="muted">{test.warnings.map((w, i) => <li key={i}>{w}</li>)}</ul>
           </details>
         )}
@@ -81,16 +94,16 @@ function ExamInner() {
   if (step >= skills.length) {
     return (
       <main className="page" data-testid="exam-results">
-        <div className="row" style={{ justifyContent: "space-between" }}>
-          <h1>{displayTitle(test)} · 模考结果</h1>
+        <div className="page-head row spread">
+          <h1>{testTitle(t, test)} · {t("exam.results")}</h1>
           <div className="row">
-            <Link className="btn" href="/">首页</Link>
-            <Link className="btn" href="/history/">练习记录</Link>
+            <Link className="btn" href="/">{t("common.home")}</Link>
+            <Link className="btn" href="/history/">{t("nav.history")}</Link>
           </div>
         </div>
         {attempts.map((a) => (
           <section key={a.id} style={{ marginBottom: 28 }}>
-            <h2>{SKILL_LABEL[a.skill]}</h2>
+            <h2 className="section-title"><SkillIcon skill={a.skill} /> {skillName(t, a.skill)}</h2>
             <AttemptResult test={test} attempt={a} />
           </section>
         ))}

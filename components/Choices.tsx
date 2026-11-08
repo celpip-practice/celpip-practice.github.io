@@ -1,5 +1,6 @@
 "use client";
 import { mediaUrl } from "@/lib/content";
+import { useT } from "@/lib/i18n";
 import type { LOption } from "@/lib/types";
 
 interface RadioProps {
@@ -64,10 +65,11 @@ export function Dropdown({ options, value, onChange, reveal, testid, ariaLabel }
 
 export function KeyHint({ options, answer, value }: { options: string[]; answer: number | null; value: number | undefined }) {
   if (answer === null) return null;
+  const t = useT();
   const ok = value === answer;
   return (
     <span className={`feedback ${ok ? "ok" : "bad"}`}>
-      {ok ? "✓" : `✗ 正确答案: ${options[answer]}`}
+      {ok ? "✓" : `✗ ${t("runner.correctAnswer", { answer: options[answer] })}`}
     </span>
   );
 }

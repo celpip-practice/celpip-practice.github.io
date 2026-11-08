@@ -2,16 +2,18 @@
 import Link from "next/link";
 import { Suspense, useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
+import { Back, SkillIcon } from "@/components/Icons";
 import { useIndex } from "@/components/useTests";
-import { displayTitle, loadTest } from "@/lib/content";
+import { loadTest } from "@/lib/content";
+import { partName, skillName, testTitle, useT } from "@/lib/i18n";
 import { store } from "@/lib/store";
-import { SKILLS, SKILL_LABEL, type Skill, type Test } from "@/lib/types";
+import { SKILLS, type Skill, type Test } from "@/lib/types";
 
-const PART_LABELS: Record<Skill, string[]> = {
-  listening: ["P1 解决问题", "P2 日常对话", "P3 获取信息", "P4 新闻", "P5 讨论(视频)", "P6 观点"],
-  reading: ["P1 信件", "P2 图表", "P3 信息", "P4 观点"],
-  writing: ["Task 1 邮件", "Task 2 调查问卷"],
-  speaking: ["练习题", "T1 建议", "T2 个人经历", "T3 描述场景", "T4 预测", "T5 比较说服", "T6 困难处境", "T7 观点", "T8 异常情况"],
+const PARTS: Record<Skill, number[]> = {
+  listening: [1, 2, 3, 4, 5, 6],
+  reading: [1, 2, 3, 4],
+  writing: [1, 2],
+  speaking: [0, 1, 2, 3, 4, 5, 6, 7, 8],
 };
 
 function partsOf(test: Test, skill: Skill): number[] {
@@ -23,13 +25,14 @@ function partsOf(test: Test, skill: Skill): number[] {
   }
 }
 
-function label(skill: Skill, n: number) {
-  const xs = PART_LABELS[skill];
-  return skill === "speaking" ? xs[n] : xs[n - 1];
+function partShort(skill: Skill, n: number) {
+  if (skill === "speaking") return n === 0 ? "P" : `T${n}`;
+  return skill === "writing" ? `T${n}` : `P${n}`;
 }
 
 function PracticeInner() {
   const params = useSearchParams();
+  const t = useT();
   const only = params.get("test");
   const [skill, setSkill] = useState<Skill>((params.get("skill") as Skill) || "listening");
   const { tests } = useIndex();
@@ -37,63 +40,79 @@ function PracticeInner() {
 
   useEffect(() => {
     if (!tests) return;
-    for (const t of tests) loadTest(t.id).then((x) => setLoaded((m) => ({ ...m, [t.id]: x })));
+    for (const x of tests) loadTest(x.id).then((v) => setLoaded((m) => ({ ...m, [x.id]: v })));
   }, [tests]);
 
-  const list = (tests ?? []).filter((t) => !only || t.id === only);
-  const maxParts = { listening: 6, reading: 4, writing: 2, speaking: 9 }[skill];
+  const list = (tests ?? []).filter((x) => !only || x.id === only);
+  const parts = PARTS[skill];
+  const scored = skill === "listening" || skill === "reading";
   return (
     <main className="page">
-      <h1>分项练习</h1>
-      <p className="lead">选择科目和 Part 单独练习。练习模式可以重听、看播放条、随时点 “Answer Key” 对答案和看原文。</p>
-      <div className="tabs">
+      {only && <Link href="/practice/" className="back-link"><Back size={16} /> {t("practice.title")}</Link>}
+      <div className="page-head">
+        <h1>{t("practice.title")}</h1>
+        <p className="lead">{t("practice.lead")}</p>
+      </div>
+      <div className="seg" role="tablist">
         {SKILLS.map((s) => (
-          <button key={s} className={s === skill ? "active" : ""} onClick={() => setSkill(s)} data-testid={`tab-${s}`}>
-            {SKILL_LABEL[s]}
+          <button key={s} role="tab" aria-selected={s === skill} className={s === skill ? "active" : ""}
+            onClick={() => setSkill(s)} data-testid={`tab-${s}`}>
+            <SkillIcon skill={s} size={18} /> {skillName(t, s)}
           </button>
         ))}
       </div>
-      <div className="card" style={{ padding: 0, overflowX: "auto" }}>
-        <table className="matrix">
-          <thead>
-            <tr>
-              <th>真题</th>
-              {Array.from({ length: maxParts }, (_, i) => <th key={i}>{label(skill, skill === "speaking" ? i : i + 1)}</th>)}
-              <th>整科</th>
-            </tr>
-          </thead>
-          <tbody>
-            {list.map((t) => {
-              const test = loaded[t.id];
-              const nums = test ? partsOf(test, skill) : [];
-              const all = skill === "speaking" ? Array.from({ length: 9 }, (_, i) => i) : Array.from({ length: maxParts }, (_, i) => i + 1);
-              return (
-                <tr key={t.id}>
-                  <td><b>{displayTitle(t)}</b></td>
-                  {all.map((n) => {
-                    const has = nums.includes(n);
-                    const best = has && (skill === "listening" || skill === "reading") ? store().bestPartScore(t.id, skill, n) : undefined;
-                    return (
-                      <td key={n}>
-                        {has ? (
-                          <Link className="btn small part-btn" href={`/practice/run/?test=${t.id}&skill=${skill}&part=${n}`} data-testid={`practice-${t.id}-${skill}-${n}`}>
-                            练习
-                            {best && <span className="score">{best.correct}/{best.total}</span>}
-                          </Link>
-                        ) : (
-                          <span className="muted">{test ? "—" : "…"}</span>
-                        )}
-                      </td>
-                    );
-                  })}
-                  <td>
-                    {nums.length > 0 && <Link className="btn small" href={`/practice/run/?test=${t.id}&skill=${skill}`}>全部</Link>}
-                  </td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </table>
+      <div className="card flush">
+        <div className="table-scroll">
+          <table className="matrix">
+            <thead>
+              <tr>
+                <th className="sticky-col" />
+                {parts.map((n) => (
+                  <th key={n} title={partName(t, skill, n)}>
+                    <span className="part-no">{partShort(skill, n)}</span>
+                    <span className="part-name">{partName(t, skill, n)}</span>
+                  </th>
+                ))}
+                <th><span className="part-no">{t("practice.whole")}</span></th>
+              </tr>
+            </thead>
+            <tbody>
+              {list.map((x) => {
+                const test = loaded[x.id];
+                const nums = test ? partsOf(test, skill) : [];
+                return (
+                  <tr key={x.id}>
+                    <td className="sticky-col"><b>{testTitle(t, x)}</b></td>
+                    {parts.map((n) => {
+                      const has = nums.includes(n);
+                      const best = has && scored ? store().bestPartScore(x.id, skill, n) : undefined;
+                      const full = best && best.correct === best.total;
+                      return (
+                        <td key={n}>
+                          {has ? (
+                            <Link className={`chip${best ? (full ? " done" : " tried") : ""}`}
+                              href={`/practice/run/?test=${x.id}&skill=${skill}&part=${n}`}
+                              title={best ? `${t("practice.best")}: ${best.correct}/${best.total}` : partName(t, skill, n)}
+                              data-testid={`practice-${x.id}-${skill}-${n}`}>
+                              {best ? `${best.correct}/${best.total}` : partShort(skill, n)}
+                            </Link>
+                          ) : (
+                            <span className="muted">{test ? "—" : "…"}</span>
+                          )}
+                        </td>
+                      );
+                    })}
+                    <td>
+                      {nums.length > 0 && (
+                        <Link className="chip all" href={`/practice/run/?test=${x.id}&skill=${skill}`}>{t("practice.whole")}</Link>
+                      )}
+                    </td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
       </div>
     </main>
   );

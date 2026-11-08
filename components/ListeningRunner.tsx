@@ -4,6 +4,7 @@ import ExamFrame, { Info, TimeRemaining } from "./ExamFrame";
 import { AudioBox, VideoBox } from "./MediaPlayer";
 import { Dropdown, KeyHint, RadioOptions } from "./Choices";
 import { mediaUrl } from "@/lib/content";
+import { useT } from "@/lib/i18n";
 import { LISTENING_ANSWER_TIME, buildListeningScreens, mediaInstruction, nextPartStart } from "@/lib/listeningFlow";
 import { useCountdown } from "@/lib/useCountdown";
 import type { Answers, LPart, Test } from "@/lib/types";
@@ -16,6 +17,7 @@ interface Props {
 }
 
 export default function ListeningRunner({ test, parts, mode, onFinish }: Props) {
+  const t = useT();
   const screens = useMemo(() => buildListeningScreens(parts), [parts]);
   const [idx, setIdx] = useState(0);
   const [answers, setAnswers] = useState<Answers>({});
@@ -93,7 +95,7 @@ export default function ListeningRunner({ test, parts, mode, onFinish }: Props) 
         )}
         {!exam && mediaEnded && screen.section.transcript && (
           <details style={{ maxWidth: 760, margin: "24px auto 0" }}>
-            <summary>查看原文 Transcript</summary>
+            <summary>{t("runner.viewTranscript")}</summary>
             <div className="transcript">{screen.section.transcript}</div>
           </details>
         )}
@@ -168,7 +170,7 @@ export default function ListeningRunner({ test, parts, mode, onFinish }: Props) 
       </ul>
       {showKey && screen.section.transcript && (
         <details open>
-          <summary>原文 Transcript</summary>
+          <summary>{t("runner.transcript")}</summary>
           <div className="transcript">{screen.section.transcript}</div>
         </details>
       )}
