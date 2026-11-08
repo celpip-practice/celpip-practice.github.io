@@ -1,5 +1,5 @@
 "use client";
-import type { ReactNode } from "react";
+import { useEffect, type ReactNode } from "react";
 import { formatRemaining } from "@/lib/scoring";
 
 export function TimeRemaining({ seconds }: { seconds: number }) {
@@ -33,6 +33,11 @@ interface Props {
 }
 
 export default function ExamFrame({ title, headerRight, onNext, nextDisabled, nextLabel = "Next", onBack, footerLeft, single, children }: Props) {
+  // the exam window takes the whole screen, like the real test
+  useEffect(() => {
+    document.body.classList.add("exam-mode");
+    return () => document.body.classList.remove("exam-mode");
+  }, []);
   return (
     <div className="exam-wrap">
       <div className="exam" data-testid="exam">

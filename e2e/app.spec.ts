@@ -17,14 +17,14 @@ async function answerReadingPart(page: Page, n: number) {
 }
 
 test("home page lists the converted tests and both modes", async ({ page }) => {
-  await page.goto("/");
+  await page.goto("/zh/");
   await expect(page.getByTestId("mode-exam")).toBeVisible();
   await expect(page.getByTestId("mode-practice")).toBeVisible();
   for (const t of index.tests) await expect(page.getByTestId(`test-${t.id}`)).toBeVisible();
 });
 
 test("practice: listening part 1 answered correctly scores 8/8", async ({ page }) => {
-  await page.goto(`/practice/run/?test=${firstId}&skill=listening&part=1`);
+  await page.goto(`/zh/practice/run/?test=${firstId}&skill=listening&part=1`);
   await expect(page.getByTestId("exam-title")).toContainText("Listening Part 1");
   await expect(page.getByTestId("intro")).toBeVisible();
   const answers = new Map(listeningQuestions(data.listening!.parts[0]).map((q, i) => [i + 1, q.answer!]));
@@ -50,7 +50,7 @@ test("practice: listening question without question audio shows its printed stem
   test.skip(!entry, "every test has spoken question audio");
   const tj: Test = JSON.parse(fs.readFileSync(path.join(contentDir, "tests", entry.id, "test.json"), "utf8"));
   const first = listeningQuestions(tj.listening!.parts[0])[0];
-  await page.goto(`/practice/run/?test=${entry.id}&skill=listening&part=1`);
+  await page.goto(`/zh/practice/run/?test=${entry.id}&skill=listening&part=1`);
   for (let step = 0; step < 4 && !(await page.locator(".q-head").isVisible()); step++) {
     await page.getByTestId("next").click();
   }
@@ -58,7 +58,7 @@ test("practice: listening question without question audio shows its printed stem
 });
 
 test("practice: reading part 3 answered correctly scores full marks", async ({ page }) => {
-  await page.goto(`/practice/run/?test=${firstId}&skill=reading&part=3`);
+  await page.goto(`/zh/practice/run/?test=${firstId}&skill=reading&part=3`);
   await expect(page.getByTestId("reading-left")).toBeVisible();
   await expect(page.getByTestId("reading-right")).toBeVisible();
   await expect(page.getByTestId("back")).toBeDisabled();
@@ -70,7 +70,7 @@ test("practice: reading part 3 answered correctly scores full marks", async ({ p
 });
 
 test("exam: reading runs all four timed parts without Back and scores 38/38", async ({ page }) => {
-  await page.goto(`/exam/?test=${firstId}`);
+  await page.goto(`/zh/exam/?test=${firstId}`);
   await page.getByTestId("start-reading").click();
   await expect(page.getByTestId("time-remaining")).toContainText("11 minutes");
   for (const n of [1, 2, 3, 4]) {
@@ -85,7 +85,7 @@ test("exam: reading runs all four timed parts without Back and scores 38/38", as
 });
 
 test("exam: listening blocks Next until the recording has played", async ({ page }) => {
-  await page.goto(`/exam/?test=${firstId}`);
+  await page.goto(`/zh/exam/?test=${firstId}`);
   await page.getByTestId("start-listening").click();
   await expect(page.getByTestId("intro")).toBeVisible();
   await page.getByTestId("next").click();
@@ -95,7 +95,7 @@ test("exam: listening blocks Next until the recording has played", async ({ page
 });
 
 test("practice: writing counts words and shows sample responses", async ({ page }) => {
-  await page.goto(`/practice/run/?test=${firstId}&skill=writing&part=1`);
+  await page.goto(`/zh/practice/run/?test=${firstId}&skill=writing&part=1`);
   await page.getByTestId("writing-area").fill("Dear Sir, I am writing to complain about the service.");
   await expect(page.getByTestId("word-count")).toContainText("10");
   await page.getByTestId("toggle-samples").click();
@@ -105,7 +105,7 @@ test("practice: writing counts words and shows sample responses", async ({ page 
 });
 
 test("practice: speaking task 3 shows the picture, records and plays back", async ({ page }) => {
-  await page.goto(`/practice/run/?test=${firstId}&skill=speaking&part=3`);
+  await page.goto(`/zh/practice/run/?test=${firstId}&skill=speaking&part=3`);
   await expect(page.getByTestId("exam-title")).toContainText("Speaking Task 3");
   await expect(page.locator("img.scene")).toBeVisible();
   await expect(page.getByTestId("prep-box")).toBeVisible();
@@ -117,28 +117,43 @@ test("practice: speaking task 3 shows the picture, records and plays back", asyn
   await expect(page.getByTestId("practice-results").locator("audio")).toHaveCount(1);
 });
 
-test("language toggle switches the site chrome and is remembered", async ({ page }) => {
-  await page.goto("/");
+test("each language has its own URL and the switch keeps the page and query", async ({ page }) => {
+  await page.goto("/zh/");
+  await expect(page.locator("html")).toHaveAttribute("lang", "zh-CN");
   await expect(page.locator(".site-header nav")).toContainText("模拟考试");
   const donate = page.getByTestId("donate-header");
   await expect(donate).toHaveAttribute("href", "https://ko-fi.com/zhouhai");
   await expect(donate).toHaveAttribute("target", "_blank");
   await expect(donate).toContainText("支持我们");
-  await page.getByTestId("lang-toggle").click();
-  await expect(donate).toContainText("Support");
+  await expect(page.getByTestId("lang-zh")).toHaveClass(/active/);
+
+  await page.getByTestId("lang-en").click();
+  await expect(page).toHaveURL(/\/en\/$/);
+  await expect(page.locator("html")).toHaveAttribute("lang", "en-CA");
   await expect(page.locator(".site-header nav")).toContainText("Mock Exam");
+  await expect(donate).toContainText("Support");
   await expect(page.getByTestId(`test-${firstId}`)).toContainText("Set 1 · Test 1");
-  await page.goto("/practice/");
-  await expect(page.getByTestId("tab-listening")).toContainText("Listening");
-  await page.getByTestId("lang-toggle").click();
-  await expect(page.getByTestId("tab-listening")).toContainText("听力");
+
+  await page.goto(`/en/exam/?test=${firstId}`);
+  await page.getByTestId("lang-zh").click();
+  await expect(page).toHaveURL(new RegExp(`/zh/exam/\\?test=${firstId}$`));
+  await expect(page.getByTestId("start-full")).toContainText("开始完整模考");
+});
+
+test("root and pre-i18n URLs redirect to the remembered language", async ({ page }) => {
+  await page.goto("/en/");
+  await page.goto("/practice/?skill=reading");
+  await expect(page).toHaveURL(/\/en\/practice\/\?skill=reading$/);
+  await page.goto("/zh/");
+  await page.goto("/");
+  await expect(page).toHaveURL(/\/zh\/$/);
 });
 
 test("history keeps finished attempts", async ({ page }) => {
-  await page.goto(`/practice/run/?test=${firstId}&skill=reading&part=3`);
+  await page.goto(`/zh/practice/run/?test=${firstId}&skill=reading&part=3`);
   await answerReadingPart(page, 3);
   await page.getByTestId("next").click();
   await expect(page.getByTestId("score")).toBeVisible();
-  await page.goto("/history/");
+  await page.goto("/zh/history/");
   await expect(page.getByRole("link", { name: "查看" }).first()).toBeVisible();
 });

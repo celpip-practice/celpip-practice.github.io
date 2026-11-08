@@ -1,13 +1,13 @@
 "use client";
 import Link from "next/link";
-import { Suspense, useState } from "react";
+import { Suspense, type ReactNode, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { DonateCard } from "@/components/Donate";
 import ExamFrame from "@/components/ExamFrame";
 import { Arrow, Back, Clock, SkillIcon, Timer } from "@/components/Icons";
 import { AttemptResult, SkillRunner } from "@/components/Session";
 import { useIndex, useTest } from "@/components/useTests";
-import { skillName, testTitle, useT } from "@/lib/i18n";
+import { skillName, testTitle, useHref, useT } from "@/lib/i18n";
 import type { Attempt } from "@/lib/store";
 import { SKILLS, type Skill } from "@/lib/types";
 
@@ -17,6 +17,7 @@ function ExamInner() {
   const params = useSearchParams();
   const router = useRouter();
   const t = useT();
+  const href = useHref();
   const testId = params.get("test");
   const run = params.get("run") === "1";
   const skills = (params.get("skills") ?? "").split(",").filter((s): s is Skill => (SKILLS as string[]).includes(s));
@@ -35,7 +36,7 @@ function ExamInner() {
         </div>
         <div className="grid picks">
           {tests?.map((x) => (
-            <Link key={x.id} href={`/exam/?test=${x.id}`} className="card pick-card" data-testid={`exam-pick-${x.id}`}>
+            <Link key={x.id} href={href(`/exam/?test=${x.id}`)} className="card pick-card" data-testid={`exam-pick-${x.id}`}>
               <div>
                 <b>{testTitle(t, x)}</b>
                 <div className="muted small">{x.title}</div>
@@ -51,12 +52,12 @@ function ExamInner() {
   if (!test) return <main className="page"><p className="muted">{t("common.loading")}</p></main>;
 
   const available = SKILLS.filter((s) => test[s]);
-  const start = (list: Skill[]) => router.push(`/exam/?test=${test.id}&skills=${list.join(",")}&run=1`);
+  const start = (list: Skill[]) => router.push(href(`/exam/?test=${test.id}&skills=${list.join(",")}&run=1`));
 
   if (!run || !skills.length) {
     return (
       <main className="page">
-        <Link href="/exam/" className="back-link"><Back size={16} /> {t("exam.back")}</Link>
+        <Link href={href("/exam/")} className="back-link"><Back size={16} /> {t("exam.back")}</Link>
         <div className="page-head">
           <h1>{testTitle(t, test)} · {t("exam.detailTitle")}</h1>
           <p className="lead">{t("exam.rules")}</p>
@@ -98,8 +99,8 @@ function ExamInner() {
         <div className="page-head row spread">
           <h1>{testTitle(t, test)} · {t("exam.results")}</h1>
           <div className="row">
-            <Link className="btn" href="/">{t("common.home")}</Link>
-            <Link className="btn" href="/history/">{t("nav.history")}</Link>
+            <Link className="btn" href={href("/")}>{t("common.home")}</Link>
+            <Link className="btn" href={href("/history/")}>{t("nav.history")}</Link>
           </div>
         </div>
         {attempts.map((a) => (
@@ -141,9 +142,9 @@ function ExamInner() {
   );
 }
 
-export default function ExamPage() {
+export default function ExamView({ fallback = null }: { fallback?: ReactNode }) {
   return (
-    <Suspense fallback={null}>
+    <Suspense fallback={fallback}>
       <ExamInner />
     </Suspense>
   );

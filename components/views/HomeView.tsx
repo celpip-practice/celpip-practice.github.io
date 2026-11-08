@@ -1,8 +1,7 @@
 "use client";
 import Link from "next/link";
 import { Arrow, SkillIcon, Target, Timer } from "@/components/Icons";
-import { useIndex } from "@/components/useTests";
-import { skillName, testTitle, useT } from "@/lib/i18n";
+import { skillName, testTitle, useHref, useT } from "@/lib/i18n";
 import { SKILLS, type TestSummary } from "@/lib/types";
 
 const QUESTIONS_PER_SKILL = 38;
@@ -13,10 +12,10 @@ function groupBySet(tests: TestSummary[]) {
   return [...groups.entries()];
 }
 
-export default function Home() {
-  const { tests, error } = useIndex();
+export default function HomeView({ tests }: { tests: TestSummary[] }) {
   const t = useT();
-  const questions = (tests ?? []).reduce(
+  const href = useHref();
+  const questions = tests.reduce(
     (n, x) => n + (x.skills.includes("listening") ? QUESTIONS_PER_SKILL : 0) + (x.skills.includes("reading") ? QUESTIONS_PER_SKILL : 0), 0);
   return (
     <main>
@@ -26,12 +25,12 @@ export default function Home() {
           <h1>{t("home.title")}</h1>
           <p>{t("home.lead")}</p>
           <div className="row hero-cta">
-            <Link href="/exam/" className="btn primary lg">{t("home.startExam")} <Arrow size={18} /></Link>
-            <Link href="/practice/" className="btn ghost lg">{t("home.startPractice")}</Link>
+            <Link href={href("/exam/")} className="btn primary lg">{t("home.startExam")} <Arrow size={18} /></Link>
+            <Link href={href("/practice/")} className="btn ghost lg">{t("home.startPractice")}</Link>
           </div>
           <div className="stats">
-            <div><b>{tests?.length ?? "–"}</b><span>{t("home.statTests")}</span></div>
-            <div><b>{tests ? questions.toLocaleString() : "–"}</b><span>{t("home.statQuestions")}</span></div>
+            <div><b>{tests.length}</b><span>{t("home.statTests")}</span></div>
+            <div><b>{questions.toLocaleString()}</b><span>{t("home.statQuestions")}</span></div>
             <div><b>4</b><span>{t("home.statSkills")}</span></div>
           </div>
         </div>
@@ -39,7 +38,7 @@ export default function Home() {
 
       <div className="page">
         <div className="grid two modes">
-          <Link href="/exam/" className="card mode-card" data-testid="mode-exam">
+          <Link href={href("/exam/")} className="card mode-card" data-testid="mode-exam">
             <span className="icon-tile blue"><Timer size={22} /></span>
             <div>
               <h2>{t("home.examTitle")}</h2>
@@ -47,7 +46,7 @@ export default function Home() {
             </div>
             <Arrow size={18} className="go" />
           </Link>
-          <Link href="/practice/" className="card mode-card" data-testid="mode-practice">
+          <Link href={href("/practice/")} className="card mode-card" data-testid="mode-practice">
             <span className="icon-tile red"><Target size={22} /></span>
             <div>
               <h2>{t("home.practiceTitle")}</h2>
@@ -59,12 +58,10 @@ export default function Home() {
 
         <div className="section-head">
           <h2>{t("home.library")}</h2>
-          {tests && <p className="muted">{t("home.libraryLead", { n: tests.length })}</p>}
+          <p className="muted">{t("home.libraryLead", { n: tests.length })}</p>
         </div>
-        {error && <p className="warn-box">{t("home.loadError", { error })}</p>}
-        {!tests && !error && <p className="muted">{t("common.loading")}</p>}
         <div className="grid sets">
-          {tests && groupBySet(tests).map(([set, xs]) => (
+          {groupBySet(tests).map(([set, xs]) => (
             <div className="card set-card" key={set}>
               <div className="set-head">
                 <span className="set-no">{xs[0].label ? "★" : set}</span>
@@ -83,8 +80,8 @@ export default function Home() {
                     </div>
                   </div>
                   <div className="row tight">
-                    <Link className="btn primary small" href={`/exam/?test=${x.id}`}>{t("home.exam")}</Link>
-                    <Link className="btn small" href={`/practice/?test=${x.id}`}>{t("home.practice")}</Link>
+                    <Link className="btn primary small" href={href(`/exam/?test=${x.id}`)}>{t("home.exam")}</Link>
+                    <Link className="btn small" href={href(`/practice/?test=${x.id}`)}>{t("home.practice")}</Link>
                   </div>
                 </div>
               ))}

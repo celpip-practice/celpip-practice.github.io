@@ -56,11 +56,16 @@ h1, h2, h3, h4 { color: var(--heading); letter-spacing: -.01em; }
 }
 .site-header nav a:hover { background: #f1f5f9; color: var(--heading); }
 .site-header nav a.active { background: var(--brand-soft); color: var(--brand); font-weight: 600; }
-.lang-toggle {
-  display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--line); background: #fff; color: #334155;
-  border-radius: 999px; padding: 6px 12px; font-size: 13px; font-weight: 600; cursor: pointer; transition: border-color .15s, color .15s;
+.lang-seg { display: inline-flex; align-items: center; gap: 2px; padding: 4px; border-radius: 999px; background: #f1f3f9; flex: none; }
+.lang-seg a {
+  min-width: 46px; padding: 6px 14px; border-radius: 999px; text-align: center; font-size: 14px; line-height: 1.2;
+  color: #64748b; text-decoration: none; transition: background .15s, color .15s, box-shadow .15s;
 }
-.lang-toggle:hover { border-color: var(--brand); color: var(--brand); }
+.lang-seg a:hover { color: var(--heading); }
+.lang-seg a.active { background: #fff; color: var(--heading); font-weight: 600; box-shadow: 0 1px 3px rgba(15, 23, 42, .12); }
+body.exam-mode .site-header, body.exam-mode .site-footer { display: none; }
+.redirect { display: flex; gap: 16px; justify-content: center; align-items: center; min-height: 100vh; }
+.redirect a { font-size: 16px; font-weight: 600; text-decoration: none; padding: 10px 20px; border-radius: 10px; background: #fff; border: 1px solid var(--line); }
 .donate-btn {
   display: inline-flex; align-items: center; gap: 6px; border-radius: 999px; padding: 6px 13px; font-size: 13px; font-weight: 600;
   text-decoration: none; color: #b42318; background: #fff1ef; border: 1px solid #fecdca; transition: background .15s, border-color .15s;

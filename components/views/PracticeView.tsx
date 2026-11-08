@@ -1,11 +1,11 @@
 "use client";
 import Link from "next/link";
-import { Suspense, useEffect, useState } from "react";
+import { Suspense, type ReactNode, useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { Back, SkillIcon } from "@/components/Icons";
 import { useIndex } from "@/components/useTests";
 import { loadTest } from "@/lib/content";
-import { partName, skillName, testTitle, useT } from "@/lib/i18n";
+import { partName, skillName, testTitle, useHref, useT } from "@/lib/i18n";
 import { store } from "@/lib/store";
 import { SKILLS, type Skill, type Test } from "@/lib/types";
 
@@ -33,6 +33,7 @@ function partShort(skill: Skill, n: number) {
 function PracticeInner() {
   const params = useSearchParams();
   const t = useT();
+  const href = useHref();
   const only = params.get("test");
   const [skill, setSkill] = useState<Skill>((params.get("skill") as Skill) || "listening");
   const { tests } = useIndex();
@@ -48,7 +49,7 @@ function PracticeInner() {
   const scored = skill === "listening" || skill === "reading";
   return (
     <main className="page">
-      {only && <Link href="/practice/" className="back-link"><Back size={16} /> {t("practice.title")}</Link>}
+      {only && <Link href={href("/practice/")} className="back-link"><Back size={16} /> {t("practice.title")}</Link>}
       <div className="page-head">
         <h1>{t("practice.title")}</h1>
         <p className="lead">{t("practice.lead")}</p>
@@ -91,7 +92,7 @@ function PracticeInner() {
                         <td key={n}>
                           {has ? (
                             <Link className={`chip${best ? (full ? " done" : " tried") : ""}`}
-                              href={`/practice/run/?test=${x.id}&skill=${skill}&part=${n}`}
+                              href={href(`/practice/run/?test=${x.id}&skill=${skill}&part=${n}`)}
                               title={best ? `${t("practice.best")}: ${best.correct}/${best.total}` : partName(t, skill, n)}
                               data-testid={`practice-${x.id}-${skill}-${n}`}>
                               {best ? `${best.correct}/${best.total}` : partShort(skill, n)}
@@ -104,7 +105,7 @@ function PracticeInner() {
                     })}
                     <td>
                       {nums.length > 0 && (
-                        <Link className="chip all" href={`/practice/run/?test=${x.id}&skill=${skill}`}>{t("practice.whole")}</Link>
+                        <Link className="chip all" href={href(`/practice/run/?test=${x.id}&skill=${skill}`)}>{t("practice.whole")}</Link>
                       )}
                     </td>
                   </tr>
@@ -118,9 +119,9 @@ function PracticeInner() {
   );
 }
 
-export default function PracticePage() {
+export default function PracticeView({ fallback = null }: { fallback?: ReactNode }) {
   return (
-    <Suspense fallback={null}>
+    <Suspense fallback={fallback}>
       <PracticeInner />
     </Suspense>
   );

@@ -5,7 +5,7 @@ import { useSearchParams } from "next/navigation";
 import { Back, SkillIcon } from "@/components/Icons";
 import { AttemptResult } from "@/components/Session";
 import { useIndex, useTest } from "@/components/useTests";
-import { skillName, testTitle, useLang, useT } from "@/lib/i18n";
+import { skillName, testTitle, useHref, useLang, useT } from "@/lib/i18n";
 import { store, type Attempt } from "@/lib/store";
 import type { Skill, TestSummary } from "@/lib/types";
 
@@ -41,6 +41,7 @@ function HistoryInner() {
   const id = useSearchParams().get("attempt");
   const t = useT();
   const { lang } = useLang();
+  const href = useHref();
   const { tests } = useIndex();
   const [list, setList] = useState<Attempt[] | null>(null);
   useEffect(() => setList(store().listAttempts()), []);
@@ -55,7 +56,7 @@ function HistoryInner() {
     <main className="page">
       {one ? (
         <>
-          <Link href="/history/" className="back-link"><Back size={16} /> {t("history.back")}</Link>
+          <Link href={href("/history/")} className="back-link"><Back size={16} /> {t("history.back")}</Link>
           <Review attempt={one} />
         </>
       ) : (
@@ -67,7 +68,7 @@ function HistoryInner() {
           {list.length === 0 ? (
             <div className="card empty">
               <p>{t("history.empty")}</p>
-              <Link className="btn primary" href="/practice/">{t("nav.practice")}</Link>
+              <Link className="btn primary" href={href("/practice/")}>{t("nav.practice")}</Link>
             </div>
           ) : (
             <>
@@ -107,7 +108,7 @@ function HistoryInner() {
                             {a.parts.length < 6 && a.mode === "practice" ? <span className="muted small"> Part {a.parts.join(", ")}</span> : null}
                           </td>
                           <td>{a.score ? <b>{a.score.correct}/{a.score.total}</b> : <span className="muted">—</span>}</td>
-                          <td><Link href={`/history/?attempt=${a.id}`}>{t("common.view")}</Link></td>
+                          <td><Link href={href(`/history/?attempt=${a.id}`)}>{t("common.view")}</Link></td>
                         </tr>
                       ))}
                     </tbody>
@@ -122,7 +123,7 @@ function HistoryInner() {
   );
 }
 
-export default function HistoryPage() {
+export default function HistoryView() {
   return (
     <Suspense fallback={null}>
       <HistoryInner />

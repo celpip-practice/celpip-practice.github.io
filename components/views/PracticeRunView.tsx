@@ -6,13 +6,14 @@ import { DonateCard } from "@/components/Donate";
 import { SkillIcon } from "@/components/Icons";
 import { AttemptResult, SkillRunner } from "@/components/Session";
 import { useTest } from "@/components/useTests";
-import { partName, skillName, testTitle, useT } from "@/lib/i18n";
+import { partName, skillName, testTitle, useHref, useT } from "@/lib/i18n";
 import type { Attempt } from "@/lib/store";
 import { SKILLS, type Skill } from "@/lib/types";
 
 function RunInner() {
   const params = useSearchParams();
   const t = useT();
+  const href = useHref();
   const testId = params.get("test");
   const skill = params.get("skill") as Skill;
   const partParam = params.get("part");
@@ -38,7 +39,7 @@ function RunInner() {
             <button className="btn" onClick={() => { setAttempt(null); setRound((r) => r + 1); }} data-testid="retry">
               {t("practice.retry")}
             </button>
-            <Link className="btn primary" href={`/practice/?skill=${skill}`}>{t("practice.backToList")}</Link>
+            <Link className="btn primary" href={href(`/practice/?skill=${skill}`)}>{t("practice.backToList")}</Link>
           </div>
         </div>
         <AttemptResult test={test} attempt={attempt} />
@@ -49,7 +50,7 @@ function RunInner() {
   return <SkillRunner key={round} test={test} skill={skill} parts={parts} mode="practice" onComplete={setAttempt} />;
 }
 
-export default function PracticeRunPage() {
+export default function PracticeRunView() {
   return (
     <Suspense fallback={null}>
       <RunInner />
