@@ -72,6 +72,7 @@ export default async function ScoresPage({ params }: Params) {
           </tbody>
         </table>
       </div>
+      <p className="muted small">{t("scores.clbNote")}</p>
 
       <h2>{t("scores.progTitle")}</h2>
       <div className="card flush table-scroll">

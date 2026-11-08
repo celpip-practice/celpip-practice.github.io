@@ -31,17 +31,17 @@ export const SKILL_GUIDES: Record<Skill, SkillGuide> = {
   listening: {
     title: { zh: "CELPIP 听力题型、时间与技巧：6 个 Part 详解", en: "CELPIP Listening Test: Format, Timing and Tips" },
     description: {
-      zh: "CELPIP 听力共 6 个 Part、38 道题，约 47–55 分钟。逐一讲解每个 Part 的题型、录音长度和答题技巧，并提供多套真题免费在线练习。",
-      en: "The CELPIP Listening test has 6 parts and 38 questions in about 47–55 minutes. Part-by-part format, recording lengths and tips, with free online practice tests.",
+      zh: "CELPIP 听力共 6 个 Part、38 道题，约 46–55 分钟。逐一讲解每个 Part 的题型、录音长度和答题技巧，并提供多套真题免费在线练习。",
+      en: "The CELPIP Listening test has 6 parts and 38 questions in about 46–55 minutes. Part-by-part format, recording lengths and tips, with free online practice tests.",
     },
     h1: { zh: "CELPIP 听力：题型、时间与技巧", en: "CELPIP Listening: format, timing and tips" },
     intro: {
-      zh: "听力是 CELPIP-General 的第一部分。每段录音只播放一次，不能暂停或回放；多数题目在录音结束后才出现，所以边听边记笔记非常关键。考试里可能夹带少量不计分的试验题，所以总时长会有浮动。",
-      en: "Listening is the first section of the CELPIP-General test. Every recording plays once, with no pausing or replay, and most questions only appear after the recording ends, so note-taking matters. The test may include a few unscored questions, which is why the total time varies.",
+      zh: "听力是 CELPIP-General 的第一部分。每段录音只播放一次，不能暂停或回放；多数题目在录音结束后才出现，所以边听边记笔记非常关键。听力里会夹带不计分的试验题，格式和正式题一样、分辨不出来，所以总时长有浮动，每题都要认真做。",
+      en: "Listening is the first section of the CELPIP-General test. Every recording plays once, with no pausing or replay, and most questions only appear after the recording ends, so note-taking matters. The section includes unscored trial questions that look exactly like scored ones, which is why the total time varies, so treat every question as if it counts.",
     },
     facts: [
       { label: { zh: "题数", en: "Questions" }, value: { zh: "38 题，6 个 Part", en: "38 questions in 6 parts" } },
-      { label: { zh: "时间", en: "Time" }, value: { zh: "约 47–55 分钟", en: "About 47–55 minutes" } },
+      { label: { zh: "时间", en: "Time" }, value: { zh: "约 46–55 分钟", en: "About 46–55 minutes" } },
       { label: { zh: "题型", en: "Format" }, value: { zh: "单项选择，录音只播一次", en: "Multiple choice, audio plays once" } },
     ],
     parts: [
@@ -98,26 +98,26 @@ export const SKILL_GUIDES: Record<Skill, SkillGuide> = {
       ],
     },
     scoring: {
-      zh: "听力按答对题数换算成 CELPIP 等级（M、3–12）。CELPIP 没有公布官方换算表，常见的估算是答对 27 题左右约为 7 级、33 题左右约为 9 级。",
-      en: "Listening is scored by the number of correct answers, converted to a CELPIP level (M, 3–12). CELPIP doesn't publish the conversion table; common estimates put about 27 correct at level 7 and about 33 at level 9.",
+      zh: "听力按答对题数换算成 CELPIP 等级（0–12）。CELPIP 没有公布官方换算表，常见的估算是答对 27 题左右约为 7 级、33 题左右约为 9 级。",
+      en: "Listening is scored by the number of correct answers, converted to a CELPIP level (0–12). CELPIP doesn't publish the conversion table; common estimates put about 27 correct at level 7 and about 33 at level 9.",
     },
   },
 
   reading: {
     title: { zh: "CELPIP 阅读题型、时间与技巧：4 个 Part 详解", en: "CELPIP Reading Test: Format, Timing and Tips" },
     description: {
-      zh: "CELPIP 阅读共 4 个 Part、38 道题，约 55–60 分钟，每个 Part 单独计时。详解信件、图表、信息和观点四类题型与答题技巧，附多套真题免费练习。",
-      en: "The CELPIP Reading test has 4 parts and 38 questions in about 55–60 minutes, each part timed separately. Format and tips for every part, with free online practice tests.",
+      zh: "CELPIP 阅读共 4 个 Part、38 道题，约 43–56 分钟，每个 Part 单独计时。详解信件、图表、信息和观点四类题型与答题技巧，附多套真题免费练习。",
+      en: "The CELPIP Reading test has 4 parts and 38 questions in about 43–56 minutes, each part timed separately. Format and tips for every part, with free online practice tests.",
     },
     h1: { zh: "CELPIP 阅读：题型、时间与技巧", en: "CELPIP Reading: format, timing and tips" },
     intro: {
-      zh: "阅读是 CELPIP-General 的第二部分，紧接在听力之后。4 个 Part 各自计时，时间到自动进入下一部分，不能回头修改。题目都是单项选择，有的以下拉框的形式嵌在句子里。",
-      en: "Reading is the second section of the CELPIP-General test, right after Listening. Each of the four parts has its own timer and moves on automatically when time runs out, with no going back. All questions are multiple choice, some as drop-down menus inside sentences.",
+      zh: "阅读是 CELPIP-General 的第二部分，紧接在听力之后。4 个 Part 各自计时，时间到自动进入下一部分，不能回头修改。文章在左边，题目在右边同时显示，从下拉选项中选答案。和听力一样，阅读里也有分辨不出来的不计分试验题。",
+      en: "Reading is the second section of the CELPIP-General test, right after Listening. Each of the four parts has its own timer and moves on automatically when time runs out, with no going back. The passage is on the left and all the questions appear on the right, answered from drop-down options. As in Listening, some unscored trial questions are mixed in.",
     },
     facts: [
       { label: { zh: "题数", en: "Questions" }, value: { zh: "38 题，4 个 Part", en: "38 questions in 4 parts" } },
-      { label: { zh: "时间", en: "Time" }, value: { zh: "约 55–60 分钟", en: "About 55–60 minutes" } },
-      { label: { zh: "题型", en: "Format" }, value: { zh: "单选和下拉选项", en: "Multiple choice and drop-downs" } },
+      { label: { zh: "时间", en: "Time" }, value: { zh: "约 43–56 分钟", en: "About 43–56 minutes" } },
+      { label: { zh: "题型", en: "Format" }, value: { zh: "从下拉选项中选答案", en: "Drop-down answer choices" } },
     ],
     parts: [
       {
@@ -173,12 +173,12 @@ export const SKILL_GUIDES: Record<Skill, SkillGuide> = {
     },
     h1: { zh: "CELPIP 写作：题型、评分与技巧", en: "CELPIP Writing: format, scoring and tips" },
     intro: {
-      zh: "写作是 CELPIP-General 的第三部分，两道题都在电脑上打字完成。界面会显示字数，但没有拼写检查。两道题分别计时，时间到自动提交。",
-      en: "Writing is the third section of the CELPIP-General test. Both tasks are typed on the computer. The screen shows a word count but there's no spell checker, and each task is timed and submitted automatically.",
+      zh: "写作是 CELPIP-General 的第三部分，两道题都在电脑上打字完成。界面有计时器、字数统计和拼写检查。两道题分别计时，时间到自动提交。",
+      en: "Writing is the third section of the CELPIP-General test. Both tasks are typed on the computer. The screen has a timer, a word counter and a spell checker, and each task is timed and submitted automatically.",
     },
     facts: [
       { label: { zh: "题数", en: "Tasks" }, value: { zh: "2 题", en: "2 tasks" } },
-      { label: { zh: "时间", en: "Time" }, value: { zh: "约 53–60 分钟", en: "About 53–60 minutes" } },
+      { label: { zh: "时间", en: "Time" }, value: { zh: "53 分钟", en: "53 minutes" } },
       { label: { zh: "字数", en: "Length" }, value: { zh: "每题 150–200 词", en: "150–200 words each" } },
     ],
     parts: [
@@ -200,7 +200,7 @@ export const SKILL_GUIDES: Record<Skill, SkillGuide> = {
         "调查题开头就明确选 A 还是 B，再给 2–3 个理由，每个理由配一个具体例子，结尾呼应立场。",
         "调查题可以顺带说一下另一个选项的不足，但别写成两边都好、没有立场。",
         "控制在 150–200 词。太短会失分，太长会挤掉检查时间。",
-        "最后留 2–3 分钟检查拼写、时态和标点，考试界面没有拼写检查。",
+        "最后留 2–3 分钟检查时态、标点和用词。拼写检查只能标出拼错的词，用错的词和语法问题要靠自己。",
       ],
       en: [
         "Cover all three points in the email, ideally one paragraph each. Missing one hurts task fulfillment.",
@@ -208,20 +208,20 @@ export const SKILL_GUIDES: Record<Skill, SkillGuide> = {
         "In the survey task, state your choice in the first sentence, give two or three reasons with a concrete example each, and restate your position at the end.",
         "You can point out a weakness of the other option, but don't sit on the fence.",
         "Stay within 150–200 words. Too short loses marks; too long leaves no time to check.",
-        "Keep two or three minutes to check spelling, tenses and punctuation. There's no spell checker.",
+        "Keep two or three minutes to check tenses, punctuation and word choice. The spell checker only catches misspellings, not wrong words or grammar.",
       ],
     },
     scoring: {
-      zh: "写作由受过培训的评分员打分，评分维度是：内容与连贯性、词汇、可读性和任务完成度，最后给出 M、3–12 的等级。",
-      en: "Writing is rated by trained raters on four dimensions: content and coherence, vocabulary, readability, and task fulfillment. The result is a level from M and 3 to 12.",
+      zh: "写作由至少 3 名受过培训和认证的评分员打分，评分维度是：内容与连贯性、词汇、可读性和任务完成度，最后给出 0–12 的等级。",
+      en: "Writing is rated by at least three trained, certified raters on four dimensions: content and coherence, vocabulary, readability, and task fulfillment. The result is a level from 0 to 12.",
     },
   },
 
   speaking: {
     title: { zh: "CELPIP 口语 8 个 Task 详解：准备时间、答题结构与技巧", en: "CELPIP Speaking Test: All 8 Tasks, Timing and Tips" },
     description: {
-      zh: "CELPIP 口语共 8 个 Task，约 15–20 分钟，对着电脑录音作答。逐一讲解每个 Task 的准备和作答时间、答题结构与评分维度，附官方范例和在线录音练习。",
-      en: "CELPIP Speaking has 8 tasks in about 15–20 minutes, recorded on the computer. Prep and speaking time for each task, how to structure answers, scoring criteria, official samples and recorded practice.",
+      zh: "CELPIP 口语共 8 个 Task，约 15 分钟，对着电脑录音作答。逐一讲解每个 Task 的准备和作答时间、答题结构与评分维度，附官方范例和在线录音练习。",
+      en: "CELPIP Speaking has 8 tasks in about 15 minutes, recorded on the computer. Prep and speaking time for each task, how to structure answers, scoring criteria, official samples and recorded practice.",
     },
     h1: { zh: "CELPIP 口语：8 个 Task 与答题技巧", en: "CELPIP Speaking: the 8 tasks and how to answer" },
     intro: {
@@ -230,7 +230,7 @@ export const SKILL_GUIDES: Record<Skill, SkillGuide> = {
     },
     facts: [
       { label: { zh: "题数", en: "Tasks" }, value: { zh: "8 个 Task 和 1 道练习题", en: "8 tasks plus a practice task" } },
-      { label: { zh: "时间", en: "Time" }, value: { zh: "约 15–20 分钟", en: "About 15–20 minutes" } },
+      { label: { zh: "时间", en: "Time" }, value: { zh: "约 15 分钟", en: "About 15 minutes" } },
       { label: { zh: "形式", en: "Format" }, value: { zh: "对着电脑录音", en: "Recorded on the computer" } },
     ],
     parts: [
@@ -262,31 +262,32 @@ export const SKILL_GUIDES: Record<Skill, SkillGuide> = {
       ],
     },
     scoring: {
-      zh: "口语由受过培训的评分员打分，评分维度是：内容与连贯性、词汇、可听度和任务完成度，最后给出 M、3–12 的等级。",
-      en: "Speaking is rated by trained raters on four dimensions: content and coherence, vocabulary, listenability, and task fulfillment. The result is a level from M and 3 to 12.",
+      zh: "口语由至少 3 名受过培训和认证的评分员打分，评分维度是：内容与连贯性、词汇、可听度和任务完成度，最后给出 0–12 的等级。",
+      en: "Speaking is rated by at least three trained, certified raters on four dimensions: content and coherence, vocabulary, listenability, and task fulfillment. The result is a level from 0 to 12.",
     },
   },
 };
 
 export const LEVELS: { level: string; clb: string; desc: L }[] = [
-  { level: "12", clb: "10+", desc: { zh: "在工作和社区场景中具备高级水平", en: "Advanced proficiency in workplace and community contexts" } },
-  { level: "11", clb: "10+", desc: { zh: "在工作和社区场景中具备高级水平", en: "Advanced proficiency in workplace and community contexts" } },
-  { level: "10", clb: "10", desc: { zh: "在工作和社区场景中具备高级水平", en: "Advanced proficiency in workplace and community contexts" } },
-  { level: "9", clb: "9", desc: { zh: "在工作和社区场景中熟练", en: "Proficient in workplace and community contexts" } },
-  { level: "8", clb: "8", desc: { zh: "在工作和社区场景中水平良好", en: "Good proficiency in workplace and community contexts" } },
-  { level: "7", clb: "7", desc: { zh: "在工作和社区场景中水平合格", en: "Adequate proficiency in workplace and community contexts" } },
-  { level: "6", clb: "6", desc: { zh: "在工作和社区场景中水平发展中", en: "Developing proficiency in workplace and community contexts" } },
-  { level: "5", clb: "5", desc: { zh: "在工作和社区场景中初步具备能力", en: "Acquiring proficiency in workplace and community contexts" } },
+  { level: "12", clb: "12", desc: { zh: "在高要求的社交、教育或工作场景中达到专家水平", en: "Expert proficiency in high-stakes social, educational, or workplace contexts" } },
+  { level: "11", clb: "11", desc: { zh: "在高要求的社交、教育或工作场景中达到高级水平", en: "Advanced proficiency in high-stakes social, educational, or workplace contexts" } },
+  { level: "10", clb: "10", desc: { zh: "在部分高要求的社交、教育或工作场景中非常有效", en: "Highly effective proficiency in some high-stakes social, educational, or workplace contexts" } },
+  { level: "9", clb: "9", desc: { zh: "在部分高要求的社交、教育或工作场景中有效", en: "Effective proficiency in some high-stakes social, educational, or workplace contexts" } },
+  { level: "8", clb: "8", desc: { zh: "在较高要求的社交、教育或工作场景中水平良好", en: "Good proficiency in more demanding social, educational, or workplace contexts" } },
+  { level: "7", clb: "7", desc: { zh: "在有一定要求的社交、教育或工作场景中水平合格", en: "Adequate proficiency in somewhat demanding social, educational, or workplace contexts" } },
+  { level: "6", clb: "6", desc: { zh: "在日常社交、教育或工作场景中水平发展中", en: "Developing proficiency in everyday social, educational, or workplace contexts" } },
+  { level: "5", clb: "5", desc: { zh: "在日常社交、教育或工作场景中初步具备能力", en: "Acquiring proficiency in everyday social, educational, or workplace contexts" } },
   { level: "4", clb: "4", desc: { zh: "足以应付日常生活", en: "Adequate proficiency for daily life activities" } },
   { level: "3", clb: "3", desc: { zh: "在有限场景中具备一定能力", en: "Some proficiency in limited contexts" } },
-  { level: "M", clb: "—", desc: { zh: "能力很有限，或信息不足以评估", en: "Minimal proficiency or insufficient information to assess" } },
+  { level: "2", clb: "1–2", desc: { zh: "只能应付与眼前需要相关的场景", en: "Limited ability in contexts related to immediate needs" } },
+  { level: "0–1", clb: "—", desc: { zh: "信息不足以评估", en: "Insufficient information to assess" } },
 ];
 
 export const PROGRAMS: { name: L; need: L }[] = [
   { name: { zh: "联邦技术移民（FSW）", en: "Federal Skilled Worker (FSW)" }, need: { zh: "听说读写四项都达到 CLB 7", en: "CLB 7 in all four skills" } },
   { name: { zh: "加拿大经验类（CEC）", en: "Canadian Experience Class (CEC)" }, need: { zh: "TEER 0、1 类职业 CLB 7；TEER 2、3 类职业 CLB 5", en: "CLB 7 for TEER 0 or 1 jobs; CLB 5 for TEER 2 or 3 jobs" } },
   { name: { zh: "联邦技工移民（FST）", en: "Federal Skilled Trades (FST)" }, need: { zh: "听和说 CLB 5，读和写 CLB 4", en: "CLB 5 in listening and speaking, CLB 4 in reading and writing" } },
-  { name: { zh: "加拿大入籍", en: "Canadian citizenship" }, need: { zh: "听和说 CLB 4（可以考只含听说的 CELPIP-General LS）", en: "CLB 4 in listening and speaking (the CELPIP-General LS test covers just these)" } },
+  { name: { zh: "加拿大入籍（18–54 岁）", en: "Canadian citizenship (ages 18–54)" }, need: { zh: "听和说 CLB 4。CELPIP-General 或只考听说的 CELPIP-General LS 都可以，过期成绩也接受", en: "CLB 4 in listening and speaking. CELPIP-General or the listening-and-speaking CELPIP-General LS both count, even if expired" } },
 ];
 
 export const FAQ: { q: L; a: L }[] = [
@@ -300,36 +301,36 @@ export const FAQ: { q: L; a: L }[] = [
   {
     q: { zh: "CELPIP 考试一共多长时间？", en: "How long is the CELPIP test?" },
     a: {
-      zh: "CELPIP-General 约 3 小时，全程在电脑上一次考完，顺序是听力（约 47–55 分钟）、阅读（约 55–60 分钟）、写作（约 53–60 分钟）、口语（约 15–20 分钟）。",
-      en: "CELPIP-General takes about 3 hours in one sitting on a computer: Listening (about 47–55 minutes), Reading (about 55–60), Writing (about 53–60) and Speaking (about 15–20).",
+      zh: "CELPIP-General 不到 3 小时，全程在电脑上一次考完，没有单独的口语场次。顺序是听力（46–55 分钟）、阅读（43–56 分钟）、写作（53 分钟）、口语（15 分钟）。听力和阅读的时长有浮动，是因为里面夹带不计分的试验题。只考听说的 CELPIP-General LS 大约 1 小时。",
+      en: "CELPIP-General takes under 3 hours in one sitting on a computer, with no separate speaking session: Listening (46–55 minutes), Reading (43–56), Writing (53) and Speaking (15). Listening and Reading vary because they include unscored trial questions. The listening-and-speaking CELPIP-General LS takes about an hour.",
     },
   },
   {
     q: { zh: "CELPIP 怎么评分？", en: "How is CELPIP scored?" },
     a: {
-      zh: "每项单独给出 M、3–12 的等级。听力和阅读按答对题数换算，答错不倒扣；写作和口语由评分员按内容与连贯性、词汇、可读性或可听度、任务完成度四个维度打分。CELPIP 等级和加拿大语言基准 CLB 基本一一对应。",
-      en: "Each skill gets its own level from M and 3 to 12. Listening and Reading are based on correct answers, with no penalty for wrong ones. Writing and Speaking are rated on content and coherence, vocabulary, readability or listenability, and task fulfillment. CELPIP levels line up almost one to one with the Canadian Language Benchmarks (CLB).",
+      zh: "每项单独给出 0–12 的等级（以前 0–2 级统一显示为 M）。听力和阅读由电脑判分，按答对题数换算，答错不倒扣；写作和口语各由至少 3 名评分员按内容与连贯性、词汇、可读性或可听度、任务完成度四个维度打分。CELPIP 3–12 级和加拿大语言基准 CLB 3–12 一一对应。",
+      en: "Each skill gets its own level from 0 to 12 (levels 0–2 used to be reported as M). Listening and Reading are computer-scored from correct answers, with no penalty for wrong ones. Writing and Speaking are each rated by at least three raters on content and coherence, vocabulary, readability or listenability, and task fulfillment. CELPIP levels 3–12 match CLB levels 3–12 one to one.",
     },
   },
   {
     q: { zh: "CELPIP 和雅思有什么区别？", en: "How is CELPIP different from IELTS?" },
     a: {
-      zh: "两者都被 IRCC 认可（雅思需要考 General Training）。CELPIP 全程在电脑上一次考完，口语对着电脑录音；雅思口语是和考官面对面，可能和其他科目不在同一天。CELPIP 只用加拿大口音和加拿大生活场景，成绩直接给 CELPIP 等级，和 CLB 基本对应；雅思是 0–9 分，需要查表换算成 CLB。CELPIP 的考点主要在加拿大。",
-      en: "Both are accepted by IRCC (IELTS must be General Training). CELPIP is taken in one sitting on a computer and speaking is recorded; IELTS speaking is face to face with an examiner, sometimes on a different day. CELPIP uses Canadian accents and everyday Canadian situations, and reports levels that map almost directly to CLB, while IELTS bands (0–9) need a conversion table. CELPIP test centres are mostly in Canada.",
+      zh: "IRCC 认可的英语考试有 CELPIP-General、雅思 General Training 和 PTE Core。CELPIP 全程在电脑上一次考完，口语对着电脑录音；雅思口语是和考官面对面，可能和其他科目不在同一天。CELPIP 只用一种北美口音，场景都是日常生活，成绩直接给 CELPIP 等级，和 CLB 一一对应；雅思是 0–9 分，需要查表换算成 CLB。",
+      en: "IRCC accepts CELPIP-General, IELTS General Training and PTE Core for English. CELPIP is taken in one sitting on a computer and speaking is recorded; IELTS speaking is face to face with an examiner, sometimes on a different day. CELPIP uses a single North American accent and everyday situations, and its levels match CLB levels directly, while IELTS bands (0–9) need a conversion table.",
     },
   },
   {
     q: { zh: "移民需要 CELPIP 多少分？", en: "What CELPIP score do I need for immigration?" },
     a: {
-      zh: "看项目：联邦技术移民要求四项都达到 CLB 7；加拿大经验类按职业类别要求 CLB 7 或 CLB 5；入籍要求听和说 CLB 4。在快速通道（Express Entry）里，语言分越高 CRS 分越高，CLB 9 及以上加分明显。具体以 IRCC 官网的最新要求为准。",
-      en: "It depends on the program: Federal Skilled Worker needs CLB 7 in all four skills, the Canadian Experience Class needs CLB 7 or CLB 5 depending on the job, and citizenship needs CLB 4 in listening and speaking. In Express Entry, higher language scores earn more CRS points, especially from CLB 9 up. Always check IRCC for the current requirements.",
+      zh: "看项目：联邦技术移民要求四项都达到 CLB 7；加拿大经验类按职业类别要求 CLB 7 或 CLB 5；入籍要求听和说 CLB 4。在快速通道（Express Entry）里，语言分越高 CRS 分越高：单身申请人每项从 CLB 8 的 23 分升到 CLB 9 的 31 分，四项都达到 CLB 9 后，学历和海外工作经验的技能可转移分也翻倍。具体以 IRCC 官网的最新要求为准。",
+      en: "It depends on the program: Federal Skilled Worker needs CLB 7 in all four skills, the Canadian Experience Class needs CLB 7 or CLB 5 depending on the job, and citizenship needs CLB 4 in listening and speaking. In Express Entry, higher scores earn more CRS points: for a single applicant each ability goes from 23 points at CLB 8 to 31 at CLB 9, and reaching CLB 9 in all four doubles the skill-transferability points for education and foreign work experience. Always check IRCC for the current requirements.",
     },
   },
   {
     q: { zh: "CELPIP 成绩多久出来？有效期多长？", en: "When do CELPIP results come out, and how long are they valid?" },
     a: {
-      zh: "成绩通常在考后几个工作日内在线公布，也可以付费加急，具体时间以 CELPIP 官网为准。IRCC 要求语言成绩在提交申请时不超过 2 年。",
-      en: "Results are usually posted online within a few business days, and faster options are available for a fee; check the CELPIP website for current timelines. IRCC requires language results to be less than two years old when you apply.",
+      zh: "CELPIP 官网写的是考后 2–4 个工作日（不含周末和节假日）在 CELPIP 账户里公布，出分后会发邮件通知，成绩单以 PDF 下载。成绩自成绩单签发之日起 2 年有效：IRCC 要求创建快速通道档案和递交永居申请时，成绩都不超过 2 年。入籍申请则接受过期的 CELPIP 成绩。",
+      en: "CELPIP says scores are posted to your CELPIP account 2–4 business days after the test (weekends and holidays don't count), with an email when they're ready and the score report as a PDF download. Scores are valid for two years from the date the report is issued: IRCC requires them to be under two years old both when you create your Express Entry profile and when you apply for permanent residence. Citizenship applications accept expired CELPIP results.",
     },
   },
   {

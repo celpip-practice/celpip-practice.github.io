@@ -34,7 +34,7 @@ describe("scoring", () => {
     expect(estimateLevel("listening", 38, 38)).toBe("10-12");
     expect(estimateLevel("listening", 28, 38)).toBe("7");
     expect(estimateLevel("reading", 20, 38)).toBe("6");
-    expect(estimateLevel("reading", 0, 38)).toBe("M");
+    expect(estimateLevel("reading", 0, 38)).toBe("0-2");
   });
   it("counts words like the exam word counter", () => {
     expect(countWords("I'd love to see you here, Grandpa!")).toBe(7);

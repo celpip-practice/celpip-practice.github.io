@@ -127,7 +127,7 @@ export default function WritingRunner({ test, tasks, mode, onFinish }: Props) {
             <textarea
               ref={area}
               value={text}
-              spellCheck={false}
+              spellCheck
               onChange={(e) => setTexts((t) => ({ ...t, [task.n]: e.target.value }))}
               data-testid="writing-area"
             />

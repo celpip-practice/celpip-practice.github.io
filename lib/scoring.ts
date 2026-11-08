@@ -18,10 +18,10 @@ export function grade(questions: Gradable[], answers: Answers) {
  * CELPIP does not publish an official table; these bands are the commonly cited estimates.
  */
 export const LISTENING_BANDS: [number, string][] = [
-  [35, "10-12"], [33, "9"], [30, "8"], [27, "7"], [22, "6"], [17, "5"], [11, "4"], [7, "3"], [0, "M"],
+  [35, "10-12"], [33, "9"], [30, "8"], [27, "7"], [22, "6"], [17, "5"], [11, "4"], [7, "3"], [0, "0-2"],
 ];
 export const READING_BANDS: [number, string][] = [
-  [33, "10-12"], [31, "9"], [28, "8"], [24, "7"], [19, "6"], [15, "5"], [10, "4"], [8, "3"], [0, "M"],
+  [33, "10-12"], [31, "9"], [28, "8"], [24, "7"], [19, "6"], [15, "5"], [10, "4"], [8, "3"], [0, "0-2"],
 ];
 
 export function estimateLevel(skill: "listening" | "reading", correct: number, total: number): string {
@@ -29,7 +29,7 @@ export function estimateLevel(skill: "listening" | "reading", correct: number, t
   const scaled = Math.round((correct / total) * 38);
   const bands = skill === "listening" ? LISTENING_BANDS : READING_BANDS;
   for (const [min, level] of bands) if (scaled >= min) return level;
-  return "M";
+  return "0-2";
 }
 
 export function countWords(text: string): number {
