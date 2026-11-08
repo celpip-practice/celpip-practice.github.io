@@ -37,8 +37,8 @@ export default function ListeningRunner({ test, parts, mode, onFinish }: Props) 
 
   const remaining = useCountdown(
     LISTENING_ANSWER_TIME[screen?.part.n ?? 1] ?? 180,
-    exam && answering,
-    () => go(nextPartStart(screens, idx)),
+    answering,
+    exam ? () => go(nextPartStart(screens, idx)) : undefined,
     screen?.part.n,
   );
 
@@ -54,7 +54,7 @@ export default function ListeningRunner({ test, parts, mode, onFinish }: Props) 
   const frame = (body: React.ReactNode, opts: { single?: boolean; nextDisabled?: boolean } = {}) => (
     <ExamFrame
       title={title}
-      headerRight={exam && answering ? <TimeRemaining seconds={remaining} /> : null}
+      headerRight={answering ? <TimeRemaining seconds={remaining} /> : null}
       onNext={next}
       nextDisabled={opts.nextDisabled}
       onBack={!exam && idx > 0 ? () => go(idx - 1) : undefined}

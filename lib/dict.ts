@@ -149,7 +149,7 @@ const zh = {
   "exam.back": "返回",
 
   "practice.title": "分项练习",
-  "practice.lead": "选择技能和 Part 单独练习。练习模式可以重听、看播放条，随时点 “Answer Key” 对答案、看原文。",
+  "practice.lead": "选择技能和 Part 单独练习。每个 Part 按真实考试的时长倒计时，时间到会提示但不会自动跳走；可以重听、看播放条，随时点 “Answer Key” 对答案、看原文。",
   "practice.whole": "整科",
   "practice.best": "最好成绩",
   "practice.retry": "再练一次",
@@ -358,7 +358,7 @@ const en: Record<Key, string> = {
   "exam.back": "Back",
 
   "practice.title": "Practice by skill",
-  "practice.lead": "Pick a skill and a part. In practice mode you can replay audio, see the play bar, and open the Answer Key for answers and transcripts at any time.",
+  "practice.lead": "Pick a skill and a part. Each part counts down with the real test's time limit and tells you when time is up, without moving you on. You can replay audio, see the play bar, and open the Answer Key for answers and transcripts at any time.",
   "practice.whole": "Whole skill",
   "practice.best": "Best score",
   "practice.retry": "Try again",

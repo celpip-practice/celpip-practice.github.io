@@ -181,3 +181,14 @@ test("guide, score and test pages are static and link into practice", async ({ p
   await expect(page).toHaveURL(new RegExp(`/zh/exam/\\?test=${firstId}$`));
   await expect(page.getByTestId("start-full")).toBeVisible();
 });
+
+test("practice parts count down like the exam but don't move on when time is up", async ({ page }) => {
+  await page.clock.install();
+  await page.goto(`/zh/practice/run/?test=${firstId}&skill=reading&part=1`);
+  await expect(page.getByTestId("time-remaining")).toContainText("11 minutes");
+  await page.clock.runFor(11 * 60 * 1000 + 2000);
+  await expect(page.getByTestId("time-remaining")).toHaveText("Time is up");
+  await expect(page.getByTestId("exam-title")).toContainText("Reading Part 1");
+  await page.getByTestId("answer-key").click();
+  await expect(page.getByTestId("answer-key")).toHaveText("Hide Answer Key");
+});

@@ -31,7 +31,7 @@ export default function ReadingRunner({ test, parts, mode, onFinish }: Props) {
     if (to >= parts.length) onFinish(answers);
     else setIdx(Math.max(0, to));
   };
-  const remaining = useCountdown((READING_MINUTES[part?.n] ?? 10) * 60, exam, () => go(idx + 1), idx);
+  const remaining = useCountdown((READING_MINUTES[part?.n] ?? 10) * 60, true, exam ? () => go(idx + 1) : undefined, idx);
   if (!part) return null;
 
   const set = (id: string, v: number) => setAnswers((a) => ({ ...a, [id]: v }));
@@ -117,7 +117,7 @@ export default function ReadingRunner({ test, parts, mode, onFinish }: Props) {
   return (
     <ExamFrame
       title={`${test.title} - Reading Part ${part.n}: ${part.title}`}
-      headerRight={exam ? <TimeRemaining seconds={remaining} /> : null}
+      headerRight={<TimeRemaining seconds={remaining} />}
       onNext={() => go(idx + 1)}
       onBack={!exam && idx > 0 ? () => go(idx - 1) : undefined}
       footerLeft={

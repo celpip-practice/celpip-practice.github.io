@@ -4,6 +4,9 @@ import { formatRemaining } from "@/lib/scoring";
 
 export function TimeRemaining({ seconds }: { seconds: number }) {
   const { value, unit } = formatRemaining(seconds);
+  if (seconds <= 0) {
+    return <span className="time-low" data-testid="time-remaining"><b>Time is up</b></span>;
+  }
   return (
     <span className={seconds < 60 ? "time-low" : ""} data-testid="time-remaining">
       Time remaining: <b>{value} {unit}</b>
