@@ -13,6 +13,10 @@ const zh = {
   "nav.history": "练习记录",
   "lang.switch": "EN",
   "lang.switchTitle": "Switch to English",
+  "donate.button": "支持我们",
+  "donate.title": "这个网站完全免费",
+  "donate.body": "如果它对你备考有帮助，欢迎请我们喝杯咖啡，支持网站的持续开发和服务器成本。",
+  "donate.cta": "在 Ko-fi 上支持",
 
   "skill.listening": "听力",
   "skill.reading": "阅读",
@@ -148,6 +152,10 @@ const en: Record<Key, string> = {
   "nav.history": "History",
   "lang.switch": "中文",
   "lang.switchTitle": "切换到中文",
+  "donate.button": "Support",
+  "donate.title": "This site is completely free",
+  "donate.body": "If it's helping you prepare, consider buying us a coffee to support ongoing development and server costs.",
+  "donate.cta": "Support on Ko-fi",
 
   "skill.listening": "Listening",
   "skill.reading": "Reading",

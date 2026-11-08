@@ -66,6 +66,7 @@ test("practice: reading part 3 answered correctly scores full marks", async ({ p
   await page.getByTestId("next").click();
   const total = readingQuestions(data.reading!.parts[2]).length;
   await expect(page.getByTestId("score")).toContainText(`${total} / ${total}`);
+  await expect(page.getByTestId("donate-card").getByRole("link")).toHaveAttribute("href", "https://ko-fi.com/zhouhai");
 });
 
 test("exam: reading runs all four timed parts without Back and scores 38/38", async ({ page }) => {
@@ -119,7 +120,12 @@ test("practice: speaking task 3 shows the picture, records and plays back", asyn
 test("language toggle switches the site chrome and is remembered", async ({ page }) => {
   await page.goto("/");
   await expect(page.locator(".site-header nav")).toContainText("模拟考试");
+  const donate = page.getByTestId("donate-header");
+  await expect(donate).toHaveAttribute("href", "https://ko-fi.com/zhouhai");
+  await expect(donate).toHaveAttribute("target", "_blank");
+  await expect(donate).toContainText("支持我们");
   await page.getByTestId("lang-toggle").click();
+  await expect(donate).toContainText("Support");
   await expect(page.locator(".site-header nav")).toContainText("Mock Exam");
   await expect(page.getByTestId(`test-${firstId}`)).toContainText("Set 1 · Test 1");
   await page.goto("/practice/");

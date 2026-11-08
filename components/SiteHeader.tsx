@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import { usePathname, useSearchParams } from "next/navigation";
+import { DonateButton } from "./Donate";
 import { Globe, Leaf } from "./Icons";
 import { useLang, useT } from "@/lib/i18n";
 
@@ -28,6 +29,7 @@ export default function SiteHeader() {
             <Link key={n.href} href={n.href} className={active(n.href) ? "active" : ""}>{n.label}</Link>
           ))}
         </nav>
+        <DonateButton />
         <button className="lang-toggle" onClick={() => setLang(lang === "zh" ? "en" : "zh")}
           title={t("lang.switchTitle")} data-testid="lang-toggle">
           <Globe size={16} /> {t("lang.switch")}

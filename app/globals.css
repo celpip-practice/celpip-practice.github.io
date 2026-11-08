@@ -61,6 +61,17 @@ h1, h2, h3, h4 { color: var(--heading); letter-spacing: -.01em; }
   border-radius: 999px; padding: 6px 12px; font-size: 13px; font-weight: 600; cursor: pointer; transition: border-color .15s, color .15s;
 }
 .lang-toggle:hover { border-color: var(--brand); color: var(--brand); }
+.donate-btn {
+  display: inline-flex; align-items: center; gap: 6px; border-radius: 999px; padding: 6px 13px; font-size: 13px; font-weight: 600;
+  text-decoration: none; color: #b42318; background: #fff1ef; border: 1px solid #fecdca; transition: background .15s, border-color .15s;
+}
+.donate-btn:hover { background: #ffe4e0; border-color: #fda29b; }
+.donate-card { display: flex; align-items: center; gap: 18px; margin-top: 24px; flex-wrap: wrap; background: linear-gradient(135deg, #fff 55%, #fff4f2); }
+.donate-card h3 { margin: 0 0 4px; font-size: 17px; }
+.donate-card p { margin: 0; color: var(--muted); line-height: 1.6; font-size: 14px; }
+.icon-tile.donate { background: #fde8e6; color: var(--accent); }
+.btn.donate-cta { background: #ff5e5b; border-color: #ff5e5b; color: #fff; }
+.btn.donate-cta:hover { background: #e94e4b; border-color: #e94e4b; }
 .site-footer {
   border-top: 1px solid var(--line); background: #fff; color: #94a3b8; font-size: 13px;
   padding: 20px 24px; display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;

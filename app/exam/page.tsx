@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { Suspense, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
+import { DonateCard } from "@/components/Donate";
 import ExamFrame from "@/components/ExamFrame";
 import { Arrow, Back, Clock, SkillIcon, Timer } from "@/components/Icons";
 import { AttemptResult, SkillRunner } from "@/components/Session";
@@ -107,6 +108,7 @@ function ExamInner() {
             <AttemptResult test={test} attempt={a} />
           </section>
         ))}
+        <DonateCard />
       </main>
     );
   }

@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { Suspense, useState } from "react";
 import { useSearchParams } from "next/navigation";
+import { DonateCard } from "@/components/Donate";
 import { SkillIcon } from "@/components/Icons";
 import { AttemptResult, SkillRunner } from "@/components/Session";
 import { useTest } from "@/components/useTests";
@@ -41,6 +42,7 @@ function RunInner() {
           </div>
         </div>
         <AttemptResult test={test} attempt={attempt} />
+        <DonateCard />
       </main>
     );
   }
