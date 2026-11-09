@@ -31,7 +31,7 @@ export const SKILL_GUIDES: Record<Skill, SkillGuide> = {
   listening: {
     title: { zh: "CELPIP 听力题型、时间与技巧：6 个 Part 详解", en: "CELPIP Listening Test: Format, Timing and Tips" },
     description: {
-      zh: "CELPIP 听力共 6 个 Part、38 道题，约 46–55 分钟。逐一讲解每个 Part 的题型、录音长度和答题技巧，并提供多套真题免费在线练习。",
+      zh: "CELPIP 听力共 6 个 Part、38 道题，约 46–55 分钟。逐一讲解每个 Part 的题型、录音长度和答题技巧，并提供多套模考题免费在线练习。",
       en: "The CELPIP Listening test has 6 parts and 38 questions in about 46–55 minutes. Part-by-part format, recording lengths and tips, with free online practice tests.",
     },
     h1: { zh: "CELPIP 听力：题型、时间与技巧", en: "CELPIP Listening: format, timing and tips" },
@@ -106,7 +106,7 @@ export const SKILL_GUIDES: Record<Skill, SkillGuide> = {
   reading: {
     title: { zh: "CELPIP 阅读题型、时间与技巧：4 个 Part 详解", en: "CELPIP Reading Test: Format, Timing and Tips" },
     description: {
-      zh: "CELPIP 阅读共 4 个 Part、38 道题，约 43–56 分钟，每个 Part 单独计时。详解信件、图表、信息和观点四类题型与答题技巧，附多套真题免费练习。",
+      zh: "CELPIP 阅读共 4 个 Part、38 道题，约 43–56 分钟，每个 Part 单独计时。详解信件、图表、信息和观点四类题型与答题技巧，附多套模考题免费练习。",
       en: "The CELPIP Reading test has 4 parts and 38 questions in about 43–56 minutes, each part timed separately. Format and tips for every part, with free online practice tests.",
     },
     h1: { zh: "CELPIP 阅读：题型、时间与技巧", en: "CELPIP Reading: format, timing and tips" },
@@ -168,8 +168,8 @@ export const SKILL_GUIDES: Record<Skill, SkillGuide> = {
   writing: {
     title: { zh: "CELPIP 写作题型、评分标准与技巧：邮件和调查问卷", en: "CELPIP Writing Test: Email and Survey Tasks, Scoring and Tips" },
     description: {
-      zh: "CELPIP 写作共 2 题：27 分钟写邮件、26 分钟回答调查问卷，各 150–200 词。讲解评分维度、结构和常见失分点，附官方范文和在线限时练习。",
-      en: "CELPIP Writing has two tasks: an email in 27 minutes and a survey response in 26 minutes, 150–200 words each. Scoring criteria, structure and common mistakes, with official samples and timed practice.",
+      zh: "CELPIP 写作共 2 题：27 分钟写邮件、26 分钟回答调查问卷，各 150–200 词。讲解评分维度、结构和常见失分点，附范文和在线限时练习。",
+      en: "CELPIP Writing has two tasks: an email in 27 minutes and a survey response in 26 minutes, 150–200 words each. Scoring criteria, structure and common mistakes, with sample responses and timed practice.",
     },
     h1: { zh: "CELPIP 写作：题型、评分与技巧", en: "CELPIP Writing: format, scoring and tips" },
     intro: {
@@ -220,8 +220,8 @@ export const SKILL_GUIDES: Record<Skill, SkillGuide> = {
   speaking: {
     title: { zh: "CELPIP 口语 8 个 Task 详解：准备时间、答题结构与技巧", en: "CELPIP Speaking Test: All 8 Tasks, Timing and Tips" },
     description: {
-      zh: "CELPIP 口语共 8 个 Task，约 15 分钟，对着电脑录音作答。逐一讲解每个 Task 的准备和作答时间、答题结构与评分维度，附官方范例和在线录音练习。",
-      en: "CELPIP Speaking has 8 tasks in about 15 minutes, recorded on the computer. Prep and speaking time for each task, how to structure answers, scoring criteria, official samples and recorded practice.",
+      zh: "CELPIP 口语共 8 个 Task，约 15 分钟，对着电脑录音作答。逐一讲解每个 Task 的准备和作答时间、答题结构与评分维度，附范例和在线录音练习。",
+      en: "CELPIP Speaking has 8 tasks in about 15 minutes, recorded on the computer. Prep and speaking time for each task, how to structure answers, scoring criteria, sample responses and recorded practice.",
     },
     h1: { zh: "CELPIP 口语：8 个 Task 与答题技巧", en: "CELPIP Speaking: the 8 tasks and how to answer" },
     intro: {
@@ -250,7 +250,7 @@ export const SKILL_GUIDES: Record<Skill, SkillGuide> = {
         "把作答时间用满比说得快更重要，长时间停顿会影响流利度和内容得分。",
         "Task 3 和 Task 8 想象对方看不到画面，按从左到右或从前到后的顺序描述，用上位置词。",
         "Task 5 和 Task 6 是对着具体的人说话，开头可以直接称呼对方，语气要符合关系。",
-        "练习时录音回放，再和官方范例对比用词、结构和语速。",
+        "练习时录音回放，再和范例对比用词、结构和语速。",
       ],
       en: [
         "During prep, jot down key words only. Writing full sentences leads to reading aloud and sounding stiff.",
@@ -258,7 +258,7 @@ export const SKILL_GUIDES: Record<Skill, SkillGuide> = {
         "Filling the time matters more than speaking fast. Long pauses hurt fluency and content.",
         "In Tasks 3 and 8 the listener can't see the picture. Describe in a clear order, left to right or front to back, using position words.",
         "In Tasks 5 and 6 you're talking to a specific person. Address them directly and match the tone to the relationship.",
-        "Record yourself, play it back, and compare word choice, structure and pace with the official samples.",
+        "Record yourself, play it back, and compare word choice, structure and pace with the sample responses.",
       ],
     },
     scoring: {
@@ -343,8 +343,8 @@ export const FAQ: { q: L; a: L }[] = [
   {
     q: { zh: "网站给出的等级准吗？", en: "How accurate is the level this site shows?" },
     a: {
-      zh: "听力和阅读的等级是按常见估算表从答对题数换算的，只能作为参考，官方没有公布换算表。写作和口语目前提供官方范文和范例供你对照，暂不自动打分。",
-      en: "Listening and Reading levels come from a commonly cited estimate table, since CELPIP doesn't publish one, so treat them as a guide. For Writing and Speaking the site shows official sample responses to compare against, with no automatic score yet.",
+      zh: "听力和阅读的等级是按常见估算表从答对题数换算的，只能作为参考，官方没有公布换算表。写作和口语目前提供范文和范例供你对照，暂不自动打分。",
+      en: "Listening and Reading levels come from a commonly cited estimate table, since CELPIP doesn't publish one, so treat them as a guide. For Writing and Speaking the site shows sample responses to compare against, with no automatic score yet.",
     },
   },
   {

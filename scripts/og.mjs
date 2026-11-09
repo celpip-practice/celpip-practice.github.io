@@ -29,8 +29,8 @@ const COPY = {
     tags: ["Real exam interface", "Instant scoring", "Free, no sign-up"],
   },
   zh: {
-    h1: "免费思培在线模考<br>与真题练习",
-    p: "27 套官方练习题 · 听力 · 阅读 · 写作 · 口语",
+    h1: "免费思培在线模考<br>与分项练习",
+    p: "27 套模考题 · 听力 · 阅读 · 写作 · 口语",
     tags: ["还原真实考试界面", "自动判分", "免费，无需注册"],
   },
 };
